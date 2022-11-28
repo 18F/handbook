@@ -21,5 +21,5 @@ When a new vulnerability is reported through HackerOne using the
 the submission. Once they have confirmed it is valid GSA SecOps will research
 the report and then coordinate the response with TTS program technical contacts.
 
-Use [#bug-bounty-partners](https://gsa-tts.slack.com/archives/C5JQCD9PH) to
-communicate with GSA SecOps and HackerOne.
+Use {% slack_channel "bug-bounty-partners" %} to communicate with GSA SecOps and
+HackerOne.

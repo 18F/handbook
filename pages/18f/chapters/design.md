@@ -45,17 +45,17 @@ organization, including:
 
 Find us on Slack:
 
-- [#design](https://gsa-tts.slack.com/archives/C02AUUQ8R)
-- [#content-design](https://gsa-tts.slack.com/archives/CB70X5BK2)
-- [#service-design](https://gsa-tts.slack.com/archives/C0KB576KH)
-- [#ux](https://gsa-tts.slack.com/archives/C7PU0BL6R)
-- [#visual-design](https://gsa-tts.slack.com/archives/C054CHWSJ)
-- [#g-content](https://gsa-tts.slack.com/archives/C06RFLK9U)
-- [#g-research](https://gsa-tts.slack.com/archives/C03JK2KH8)
-- [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW)
-- [#helpwanted](https://gsa-tts.slack.com/archives/C018QJ2L44X)
-- [#dev-frontend](https://gsa-tts.slack.com/archives/C02CZB4G5)
-- [#18f-methods](https://gsa-tts.slack.com/archives/C04H0S4M2)
+- {% slack_channel "design" %}
+- {% slack_channel "content-design" %}
+- {% slack_channel "service-design" %}
+- {% slack_channel "ux" %}
+- {% slack_channel "product-design" %}
+- {% slack_channel "g-content" %}
+- {% slack_channel "g-research" %}
+- {% slack_channel "microrequests" %}
+- {% slack_channel "helpwanted" %}
+- {% slack_channel "dev-frontend" %}
+- {% slack_channel "18f-methods" %}
 
 ---
 
@@ -197,8 +197,7 @@ Trello]({% page "/trello" %}) page.
 - **Analytics:** We recommend leveraging the
   [Digital Analytics Program](https://digital.gov/services/dap/) whenever
   possible. We augment DAP with site-specific Google analytics tracking. Ask
-  your lead or post in
-  [#analytics](https://gsa-tts.slack.com/archives/C02AK9NKP) to ask to chat with
+  your lead or post in {% slack_channel "analytics" %} to ask to chat with
   someone to learn more.
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government
   employees outside 18F often can't access Google Forms on their work computers.
@@ -236,16 +235,15 @@ Fortunately, there are many great resources for us to choose from.
   [U.S. Web Design System](https://designsystem.digital.gov/) is a visual style
   guide and set of components for U.S. federal government websites. It includes
   guidance for fonts, colors, and UI components. Come chat in
-  [#dev-frontend](https://gsa-tts.slack.com/archives/C02CZB4G5) if you are
-  choosing a framework for something.
+  {% slack_channel "dev-frontend" %} if you are choosing a framework for
+  something.
 - **Icons:**
   - The product design team maintains guidance on
     [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
   - If you want to start using non-free ones, you’ll need to jump through some
     hoops — even if the icon only costs $1.99. You’ll need to get official
     emailed permission from the product owner, then check
-    [#teamops](https://gsa-tts.slack.com/archives/C02861A7L) for further
-    instructions.
+    {% slack_channel "teamops" %} for further instructions.
 - **Images:** Most images published by government agencies are in the public
   domain and thus free to use.
   - The product design team maintains guidance on
@@ -261,8 +259,7 @@ Fortunately, there are many great resources for us to choose from.
   guidance in the [18F Visual Identity Guide](https://brand.18f.gov/). For needs
   outside these scenarios, typefaces from the
   [U.S. Web Design System](https://designsystem.digital.gov/) are a safe
-  starting choice. Come chat in
-  [#visual-design](https://gsa-tts.slack.com/archives/C054CHWSJ) if you are
+  starting choice. Come chat in {% slack_channel "product-design" %} if you are
   choosing fonts for something.
 
 ---

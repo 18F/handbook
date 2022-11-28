@@ -74,10 +74,9 @@ by different categories. Read the ones that will be most useful to you.
   public domain by our own policies, but is also committed
   [by law](https://www.usa.gov/government-works). (Though we are allowed to by
   law, we don't trademark our logo.) There are a few exceptions to that rule, so
-  check with [\#admins-github](https://gsa-tts.slack.com/archives/admins-github)
-  and [\#wg-opensource](https://gsa-tts.slack.com/archives/wg-opensource) before
-  putting any license _other_ than CC0 on your project. For more details about
-  licensing, see our
+  check with {% slack_channel "admins-github" %} and
+  {% slack_channel "wg-opensource" %} before putting any license _other_ than
+  CC0 on your project. For more details about licensing, see our
   [open source policy](https://github.com/18F/open-source-policy),
   [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and
   the [Open Source Style guide](https://pages.18f.gov/open-source-guide/).
@@ -184,9 +183,7 @@ If you're working with an agency, you'll need to find ways to collaborate with
 them on the project you're tasked with. Typically, the way we give outside
 agencies and contractors access to GitHub repos is by making those repositories
 public. Once they're public, anybody can access them; we just need to add people
-as a collaborators.
-[\#admins-github](https://gsa-tts.slack.com/archives/admins-github) can help you
-with that.
+as a collaborators. {% slack_channel "admins-github" %} can help you with that.
 
 You can use GitHub for almost anything, but consider the resources available to
 agency partners or other stakeholders before deciding to use it. Are your agency
@@ -210,7 +207,7 @@ To submit an issue, Log in, find the appropriate repo on GitHub, and click the
 Issues tab in the right column. Then, click the New Issue button. Your issue
 should have a title and explainer text. You'll probably know what to put there,
 but teams sometimes have guidance on how to format issues or things to include.
-The [\#blog](https://gsa-tts.slack.com/archives/blog), for example, has
+The {% slack_channel "blog" %}, for example, has
 [a specific set of things we require](https://github.com/18F/blog-drafts#readme)
 submissions to have before we'll consider them.
 
@@ -232,8 +229,7 @@ captured by just cloning the `git` repository which only contains the code.
 This is a simple process that can be initiated in the GitHub user interface, but
 requires a user with `ownership` permissions to the GitHub repository in
 question (a higher level of access than `admin`). For help transferring a
-repository, please send a message to
-[\#admins-github](https://gsa-tts.slack.com/archives/admins-github). More
+repository, please send a message to {% slack_channel "admins-github" %}. More
 details can be found on
 [Github](https://help.github.com/en/articles/transferring-a-repository).
 
@@ -244,8 +240,7 @@ cannot be done via the GitHub user interface and requires a process that relies
 on the GitHub API. Access to the migration
 [API](https://developer.github.com/v3/migrations/orgs/) will require `ownership`
 permissions to the repository in question on both sides of the transfer. Please
-coordinate with
-[\#admins-github](https://gsa-tts.slack.com/archives/admins-github) and partner
-administrators to facilitate this type of transfer. See
+coordinate with {% slack_channel "admins-github" %} and partner administrators
+to facilitate this type of transfer. See
 [Github](https://help.github.com/enterprise/2.2/admin/articles/moving-a-repository-from-github-com-to-github-enterprise)
 for more details.

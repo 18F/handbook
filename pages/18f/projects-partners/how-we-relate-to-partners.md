@@ -68,7 +68,6 @@ serve their users.
   framework for thinking about consulting work
 - [Consulting engineering guide]({% page "/consulting-engineering-guide/" %}):
   overview of consulting from an engineer's viewpoint
-- The
-  [Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A):
-  a TTS-wide Guild dedicated to supporting and developing the practice of
+- The {% slack_channel "g-consulting" "Consulting Guild (#g-consulting)" %}: a
+  TTS-wide Guild dedicated to supporting and developing the practice of
   consulting across TTS

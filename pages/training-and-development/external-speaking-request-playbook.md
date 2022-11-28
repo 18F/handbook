@@ -23,10 +23,9 @@ necessary approvals.**
 We want you to share your expertise and represent TTS/GSA, and we want the
 approval process to be as seamless, transparent, and speedy as possible. We
 understand this process is complex. If you have questions or want additional
-information, please reach out to
-[#trainings-conferences](https://gsa-tts.slack.com/archives/C02APU5RT) in Slack
-or via email at [tts-events@gsa.gov](mailto:tts-events@gsa.gov). We also have a
-help
+information, please reach out to {% slack_channel "trainings-conferences" %} in
+Slack or via email at [tts-events@gsa.gov](mailto:tts-events@gsa.gov). We also
+have a help
 [slide](https://docs.google.com/presentation/d/1k8DazgKibsgN5e3kyfghGeAEAqDET251-sV71UrkGNk/edit?usp=sharing)
 and
 [office hours🔒](https://calendar.google.com/calendar/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).

@@ -67,7 +67,7 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 - [GSA IT's Slack ServiceNow tickets](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4)
 - [Delegation of functionality](https://docs.google.com/a/gsa.gov/document/d/1gDuScce7R6q6NqQPPS3cFe3dZFYO_ZEp60dmuzVDYwg/edit?usp=sharing)
 - Requests for approved emoji are fulfilled from
-  [\#approved-emoji](https://gsa-tts.slack.com/archives/C024G4VLWGM)
+  {% slack_channel "approved-emoji"%}
 
 ## Custom emoji
 
@@ -77,12 +77,9 @@ all custom emoji must be reviewed by TTS staff. You can add new emoji through
 [the emoji request process]({% page "/tools/slack/guidelines/#custom-emoji" %}).
 The overall process looks like this.
 
-1. Users request new emoji from
-   [\#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY)
-2. TTS reviews the request in
-   [\#admins-emoji](https://gsa-tts.slack.com/archives/C024EBDS1NC)
-3. Approved emoji are routed to
-   [\#approved-emoji](https://gsa-tts.slack.com/archives/C024G4VLWGM) for Slack
+1. Users request new emoji from {% slack_channel "emoji-showcase" %}
+2. TTS reviews the request in {% slack_channel "admins-emoji" %}
+3. Approved emoji are routed to {% slack_channel "approved-emoji" %} for Slack
    admins
 4. Slack admins
    [create the approved emoji](https://gsa-tts.slack.com/customize/emoji) in the
@@ -94,9 +91,9 @@ Ideas for automating the creation of approved emoji are discussed in
 
 ### Approval criteria
 
-TTS staff in [\#admins-emoji](https://gsa-tts.slack.com/archives/C024EBDS1NC)
-are responsible for reviewing new emoji. Emoji are covered by the same rules
-that govern our behavior at work, including the
+TTS staff in {% slack_channel "admins-emoji" %} are responsible for reviewing
+new emoji. Emoji are covered by the same rules that govern our behavior at work,
+including the
 [GSA IT Rules of Behavior](<https://www.gsa.gov/directive/gsa-information-technology-(it)-general-rules-of-behavior->),
 [GSA Policy Statement on Harassment, Including Sexual and Non-sexual](<https://www.gsa.gov/directive/general-services-administration-(gsa)-policy-statement-on-harassment,-including-sexual-and-non-sexual->),
 [TTS Code of Conduct]({% page "/code-of-conduct/" %}), and ethics rules. TTS
@@ -113,7 +110,7 @@ image is being used. Ideally, submitters will check before requesting, but it's
 the approver's responsibility to verify.
 
 If you'd like to help review emoji requests, please reach out to
-[\#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S).
+{% slack_channel "tts-tech-portfolio" %}.
 
 ### Slack admins
 
@@ -132,6 +129,5 @@ Workflow Builder, select the menu from the Workflow you want to download. Click
 "Download workflow file". This JSON file can be uploaded into another workspace
 by clicking the "Import" button from the Workflow Builder.
 
-Reach out to
-[\#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S) for
-Collaborator access to the Custom Emoji Request workflow.
+Reach out to {% slack_channel "tts-tech-portfolio" %} for Collaborator access to
+the Custom Emoji Request workflow.

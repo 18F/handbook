@@ -32,8 +32,8 @@ leads the project.
 
 ## Resources
 
-- [#career-progression-framework](https://gsa-tts.slack.com/archives/C01UY9QG96Y):
-  the TTS Slack channel for the project
+- {% slack_channel "career-progression-framework" %}: the TTS Slack channel for
+  the project
 - [TTS Career Progression Frameworks](https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe):
   a folder of completed frameworks
 - [TTS Competencies Database](https://docs.google.com/spreadsheets/d/1PUwEQmgl7B04Q4uFN-QtD2ZW5G9JzD7PO5pDIE2fyok/edit):

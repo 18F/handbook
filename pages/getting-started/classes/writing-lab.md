@@ -88,18 +88,16 @@ close issues is based on the number of issues coming in and the workload of
 other projects.
 
 If your issue isn’t assigned to someone within three days of you filing it,
-please ping the team in
-[#writing-lab](https://gsa-tts.slack.com/archives/writing-lab) or leave a
-comment on the issue. If your content has a hard deadline, please note that in
-the issue. Add the urgent label if it needs to be completed in the next two
-days.
+please ping the team in {% slack_channel "writing-lab" %} or leave a comment on
+the issue. If your content has a hard deadline, please note that in the issue.
+Add the urgent label if it needs to be completed in the next two days.
 
 ### How do I share feedback?
 
 We’re always looking for ways to improve the Lab workflow, the quality of our
 services, and your experience as a customer. If you have any ideas or questions,
 please [complete our feedback survey](https://goo.gl/1eSVio) or reach out to the
-team on Slack in [#writing-lab](https://gsa-tts.slack.com/archives/writing-lab).
+team on Slack in {% slack_channel "writing-lab" %}.
 
 ### What has the Writing Lab worked on in the past?
 

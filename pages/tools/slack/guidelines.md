@@ -21,46 +21,41 @@ guide to learn about our unique uses, bots and channels.
 
 ## Channels
 
-- [#welcome-to-tts](https://gsa-tts.slack.com/archives/C025AQGBC) - [How to make
-  TTS-wide
+- {% slack_channel "welcome-to-tts" %} - [How to make TTS-wide
   announcements]({% page "/office-of-operations/outreach/#how-to-make-tts-wide-announcements" %})
 - Teams
 
-  - [#10x](https://gsa-tts.slack.com/archives/C2RDJ3SGP)
-  - [#18f-news](https://gsa-tts.slack.com/archives/C7K4ELC3E) for 18F-level
-    announcements <br /> [#18f](https://gsa-tts.slack.com/archives/C0XUF8XL1)
-    for 18F chat
-  - [#centers-of-excellence](https://gsa-tts.slack.com/archives/C5HNZUCJ3)
-  - [#digital-corps](https://gsa-tts.slack.com/archives/C02383G5M8R)
-  - [#digitalgov](https://gsa-tts.slack.com/archives/C3XKGT62K)
-  - [#login](https://gsa-tts.slack.com/archives/C5AUR5XUK)
-  - [#max-gov](https://gsa-tts.slack.com/archives/C018T9HSWFK)
-  - [#outreach](https://gsa-tts.slack.com/archives/C03CPV8KK)
-  - [#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU)
-  - [#pifs](https://gsa-tts.slack.com/archives/C02MPFNHQ) Presidential
-    Innovation Fellows
-  - [#public-benefits](https://gsa-tts.slack.com/archives/C79SPEB7S)
-  - [#px-general-talk](https://gsa-tts.slack.com/archives/C2KAE7MHU) Public
-    Experience Portfolio
-  - [#search](https://gsa-tts.slack.com/archives/C33CZQG2D)
-  - [#sol-data-analytics](https://gsa-tts.slack.com/archives/C2LPUBTE1)
-  - [#solutions](https://gsa-tts.slack.com/archives/C1ZPQUJNA)
-  - [#strategic-partnerships](https://gsa-tts.slack.com/archives/C0185RZN9RP)
-  - [#tts-oa](https://gsa-tts.slack.com/archives/CD4F3TGB1) Office of
-    Acquisition
-  - [#tts-tech-portfolio](https://gsa-tts.slack.com/archives/CNW3GL70S)
-  - [#uswds](https://gsa-tts.slack.com/archives/C050HRGN7)
-  - [#vote-gov](https://gsa-tts.slack.com/archives/C146DQMG9)
+  - {% slack_channel "10x" %}
+  - {% slack_channel "18f-news" %} for 18F-level announcements <br />
+    {% slack_channel "18f" %} for 18F chat
+  - {% slack_channel "centers-of-excellence" %}
+  - {% slack_channel "digital-corps" %}
+  - {% slack_channel "digitalgov" %}
+  - {% slack_channel "login" %}
+  - {% slack_channel "max-gov" %}
+  - {% slack_channel "outreach" %}
+  - {% slack_channel "people-ops" %}
+  - {% slack_channel "pifs" %} Presidential Innovation Fellows
+  - {% slack_channel "public-benefits" %}
+  - {% slack_channel "px-general-talk" %} Public Experience Portfolio
+  - {% slack_channel "search" %}
+  - {% slack_channel "sol-data-analytics" %}
+  - {% slack_channel "solutions" %}
+  - {% slack_channel "strategic-partnerships" %}
+  - {% slack_channel "tts-oa" %} Office of Acquisition
+  - {% slack_channel "tts-tech-portfolio" %}
+  - {% slack_channel "uswds" %}
+  - {% slack_channel "vote-gov" %}
 
 - Locations
 
-  - [#chitown](https://gsa-tts.slack.com/archives/C02MF8HLY)
-  - [#dc](https://gsa-tts.slack.com/archives/C02AJ3H3K)
-  - [#mass-bay](https://gsa-tts.slack.com/archives/C2674JFU0)
-  - [#nyc](https://gsa-tts.slack.com/archives/C02QMCW2V)
-  - [#philadelphia](https://gsa-tts.slack.com/archives/C02HKVCS8)
-  - [#sf](https://gsa-tts.slack.com/archives/C02AJ3W15)
-  - [#distributed](https://gsa-tts.slack.com/archives/C048U16QP)
+  - {% slack_channel "chitown" %}
+  - {% slack_channel "dc" %}
+  - {% slack_channel "mass-bay" %}
+  - {% slack_channel "nyc" %}
+  - {% slack_channel "philadelphia" %}
+  - {% slack_channel "sf" %}
+  - {% slack_channel "distributed" %}
 
 See a list of other popular channels in the
 [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.b0dsxkh3r8wi)
@@ -143,8 +138,7 @@ as reactions to messages:
   Don't worry — though we have different schedules and may message each other at
   strange times, there's no expectation for people to respond when they're not
   working.
-- **Praise your coworkers.** Post in
-  [\#kudos](https://gsa-tts.slack.com/archives/kudos).
+- **Praise your coworkers.** Post in {% slack_channel "kudos" %}.
 - **Use [snippets](https://slack.com/help/articles/204145658-Create-a-snippet)
   or [posts](https://slack.com/help/articles/203950418-Use-posts-in-Slack) to
   share large chunks of text.**
@@ -216,7 +210,7 @@ To request creation of a custom emoji:
 As part of
 [2160.2B CIO CHGE 4 GSA Electronic Messaging and Related Services](https://www.gsa.gov/cdnstatic/Directives/CC044995_Directive_CIO%2021602B%20CHGE%204,%20GSA%20Electronic%20Messaging%20and%20Related%20Services.pdf),
 new emoji must be reviewed before use. Once approved, your new emoji will be
-published to [\#emoji-showcase](https://gsa-tts.slack.com/archives/C0X2T36AY).
+published to {% slack_channel "emoji-showcase" %}.
 
 If you'd like to help review emoji, reach out to
 {% slack_channel "tts-tech-portfolio" %}. The complete details of how this

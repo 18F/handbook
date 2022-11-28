@@ -18,9 +18,8 @@ Relic includes several products, each of which is available to TTS systems:
 
 ## How do I get access to New Relic?
 
-Ask in [#admins-newrelic](https://gsa-tts.slack.com/archives/C14EF2XEC) and
-include the name to use for the New Relic account and which Business Unit where
-costs will be billed.
+Ask in {% slack_channel "admins-newrelic" %} and include the name to use for the
+New Relic account and which Business Unit where costs will be billed.
 
 ## For admins
 

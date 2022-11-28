@@ -29,8 +29,7 @@ the input we receive from people via social media often makes our projects
 better. Always use discretion when posting on social media about your work to
 make sure you aren’t sharing any sensitive or non-public information. If you
 have any questions about whether to put something on social media, feel free to
-ask in {% slack_channel "tweet-this" %} or
-[#legalstuff](https://gsa-tts.slack.com/archives/legalstuff).
+ask in {% slack_channel "tweet-this" %} or {% slack_channel "legalstuff" %}.
 
 If you or someone is speaking at an event, it is okay to pre-plan or post live
 to social media while at an event. From an official GSA account, tweets or

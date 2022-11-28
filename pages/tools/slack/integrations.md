@@ -30,7 +30,7 @@ the
 guide.
 
 If you're interested in learning more about the bots, or perhaps contributing to
-them, pop into [#bots](https://gsa-tts.slack.com/archives/bots/).
+them, pop into {% slack_channel "bots" %}.
 
 ### New integrations
 

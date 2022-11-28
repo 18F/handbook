@@ -12,9 +12,8 @@ redirect_from:
 
 This guide helps TTS employees through the blogging process and assists them in
 properly framing their post so that it’s concise, readable, and achieves its
-goals. If you have any questions, ask them in
-[#blog](https://gsa-tts.slack.com/archives/C02QNKTNK) or by email to
-[tts-outreach@gsa.gov](mailto:tts-outreach@gsa.gov).
+goals. If you have any questions, ask them in {% slack_channel "blog" %} or by
+email to [tts-outreach@gsa.gov](mailto:tts-outreach@gsa.gov).
 
 Everyone at TTS is encouraged to contribute to our blogs. We value a diversity
 of voices and positions. You don’t have to be a project lead, be in management,

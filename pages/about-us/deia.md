@@ -177,9 +177,8 @@ grassroots DEIA efforts.
    If you would like to be added to the invites directly, message one of the
    [Diversity Guild Co-Leads]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds).
 2. Join the (Slack) conversation. TTSers regularly share articles, ask
-   questions, and celebrate milestones via the
-   [#g-diversity](https://gsa-tts.slack.com/messages/g-diversity/) Slack
-   channel. To promote a healthy and respectful environment, there are
+   questions, and celebrate milestones via the {% slack_channel "g-diversity" %}
+   Slack channel. To promote a healthy and respectful environment, there are
    [special guidelines for #g-diversity](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit).
 3. Reach out with questions: the
    [Diversity Guild Co-Leads]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds)
@@ -209,7 +208,7 @@ everyone’s responsibility.
 For more information, see the
 [Accessibility Handbook page]({{site.baseurl}}/accessibility/),
 [Accessibility Guide](https://accessibility.18f.gov/), or join the
-[\#g-accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q) Slack channel.
+{% slack_channel "g-accessibility" %} Slack channel.
 
 ## Affinity Groups
 

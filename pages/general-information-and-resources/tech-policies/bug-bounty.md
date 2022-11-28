@@ -43,5 +43,5 @@ The researcher can optionally validate the fix is correct.
 We encourage programs to disclose reports and redact any [sensitive
 information]({% page "/sensitive-information/" %}) when necessary.
 
-Use [#bug-bounty-partners](https://gsa-tts.slack.com/archives/C5JQCD9PH) for
-general Bug Bounty related questions for GSA SecOps and HackerOne.
+Use {% slack_channel "bug-bounty-partners" %} for general Bug Bounty related
+questions for GSA SecOps and HackerOne.

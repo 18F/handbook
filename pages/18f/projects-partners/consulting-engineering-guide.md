@@ -155,24 +155,21 @@ meetings that will help you broaden your experience with 18F projects. The below
 resources will offer a lot of context for the partner-facing and organizational
 challenges of consulting projects:
 
-- The
-  [Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A)
+- The {% slack_channel "g-consulting" "Consulting Guild (#g-consulting)" %}
   provides opportunities for developing consulting skills like education
   workshops and pairing sessions, as well as support for partner engagements.
-- [#path-analysis](https://app.slack.com/client/T025AQGAN/C3J7P5MMK) (archived,
-  but still has valuable history)
+- {% slack_channel "path-analysis" %} (archived, but still has valuable history)
 - [Project Artifacts repo](https://github.com/18F/path-analysis)
-- [#c-project-resources](https://app.slack.com/client/T025AQGAN/CHZLJBWCV)
+- {% slack_channel "c-project-resources" %}
 
 ### Technical support
 
 If it’s a technical issue outside your wheelhouse, talk with our specialists.
 They’ll be happy to help you find a solution:
 
-- Engineering Practices Guild: Ask in
-  [#dev](https://app.slack.com/client/T025AQGAN/C02CD5VUQ)
+- Engineering Practices Guild: Ask in {% slack_channel "dev" %}
 - Security & Compliance Guild: Ask in
-  [#g-security-compliance](https://app.slack.com/client/T025AQGAN/CG8SNAEQM)
+  {% slack_channel "g-security-compliance" %}
 
 Don’t hesitate to call on the Acquisitions, Content and Design Chapters as
 needed, either. They have guilds and labs specifically aimed at helping you.
@@ -189,8 +186,8 @@ skills. If so, some options you might want to look at include:
 
 - Billable projects — Cloud.gov and Login.gov often can use some extra help
   across a broad range of skill sets. Check their staffing issues.
-- [#microrequests](https://app.slack.com/client/T025AQGAN/CNFHBCXDW) may have a
-  small (less than 12 hours, usually) project that needs some engineering help
+- {% slack_channel "microrequests" %} may have a small (less than 12 hours,
+  usually) project that needs some engineering help
 - Non-billable projects — talk with your supervisor about pitching in on an
   internal project like Tock
 - Give a tech talk or participate in some guild efforts

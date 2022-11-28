@@ -161,8 +161,7 @@ Here are a few particularly useful essentials:
 - **18F templates:** You can get our document and slide templates through
   [18F's Visual Identity Guide](https://brand.18f.gov/templates). Please don't
   make major changes to the base templates; start a conversation in
-  [#18f-branding](https://gsa-tts.slack.com/app_redirect?channel=18f-branding)
-  instead!
+  {% slack_channel "#18f-branding" %} instead!
 - **Mural:** We use [Mural]({% page "/tools/mural/" %}) as a collaborative
   whiteboard and sticky note tool. It's a particularly useful tool for
   brainstorming with distributed teams.

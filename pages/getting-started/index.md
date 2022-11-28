@@ -126,8 +126,8 @@ simply to be kind. We're all trying to improve things.
 And remember: you can be fearless in your pull requests. If you ever manage to
 break something in GitHub it can easily be changed back to how it was --- that's
 the beauty of version control. If you get stuck, you can just wave in the
-[#tts-handbook](https://gsa-tts.slack.com/archives/C0DCAMLQH) Slack channel and
-someone will quickly help you.
+{% slack_channel "tts-handbook" %} Slack channel and someone will quickly help
+you.
 
 ### Setting up your Mac for success
 
@@ -170,14 +170,13 @@ respond if you spot suspicious activity or an incident. If you're looking to go
 into greater detail, read the [Handbook section on launching
 software]({% page "/#launching-software" %}). If you ever need a quick answer,
 clarification or just general Security and Compliance help, reach out to the TTS
-Tech Portfolio in
-[#tts-tech-portfolio channel](https://gsa-tts.slack.com/archives/CNW3GL70S).
+Tech Portfolio in {% slack_channel "tts-tech-portfolio channel" %}.
 
 If you hear "ATO" or "Authority to Operate" and are wondering what that's about,
 the [Handbook section on launching software]({% page "/#launching-software" %})
 and the
-[Security and Compliance Guild](https://gsa-tts.slack.com/archives/CG8SNAEQM)
-can help you out there, too.
+{% slack_channel "g-security-compliance" "Security and Compliance Guild" %} can
+help you out there, too.
 
 You may also be wondering about security clearances. It's not something you need
 to worry about now. If you're in 18F and staffed to a project that needs

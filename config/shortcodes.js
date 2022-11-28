@@ -32,7 +32,7 @@ async function imageWithClassShortcode(imagePath, cssClass, altText) {
   };
 
   const attributeStrings = Object.entries(attributes).map(
-    ([key, value]) => `${key}="${value}"`
+    ([key, value]) => `${key}="${(value || "").replace(/"/g, "&quot;")}"`
   );
 
   return `<img ${attributeStrings.join(" ")}>`;
@@ -48,8 +48,9 @@ const uswdsIconShortcode = (name) =>
   </svg>`;
 
 const slackChannelLinkShortcode = (channel, name) => {
-  return `<a href="https://gsa-tts.slack.com/channels/${channel}" target="_blank">${
-    name ?? `#${channel}`
+  const cleanChannel = channel.replace(/^#/, "");
+  return `<a href="https://gsa-tts.slack.com/channels/${cleanChannel}" target="_blank">${
+    name ?? `#${cleanChannel}`
   }</a>`;
 };
 

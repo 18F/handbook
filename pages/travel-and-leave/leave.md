@@ -126,8 +126,7 @@ You’ll receive an email after you cancel/edit a request.
 
 Note: Canceling a request can create an error in HR Links, if the dates of the
 canceled request overlap with another leave request. If you run into issues
-after you’ve canceled a request, reach out to
-[#people-ops](https://gsa-tts.slack.com/archives/C047LSLTU).
+after you’ve canceled a request, reach out to {% slack_channel "people-ops" %}.
 
 ### HR Links tips
 

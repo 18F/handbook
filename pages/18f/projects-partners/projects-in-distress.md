@@ -41,12 +41,11 @@ These folks include:
 3. **Guilds, crit groups, and chapter** - these are all great avenues for
    soliciting peer feedback and troubleshooting challenges on your project.
 4. The
-   **[Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A)** -
+   **{% slack_channel "g-consulting" "Consulting Guild (#g-consulting)" %}** -
    get first-line project support from experienced TTS consultants.
-5. The
-   **[#c-18f-project-leadership channel](https://gsa-tts.slack.com/archives/C01JFUE1Y58)**
-   is another great source for peer feedback and troubleshooting for project
-   leads and those interested in becoming project leads.
+5. The **{% slack_channel "c-18f-project-leadership channel" %}** is another
+   great source for peer feedback and troubleshooting for project leads and
+   those interested in becoming project leads.
 
 18F doesn’t really have “typical” projects; each of our consulting engagements
 is tailored to the partner, their needs, and their constraints. We encourage

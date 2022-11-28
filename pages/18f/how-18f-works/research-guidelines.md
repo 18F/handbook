@@ -298,10 +298,9 @@ narrated by the GSA Privacy Office.
 **Bottom line: If you have questions about sharing information, just ask.** See
 the page on [sensitive information]({% page "/sensitive-information/" %}). If
 you're not sure if you're collecting PII or need help with policy guidance, you
-can ask on Slack in
-[#g-research](https://gsa-tts.slack.com/archives/g-research). If you are not
-sure where the right place might be to store any given file, or what access
-permissions to grant, you can [ask the Tech
+can ask on Slack in {% slack_channel "#g-research" %}. If you are not sure where
+the right place might be to store any given file, or what access permissions to
+grant, you can [ask the Tech
 Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
 
 ## Join the research guild!

@@ -62,8 +62,7 @@ Missteps on projects will happen. Teams do not have a crystal ball into partner
 expectations or communication preferences. This is a good time to bring in a
 facilitator from outside the project to help the team reflect on what is and
 isn’t going well, and then help the team come up with alternative methods in the
-future. Try [#helpwanted](https://gsa-tts.slack.com/archives/C018QJ2L44X) to ask
-for a facilitator.
+future. Try {% slack_channel "helpwanted" %} to ask for a facilitator.
 
 ### Manage work so it is equitably distributed
 
@@ -105,8 +104,7 @@ happening.
   tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time,
     consider budgeting time to make them accessible (use
-    [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) if the team
-    doesn't have this ability)
+    {% slack_channel "microrequests" %} if the team doesn't have this ability)
 - Ensure sprint planning, review, and other recurring meetings are scheduled
 - Facilitate identification of project management tracking tools
 - Facilitate identification of how administrative tasks will be rotated
@@ -136,7 +134,7 @@ happening.
   - Meet with account manager
   - Monitor project burn doc with account manager
   - Compile and post a Weekly Ship; send to partner and post in
-    [#the-shipping-news](https://gsa-tts.slack.com/archives/C4HGPF9QA)
+    {% slack_channel "the-shipping-news" %}
 - Every two weeks: Conduct an internal team retrospective
 - Ensure midpoint and other higher-profile presentations are rehearsed or
   otherwise well prepared
@@ -153,7 +151,7 @@ happening.
 - Participate in the Project Leadership Collective! Read the
   [PLC wiki](https://github.com/18F/Project-Leadership-Collective/wiki/Project-Leadership-Collective)
   and
-  [join the PLC conversation — #c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
+  {% slack_channel "c-18f-project-leadership" "join the PLC conversation — #c-18f-project-leadership" %}
 
 ### Ending a project
 
@@ -193,10 +191,9 @@ most common types of 18F project endings are some combination of the following:
   engagement]({% page "/18f/projects-partners/projects-in-distress/" %})
 - Conduct, document, and post a Project Reflection at the end of the project (or
   every 3-4 months for longer projects). Request a facilitator from outside the
-  project in
-  [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5) or
-  [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW) so everyone on
-  the project team can fully participate.
+  project in {% slack_channel "workshop-facilitation" %} or
+  {% slack_channel "microrequests" %} so everyone on the project team can fully
+  participate.
 - Use the
   [project reflection for performance evals template](https://docs.google.com/document/d/1ko28PDLcEa_VB3ulMKbEjLzi88u8K8WJqXsBryrBV-U/edit?usp=sharing)
   to collaborate on drafting examples of evaluation criteria. In some cases, an
@@ -302,26 +299,22 @@ conversations, client management skills, and strategic direction.
   [guides](https://18f.gsa.gov/guides/).
 - If you need support in a specific skill set, help with deliverables, or would
   like to have someone facilitate a session, get help by using
-  [#microrequests](https://gsa-tts.slack.com/archives/CNFHBCXDW).
+  {% slack_channel "microrequests" %}.
 - If your project is part of a portfolio, the portfolio director and your
   colleagues in the portfolio can be a great resource.
 - If you need advice or coaching, look to the chapters
-  ([#product](https://gsa-tts.slack.com/archives/C02ABDXUN),
-  [#design](https://gsa-tts.slack.com/archives/C02AUUQ8R),
-  [#acquisition](https://gsa-tts.slack.com/archives/C054NH1FW), and
-  [#dev](https://gsa-tts.slack.com/archives/C02CD5VUQ) as well as our [guilds
-  and working groups]({% page "/working-groups-and-guilds-101/" %}). Each of
-  them have a corresponding Slack channel you can jump into any time.
-- The
-  [Consulting Guild (#g-consulting)](https://gsa-tts.slack.com/archives/C02GTJ5DT9A)
-  may be able to pair you with another TTS consultant to provide support,
-  including but not limited to observing meetings with the partner and providing
-  feedback and advice. Request help in the
-  [#g-consulting](https://gsa-tts.slack.com/archives/C02GTJ5DT9A) channel.
+  ({% slack_channel "product" %}, {% slack_channel "design" %},
+  {% slack_channel "acquisition" %}, and {% slack_channel "dev" %} as well as
+  our [guilds and working groups]({% page "/working-groups-and-guilds-101/" %}).
+  Each of them have a corresponding Slack channel you can jump into any time.
+- The {% slack_channel "g-consulting" "Consulting Guild (#g-consulting)" %} may
+  be able to pair you with another TTS consultant to provide support, including
+  but not limited to observing meetings with the partner and providing feedback
+  and advice. Request help in the {% slack_channel "g-consulting" %} channel.
 - There's also:
-  - [#workshop-facilitation](https://gsa-tts.slack.com/archives/C0RBCPRM5)
-  - [#c-project-resources](https://gsa-tts.slack.com/archives/CHZLJBWCV)
-  - [#c-18f-project-leadership](https://gsa-tts.slack.com/archives/C01JFUE1Y58)
+  - {% slack_channel "workshop-facilitation" %}
+  - {% slack_channel "c-project-resources" %}
+  - {% slack_channel "c-18f-project-leadership" %}
 
 ### Escalation paths for issues that may arise
 

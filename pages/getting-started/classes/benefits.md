@@ -128,9 +128,7 @@ Through Worklife4You, you can get assistance with
 The emergency back-up care is available at very low costs - review the
 [Emergency Backup Dependent Care flyer](https://drive.google.com/file/d/1rO1Zu0-fCk0oQTYeCGrHEjUTeV4luH4Z/view)
 for more details. TTS teammates have shared their experiences with back-up care
-in the
-[\#parents](https://gsa-tts.slack.com/archives/C02KQM2N7/p1461602923000114)
-Slack channel.
+in the {% slack_channel "parents" %} Slack channel.
 
 WorkLife4You programs can be accessed via the EAP phone line: 1-800-222-0364 or
 888-262-7848 (TTY). You can also register via the

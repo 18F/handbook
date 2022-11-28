@@ -15,8 +15,8 @@ distribute JavaScript libraries and programs for software development.
 Any npm packages published for work should be published under the
 [18f](https://www.npmjs.com/org/18f) npm organization. You may use your personal
 npm account for membership to the 18f organization. Ask
-[#javascript](https://gsa-tts.slack.com/archives/C032KSPPQ) for how to get
-membership or a token for publishing.
+{% slack_channel "javascript" %} for how to get membership or a token for
+publishing.
 
 ## For admins
 

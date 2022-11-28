@@ -322,8 +322,7 @@ Contact ispcompliance@gsa.gov for any issues.
   check.) The testing working group recommends reviewing your status early and
   often. _Ask #wg-testing if you have questions._
 - Are your APIs up to the [API Standards](https://github.com/18f/api-standards)?
-  _Ask the [#api](https://gsa-tts.slack.com/archives/C6YGE5U74) if you have
-  questions._
+  _Ask the {% slack_channel "api" %} if you have questions._
 - Make sure you have all the social media metadata and preview images.
 
 [More](https://atos.open-control.org/tips/){: .usa-button}

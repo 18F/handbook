@@ -80,6 +80,78 @@ Now, assuming you've identified what you want to contribute -- if you haven't,
 check out the Handbook's [open issues](https://github.com/18F/handbook/issues)
 -- let's talk about the mechanism by which you'll contribute: NetlifyCMS or Git.
 
+## Helpers and shortcuts
+
+The backend of the Handbook is built using a tool called
+[Eleventy](https://www.11ty.dev/), which uses a language called "Liquid" to
+enable shortcuts and helpers, making it easier and faster to add new content.
+Here are some of the helpers and shortcuts available in the Handbook. Please use
+them when possible as they will make it easier to maintain the Handbook over
+time!
+
+- **Linking to another page**  
+  Linking to other pages within the Handbook can be a little tricky if you do it
+  by hand because you need to know the page's absolute URL after it is built and
+  published. To simplify this, you can use the `{{ "{% page %}" }}` short code:
+
+  ```
+  [this is my link]{{ '({% page "/another/page/to/link" %})' }}
+  or
+  <a href="{{ '{% page "/another/page/to/link" %}' }}">this is my link</a>
+  ```
+
+- **Displaying images**  
+  To include an image that is unique to TTS in your content, first be sure that
+  the image is located in the `_img` directory. (Images not hosted within the
+  Handbook can be included using the normal methods for images.) Then, use the
+  `{{ "{% image %}" }}` short code, like this:
+
+  ```
+  {{ '{% image "_img/myImage.png" "alt text describing the image" %}' }}
+  ```
+
+  The first item after the code is the path to your new image. Your image can be
+  organized into subdirectories however you like, just be sure to include the
+  complete path here. The second item is alt text used to describe the image. If
+  your image needs a custom CSS class, you can instead use the
+  `{{ "{% image_with_class %}" }}` short code:
+
+  ```
+  {{ '{% image_with_class "path" "css class" "alt text" %}' }}
+  ```
+
+- **Linking to a Slack channel**  
+  The format of links to Slack channels have changed over time, so instead of
+  expecting everyone to be aware of the current way, we have created a short
+  code that does it for you! The `{{ "{% slack_channel %}" }}` short code can
+  help:
+
+  - `{{ '{% slack_channel "research" %}' }}` will create a link to the
+    `#research` channel. The link will be styled like so:
+    {% slack_channel "research" %}. The channel name is the first item after the
+    code and will work whether you include a hash symbol or not.
+
+  - `{{ '{% slack_channel "g-diversity" "Diversity Guild" %}' }}` will create a
+    link to `#g-diversity`, but it'll be presented with the text
+    `Diversity Guild`, like so:
+    {% slack_channel "#g-diversity" "Diversity Guild" %}
+
+- **Using a USWDS icon**  
+  The Handbook is built on [USWDS](https://designsystem.digital.gov/) 3. As a
+  result, it includes USWDS's icons. To make it easier to access the icons, you
+  can use the `{{ "{% uswds_icon %}" }}` short code:
+
+  `{{ '{% uswds_icon "build" %}' }}` will produce {% uswds_icon "build" %}
+
+  USWDS provides a handy
+  [searchable list of icons](https://designsystem.digital.gov/components/icon/)
+  to help you find the perfect piece of iconography for your needs.
+
+  {% capture alert_content %} Do not use icons in place of textual content.
+  These icons do not come with alt text are not accessible. Use them as
+  decorative elements or as additional emphasis on the text. {% endcapture %}
+  {% include "alert.html" heading:"Be careful with icons" content:alert_content %}
+
 ## Contributing via NetlifyCMS (Experimental)
 
 [NetlifyCMS](https://www.netlifycms.org/) is a Git-based content management

@@ -32,22 +32,22 @@ always available as a place to ask questions and show your suppor
 
 The open groups, which are available to all TTS staff, are:
 
-- [\#LGBTQQIAAP](https://gsa-tts.slack.com/archives/C0CJ11XDY) —  is for anyone
-  who identifies as lesbian, gay, bisexual, transgender, queer, questioning,
-  intersex, asexual, or pansexual.
-- [\#Aging parents](https://gsa-tts.slack.com/archives/CLWMLQWER) — is support
-  for people with aging parents.
-- [\#Parents](https://gsa-tts.slack.com/archives/C02KQM2N7) — is for parents...
-  and friends of parents.
-- [\#Women](https://gsa-tts.slack.com/archives/C1WHWP18F) — is an intersectional
-  TTS employee resource group for womxn that provides a safe place to share
-  their experiences and support one another.
-- [\#Self-care](https://gsa-tts.slack.com/archives/C83SUA673) — is for sharing
-  tips for taking care of yourself with a focus on mental health.
-- [\#vets](https://gsa-tts.slack.com/archives/C7QQYRB62) - is for Veterans and
-  colleagues with a Veteran affinity.
-- [\#neurodiversity](https://gsa-tts.slack.com/archives/C01TB9GTX5Z) - is a
-  place to share and discuss lived experiences of neurodiversity.
+- {% slack_channel "lgbtqqiaap" "LGBTQQIAAP" %} — is for anyone who identifies
+  as lesbian, gay, bisexual, transgender, queer, questioning, intersex, asexual,
+  or pansexual.
+- {% slack_channel "aging-parents" "Aging parents" %} — is support for people
+  with aging parents.
+- {% slack_channel "parents" "Parents" %} — is for parents... and friends of
+  parents.
+- {% slack_channel "womxn" "Womxn" %} — is an intersectional TTS employee
+  resource group for womxn that provides a safe place to share their experiences
+  and support one another.
+- {% slack_channel "self-care" "Self-care" %} — is for sharing tips for taking
+  care of yourself with a focus on mental health.
+- {% slack_channel "vets" "Vets" %} - is for Veterans and colleagues with a
+  Veteran affinity.
+- {% slack_channel "neurodiversity" "Neurodiversity" %} - is a place to share
+  and discuss lived experiences of neurodiversity.
 
 The invite-only affinity groups are:
 
@@ -87,25 +87,25 @@ participate or ask questions.
       <tr>
         <th class="col-grouplet" id="services">Government careers</th>
         <td class="col-description">A place to share federal job and detail postings that may interest your colleagues.<br />
-          <a href="https://gsa-tts.slack.com/archives/C0KMRN10W">#wg-gov-career</a>
+          {% slack_channel "wg-gov-career" %}
         </td>
       </tr>
       <tr>
         <th class="col-grouplet" id="tts-hiring">Hiring</th>
         <td class="col-description">Improving hiring practices and materials for all of TTS.<br />
-          <a href="https://gsa-tts.slack.com/archives/CEHSLF4LB">#wg-tts-hiring</a>
+          {% slack_channel "wg-tts-hiring" %}
         </td>
       </tr>
       <tr>
         <th class="col-grouplet" id="project-impact">Onboarding</th>
         <td class="col-description">Improving the first 7, 30 and 90 days for new TTS members.<br />
-          <a href="https://gsa-tts.slack.com/archives/C02E3TK0U">#wg-onboarding</a>
+          {% slack_channel "wg-onboarding" %}
         </td>
       </tr>
        <tr>
         <th class="col-grouplet" id="onboarding">User Research Compensation</th>
         <td class="col-description">Operationalizing user research compensation at TTS.<br />
-          <a href="https://gsa-tts.slack.com/archives/C0136J3LNP2">#wg-user-research-compensation</a>
+          {% slack_channel "wg-user-research-compensation" %}
         </td>
       </tr>
     </tbody>

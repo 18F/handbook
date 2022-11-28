@@ -18,7 +18,7 @@ redirect_from:
       <tr>
         <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
-          Your best bet is the <a href="https://gsa-tts.slack.com/archives/sf">#sf</a> Slack channel<br />
+          Your best bet is the {% slack_channel "sf" %} Slack channel<br />
           <a href="https://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
@@ -27,8 +27,8 @@ redirect_from:
           <strong>Slack channels</strong>
         </td>
         <td class="col-value">
-          <a href="https://gsa-tts.slack.com/archives/sf">#sf</a>,
-          <a href="https://gsa-tts.slack.com/archives/sf-public">#sf-public</a>
+          {% slack_channel "sf" %},
+          {% slack_channel "sf-public" %}
         </td>
       </tr>
       <tr>
@@ -115,7 +115,7 @@ The card also requires you to come up with a six-digit PIN, so have that ready
 to go.
 
 If you have any questions about this, contact the
-[#SF Slack Channel](https://gsa-tts.slack.com/archives/sf).
+{% slack_channel "SF Slack Channel" %}.
 
 ### Public transit
 
@@ -421,9 +421,9 @@ The Health Unit also includes an all-gender bathroom.
 with lots of food and drink options near 50 UN Plaza.
 
 If you’re looking for people to eat with or suggesting an outing, use the
-keyword `sfeats` in [#sf](https://gsa-tts.slack.com/archives/sf). (This is an
-alternative to `@here`, which is intrusive for people who want to screen out
-those notifications). You can also add that to your
+keyword `sfeats` in {% slack_channel "sf" %}. (This is an alternative to
+`@here`, which is intrusive for people who want to screen out those
+notifications). You can also add that to your
 [Slack highlight words](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications)
 to be notified when other people are talking about food.
 

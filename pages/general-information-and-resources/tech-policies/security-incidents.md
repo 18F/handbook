@@ -188,7 +188,7 @@ these.
   same time.
 - cloud.gov: [cloud.gov support team](mailto:cloud-gov-support@gsa.gov) or
   {% slack_channel "incident-response" %} Slack channel
-- Login.gov: [#login-situation](https://gsa-tts.slack.com/archives/C5QUGUANN)
+- Login.gov: {% slack_channel "login-situation" %}
 - Need to find the Information System Security Officer (ISSO) or Information
   System Security Manager (ISSM) for a specific system? See the
   [directory of contacts for GSA systems](https://ea.gsa.gov/#!/FISMA_POC).
