@@ -7,7 +7,7 @@
     "assets:autoprefix": "postcss _site/assets/styles/*.css -r --use autoprefixer",
     "assets:build": "node ./config/buildAssets && npm run assets:autoprefix",
     "assets:clean": "rimraf _site/assets",
-    "assets:refresh": "npm run assets:clean && npm run assets:build",
+    "assets:refresh": "npm run assets:clean && npm run assets:build && npx @11ty/eleventy",
     "assets:watch": "chokidar 'js/**' 'styles/**' -c 'npm run assets:refresh' --polling",
     "clean": "rimraf _site",
     "dev": "npm run clean && npm-run-all -p dev:assets dev:serve",
