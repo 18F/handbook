@@ -13,8 +13,9 @@ redirect_from:
 - **18F Non-Billable Work - #968:** Time spent working on non-project work for 18F.
 - **18F Business Ops - #1195:** Time specifically spent working on 18F business development efforts.
 - **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F hiring (such as preparing interview guides, reading resumes, interviews and debriefs) or onboarding (such as new employee onboarding classes, acting as an onboarding buddy, or completing paperwork related to new hires).
+- **18F / External Detail - #1280:** Time spent on external details. If the project has a more specific Tock line established, report your time there instead.
 - **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead: HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s, OGE-450s, seeking training approvals, tech support for GSA-required software, etc.
-- **Out of Office - #670:** Vacation time, federal holidays, or sick time
+- **Out of Office - #670:** Vacation time, federal holidays, sick time, and administrative leave (including early dismissals).
 - **18F Project work - project ID varies:** The specific projects you're working on.
 - **18F Engagement Management - project ID varies:** This code is used for non-primary project team members for any support given to the project, including staffing the project, providing feedback to their staff regarding their project, conducting post-mortems, meeting to share information and lessons learned from other projects, etc.
 
