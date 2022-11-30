@@ -1,0 +1,11 @@
+@use "uswds-core" as * with (
+  $theme-show-notifications: false,
+  $theme-font-path: "../node_modules/@uswds/uswds/dist/fonts",
+  $theme-image-path: "../node_modules/@uswds/uswds/dist/img",
+  $theme-font-type-sans: "public-sans",
+  $theme-hero-image: "../_img/hero.png"
+);
+
+@forward "uswds";
+
+@import "custom/screen";

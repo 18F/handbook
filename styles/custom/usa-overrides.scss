@@ -1,0 +1,25 @@
+@include at-media("tablet-lg") {
+  .with-inline-navigation .usa-prose {
+    // keep other elements from overlapping in-page navigation
+    .usa-alert,
+    table,
+    h2,
+    h3,
+    h4 {
+      max-width: units("tablet");
+    }
+  }
+}
+
+.usa-header--basic .usa-nav-container {
+  align-items: center;
+}
+
+.usa-layout-docs__main {
+  width: 100%;
+  border-top: 1px solid #dfe1e2;
+
+  main#main-content {
+    width: 100%;
+  }
+}

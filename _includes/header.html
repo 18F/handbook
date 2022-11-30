@@ -1,0 +1,26 @@
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--basic">
+  <div class="usa-nav-container">
+    <div class="usa-navbar">
+      <div class="usa-logo" id="-logo">
+        <em class="usa-logo__text"><a href="{{ "/" | url }}" title="Home">{{ site.title }}</a></em>
+      </div>
+      <button type="button" class="usa-menu-btn">Menu</button>
+    </div>
+    <nav aria-label="Primary navigation" class="usa-nav">
+      <button type="button" class="usa-nav__close">
+        {% uswds_icon "close" %}
+      </button>
+      <ul class="usa-nav__primary usa-accordion">
+        {% for item in navigation.primary %}
+        <li class="usa-nav__primary-item">
+          <a href="{{ item.href | url }}" class="usa-nav__link">{{ item.text }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      <section aria-label="Search component">
+        {% include "searchgov/form.html" searchgov: site.searchgov %}
+      </section>
+    </nav>
+  </div>
+</header>

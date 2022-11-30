@@ -1,0 +1,165 @@
+@import "./usa-overrides";
+@import "./nav";
+@import "./link-colors";
+@import "./heading-links";
+
+blockquote {
+  font-style: italic;
+}
+
+a.button[href^="https://gsa-tts.slack.com"]::before
+{
+  display: none;
+}
+
+a[href^="https://gsa-tts.slack.com"]::before,
+a.button span.slack::before {
+  content: "";
+  @include u-square(4);
+  display: inline-block;
+  vertical-align: middle;
+  margin: units(-2px) units(-0.5) 0 units(-1);
+  background-size: units(4);
+  background-repeat: no-repeat;
+  background-image: url("../_img/Slack_Mark.svg");
+}
+
+a.button span.slack {
+  font-weight: 600;
+  &::before {
+    width: units(2);
+    height: units(2);
+    margin-top: units(-2px);
+    margin-right: units(0.5);
+  }
+}
+
+a.private-link::after {
+  content: "🔒";
+  font-size: 0.75em;
+  text-decoration: none;
+}
+
+/* Travel Guide Image Toggles */
+a.travel-image-link {
+  display: block;
+  font-size: 95%;
+  cursor: pointer;
+}
+
+img.travel-guide-hide {
+  display: none;
+}
+
+// @import "./icons";
+
+.page-outdated {
+  padding: units(0.5) 0;
+  background: #d8f7ff;
+  color: #202020;
+  text-align: center;
+}
+
+/* @group layouts */
+
+@import "./toc";
+@import "./inline-nav";
+
+/* @group .layout-article-professional-development-and-training */
+
+@media screen and (min-width: 40em) {
+  .layout-article-professional-development-and-training table tr td:last-child {
+    width: 7em;
+  }
+}
+
+/* @end */
+
+.col-grouplet {
+  width: units(15);
+}
+
+.table-existing-grouplets,
+.table-office-metadata {
+  border-collapse: collapse;
+
+  tr {
+    border-top: 1px solid color("base-lighter");
+  }
+
+  th,
+  .col-key {
+    @include typeset("body", "xs", 2);
+    padding-right: units(1.5);
+    padding-top: units(1.5);
+    width: units(15);
+  }
+
+  th,
+  td {
+    @include u-padding-y(1);
+    text-align: left;
+    vertical-align: top;
+  }
+}
+
+/* @group .layout-article-working-groups-and-guilds-101 */
+
+/* @end */
+
+/* @group .layout-article-chicago, .layout-article-san-francisco, .layout-article-washington-dc */
+
+/* @end */
+
+/* @end */
+
+.usa-table tbody {
+  font-size: 1rem;
+
+  th {
+    font-weight: bold;
+  }
+
+  // corresponding to USWDS alert colors
+  // https://github.com/uswds/uswds/blob/f761763c66399fe63800f22cc17c228b2c46b097/src/stylesheets/components/_alerts.scss#L7-L12
+  .status-proposed,
+  .status-pilot,
+  .status-exception {
+    th,
+    td {
+      background-color: color("info-lighter");
+    }
+  }
+  .status-approved {
+    th,
+    td {
+      background-color: color("success-lighter");
+    }
+  }
+  .status-denied {
+    th,
+    td {
+      background-color: color("error-lighter");
+    }
+  }
+  .status-sunsetting {
+    th,
+    td {
+      background-color: color("warning-lighter");
+    }
+  }
+}
+
+// ensure tables are horizontally scrollable
+section {
+  overflow-x: scroll;
+}
+
+figure {
+  max-width: 68ex;
+}
+
+figcaption {
+  font-size: 0.8em;
+  text-align: center;
+}

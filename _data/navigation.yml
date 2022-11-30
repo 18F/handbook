@@ -45,8 +45,8 @@ primary:
       - text: Travel 101
         url: getting-started/classes/travel-101/
         internal: true
-  - text: Training &amp; Development
-    href: /#training-amp-development
+  - text: Training & Development
+    href: /#training-and-development
     blurb: |
       Classes, coaching and ongoing professional development
     children:
@@ -61,7 +61,7 @@ primary:
         internal: true
       - text: External speaking requests
         url: training-and-development/external-speaking-request-playbook/
-        internal: true        
+        internal: true
       - text: GitHub 101
         url: training-and-development/intro-to-github/
         internal: true
@@ -71,10 +71,12 @@ primary:
       - text: Online Learning University (OLU)
         url: training-and-development/olu/
         internal: true
-      - text: Affinity groups, working groups, guilds, and communities of practice
+      - text:
+          Affinity groups, working groups, guilds, and communities of practice
         url: training-and-development/working-groups-and-guilds-101/
         internal: true
-      - text: Career Progression Framework (CPF) project description and overview
+      - text:
+          Career Progression Framework (CPF) project description and overview
         url: career-progression-framework/overview/
         internal: true
       - text: TTS Career Progression Frameworks
@@ -324,7 +326,9 @@ primary:
               - text: Talent
                 url: office-of-operations/talent/
                 internal: true
-              - text: Top Secret/Sensitive Compartmented Information (TS/SCI) Clearance
+              - text:
+                  Top Secret/Sensitive Compartmented Information (TS/SCI)
+                  Clearance
                 url: top-secret/
                 internal: true
           - text: Outreach

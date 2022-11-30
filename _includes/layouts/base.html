@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  {% include "meta.html" %}
+
+  <body>
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+    
+    {% include "gov-site-banner.html" %}
+    
+    {% include "header.html" %}
+
+    <div class="usa-layout-docs usa-layout-docs__main desktop:grid-col-9 usa-prose">
+      <div class="usa-section">
+        <div class="grid-container">
+          <div class="grid-row grid-gap flex-align-start">
+            {{ content }}
+          </div>
+
+          {% if questions %}
+            <h2 id="questions">Questions?</h2>
+            <ul>
+              {% for contact in questions %}
+              <li>
+                {% if contact contains "@" %}
+                  <a href="mailto:{{contact}}">{{contact}}</a>
+                {% elsif contact.text %}
+                  <a href="{{contact.url}}">{{contact.text}}</a>
+                {% else %}
+                  {% slack_channel contact %}
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    {% include "footer.html" %}
+    
+    {% comment %} Hide SVG Sprites {% endcomment %}
+    <div style="display: none">
+      {% usa_icons_sprite %} {% uswds_icons_sprite %}
+    </div>
+
+    {% include "scripts.html" %}
+  </body>
+</html>

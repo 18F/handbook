@@ -1,0 +1,16 @@
+/* by default, header links are translucent to reduce distractions... */
+.heading-permalink {
+  text-decoration: none;
+  opacity: 0.2;
+}
+
+/* but when the header is hovered/focused, make them easier to see */
+h1, h2, h3, h4 {
+  &:hover, &:focus {
+    .heading-permalink {
+      opacity: 1;
+    }
+  }
+
+}
+

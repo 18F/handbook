@@ -1,0 +1,23 @@
+---
+layout: layouts/base
+---
+
+{% comment %}
+This is the primary layout. It is separated out in the event that we eventually
+want other kinds of pages with the same base setup (banner, header, search,
+footer, etc.).
+{% endcomment %}
+
+<main id="main-content" class="usa-prose">
+  {% if title %}
+    <h1 data-page-title>{{ title }}</h1>
+  {% endif %}
+
+  {% include "page-outdated.html" %}
+
+  {% if travel_advisory %}
+    {% include "travel-alert.html" %}
+  {% endif %}
+
+  {{ content }}
+</main>
