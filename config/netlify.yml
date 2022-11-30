@@ -11,9 +11,9 @@
 backend:
   name: github
   repo: 18f/handbook
-  base_url: https://handbook.tts.gsa.gov
+  base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
-  preview_context: federalist/build
+  preview_context: pages/build
   branch: main
 
 media_folder: /_img/
