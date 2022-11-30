@@ -10,6 +10,7 @@ const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const {
+  downloadShortCode,
   imageShortcode,
   imageWithClassShortcode,
   slackChannelLinkShortcode,
@@ -144,6 +145,7 @@ module.exports = function (config) {
   }
 
   // Set image shortcodes
+  config.addLiquidShortcode("download", downloadShortCode);
   config.addLiquidShortcode("image", imageShortcode);
   config.addLiquidShortcode("image_with_class", imageWithClassShortcode);
   config.addLiquidShortcode("slack_channel", slackChannelLinkShortcode);
