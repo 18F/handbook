@@ -4,6 +4,7 @@ questions:
   - why-did-we-do-that
 redirect_from:
   - /18f-history-and-values/
+outdated: true
 ---
 
 18F stands on the shoulders of giants! These teams paved the way for our
