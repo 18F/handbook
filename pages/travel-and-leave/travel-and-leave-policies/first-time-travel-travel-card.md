@@ -116,7 +116,7 @@ You need a PIN to complete chip enabled transactions.
    temporary PIN. Select the unique link and follow the prompts to reset your
    PIN, including entering the temporary PIN from the second email.
 
-[Visit the GSA SmartPay 3 purchase card page on InSite for more information](https://insite.gsa.gov/topics/acquisition-purchases-and-payments/gsa-purchase-card/preparing-and-implementing-gsa-smartpay-3-sp3).
+[Visit the GSA SmartPay 3 travel card page for more information](https://smartpay.gsa.gov/content/travel).
 
 [Next Step: Complete Your Concur
 Profile]({% page "/first-time-travel-complete-concur-profile" %})
