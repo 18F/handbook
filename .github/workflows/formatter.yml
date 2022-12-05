@@ -17,7 +17,7 @@ jobs:
           node-version: 16
 
       - name: format markdown
-        run: npx prettier .
+        run: npx prettier . -w
 
       - name: commit changes, if necessary
         id: commit
