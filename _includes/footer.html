@@ -20,30 +20,14 @@
     <div class="grid-container">
       <div class="usa-footer-contact-links usa-width-one-half align-right">
 
-      {% comment %}
-      We don't want to use NetlifyCMS for the index page because it doesn't make
-      sense. If we're on that page, use the GitHub edit functionality.
-      {% endcomment %}
-
-      {% if page.inputPath == './pages/index.html' %}
         <small>
           <a
-            href="https://github.com/18f/handbook/edit/main/pages/index.html"
+            href="https://github.com/18F/handbook/edit/main/{{ page.inputPath | url }}"
             class="usa-sidenav-edit"
             target="_blank">
             Edit this page
           </a>
         </small>
-      {% else %}
-        <small>
-          <a
-            href="{% page "/admin" %}/#/collections/pages/entries{{ page.filePathStem }}"
-            class="usa-sidenav-edit"
-            target="_blank">
-            Edit this page
-          </a>
-        </small>
-      {% endif %}
 
       </div>
     </div>

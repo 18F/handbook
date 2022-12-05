@@ -152,101 +152,76 @@ time!
   decorative elements or as additional emphasis on the text. {% endcapture %}
   {% include "alert.html" heading:"Be careful with icons" content:alert_content %}
 
-## Contributing via NetlifyCMS (Experimental)
-
-[NetlifyCMS](https://www.netlifycms.org/) is a Git-based content management
-system (CMS) that provides a Google Docs-like interface for editing content. In
-other words, this means that you won't need to know anything about (a) Git, (b)
-Markdown, or (c) web development to make your contribution.
-
-If you'd rather stick with the Git way of editing content, see
-[below](#contributing-via-git).
-
-Note: The following steps specifically cover **editing an existing page**.
-
-### Step 1: Access NetlifyCMS
-
-To access NetlifyCMS for the Handbook, navigate to
-[the Handbook content manager](https://handbook.tts.gsa.gov/admin/). If you
-haven't made a contribution before, NetlifyCMS will prompt you to login with
-GitHub. If you don't have a GitHub account,
-[create one](https://github.com/signup).
-
-Because the Handbook is built and served by
-[Cloud.gov Pages](https://cloud.gov/pages/), you'll also need to [request access
-to Pages]({% page "/tools/federalist/" %}) before you can use NetlifyCMS.
-Cloud.gov Pages uses cloud.gov for authentication, so you'll need a Cloud.gov
-account before requesting access to Pages.
-
-### Step 2: Find the page you'd like to edit
-
-Using the search feature, search by the _title_ of the page you are looking to
-edit. It should come up in the results; click it to open the editor.
-
-{% image "_img/netlifycms-step2.png" "Arrow pointing to the Netlify search bar" %}
-
-### Step 3: Make your changes and save
-
-NetlifyCMS lets you edit content in either Rich Text or Markdown, so feel free
-to use whichever makes you feel more comfortable. When you're done making your
-changes, click the 'Save' button at the top of your screen. _Note: NetlifyCMS
-does not offer auto-saving at this time._
-
-When you save for the first time, a
-[pull request](https://github.com/18F/handbook/pulls) will be automatically
-opened.
-
-**Action Item: You should change the title and body of the pull request to make
-more sense, since it will be pre-filled by NetlifyCMS.**
-
-{% image "_img/netlifycms-step3.png" "Arrow pointing to the Netlify save button" %}
-
-### Step 4: Update the status of your change from 'Draft' to 'In Review'
-
-We've enabled the "editorial workflow" feature of NetlifyCMS, which allows
-content editors to more easily track the status of proposed changes. When you
-first click save, your changes will have 'Status: Draft' attached. Once you feel
-that your changes are ready for others' review, use the dropdown to change the
-status to 'In review'.
-
-You can also change the status by using a
-[Trello-like board](https://handbook.tts.gsa.gov/admin/#/workflow). To change
-the status, simply drag the card associated with your changes from the 'Drafts'
-column to the 'In Review' column.
-
-{% image "_img/netlifycms-step4.png" "Arrow pointing to the 'In review' status" %}
-
-### Step 5: See your changes through!
-
-At this point, your changes should be officially marked as ready for review --
-great work! You should hear back from certain
-[content owners](https://github.com/18F/handbook/blob/main/CODEOWNERS) regarding
-your changes; they should work with you to get your change merged into the main
-Handbook repository.
-
-At the time of writing, the review process is primarily handled in GitHub. If
-you aren't familiar with this tool, that's okay -- see our
-[Intro to GitHub](https://handbook.tts.gsa.gov/intro-to-github/) for a brief
-primer. For most people, the important things to know in GitHub are: (a) how to
-login, (b) how to comment, request changes, or approve pull requests, and (c)
-how to create
-[issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart).
-
-{% image "_img/netlifycms-step5.png" "Screenshot of the GitHub pull request" %}
-
-### Other benefits
-
-- **Access the build preview directly**: At the top right hand side of
-  NetlifyCMS, click 'View Preview' to see your changes deployed on a live, mock
-  Handbook, courtesy of cloud.gov Pages. Check out the
-  [build preview docs](https://federalist.18f.gov/documentation/previews/) for
-  more information on this feature.
-
 ## Contributing via Git
 
-If you're not familiar with how to edit Markdown through GitHub, see [Intro to
-GitHub]({% page "/intro-to-github/" %}) and
+If you're not familiar with how to edit Markdown through GitHub, start with
+[Intro to GitHub]({% page "/intro-to-github/" %}) and
 [digital.gov's Using GitHub for Content Creation](https://digital.gov/resources/an-introduction-github/).
+
+- Click the `Edit this page` link at the very bottom of whichever page you want
+  to edit. This will bring you to GitHub with the page you selected already
+  loaded into an editor window. This is a plaintext editor.
+  - Most handbook pages are in Markdown as described in the links above. Some of
+    them are HTML, however.
+- Make your changes. Don't worry too much about keeping the file neat and tidy –
+  the file will be formatted for consistency automatically. You should only need
+  to worry about the Markdown and the content!
+- At the bottom of the page, you will have an opportunity to provide some text
+  describing this edit. This will be used as part of the default description
+  text when you open your pull request (PR) in the next step. You may leave it
+  blank if you wish as you will have a chance to edit the PR text directly.
+- Make sure `Create a new branch for this commit and start a pull request` is
+  selected. Check the automatically-generated branch name in the text box below
+  that selection – you will need it later if you want to edit multiple files as
+  part of the same pull request – and click the `Propose changes` button.
+- On the pull request page, give your PR a short title that helps people quickly
+  identify what it does. Feel free to provide more information in the
+  description field.
+- Click the `Create pull request` button. This will automatically start a series
+  of tests to ensure everything is still working as expected. While those run,
+  you can assign someone to review your pull request using the "Reviewers"
+  section in the right sidebar. Most PRs will be automatically assigned a
+  reviewer, but you can add your own. See the
+  [pull requests](#pull-requests-prs) and [CODEOWNERS](#codeowners) sections
+  below for more information.
+
+If you need to edit multiple files as part of a single pull request, it is best
+to use a desktop file editor. Doing it directly in GitHub is a bit more
+complicated.
+
+- After editing your first file as described above, navigate to the
+  [list of branches](https://github.com/18F/handbook/branches), find the one you
+  created above, and click it. This will display a list of all files in the
+  Handbook, but as they exist on your branch.
+- Browse the file tree to find the ones you want to edit. Click a filename to
+  open a file viewer. From here, you can edit the file by clicking the pencil
+  icon above the content.
+- When you finish editing a file, make sure
+  `Commit directly to the <your branch> branch` is selected and then click the
+  `Commit changes` button. This will cause your new edits to be added to the
+  pull request you opened previously.
+- You can continue to edit files from your branch and they will be added to your
+  pull request.
+
+## Contributing via Netlify (not recommended)
+
+Netlify is a content management system (CMS) that is intended to make it easier
+to keep the Handbook updated. It includes a rich text editor so you can edit
+content without necessarily having to write any Markdown yourself.
+
+{% capture alert_content %} In our experience, it is often more difficult to use
+Netlify because of how it works under the hood, including some formatting
+decisions that can break the content. If you choose to use Netlify to make
+edits, please be sure to review its changes in GitHub afterwards to ensure it
+did not auto-format anything incorrectly. {% endcapture %}
+{% include "alert.html" heading:"" content:alert_content %}
+
+You will need a [GitHub account](https://github.com/signup) and a cloud.gov
+account in order to use Netlify. Once you have both, you will need to [get
+access to Pages]({% page "/tools/federalist" %}).
+
+Once those are setup, you can access Netlify via [the Handbook content
+manager]({% page "/admin" %}).
 
 ## Other
 
@@ -279,32 +254,6 @@ required. To format your code locally, run:
 ```sh
 npm run lint
 ```
-
-### Fork or branch?
-
-Forking and branching are two ways of submitting pull requests to edit the
-Handbook.
-
-If you are using the **_GitHub website built-in editing features_**, you do not
-have to choose: GitHub will make the correct choice for you.
-
-If you are using your Terminal / local git to edit:
-
-- **TTS teammates**: Please use **_branching_** to submit pull requests.
-  Federalist Preview sites will only be built from a branch, and continuous
-  integration can only succeed for PRs created from branches. If you are a TTS
-  teammate and don't get an option to build a branch, request access to the
-  [18F Staff team](https://github.com/orgs/18F/teams/18f-staff/) on
-  #admins-github
-- **External contributors**: Please use **_forking_** to submit pull requests,
-  since non-TTS contributors do not have write access. Unfortunately, we won't
-  be able to run Federalist Preview sites for your pull request; please build
-  and serve the site locally to test instead.
-
-If you have any questions, feel free to ask in
-{% slack_channel "tts-handbook" %}.
-
-Thank you so much for your contributions! :tada:
 
 ### File/folder structure
 
