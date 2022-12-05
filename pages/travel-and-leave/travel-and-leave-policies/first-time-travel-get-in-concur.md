@@ -8,8 +8,8 @@ questions:
 redirect_from:
   - /first-time-travel-get-in-concur/
 ---
-\[TTS Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br /> \[Next to Travel
+[TTS Travel Guide Table of
+Contents]({% page "/travel-guide-table-of-contents" %}) <br /> [Next to Travel
 Card]({% page "/first-time-travel-travel-card" %})
 
 There are four required steps to gain access to
@@ -47,13 +47,13 @@ and will provide instructions on how you can send this information to them
 securely.
 
 While you wait for the ID number to be generated and sent to you via email
-(which can take up to 1 business day), you may get started on \[applying for the
+(which can take up to 1 business day), you may get started on [applying for the
 GSA travel card]({% page "/first-time-travel-travel-card" %}).
 
 2. Ensure you have completed the mandatory security and privacy training
    required of all GSA staff, assigned to you in OLU (https://gsaolu.gsa.gov).
    Follow the instructions
-   \[here]({% page "/training-and-development/olu/#help-with-olu" %}) if you need
+   [here]({% page "/training-and-development/olu/#help-with-olu" %}) if you need
    help.
 3. Complete the
    [CGE Access Request Form](https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request),
@@ -67,7 +67,7 @@ GSA travel card]({% page "/first-time-travel-travel-card" %}).
    [the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/),
    which you can also book any time if you have questions.
 
-\[Next Step: First-Time Travel - Get a Travel
+[Next Step: First-Time Travel - Get a Travel
 Card]({% page "/first-time-travel-travel-card" %})
 
 ### Frequently Asked questions
