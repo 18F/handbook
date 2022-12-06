@@ -216,8 +216,8 @@ Guild meeting times can also be found on the
 
 ### Guild leadership
 
-Guilds should be led by people from different parts of TTS. They should expect to
-spend a few hours per week on guild leadership, meetings, and preparation.
+Guilds should be led by people from different parts of TTS. They should expect
+to spend a few hours per week on guild leadership, meetings, and preparation.
 Individual guilds can set their own leadership terms, with the most common being
 one year.
 
