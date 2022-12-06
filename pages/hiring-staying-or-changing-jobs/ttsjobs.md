@@ -39,7 +39,7 @@ please join the {% slack_channel "tts-jobs" %} (for TTS opportunities) and
 agencies) Slack channels.
 
 If you know an awesome person for a TTS role or just know a great person that
-you'd like to recommend in general, please check out the \[referring a
+you'd like to recommend in general, please check out the [referring a
 person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ## Announcements
