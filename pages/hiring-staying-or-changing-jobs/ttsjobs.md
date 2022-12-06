@@ -46,13 +46,8 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-[TTS Designer (GS13)](https://join.tts.gsa.gov/join/tts-designer13/) - open
-Friday, October 7th, 2022 through Friday, October 6th, 2023 or until all
-selections have been made
-
-[TTS Designer (GS14/15)](https://join.tts.gsa.gov/join/tts-designer/) - open
-Thursday, September 22nd, 2022 through Thursday, September 21st, 2023 or until
-all selections have been made
+W﻿e will post new opportunities as they become available
+[](https://join.tts.gsa.gov/join/tts-designer13/)
 
 ### Internal only opportunities
 
