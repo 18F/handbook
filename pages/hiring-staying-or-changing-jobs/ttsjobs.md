@@ -57,10 +57,10 @@ Open Friday, October 28th through Tuesday, February 28th
 [18F Account Manager Detail](https://docs.google.com/document/d/1tdqMHihMNR03eVpHQpa4AkLVMMZmoagKKZy2MMze1YU/edit#)
 Open Wednesday, November 23rd through Wednesday, December 28th
 
-[Login.gov Sr. UX Designer reassignment](https://docs.google.com/document/d/1XPnRL2Pzgj59g-RAibQ7PF0TIIeQyZPXLBvGULGN7Q8/edit#)
+[Login.gov Senior UX Designer GS-15 reassignment](https://docs.google.com/document/d/1XPnRL2Pzgj59g-RAibQ7PF0TIIeQyZPXLBvGULGN7Q8/edit#)
 Open Tuesday, December 6 through Tuesday, December 13
 
-[Login.gov UX Designer reassignment](https://docs.google.com/document/d/1EYwAUzIa8wus4dJWAFc7YlDKeFSQwaZ2o8wmraV7ugY/edit#)
+[Login.gov UX Designer GS-14 reassignment](https://docs.google.com/document/d/1EYwAUzIa8wus4dJWAFc7YlDKeFSQwaZ2o8wmraV7ugY/edit#)
 Open Tuesday, December 6 through Tuesday, December 13
 
 ## Opportunities with partners
