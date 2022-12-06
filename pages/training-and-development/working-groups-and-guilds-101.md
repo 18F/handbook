@@ -15,8 +15,8 @@ interests or identities.
 These groups are a valued part of TTS (and in some cases, across government!).
 They:
 
-- Foster belonging through relationship-building
-- Provide learning and training opportunities
+- Foster belonging through relationship-building.
+- Provide learning and training opportunities.
 - Help employees apply best practices and solve thorny issues.
 - Encourage exposure to new thoughts and ideas.
 
@@ -28,9 +28,9 @@ amongst themselves and come together based on shared identities.
 Some groups are available by invitation-only. If you do not share that identity,
 show your allyship by respecting those private gatherings and giving space for
 people to gather and talk freely amongst themselves. The Diversity Guild is
-always available as a place to ask questions and show your suppor
+always available as a place to ask questions and show your support.
 
-The open groups, which are available to all TTS staff, are:
+The open affinity groups, which are available to all TTS staff, are:
 
 - {% slack_channel "lgbtqqiaap" "LGBTQQIAAP" %} — is for anyone who identifies
   as lesbian, gay, bisexual, transgender, queer, questioning, intersex, asexual,
@@ -150,7 +150,7 @@ Guild meeting times can also be found on the
       <tr>
         <th class="col-grouplet" id="consulting">Consulting</th>
         <td class="col-description">
-          Develop and support the practice of consulting at TTS<br /> {% slack_channel "g-consulting" %}
+          We develop and support the practice of consulting at TTS.<br /> {% slack_channel "g-consulting" %}
         </td>
         <td>
           Matt Cloyd - 18F
@@ -180,7 +180,7 @@ Guild meeting times can also be found on the
       <tr>
         <th id="engineering">Engineering Practices</th>
         <td class="col-description">
-          Promoting smart and scalable engineering practices across the frontend and backend. <br />
+          We promote smart and scalable engineering practices across the frontend and backend. <br />
           <a href="https://github.com/18F/development-guide">Eng Guide repo</a> &bull; {% slack_channel "dev" %}
         </td>
         <td>
@@ -216,8 +216,8 @@ Guild meeting times can also be found on the
 
 ### Guild leadership
 
-Guilds should be led people from different parts of TTS. They should expect to
-spend a few hours per week on guild leadership, meetings, and preparation.
+Guilds should be led by people from different parts of TTS. They should expect
+to spend a few hours per week on guild leadership, meetings, and preparation.
 Individual guilds can set their own leadership terms, with the most common being
 one year.
 
@@ -235,7 +235,7 @@ Typically guilds follow a lightweight leadership selection process:
    words are recommended; guilds choose nomination questions.
 1. A panel of one-three people made up of guild leadership, other guild members
    and/or leadership from other guilds conduct brief (no more than 30 minute)
-   interviews of candidates and makes a selection.
+   interviews of candidates and make a selection.
 1. A current guild leader announces the new leader, who takes up the position
    immediately.
 
