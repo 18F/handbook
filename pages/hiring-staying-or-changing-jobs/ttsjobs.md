@@ -63,6 +63,8 @@ Open Tuesday, December 6 through Tuesday, December 13
 [Login.gov UX Designer GS-14 reassignment](https://docs.google.com/document/d/1EYwAUzIa8wus4dJWAFc7YlDKeFSQwaZ2o8wmraV7ugY/edit#)
 Open Tuesday, December 6 through Tuesday, December 13
 
+[Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#) Open Thursday, December 8 through Thursday, December 22
+
 ## Opportunities with partners
 
 **United States Digital Service (USDS)**
