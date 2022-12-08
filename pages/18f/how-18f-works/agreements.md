@@ -115,10 +115,5 @@ The Agreements Team maintains the
 [TTS Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=141231876)
 and updates it daily.
 
-The Agreements Team also holds regular
-[Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU14aUtwd09zYzJ1fGRlZmF1bHR8NWMwZThjZGRjOGVhZjkxNWU2MGY3YTZhMmFiZGRmMDk)
-to provide status updates and answer questions. Schedule a time
-[here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU14aUtwd09zYzJ1fGRlZmF1bHR8NWMwZThjZGRjOGVhZjkxNWU2MGY3YTZhMmFiZGRmMDk).
-
 Questions on agreements can be posted anytime to {% slack_channel "iaa" %} in
 Slack or by sending a message to @tts-agreements-team or tts.agreements@gsa.gov.
