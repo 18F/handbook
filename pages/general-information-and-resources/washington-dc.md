@@ -177,24 +177,15 @@ Go to the F Street entrance, where 24/7 access is available.
 
 ### Book rooms for meetings?
 
-Use [BookIt](https://bookit.gsa.gov) to reserve rooms.
+Use [BookIt](https://bookit.gsa.gov) to reserve rooms. The TTS space is in the
+G100 wing.
 
-- The TTS quiet rooms are 3117 and 3119B. These are unreservable but are
-  first-come, first served.
-- The reservable team rooms are 3116A&B, 3119A, 3128A&B, and 3143.
-- The tables and open space at the southern end of the 3100 hallway - the "3150
-  Space" - are unreservable through BookIT. TTS self-manages the space through a
-  Google Calendar. If you want to host an event in the space, search for "3150
-  Space" in Google Calendar, check the availability, and add your event. If you
-  need the entire space and your colleagues will not be able to sit there for
-  the duration of your event, post advance notice in #dc and write a message on
-  one of the space's whiteboards. Note: there will be foot traffic at the nearby
-  stairwell and to conference room 3148, so prepare for some background noise
-  during your event.
+- The TTS quiet room is G122B. It is unreservable and is first-come, first
+  served.
+- The closest reservable team rooms are G123A and G145m.
 
 Avoid booking rooms:
 
-- 1471, 1472, and 1481---they're only accessible via the 3rd wing
 - x3xx rooms---they're really far away from TTS and aren't easily accessible
 - x0xx rooms---they're not as up-to-date as other wings
 
@@ -202,8 +193,8 @@ Avoid booking rooms:
 
 If you're expecting a small group of US citizens (fewer than 15 or so), no
 advance action is required on your part. Let your guest(s) know to bring ID;
-they'll give your name and the TTS room number (3100) at the security desk.
-You'll have to go down and escort them up.
+they'll give your name and the TTS room number (G100) at the security desk.
+You'll have to escort visitors from security.
 
 If you're expecting a large group, or if the group includes non-US citizens, you
 should give security advance notice.
