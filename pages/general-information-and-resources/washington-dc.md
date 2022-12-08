@@ -177,9 +177,11 @@ Go to the F Street entrance, where 24/7 access is available.
 
 ### Book rooms for meetings?
 
-Use [BookIt](https://bookit.gsa.gov) to reserve rooms. The TTS space is in the G100 wing.
+Use [BookIt](https://bookit.gsa.gov) to reserve rooms. The TTS space is in the
+G100 wing.
 
-- The TTS quiet room is G122B. It is unreservable and is first-come, first served.
+- The TTS quiet room is G122B. It is unreservable and is first-come, first
+  served.
 - The closest reservable team rooms are G123A and G145m.
 
 Avoid booking rooms:
