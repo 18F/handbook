@@ -106,6 +106,10 @@ participants, especially from underserved communities, and helps build trust.
 Without providing incentives and compensation, we are likely to hear only from
 the people who can afford to volunteer their time.
 
+## Planning for compensation
+
+There are a few things to consider and steps to take to ensure that you or your team are able to provide compensation when it is most appropriate. Taking time up front for planning and approvals will help avoid delays and frustrations for teams and research participants alike.
+
 ### Who is not eligible for compensation?
 
 There are exceptions when it comes to financial compensation. Federal government
@@ -126,7 +130,7 @@ of participants’ knowledge and experience. These can include:
 
 ### What authorization and approvals do I need?
 
-**TTS User Research Participant Compensation Justification Checklist:** Each
+**TTS User Research Participant Compensation Justification:** Each
 project team must document their need to compensate user research participants
 by creating a justification for user research
 [template](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit).
@@ -171,13 +175,14 @@ In 2022, TTS considers $70/hour as a starting point for compensation. Teams
 should consider factors of equity and complexity of the research when
 determining compensation for user research on their project.
 
-### How do I actually distribute the compensation to research participants?
+## How do I actually distribute the compensation to research participants?
 
 There are a few different ways to distribute compensation to research
 participants.
 
-**Pay participants via gift card:** Compensation can be distributed to
-participants via digital/e-gift or physical gift cards through
+### Pay participants via gift card
+
+Compensation can be distributed to participants via digital/e-gift or physical gift cards through
 [GiftBit](https://www.giftbit.com/). Gift cards can be purchased by submitting a
 [purchase card request](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
 The total amount of the purchase must be under $10,000 per project.
@@ -186,8 +191,9 @@ For more information, see
 [how do I complete a micropurchase request?]({{site.baseurl}}/office-of-acquisition/#how-do-i-complete-a-micropurchase)
 in the handbook.
 
-**Use usertesting.com:** Teams can also use usertesting.com, if that’s
-applicable. TTS currently has a no cost agreement for that service (with help
+### Use usertesting.com
+
+Teams can also use usertesting.com, if that’s applicable. TTS currently has a no cost agreement for that service (with help
 from a third party vendor)
 [per instructions](https://docs.google.com/document/d/1zJuzKW1txg73ukZlFF37vp5RRhf-iR0r2QZzs0-MXY8/edit).
 
@@ -196,7 +202,7 @@ from a third party vendor)
 Follow these steps when you are ready to begin the compensation process.
 
 1. Complete the
-   [TTS User Research Participant Compensation Justification Checklist](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit).
+   [TTS User Research Participant Compensation Justification document](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit).
    Save it in your project folder, and save a copy in the
    [user research compensation justifications folder](https://drive.google.com/drive/folders/0AGmTTInlTCCQUk9PVA).
 2. If working with a partner agency, confirm the IAA includes
