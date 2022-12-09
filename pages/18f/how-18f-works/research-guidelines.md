@@ -108,7 +108,10 @@ the people who can afford to volunteer their time.
 
 ## Planning for compensation
 
-There are a few things to consider and steps to take to ensure that you or your team are able to provide compensation when it is most appropriate. Taking time up front for planning and approvals will help avoid delays and frustrations for teams and research participants alike.
+There are a few things to consider and steps to take to ensure that you or your
+team are able to provide compensation when it is most appropriate. Taking time
+up front for planning and approvals will help avoid delays and frustrations for
+teams and research participants alike.
 
 ### Who is not eligible for compensation?
 
@@ -130,9 +133,9 @@ of participants’ knowledge and experience. These can include:
 
 ### What authorization and approvals do I need?
 
-**TTS User Research Participant Compensation Justification:** Each
-project team must document their need to compensate user research participants
-by creating a justification for user research
+**TTS User Research Participant Compensation Justification:** Each project team
+must document their need to compensate user research participants by creating a
+justification for user research
 [template](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit).
 Teams can use this
 [sample justification](https://docs.google.com/document/d/1dNxmqlvtTwFbVBnypsVqA4rU2aNS1oXA1k4tmWLSwUw/edit#heading=h.qgqf6gne4pg0)
@@ -182,8 +185,9 @@ participants.
 
 ### Pay participants via gift card
 
-Compensation can be distributed to participants via digital/e-gift or physical gift cards through
-[GiftBit](https://www.giftbit.com/). Gift cards can be purchased by submitting a
+Compensation can be distributed to participants via digital/e-gift or physical
+gift cards through [GiftBit](https://www.giftbit.com/). Gift cards can be
+purchased by submitting a
 [purchase card request](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
 The total amount of the purchase must be under $10,000 per project.
 
@@ -193,8 +197,8 @@ in the handbook.
 
 ### Use usertesting.com
 
-Teams can also use usertesting.com, if that’s applicable. TTS currently has a no cost agreement for that service (with help
-from a third party vendor)
+Teams can also use usertesting.com, if that’s applicable. TTS currently has a no
+cost agreement for that service (with help from a third party vendor)
 [per instructions](https://docs.google.com/document/d/1zJuzKW1txg73ukZlFF37vp5RRhf-iR0r2QZzs0-MXY8/edit).
 
 ### Step-by-step checklist for compensating participants
