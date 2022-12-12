@@ -69,6 +69,7 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
 
   - [ ] Collaborate with team members on their work (for example, pair
         programming with engineers if you’re an engineering supervisor)
+        
   - [ ] Take on a small, non-critical task to free up team bandwidth on bigger
         items (for example, conducting code reviews if you’re an engineering
         supervisor)
