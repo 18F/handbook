@@ -47,61 +47,49 @@ your team.
       has a general
       [List of Supervisor Job Duties](https://docs.google.com/document/d/11DIsUYI1O4j5XP73TP9x9VBfpfc8XOUxPUeHJXaituE/edit),
       and each team will have unique/specific duties, too.
-      
 - [ ] Schedule
       [1-on-1s](https://docs.google.com/document/d/1WVysnJMkLNkmQakjKIxa_v47Ws1RNDh6-iCMG6CsZ4k/edit)
       with each team member
-      
   - [ ] Learn what their skills and talents are, and if they’re able to leverage
         them in their work
-        
   - [ ] Learn where they see themselves in the team and how much that aligns
         with their current role; pay close attention to situations where there
         isn’t strong alignment
-        
   - [ ] Learn how much of their day-to-day is stable and predictable vs. chaotic
         or catches them off guard
-        
 - [ ] If any performance review activities are currently underway (e.g.,
       mid-year or annual reviews), participate as much as possible in a
       learning/observing capacity
-      
   - [ ] The outgoing supervisor may be able to share documentation they have
         with you
-        
 - [ ] Learn about any gaps in team resources and what recruiting and hiring
       actions will be necessary to fill the team, e.g.:
-      
   - [ ] Learn about what’s required for
         [hiring]({% page "/hiring-staying-or-changing-jobs/hiring" %}) and
         [onboarding a new employee]({% page "/getting-started/classes" %})
-        
   - [ ] Learn about what’s required for
         [hiring and onboarding a new contractor](https://docs.google.com/document/d/14xOFvIGwlG0Gbd52o1D4AyJ52RqzHpX91nfEYJKu5qQ/edit)
-        
   - [ ] Learn about what’s required for bringing in an rotating employee from
         the
         [Enterprise Emerging Leaders Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/enterprise-emerging-leaders-program)
         or the
         [FAS 360 program](https://insite.gsa.gov/services-and-offices/federal-acquisition-service/workforce-transformation/fas-360-development-program?term=)
-        
   - [ ] Learn about what’s required for bringing in a
         [detailee]({% page "/training-and-development/details-professional-development/" %})
-        
 - [ ] Connect with the outgoing supervisor, scrum master, product owner (if
       applicable), and other team members to learn about the current state of
       the project(s)/product, including current and upcoming epics and stories.
       See how and where processes are managed, document whatever you learn and
       compile a list of resources for yourself and your team(s).
-      
+
   - [ ] What is currently underway?
-  
+
   - [ ] What is top priority?
-  
+
   - [ ] What is committed to?
-  
+
   - [ ] Are there any upcoming deadlines?
-  
+
   - [ ] What is at risk?
 
 ## Play 3 Reflection Questions
