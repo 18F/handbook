@@ -46,25 +46,20 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
       informal/general
       [Supervisor Circles](https://docs.google.com/document/d/14ztT9Zf0LV9sIDuzGFc25W_DAxTgq_ZFJQd7LZ2Fhgg/edit)
       are organized via Slack each month. Join in when you can.
-      
 - [ ] Learn about and connect with any other colleagues who may be directly
       involved with any work you’ll be responsible for
-      
 - [ ] Request invites to all existing meetings that are relevant to you and your
       role
 
   - [ ] Determine which meetings are important to attend and where your presence
         will help
-        
   - [ ] In the beginning you will likely attend more meetings than you would
         normally as you continue to build context and relationships. Communicate
         this to your team, especially if you are joining meetings that your
         predecessor did not attend
-        
   - [ ] It is important to determine which meetings are required for you, which
         are optional but would benefit from having your presence/lead to more
         productive outcomes, and those you do not need to attend
-        
   - [ ] If you are speaking about anything or are responsible for any action
         items at the end of the meeting, it is generally helpful to send a quick
         summary and clearly list what you will accomplish and by when to whoever
@@ -98,7 +93,6 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
   This Supervisor is hard to work with, complains often and uses their influence
   to bypass rules and processes. How do you build a positive working
   relationship with this Supervisor without becoming frustrated?
-  
 - You’ve noticed that the time spent during the 1:1’s you schedule has become
   wasteful. The employees don’t say much during the 1:1’s and have asked you to
   stop scheduling them, although you feel they are necessary. How might you
