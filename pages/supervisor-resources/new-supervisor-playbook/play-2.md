@@ -98,6 +98,7 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
   This Supervisor is hard to work with, complains often and uses their influence
   to bypass rules and processes. How do you build a positive working
   relationship with this Supervisor without becoming frustrated?
+  
 - You’ve noticed that the time spent during the 1:1’s you schedule has become
   wasteful. The employees don’t say much during the 1:1’s and have asked you to
   stop scheduling them, although you feel they are necessary. How might you
