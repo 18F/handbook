@@ -59,20 +59,17 @@ culture, and ensuring that the team achieves its goals!
   - [ ] Work with your supervisor to come up with a transition plan to account
         for anything that is currently ongoing or needs to be picked up by
         someone else
-        
   - [ ] You may very well be tasked with helping backfill your previous role;
         work with your supervisor to do this, especially if you’re new to things
         like hiring and interviewing
-        
+
 - [ ] Becoming a supervisor for the first time is a career change; work with
       your supervisor to develop a professional growth plan to build and refine
       soft skills and emotional intelligence in this new role
-      
 - [ ] Manage your own emotions and reactions: stop and think before engaging
       with others in any communication medium to consider both the intent of
       what you’re about to put in the world and how it may be received and
       perceived
-      
   - [ ] Ask yourself questions such as “what is my intent here?” or “how might
         others perceive or interpret this?” to help determine what is best
 
@@ -81,7 +78,6 @@ culture, and ensuring that the team achieves its goals!
 - Do you think the balance of power has shifted between supervisors and
   employees now that most organizations have shifted to a remote workforce? In
   what way(s) does power shape an inclusive workplace?
-  
 - Often, even the most resistant teams will begin to adopt and emulate the
   practices they witness. What will you do to ensure that the work gets
   completed satisfactorily while ensuring that your team’s needs are met? What
@@ -96,7 +92,6 @@ culture, and ensuring that the team achieves its goals!
   your boss with concerns. How can you establish a good relationship with them
   without misusing or abusing your power? How will you help them create a
   healthy level of respect for you?
-  
 - You send an instant message to one of your team members asking them if they
   have a minute to talk. There is no additional context given in your message.
   That team member responds immediately and questions what the conversation is
