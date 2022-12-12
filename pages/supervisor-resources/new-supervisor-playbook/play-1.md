@@ -81,6 +81,7 @@ culture, and ensuring that the team achieves its goals!
 - Do you think the balance of power has shifted between supervisors and
   employees now that most organizations have shifted to a remote workforce? In
   what way(s) does power shape an inclusive workplace?
+  
 - Often, even the most resistant teams will begin to adopt and emulate the
   practices they witness. What will you do to ensure that the work gets
   completed satisfactorily while ensuring that your team’s needs are met? What
