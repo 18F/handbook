@@ -41,39 +41,39 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
 
 ## Action Items
 
-- [ ] Learn about your supervisory peers and proactively make the connections
+- Learn about your supervisory peers and proactively make the connections
       with them, especially if you don’t already have one. In TTS,
       informal/general
       [Supervisor Circles](https://docs.google.com/document/d/14ztT9Zf0LV9sIDuzGFc25W_DAxTgq_ZFJQd7LZ2Fhgg/edit)
       are organized via Slack each month. Join in when you can.
-- [ ] Learn about and connect with any other colleagues who may be directly
+- Learn about and connect with any other colleagues who may be directly
       involved with any work you’ll be responsible for
-- [ ] Request invites to all existing meetings that are relevant to you and your
+- Request invites to all existing meetings that are relevant to you and your
       role
 
-  - [ ] Determine which meetings are important to attend and where your presence
+  - Determine which meetings are important to attend and where your presence
         will help
-  - [ ] In the beginning you will likely attend more meetings than you would
+  - In the beginning you will likely attend more meetings than you would
         normally as you continue to build context and relationships. Communicate
         this to your team, especially if you are joining meetings that your
         predecessor did not attend
-  - [ ] It is important to determine which meetings are required for you, which
+  - It is important to determine which meetings are required for you, which
         are optional but would benefit from having your presence/lead to more
         productive outcomes, and those you do not need to attend
-  - [ ] If you are speaking about anything or are responsible for any action
+  - If you are speaking about anything or are responsible for any action
         items at the end of the meeting, it is generally helpful to send a quick
         summary and clearly list what you will accomplish and by when to whoever
         organized the meeting and/or tasked you with something
 
-- [ ] Participate in some of the day-to-day team activities early on
+- Participate in some of the day-to-day team activities early on
 
-  - [ ] Collaborate with team members on their work (for example, pair
+  - Collaborate with team members on their work (for example, pair
         programming with engineers if you’re an engineering supervisor)
-  - [ ] Take on a small, non-critical task to free up team bandwidth on bigger
+  - Take on a small, non-critical task to free up team bandwidth on bigger
         items (for example, conducting code reviews if you’re an engineering
         supervisor)
 
-- [ ] Follow up conversations with quick emails that summarize everything and
+- Follow up conversations with quick emails that summarize everything and
       clearly list any action items with due dates, and ask clarifying questions
       if information is not known
 
