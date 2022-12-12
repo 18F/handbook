@@ -56,22 +56,20 @@ culture, and ensuring that the team achieves its goals!
 
 - Upon starting your new role, stop doing your old job:
 
-  - Work with your supervisor to come up with a transition plan to account
-        for anything that is currently ongoing or needs to be picked up by
-        someone else
-  - You may very well be tasked with helping backfill your previous role;
-        work with your supervisor to do this, especially if you’re new to things
-        like hiring and interviewing
+  - Work with your supervisor to come up with a transition plan to account for
+    anything that is currently ongoing or needs to be picked up by someone else
+  - You may very well be tasked with helping backfill your previous role; work
+    with your supervisor to do this, especially if you’re new to things like
+    hiring and interviewing
 
-- Becoming a supervisor for the first time is a career change; work with
-      your supervisor to develop a professional growth plan to build and refine
-      soft skills and emotional intelligence in this new role
-- Manage your own emotions and reactions: stop and think before engaging
-      with others in any communication medium to consider both the intent of
-      what you’re about to put in the world and how it may be received and
-      perceived
+- Becoming a supervisor for the first time is a career change; work with your
+  supervisor to develop a professional growth plan to build and refine soft
+  skills and emotional intelligence in this new role
+- Manage your own emotions and reactions: stop and think before engaging with
+  others in any communication medium to consider both the intent of what you’re
+  about to put in the world and how it may be received and perceived
   - Ask yourself questions such as “what is my intent here?” or “how might
-        others perceive or interpret this?” to help determine what is best
+    others perceive or interpret this?” to help determine what is best
 
 ## Play 1 Reflection Questions
 
