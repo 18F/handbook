@@ -69,7 +69,6 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
 
   - [ ] Collaborate with team members on their work (for example, pair
         programming with engineers if you’re an engineering supervisor)
-        
   - [ ] Take on a small, non-critical task to free up team bandwidth on bigger
         items (for example, conducting code reviews if you’re an engineering
         supervisor)
@@ -83,7 +82,6 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
 - Why is building trust important in the leader-follower relationship? What have
   you seen leaders do to successfully build trust, and what practices might you
   adopt as your own?
-  
 - What relationship-building strategies have been successful for you in the
   past, that you might leverage in your new role?
 
