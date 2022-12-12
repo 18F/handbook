@@ -83,6 +83,7 @@ focus shifts and you delegate more tasks, so take advantage of it while you can!
 - Why is building trust important in the leader-follower relationship? What have
   you seen leaders do to successfully build trust, and what practices might you
   adopt as your own?
+  
 - What relationship-building strategies have been successful for you in the
   past, that you might leverage in your new role?
 
