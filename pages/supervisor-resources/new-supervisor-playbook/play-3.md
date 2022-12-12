@@ -107,6 +107,7 @@ your team.
   your current supervisor is extremely busy. Every time you schedule a meeting,
   your supervisor asks you to reschedule due to competing priorities. How do you
   ensure that you are building a relationship with your current supervisor?
+  
 - Before you became a supervisor, you had lots of close personal relationships
   with some colleagues. Now that you are in leadership (and will be supervising
   some of those colleagues), what will you do to separate those personal
