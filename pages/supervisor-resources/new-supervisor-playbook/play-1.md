@@ -96,6 +96,7 @@ culture, and ensuring that the team achieves its goals!
   your boss with concerns. How can you establish a good relationship with them
   without misusing or abusing your power? How will you help them create a
   healthy level of respect for you?
+  
 - You send an instant message to one of your team members asking them if they
   have a minute to talk. There is no additional context given in your message.
   That team member responds immediately and questions what the conversation is
