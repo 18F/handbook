@@ -97,6 +97,7 @@ your team.
 - As you watch the team in action, what cultural team norms have you observed?
   Which norms are explicit, and which are implicit? What are team norms that you
   want to foster?
+  
 - Think about all the people who you will work with and who you want to learn
   from. What barriers, if any, do you anticipate? How might you approach these
   challenges?
