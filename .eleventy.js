@@ -6,6 +6,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const {
@@ -111,10 +112,12 @@ module.exports = function (config) {
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
-  }).use(markdownItAnchor, {
-    permalink: headingLinks, // use our custom heading links
-    slugify: config.getFilter("slugify"),
-  });
+  })
+    .use(markdownItAnchor, {
+      permalink: headingLinks, // use our custom heading links
+      slugify: config.getFilter("slugify"),
+    })
+    .use(markdownItAttrs);
   config.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
