@@ -60,6 +60,9 @@ Open Tuesday, December 6 through Tuesday, December 13
 [Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#)
 Open Thursday, December 8 through Friday, December 23
 
+[Login.gov Account Manager Team Lead Detail](https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit#)
+Open Tuesday, December 13 through Friday, December 23
+
 [18F Account Manager Detail](https://docs.google.com/document/d/1tdqMHihMNR03eVpHQpa4AkLVMMZmoagKKZy2MMze1YU/edit#)
 Open Wednesday, November 23rd through Wednesday, December 28th
 
