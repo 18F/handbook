@@ -4,7 +4,7 @@ title: Lifecycle of a Launch
 
 ## ATOs
 
-[Learn about ATOs](https://atos.open-control.org/){: .usa-button}
+[Learn about ATOs](https://atos.open-control.org/){.usa-button}
 
 ### Timeline
 
@@ -141,8 +141,7 @@ follow the usual steps for getting an ATO, starting with
 
 ## ATO Checklist
 
-[Create your ATO checklist](https://github.com/18F/tts-tech-portfolio/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D){:
-.usa-button}
+[Create your ATO checklist](https://github.com/18F/tts-tech-portfolio/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D){.usa-button}
 
 ([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#readme))
 
@@ -250,13 +249,11 @@ As described in
 
 At TTS, the system security plan (SSP) is a long Google Doc.
 
-[Tips](https://atos.open-control.org/tips/#system-security-plans-ssps){:
-.usa-button}
+[Tips](https://atos.open-control.org/tips/#system-security-plans-ssps){.usa-button}
 
 ## Diagrams
 
-[General info](https://atos.open-control.org/tips/#systemnetwork-diagrams){:
-.usa-button}
+[General info](https://atos.open-control.org/tips/#systemnetwork-diagrams){.usa-button}
 
 ### Examples within TTS
 
@@ -325,4 +322,4 @@ Contact ispcompliance@gsa.gov for any issues.
   _Ask the {% slack_channel "api" %} if you have questions._
 - Make sure you have all the social media metadata and preview images.
 
-[More](https://atos.open-control.org/tips/){: .usa-button}
+[More](https://atos.open-control.org/tips/){.usa-button}

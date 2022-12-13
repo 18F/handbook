@@ -53,6 +53,7 @@
   "dependencies": {
     "@uswds/uswds": "^3.2.0",
     "jsdom": "^20.0.3",
+    "markdown-it-attrs": "^4.1.6",
     "netlify-cms": "^2.10.192"
   },
   "prettier": {

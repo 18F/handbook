@@ -10,8 +10,7 @@ You can get started with a trial version [immediately](https://www.sketch.com/).
 Upgrade to the full version whenever you get the license. Visit
 {% slack_channel "sketch" %} on Slack for help and sharing tips.
 
-[Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b){:
-.usa-button}
+[Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b){.usa-button}
 
 ## Plugins
 
