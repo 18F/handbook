@@ -60,7 +60,9 @@ Below are a few key things to know.
 PeopleOps will advise when you should change your home address in HR Links; you
 can follow this
 [step-by-step guide](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Updating-Home-and-Mailing-Address.pdf)
-to make that change. You'll also need to [modify your telework agreement](https://corporateapps.gsa.gov/files/Modify-or-recertify-a-Telework-Agreement-Employees.pdf) with your new address.
+to make that change. You'll also need to
+[modify your telework agreement](https://corporateapps.gsa.gov/files/Modify-or-recertify-a-Telework-Agreement-Employees.pdf)
+with your new address.
 
 You cannot manually change your address with your federal health insurance
 companies, OPM, or TSP: they will receive your new address from GSA, once all
