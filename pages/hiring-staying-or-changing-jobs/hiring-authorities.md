@@ -63,8 +63,7 @@ Currently, GSA has the authority to hire IT Specialists in the 2210 series via
 DHA with two options:
 
 - IT Specialist: term limited to a maximum of 8 years (4 year term that can be
-  extended for another 4 years). This hiring authority expires September
-  20, 2021.
+  extended for another 4 years).
 - IT Specialist - Information Security (INFOSEC): term limited or permanent.
   There is no expiration date on this DHA.
 
