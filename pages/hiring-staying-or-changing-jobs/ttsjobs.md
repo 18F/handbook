@@ -51,12 +51,6 @@ W﻿e will post new opportunities as they become available
 
 ### Internal only opportunities
 
-[Login.gov Senior UX Designer GS-15 reassignment](https://docs.google.com/document/d/1XPnRL2Pzgj59g-RAibQ7PF0TIIeQyZPXLBvGULGN7Q8/edit#)
-Open Tuesday, December 6 through Tuesday, December 13
-
-[Login.gov UX Designer GS-14 reassignment](https://docs.google.com/document/d/1EYwAUzIa8wus4dJWAFc7YlDKeFSQwaZ2o8wmraV7ugY/edit#)
-Open Tuesday, December 6 through Tuesday, December 13
-
 [Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#)
 Open Thursday, December 8 through Friday, December 23
 
