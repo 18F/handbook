@@ -1,6 +1,6 @@
 ---
 title:
-  Play 12 - Promote a healthy culture of accountability with empathy and respect
+  Play 12 - Lead by example, leverage the power of self-reflection, and be accountable
 tags:
   - supervisor playbook
   - leadership
