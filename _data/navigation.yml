@@ -108,8 +108,8 @@ primary:
       Tools and tips for supervisors.
     children:
       - text: New Supervisor Playbook
-        url: https://docs.google.com/document/d/1Y2RvRh2xdlZDUX2wr9kRJ_z0XwPz-F7Kjw3kLD0SfCg/edit
-        internal: false
+        url: supervisor-resources/new-supervisor-playbook/
+        internal: true
       - text: TTS Supervisor Guide
         url: https://docs.google.com/document/u/0/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit
         internal: false
