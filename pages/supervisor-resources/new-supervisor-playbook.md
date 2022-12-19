@@ -73,15 +73,28 @@ and a small checklist to help guide you. The intent is to provide specific,
 actionable things that you can get started with right away, especially if this
 is your first time supervising.
 
-- [Play 1 - Understand the power differential when becoming a supervisor]({% page "/supervisor-resources/new-supervisor-playbook/play-1/" %})
-- [Play 2 - Build connections and lay the foundation for solid relationships]({% page "/supervisor-resources/new-supervisor-playbook/play-2/" %})
-- [Play 3 - Observe and learn before you cause unnecessary churn]({% page "/supervisor-resources/new-supervisor-playbook/play-3/" %})
-- [Play 4 - Ask questions, then ask more questions; in fact, never stop asking questions!]({% page "/supervisor-resources/new-supervisor-playbook/play-4/" %})
-- [Play 5 - Document, document, document]({% page "/supervisor-resources/new-supervisor-playbook/play-5/" %})
-- [Play 6 - Be human; bring your authentic self to work, and get to know the story of others]({% page "/supervisor-resources/new-supervisor-playbook/play-6/" %})
-- [Play 7 - Learn how to delegate effectively]({% page "/supervisor-resources/new-supervisor-playbook/play-7/" %})
-- [Play 8 - Be decisive and involve others whenever possible]({% page "/supervisor-resources/new-supervisor-playbook/play-8/" %})
-- [Play 9 - Be patient with yourself and allow feelings of discomfort]({% page "/supervisor-resources/new-supervisor-playbook/play-9/" %})
-- [Play 10 - Promote a healthy culture of improvement through constructive feedback]({% page "/supervisor-resources/new-supervisor-playbook/play-10/" %})
-- [Play 11 - Promote a healthy culture of accountability with empathy and respect]({% page "/supervisor-resources/new-supervisor-playbook/play-11/" %})
-- [Play 12 - Lead by example, leverage the power of self-reflection, and be accountable]({% page "/supervisor-resources/new-supervisor-playbook/play-12/" %})
+- [Play 1 - Understand the power differential when becoming a
+  supervisor]({% page "/supervisor-resources/new-supervisor-playbook/play-1/" %})
+- [Play 2 - Build connections and lay the foundation for solid
+  relationships]({% page "/supervisor-resources/new-supervisor-playbook/play-2/" %})
+- [Play 3 - Observe and learn before you cause unnecessary
+  churn]({% page "/supervisor-resources/new-supervisor-playbook/play-3/" %})
+- [Play 4 - Ask questions, then ask more questions; in fact, never stop asking
+  questions!]({% page "/supervisor-resources/new-supervisor-playbook/play-4/" %})
+- [Play 5 - Document, document,
+  document]({% page "/supervisor-resources/new-supervisor-playbook/play-5/" %})
+- [Play 6 - Be human; bring your authentic self to work, and get to know the
+  story of
+  others]({% page "/supervisor-resources/new-supervisor-playbook/play-6/" %})
+- [Play 7 - Learn how to delegate
+  effectively]({% page "/supervisor-resources/new-supervisor-playbook/play-7/" %})
+- [Play 8 - Be decisive and involve others whenever
+  possible]({% page "/supervisor-resources/new-supervisor-playbook/play-8/" %})
+- [Play 9 - Be patient with yourself and allow feelings of
+  discomfort]({% page "/supervisor-resources/new-supervisor-playbook/play-9/" %})
+- [Play 10 - Promote a healthy culture of improvement through constructive
+  feedback]({% page "/supervisor-resources/new-supervisor-playbook/play-10/" %})
+- [Play 11 - Promote a healthy culture of accountability with empathy and
+  respect]({% page "/supervisor-resources/new-supervisor-playbook/play-11/" %})
+- [Play 12 - Lead by example, leverage the power of self-reflection, and be
+  accountable]({% page "/supervisor-resources/new-supervisor-playbook/play-12/" %})
