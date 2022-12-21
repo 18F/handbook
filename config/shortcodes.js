@@ -3,6 +3,7 @@ const path = require("path");
 const Image = require("@11ty/eleventy-img");
 
 async function downloadShortCode(downloadPath) {
+  const pathPrefix = process.env.BASEURL ?? "";
   const filename = path.basename(downloadPath);
 
   await fs.mkdir("./_site/assets/downloads", { recursive: true });
@@ -12,7 +13,7 @@ async function downloadShortCode(downloadPath) {
     path.join("./_site/assets/downloads", filename)
   );
 
-  return `/assets/downloads/${filename}`;
+  return `${pathPrefix}/assets/downloads/${filename}`;
 }
 
 async function imageWithClassShortcode(imagePath, cssClass, altText) {
