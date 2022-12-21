@@ -73,6 +73,12 @@ Visit the
 [Zoom documentation page on manual captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-manual-captioning#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f)
 for further details.
 
+##### Attaching captions to Zoom meeting recordings
+
+When recording a meeting, Zoom will record captions in a `.vtt` file automatically, which captures both the caption text and when to show them on the video.
+
+The caption file can be attached to the video after it is uploaded to sites like Google Drive (commonly used at TTS). See how to [add caption tracks to your videos in Google Drive](https://support.google.com/drive/answer/1372218).
+
 ### ASL interpreters
 
 An American Sign Language interpreter can be provided when two parties in a
@@ -110,7 +116,8 @@ they’d like to view, and resize or relocate the video window as needed.
   - Select your scheduled meeting in Zoom for Desktop and click **Edit**, then
     **Select sign language interpretation (video channels) below**.
 - During the meeting:
-  - In the bottom toolbar, select **Interpretation** and select the interpreter.
+    - In the bottom toolbar, select **Interpretation** and select the interpreter.
+    - Select the three dots button on the interpreter’s square and click **Allow to talk**. Alternatively, you can find the interpreter in the **Participants** panel and click **Allow to talk** there as well.
 
 Visit the
 [Zoom documentation page on enabling sign language interpretation view](https://support.zoom.us/hc/en-us/articles/9513103461005-Enabling-Sign-Language-interpretation-view#h_01GFC7KAKXZZWWW1YRWWSZJ5GB:~:text=confirm%20the%20setting.-,User,-To%20enable%20or)
