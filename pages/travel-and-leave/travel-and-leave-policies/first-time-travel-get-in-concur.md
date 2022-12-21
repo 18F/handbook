@@ -43,10 +43,9 @@ an issue with your internet._
   confirmation message.
 
 In case the travel finance team is unable to locate your payroll banking
-information, they may request that you complete
-[the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing)
-and will provide instructions on how you can send this information to them
-securely.
+information, they may request that you complete [the EFT
+form]({% download "downloads/EFT_Enrollment_Form.pdf" %}) and will provide
+instructions on how you can send this information to them securely.
 
 While you wait for the ID number to be generated and sent to you via email
 (which can take up to 1 business day), you may get started on [applying for the

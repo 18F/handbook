@@ -1,5 +1,20 @@
+const fs = require("fs/promises");
 const path = require("path");
 const Image = require("@11ty/eleventy-img");
+
+async function downloadShortCode(downloadPath) {
+  const pathPrefix = process.env.BASEURL ?? "";
+  const filename = path.basename(downloadPath);
+
+  await fs.mkdir("./_site/assets/downloads", { recursive: true });
+
+  await fs.copyFile(
+    downloadPath,
+    path.join("./_site/assets/downloads", filename)
+  );
+
+  return `${pathPrefix}/assets/downloads/${filename}`;
+}
 
 async function imageWithClassShortcode(imagePath, cssClass, altText) {
   const pathPrefix = process.env.BASEURL ?? "";
@@ -55,6 +70,7 @@ const slackChannelLinkShortcode = (channel, name) => {
 };
 
 module.exports = {
+  downloadShortCode,
   imageWithClassShortcode,
   imageShortcode,
   slackChannelLinkShortcode,
