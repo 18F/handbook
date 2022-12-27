@@ -113,6 +113,9 @@ primary:
       - text: TTS Supervisor Guide
         url: https://docs.google.com/document/u/0/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit
         internal: false
+      - text: A Supervisor's Guide to Onboarding New Hires
+        url: https://docs.google.com/document/d/1ow1VIwSzAGGzsBjGUZMlnLwK6kKTZWS_paGyIzfgpbE/edit
+        internal: false
   - text: Performance management
     href: /#performance-management
     blurb: |

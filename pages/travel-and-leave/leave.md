@@ -612,11 +612,6 @@ OPM Fact Sheets:
 - [Leave Year Beginning and Ending Dates](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
 - [Advanced Annual Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-annual-leave/)
 
-Timesheet error example:
-
-![Screenshot reflecting negative leave balance exception]({% page "/images/leave/Advanced" %}
-Leave timesheet exception.png)
-
 ### Advanced sick leave
 
 You can request up to 240 hours of advanced sick leave. If you are a term
