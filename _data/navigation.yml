@@ -115,7 +115,7 @@ primary:
         internal: false
       - text: A Supervisor's Guide to Onboarding New Hires
         url: https://docs.google.com/document/d/1ow1VIwSzAGGzsBjGUZMlnLwK6kKTZWS_paGyIzfgpbE/edit
-        internal: false        
+        internal: false
   - text: Performance management
     href: /#performance-management
     blurb: |
