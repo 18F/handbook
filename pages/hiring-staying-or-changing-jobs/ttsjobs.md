@@ -57,9 +57,6 @@ Open Thursday, December 8 through Friday, January 6
 [Login.gov Account Manager Team Lead Detail](https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit#)
 Open Tuesday, December 13 through Friday, January 6
 
-[18F Account Manager Detail](https://docs.google.com/document/d/1tdqMHihMNR03eVpHQpa4AkLVMMZmoagKKZy2MMze1YU/edit#)
-Open Wednesday, November 23rd through Wednesday, December 28th
-
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
 Open Friday, October 28th through Tuesday, February 28th
 
