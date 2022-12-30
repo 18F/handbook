@@ -6,7 +6,7 @@ The GSA Privacy Office ([public](https://www.gsa.gov/privacygsa) and
 [internal](https://insite.gsa.gov/privacygsa) pages) preserves and evolves
 privacy protections for any individual whose personal information is handled by
 the agency. In practice, this requires the Office to
-[conduct periodic privacy threshold analyses (PTAs) and privacy impact assessments (PIAs)]([https://gsa.gov/portal/getMediaData?mediaId=199855](https://www.gsa.gov/cdnstatic/CIO_P_1878.2A_Conducting_Privacy_Impact_Assessments_(PIAs)_in_GSA_(Signed_on_October_29__2014).pdf))
+[conduct periodic privacy threshold analyses (PTAs) and privacy impact assessments (PIAs)](<[https://gsa.gov/portal/getMediaData?mediaId=199855](https://www.gsa.gov/cdnstatic/CIO_P_1878.2A_Conducting_Privacy_Impact_Assessments_(PIAs)_in_GSA_(Signed_on_October_29__2014).pdf)>)
 for each of the GSA&rsquo;s programs and information systems. This helps the
 Office ensure legal compliance and mitigate privacy risks.
 
