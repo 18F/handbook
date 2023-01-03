@@ -12,7 +12,6 @@ footer, etc.).
   <main id="main-content" class="usa-prose usa-prose__home">
 {% else %}
   {% assign words = content | split: " "%}
-  {{ words.size }}
   {% if words.size > site.inpagenavwordcount %}
   <aside
   class="usa-in-page-nav"
