@@ -63,8 +63,6 @@ const postbuild = async () => {
     // If for any reason there is no DOM or the created DOM doesn't have a
     // document (that would be weird), skip this file.
     if (dom && dom.window?.document) {
-
-
       // Modify the internal links on a page. If the internal link script makes
       // any changes, capture this as a file with a modified DOM
       const processedInternalLinks = await internalLinks(path, dom);
