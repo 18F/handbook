@@ -51,10 +51,15 @@ const buildSidenavs = async (path, dom, verbose = false) => {
 
         const title = clone.textContent.trim();
         const id = heading.getAttribute("id");
+        
+          const item = document.createElement("li");
+          item.setAttribute("class", "usa-sidenav__item");
 
-        const item = document.createElement("li");
-        item.setAttribute("class", "usa-sidenav__item")
-        item.innerHTML = `<a href="#${id}">${title}</a>`;
+          if (heading.tagName.toLowerCase() == "h3") {
+            item.setAttribute("class", "usa-sidenav__item sub-child");
+          }
+          item.innerHTML = `<a href="#${id}">${title}</a>`;
+        
         list.appendChild(item);
       }
         // insert node after

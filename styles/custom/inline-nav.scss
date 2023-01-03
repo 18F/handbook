@@ -1,7 +1,6 @@
 .with-inline-navigation {
   .usa-layout-docs__main,
   main {
-    position: relative;
     overflow: visible;
   }
 
@@ -15,32 +14,14 @@
   .usa-sidenav {
     border-left: units('1px') solid color("blue-60");
 
-    li.h3 {
-      margin-left: units(1.5);
-    }
-    ul li.h4 {
-      margin-left: units(3);
-    }
-    ul li.h5 {
-      margin-left: units(5);
+    li {
+      margin-left: units(1);
+      font-weight: bold;
     }
 
-    li a {
-      padding: units(0.5);
-      display: block;
-      line-height: lh("body", 2);
-      text-decoration: none;
-      border-radius: radius("sm");
-    }
-
-    li a:hover {
-      text-decoration: underline;
-    }
-
-    li.is-active a {
-      background: #297f00;
-      color: white;
-      text-decoration: none;
+    li.sub-child {
+      margin-left: units(2);
+      font-weight: normal;
     }
   }
 }
