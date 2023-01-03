@@ -11,6 +11,14 @@ footer, etc.).
 {% if page.inputPath == './pages/index.html' %} 
   <main id="main-content" class="usa-prose usa-prose__home">
 {% else %}
+  <aside
+  class="usa-in-page-nav"
+  data-title-text="On this page"
+  data-title-heading-level="h3"
+  data-scroll-offset="0"
+  data-root-margin="0px 0px 0px 0px"
+  data-threshold="1"
+  ></aside>
   <main id="main-content" class="usa-prose">
 {% endif %}
 
