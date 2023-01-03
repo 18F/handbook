@@ -11,8 +11,9 @@ footer, etc.).
 {% if page.inputPath == './pages/index.html' %} 
   <main id="main-content" class="usa-prose usa-prose__home">
 {% else %}
-{% assign word_count = content | split: ", " %}
- {% if word_count > site.inpagenavwordcount %}
+  {% assign words = content | split: " "%}
+  {{ words.size }}
+  {% if words.size > site.inpagenavwordcount %}
   <aside
   class="usa-in-page-nav"
   data-title-text="On this page"
@@ -22,7 +23,7 @@ footer, etc.).
   data-threshold="1"
   ></aside>
   {% endif %}
-  <main id="main-content" class="usa-prose">
+  <main id="main-content" class="usa-prose test">
 {% endif %}
 
   {% if title %}
