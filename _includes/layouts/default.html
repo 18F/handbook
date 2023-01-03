@@ -8,7 +8,12 @@ want other kinds of pages with the same base setup (banner, header, search,
 footer, etc.).
 {% endcomment %}
 
-<main id="main-content" class="usa-prose">
+{% if page.inputPath == './pages/index.html' %} 
+  <main id="main-content" class="usa-prose usa-prose__home">
+{% else %}
+  <main id="main-content" class="usa-prose">
+{% endif %}
+
   {% if title %}
     <h1 data-page-title>{{ title }}</h1>
   {% endif %}
