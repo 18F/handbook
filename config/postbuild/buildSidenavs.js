@@ -14,7 +14,7 @@ const buildSidenavs = async (path, dom, verbose = false) => {
 
   if (!isFrontPage && !hasNav) {
     // Only traverse down to h3 so the table of contents is not unwieldy
-   const headings = document.querySelectorAll("main > h2, main > h3");
+    const headings = document.querySelectorAll("main > h2, main > h3");
 
     if (headings.length) {
       log(path);
@@ -30,13 +30,15 @@ const buildSidenavs = async (path, dom, verbose = false) => {
       inPageNav.setAttribute("data-title-text", "On this page");
       inPageNav.setAttribute("data-title-heading-level", "h3");
       inPageNav.setAttribute("data-scroll-offset", "0");
-      inPageNav.setAttribute("data-root-margin","0px 0px 0px 0px");
+      inPageNav.setAttribute("data-root-margin", "0px 0px 0px 0px");
       inPageNav.setAttribute("data-threshold", "1");
-  
-      document.querySelector("main").parentNode.setAttribute(
-        "class", "usa-in-page-nav-container")
-      document.querySelector("main").parentNode.insertBefore(inPageNav, document.querySelector("main"));
 
+      document
+        .querySelector("main")
+        .parentNode.setAttribute("class", "usa-in-page-nav-container");
+      document
+        .querySelector("main")
+        .parentNode.insertBefore(inPageNav, document.querySelector("main"));
     }
   }
 
