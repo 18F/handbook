@@ -12,7 +12,7 @@ footer, etc.).
   <main id="main-content" class="usa-prose usa-prose__home">
 {% else %}
 {% assign word_count = content | split: ", " %}
- {% if word_count > 300 %}
+ {% if word_count > site.inpagenavwordcount %}
   <aside
   class="usa-in-page-nav"
   data-title-text="On this page"
