@@ -27,14 +27,15 @@ const buildSidenavs = async (path, dom, verbose = false) => {
 
       const nav = document.createElement("nav");
       nav.setAttribute("role", "navigation");
-      nav.setAttribute("class", "inline-navigation");
+      nav.setAttribute("aria-label", "Side navigation,");
+      nav.setAttribute("class", "sticky-side tablet:grid-col-4");
 
-      const h1 = document.createElement("h1");
-      h1.textContent = "On this page:";
-      nav.appendChild(h1);
+      const h4 = document.createElement("h4");
+      h4.textContent = "On this page:";
+      nav.appendChild(h4);
 
       const list = document.createElement("ul");
-      nav.appendChild(list);
+      nav.appendChild(list).setAttribute("class","usa-sidenav");
 
       for (const heading of headings) {
         // Remove any heading permalink content. Our 11ty build adds permalinks
@@ -52,20 +53,17 @@ const buildSidenavs = async (path, dom, verbose = false) => {
         const id = heading.getAttribute("id");
 
         const item = document.createElement("li");
-        item.setAttribute("class", heading.tagName.toLowerCase());
+        item.setAttribute("class", "usa-sidenav__item")
         item.innerHTML = `<a href="#${id}">${title}</a>`;
         list.appendChild(item);
       }
-
-      const title = document.querySelector("main > h1[data-page-title]");
-      if (title) {
-        title.insertAdjacentElement("afterend", nav);
-      } else {
-        document.querySelector("main").insertAdjacentElement("afterbegin", nav);
-      }
-
+        // insert node after
+        document.querySelector("main").parentNode.insertBefore(nav, document.querySelector("main").nextSibling);
+        document.querySelector("main").setAttribute("class", "usa-prose tablet:grid-col-8");
       return true;
     }
+  } else {
+    document.querySelector("main").setAttribute("class", "usa-prose width-tablet-lg");
   }
 
   return false;
