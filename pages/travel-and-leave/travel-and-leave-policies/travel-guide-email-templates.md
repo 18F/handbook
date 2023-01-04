@@ -7,12 +7,13 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-email-templates/
+sidebar: travel
 ---
 
 [TTS Travel 101]({% page "/travel-101" %}) <br> [TTS Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br>
 [FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Jump to Step 1: Booking Travel]({% page "/travel-guide-1-book-travel" %})
+<br> [Jump to Step 2: Booking Travel]({% page "/travel-guide-2-book-travel" %})
 <br>
 
 ##### Note about travel to a training, conference, speaking event, large team IRL, or international

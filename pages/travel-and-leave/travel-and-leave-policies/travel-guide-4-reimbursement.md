@@ -8,6 +8,7 @@ questions:
 redirect_from:
   - /travel-guide-3-reimbursement/
 current_step: 4
+sidebar: travel
 ---
 
 [TTS Travel 101]({% page "/travel-101" %}) <br> [Travel Guide Table of

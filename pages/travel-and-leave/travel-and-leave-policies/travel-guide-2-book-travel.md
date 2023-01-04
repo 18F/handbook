@@ -1,5 +1,5 @@
 ---
-title: Step 2 Book Travel in Concur and Secure Approvals
+title: Step 2 - Book Travel in Concur and Secure Approvals
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -8,6 +8,7 @@ questions:
 redirect_from:
   - /travel-guide-1-book-travel/
 current_step: 2
+sidebar: travel
 ---
 
 [TTS Travel 101]({% page "/travel-101" %}) <br> [Travel Guide Table of
@@ -61,16 +62,16 @@ charged directly to the GSA._
 Once you have finalized your reservations, there are still a few more steps to
 follow through on.
 
-- [Completing trip
+- 1. [Completing trip
   information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-complete-your-trip-information" %}),
   including relevant details about your trip.
-- [Justify any rental car use or personal vehicle mileage
+- 2. [Justify any rental car use or personal vehicle mileage
   claims]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-justify-rental-cars-and-personal-vehicle-mileage" %}),
   when applicable.
-- [Stamp and submit
+- 3. [Stamp and submit
   authorization]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %}),
   ensuring your authorization is in SUBMIT TO APPROVER status.
-- If you haven't done so already, [secure written approval from your authorizing
+- 4. If you haven't done so already, [secure written approval from your authorizing
   official]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %})
   and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise
   approve your trip in the system.

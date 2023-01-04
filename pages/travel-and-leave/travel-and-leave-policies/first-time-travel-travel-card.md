@@ -5,6 +5,7 @@ questions:
 redirect_from:
   - /first-time-travel-travel-card/
 current_step: 2
+sidebar: travel
 ---
 
 [TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of

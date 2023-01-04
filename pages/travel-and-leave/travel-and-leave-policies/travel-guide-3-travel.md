@@ -8,6 +8,7 @@ questions:
 redirect_from:
   - /travel-guide-2-travel/
 current_step: 3
+sidebar: travel
 ---
 
 [TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of

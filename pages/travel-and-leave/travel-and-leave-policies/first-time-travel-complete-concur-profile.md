@@ -8,6 +8,7 @@ questions:
 redirect_from:
   - /first-time-travel-complete-concur-profile/
 current_step: 3
+sidebar: travel
 ---
 [TTS Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br> [Back to Getting a

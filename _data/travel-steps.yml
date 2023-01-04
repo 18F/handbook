@@ -6,7 +6,7 @@ steps:
   - text: Travel
     href: travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/
   - text: Get reimbursed
-    href: /travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/
 
 first_time_steps:
   - text: Get Concur access

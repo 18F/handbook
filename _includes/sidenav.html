@@ -1,0 +1,14 @@
+<div class="tablet:grid-col-4">
+<aside class="sidenav" id="side-navigation" aria-label="Side navigation,">
+        <ul class="usa-sidenav">
+            {% for item in navigation.travel %}
+                <li class="usa-sidenav__item">
+                    <a href="{{ site.baseurl }}/{{ item.url }}">
+                        {{ item.text }}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</aside>
+</div>
