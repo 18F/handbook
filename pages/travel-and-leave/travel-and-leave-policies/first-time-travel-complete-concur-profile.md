@@ -7,12 +7,14 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-complete-concur-profile/
+current_step: 1
 ---
-
 [TTS Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br> [Back to Getting a
 Travel Card]({% page "/first-time-travel-travel-card" %}) <br> [Next to Booking
 travel]({% page "/travel-guide-1-book-travel" %})<br>
+
+{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
 
 You will want to complete your Concur profile to pay for hotels listed in Concur
 with your Travel Card and get your preferred airline seats, miles, rewards, etc.

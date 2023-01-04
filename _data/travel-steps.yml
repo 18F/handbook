@@ -1,0 +1,10 @@
+steps:
+  - First time setup
+  - Book travel
+  - Travel
+  - Get reimbursed
+
+first_time_steps:
+  - Get Concur access
+  - Get GSA travel card
+  - Update concur card
