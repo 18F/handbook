@@ -1,5 +1,5 @@
 ---
-title: First-Time Travel Get a Travel Card
+title: First-Time travel get a travel card
 questions:
   - ronnail.rawls@gsa.gov
 redirect_from:
@@ -8,12 +8,9 @@ current_step: 2
 sidebar: travel
 ---
 
-[TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br> [Back to Get in
-Concur]({% page "/first-time-travel-get-in-concur" %}) <br> [Next to Complete
-Concur Profile]({% page "/first-time-travel-complete-concur-profile" %})
-
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+
+[Next to Complete Concur profile >]({% page "/first-time-travel-complete-concur-profile" %})
 
 A GSA travel card will help you pay for lodging, taxis, and other miscellaneous
 expenses while on your trip.

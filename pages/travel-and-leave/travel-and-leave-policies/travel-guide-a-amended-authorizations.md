@@ -10,10 +10,7 @@ redirect_from:
 sidebar: travel
 ---
 
-[TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br>
-[FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Jump to Step 2: What to Consider While
+[Jump to Step 3: What to Consider While
 Traveling]({% page "/travel-guide-2-travel" %})
 
 Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your

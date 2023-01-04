@@ -10,9 +10,6 @@ redirect_from:
 sidebar: travel
 ---
 
-[TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide
-TOC]({% page "/travel-guide-table-of-contents" %})
-
 ## Questions about booking travel
 
 ### How to Book Flights or Rail

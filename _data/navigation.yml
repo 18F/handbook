@@ -620,12 +620,12 @@ footer:
     href: /contributing/
 
 travel:
-  - text: Travel 101
-    url: getting-started/classes/travel-101/
   - text: FAQ
     url: travel-and-leave/travel-and-leave-policies/travel-guide-faq/
-  - text: 1. First time guide
+  - text: Travel 101
     url: getting-started/classes/travel-101/
+  - text: 1. First time setup
+    url: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
   - text: 2. Book travel
     url: travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/
   - text: 3. Travel

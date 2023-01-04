@@ -11,14 +11,11 @@ current_step: 1
 sidebar: travel
 ---
 
-[TTS Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br> [What to consider
-while traveling]({% page "/travel-guide-2-travel" %}) <br><br> Steps to take
-after onboarding <br> [Get access to
-Concur]({% page "/first-time-travel-get-in-concur" %}) <br> [Get
-reimbursed]({% page "/travel-guide-3-reimbursement" %})<br>
-
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+
+Steps to take after onboarding:
+* [Get access to Concur]({% page "/first-time-travel-get-in-concur" %})
+* [Get reimbursed]({% page "/travel-guide-3-reimbursement" %})<br>
 
 If you're traveling for TTS during your first two weeks (normally for
 orientation, if you're based in a city that doesn't have a TTS office), you'll

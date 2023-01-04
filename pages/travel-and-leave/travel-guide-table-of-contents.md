@@ -8,6 +8,7 @@ questions:
 travel_advisory: true
 redirect_from:
   - /travel-guide-table-of-contents/
+sidebar: travel
 ---
 
 - [Travel 101]({% page "/travel-101/" %})

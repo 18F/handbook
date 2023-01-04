@@ -10,9 +10,7 @@ redirect_from:
 sidebar: travel
 ---
 
-[TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br>
-[FAQ]({% page "/travel-guide-faq" %}) <br> [Jump to Step 2: What to Consider
+[Jump to Step 3: What to Consider
 While Traveling]({% page "/travel-guide-2-travel" %})
 
 If the need to travel arises after-hours, or if you forgot to stamp and submit

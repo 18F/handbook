@@ -3,9 +3,13 @@ title: TTS Travel 101
 travel_advisory: false
 redirect_from:
   - /travel-101/
+current_step: 1
+sidebar: travel
 ---
 
-### Initial setup for travel
+{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
+
+## Initial setup for travel
 
 In order to travel officially in TTS, you need to, at minimum, [get set up in
 Concur]({% page "/first-time-travel-get-in-concur/" %})\*, GSA's travel system.
@@ -28,7 +32,7 @@ procedures]({% page "/first-time-travel-get-in-concur-pre-olu/" %}) for staff
 who need to get into Concur to travel during their first week and may not yet
 have access to OLU to complete the required IT security trainings._
 
-### Brief overview of how to travel
+## Brief overview of how to travel
 
 Once you are [set up in Concur]({% page "/first-time-travel-get-in-concur/" %})
 and your [travel card]({% page "/first-time-travel-travel-card/" %}) is on its
@@ -75,7 +79,7 @@ situations:
 - [Issues with
   reimbursement]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#issues-with-reimbursement" %})
 
-### Getting help
+## Getting help
 
 **You** are responsible for securing your [authorizing official's approval to
 travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %}),
