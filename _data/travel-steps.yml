@@ -7,4 +7,5 @@ steps:
 first_time_steps:
   - Get Concur access
   - Get GSA travel card
-  - Update concur card
+  - Update Concur profile
+  - Start approval process

@@ -7,7 +7,7 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-complete-concur-profile/
-current_step: 1
+current_step: 3
 ---
 [TTS Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br> [Back to Getting a
