@@ -13,10 +13,14 @@ date: git Last Modified
     
     {% include "header.html" %}
 
-    <div class="usa-layout-docs usa-layout-docs__main desktop:grid-col-9 usa-prose">
+      <div class="usa-layout-docs usa-layout-docs__main usa-prose">
       <div class="usa-section">
         <div class="grid-container">
-          <div class="grid-row grid-gap flex-align-start">
+          {% if page.inputPath == './pages/index.html' %} 
+            <div class="grid-row grid-gap flex-align-start">
+          {% else %}
+            <div class="usa-in-page-nav-container">
+          {% endif %}
             {{ content }}
           </div>
 
