@@ -10,8 +10,7 @@ redirect_from:
 sidebar: travel
 ---
 
-[Jump to Step 2: Booking Travel]({% page "/travel-guide-2-book-travel" %})
-<br>
+[Jump to Step 2: Booking Travel]({% page "/travel-guide-2-book-travel" %}) <br>
 
 ##### Note about travel to a training, conference, speaking event, large team IRL, or international
 

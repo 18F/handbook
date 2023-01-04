@@ -10,8 +10,8 @@ redirect_from:
 sidebar: travel
 ---
 
-[Jump to Step 3: What to Consider
-While Traveling]({% page "/travel-guide-2-travel" %})
+[Jump to Step 3: What to Consider While
+Traveling]({% page "/travel-guide-2-travel" %})
 
 If the need to travel arises after-hours, or if you forgot to stamp and submit
 so your authorization was never approved, you may still be able to get your
