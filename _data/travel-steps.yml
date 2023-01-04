@@ -1,11 +1,19 @@
 steps:
-  - First time setup
-  - Book travel
-  - Travel
-  - Get reimbursed
+  - text: First time setup
+    href: getting-started/classes/travel-101/
+  - text: Book travel
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/
+  - text: Travel
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/
+  - text: Get reimbursed
+    href: /travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/
 
 first_time_steps:
-  - Get Concur access
-  - Get GSA travel card
-  - Update Concur profile
-  - Start approval process
+  - text: Get Concur access
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
+  - text: Get GSA travel card
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
+  - text: Update Concur profile
+    href: travel-and-leave-policies/first-time-travel-complete-concur-profile/
+  - text: Start approval process
+    href: http://localhost:8080/travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/

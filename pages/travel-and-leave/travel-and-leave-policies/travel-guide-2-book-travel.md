@@ -1,5 +1,5 @@
 ---
-title: Step 1 - Book Travel in Concur and Secure Approvals
+title: Step 2 Book Travel in Concur and Secure Approvals
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -13,8 +13,8 @@ current_step: 2
 [TTS Travel 101]({% page "/travel-101" %}) <br> [Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br>
 [FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Jump to Step 2: What to Consider While
-Traveling]({% page "/travel-guide-2-travel" %})
+<br> [What to Consider While
+Traveling >>]({% page "/travel-guide-2-travel" %})
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
