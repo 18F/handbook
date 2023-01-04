@@ -1,0 +1,59 @@
+name: add new TTS job
+
+on:
+  issues:
+    types: [opened,edited]
+
+jobs:
+  add_job:
+    name: add a new TTS job
+    runs-on: ubuntu-latest
+
+    steps:
+      # Rather than use a personal access token to interact with the project, we
+      # can use this GitHub App. There's an API for exchanging app credentials
+      # for a short-term token, and we use that API here.
+      - name: get token
+        uses: tibdex/github-app-token@v1
+        id: app_token
+        with:
+          app_id: ${{ secrets.GH_APP_ID }}
+          installation_id: ${{ secrets.GH_APP_INSTALLATION_ID }}
+          private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+          token: ${{ steps.app_token.outputs.token }}
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: npm
+
+      - run: npm install js-yaml
+
+      - name: parse pull request
+        id: parse
+        uses: actions/github-script@v6
+        with:
+          # In order to use an external script, the actions/github-script action
+          # requires that we require() it and then call it. An external script
+          # is easier to maintain, so that's what we do.
+          script: |
+            const script = require("./.github/workflows/new-job-issue.js");
+            await script({ context, core, github });
+
+      # Only do this step if the parsing step updated the jobs data.
+      - if: steps.parse.outputs.updated == 'yes'
+        name: create pull request
+        env:
+          GH_TOKEN: ${{ steps.app_token.outputs.token }}
+        run: |
+          git config user.email "bot@tts.gsa.gov"
+          git config user.name "TTS Jobs Automation"
+          git checkout -b tts-jobs/${{ steps.parse.outputs.issue }}
+          git add _data/jobs.yaml
+          git commit -m "adding TTS Job from issue #${{ steps.parse.outputs.issue}}"
+          git push -u origin tts-jobs/${{ steps.parse.outputs.issue }}
+          gh pr create -B main -l "HIGH PRIORITY" -l "TTS Jobs" -t "Add TTS Job from Issue #${{ steps.parse.outputs.issue }}" -b "PR created automatically. Closes #${{ steps.parse.outputs.issue }}." -r "@18f/team-talent"

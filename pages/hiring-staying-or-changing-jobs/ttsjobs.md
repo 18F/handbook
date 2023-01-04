@@ -46,16 +46,17 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-[Public Experience Portfolio Director GS15](https://join.tts.gsa.gov/join/tts-pubexperiencedirector/) -
-open Tuesday, January 17th through Monday, January 23rd
-
-[PIF Deputy Director GS15 ](https://join.tts.gsa.gov/join/pif-deputy-director15/)-
-open Tuesday, January 17th through Tuesday, January 24th
+{% if jobs.public.length > 0 %}
+{% for post in jobs.public %}{% include "job-posting.md" post:post %}
+{% endfor %}{% else %}We will post new opportunities as they become available
+{% endif %}
 
 ### Internal only opportunities
 
-[eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
-Open Friday, October 28th through Tuesday, February 28th
+{% if jobs.internal.length > 0 %}
+{% for post in jobs.internal %}{% include "job-posting.md" post:post %}
+{% endfor %}{% else %}We will post new opportunities as they become available
+{% endif %}
 
 ## Opportunities with partners
 
