@@ -39,7 +39,7 @@ and your [travel card]({% page "/first-time-travel-travel-card/" %}) is on its
 way, there are three main parts of the travel process to be aware of:
 
 1. [Booking flights/rail, hotels, and rental
-   cars]({% page "/travel-guide-1-book-travel/" %}) in
+   cars]({% page "/travel-guide-2-book-travel/" %}) in
    [Concur](https://travel.gsa.gov) or via AdTrav at (877) 472-6716, [completing
    trip
    information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#completing-trip-information" %})

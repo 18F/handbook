@@ -484,7 +484,7 @@ project on both sides of a weekend-- the same considerations apply._
 
 Instead of obtaining an email of approval, you must follow the [event request
 process]({% page "/conferences-events-training/" %}). You may [book your
-travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/#brief-overview-of-booking-travel" %})
+travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/#brief-overview-of-booking-travel" %})
 in the meantime.<br> <br> However, if you will be [extending your trip at your
 own
 expense]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-extending-travel-for-personal-reasons" %}),

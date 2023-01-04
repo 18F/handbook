@@ -45,7 +45,7 @@ miles and/or points earned while on government travel.
 
 ## Do you have an upcoming trip?
 
-[Yes: Get travel authorization]({% page "/travel-guide-1-book-travel" %})
+[Yes: Get travel authorization]({% page "/travel-guide-2-book-travel" %})
 
 #### Having Trouble
 
