@@ -1,5 +1,5 @@
 ---
-title: Step 2 - Travel
+title: Step 3 - Travel
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -13,8 +13,8 @@ current_step: 3
 [TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br>
 [FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Back to Step 1: Book Travel]({% page "/travel-guide-1-book-travel" %})
-<br> [Jump to Step 3: Reimbursement]({% page "/travel-guide-3-reimbursement" %})
+<br> [Back to Step 2: Book Travel]({% page "/travel-guide-1-book-travel" %})
+<br> [Jump to Step 4: Reimbursement]({% page "/travel-guide-3-reimbursement" %})
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 

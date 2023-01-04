@@ -12,8 +12,8 @@ first_time_steps:
   - text: Get Concur access
     href: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
   - text: Get GSA travel card
-    href: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card/
   - text: Update Concur profile
-    href: travel-and-leave-policies/first-time-travel-complete-concur-profile/
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile/
   - text: Start approval process
-    href: http://localhost:8080/travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/

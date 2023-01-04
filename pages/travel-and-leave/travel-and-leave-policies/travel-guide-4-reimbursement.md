@@ -13,7 +13,7 @@ current_step: 4
 [TTS Travel 101]({% page "/travel-101" %}) <br> [Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br>
 [FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Back to Step 2: What to Consider While
+<br> [Back to Step 3: What to Consider While
 Traveling]({% page "/travel-guide-2-travel" %})
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}

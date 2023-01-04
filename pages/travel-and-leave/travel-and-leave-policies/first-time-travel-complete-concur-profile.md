@@ -12,7 +12,7 @@ current_step: 3
 [TTS Travel Guide Table of
 Contents]({% page "/travel-guide-table-of-contents" %}) <br> [Back to Getting a
 Travel Card]({% page "/first-time-travel-travel-card" %}) <br> [Next to Booking
-travel]({% page "/travel-guide-1-book-travel" %})<br>
+travel]({% page "/travel-guide-2-book-travel" %})<br>
 
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
 

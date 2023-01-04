@@ -11,15 +11,15 @@ redirect_from:
 ---
 
 - [Travel 101]({% page "/travel-101/" %})
-- First Time Travel Guide
+- 1. First Time Travel Guide
   - [1 - Get access to
     Concur]({% page "/travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur" %})
   - [2 - Get a GSA Travel
     Card]({% page "/travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card" %})
   - [3 - Update your Concur
     Profile]({% page "/travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile" %})
-- [1. Book
-  Travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel" %})
+- [2. Book
+  Travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel" %})
   - [Secure authorizing official approval via
     email]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %})
     - [Individual travel email
@@ -55,16 +55,16 @@ redirect_from:
   - [Stamping and Submitting for Travel Team
     Approval]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %})
   - [Unofficial TTS guide to Concur FAILS](https://docs.google.com/document/d/1zD020XAXRIpuXPKgY0zadLBNJmBaRj_29-DhClrkZAo/edit)
-- [2.
-  Travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-travel" %})
+- [3.
+  Travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel" %})
   - [How do I use the GSA travel
-    card?]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-travel/#use-your-travel-card-when-possible" %})
+    card?]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/#use-your-travel-card-when-possible" %})
   - [Which receipts do I need to
-    keep?]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-travel/#which-receipts-must-i-keep" %})
+    keep?]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/#which-receipts-must-i-keep" %})
   - [Meals and Incidental
-    Expenses]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-travel/#meals-and-incidental-expenses-m-and-ie" %})
-- [3. Get
-  Reimbursed]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-reimbursement" %})
+    Expenses]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/#meals-and-incidental-expenses-m-and-ie" %})
+- [4. Get
+  Reimbursed]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement" %})
   - [Voucher from authorization (all non-local
     travel)]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-voucher-from-authorization" %})
   - [Local and miscellaneous
