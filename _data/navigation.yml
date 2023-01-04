@@ -611,6 +611,11 @@ primary:
           - text: Trello (task and project management)
             url: trello/
             internal: true
+secondary:
+  - text: Getting started
+    href: getting-started/
+  - text: GSA Insite
+    href: https://insite.gsa.gov/
 
 footer:
   - text: File an issue

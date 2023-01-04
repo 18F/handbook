@@ -18,9 +18,19 @@
         </li>
         {% endfor %}
       </ul>
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links">
+          {% for item in navigation.secondary %}
+          <li class="usa-nav__secondary-item">
+        <a href="{{ item.href | url }}">
+          {{ item.text }}
+        </a>
+        {% endfor %}
+        </ul>
       <section aria-label="Search component">
         {% include "searchgov/form.html" searchgov: site.searchgov %}
       </section>
+    </div>
     </nav>
   </div>
 </header>

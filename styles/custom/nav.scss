@@ -11,3 +11,9 @@ nav.usa-nav {
     overflow-x: visible;
   }
 }
+
+@media (min-width: 64em) {
+  .usa-nav__secondary {
+    bottom: 0;
+  }
+}
