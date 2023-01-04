@@ -1,0 +1,24 @@
+public:
+  - role: TTS Designer (GS13)
+    link: https://join.tts.gsa.gov/join/tts-designer13
+    opens: 2022-09-22
+    closes: 2023-09-21
+    closes-when-filled: true
+  - role: TTS Designer (GS14/15)
+    link: https://join.tts.gsa.gov/join/tts-designer
+    opens: 2022-10-07
+    closes: 2023-10-06
+    closes-when-filled: true
+internal:
+  - role: Login.gov Account Manager GS-15 reassignment
+    link: https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit
+    opens: 2022-12-08
+    closes: 2023-01-06
+  - role: Login.gov Account Manager Team Lead Detail
+    link: https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit
+    opens: 2022-12-13
+    closes: 2023-01-06
+  - role: eRulemaking System Architect reassignment
+    link: https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit
+    opens: 2022-10-28
+    closes: 2023-02-28

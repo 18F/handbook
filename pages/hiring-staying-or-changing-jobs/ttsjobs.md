@@ -46,22 +46,17 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-[TTS Product Management Supervisor GS15 ](https://join.tts.gsa.gov/join/tts-productsupervisor15/)-
-open Monday, January 9th through Tuesday, January 17th
+We will post new opportunities as they become available
+
+{% for post in jobs.public %}{% include "job-posting.md" post:post %}
+
+{% endfor %}
 
 ### Internal only opportunities
 
-[Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#)
-Open Thursday, December 8 through Friday, January 13
+{% for post in jobs.internal %}{% include "job-posting.md" post:post %}
 
-[Login.gov Account Manager Team Lead detail](https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit#)
-Open Tuesday, December 13 through Friday, January 13
-
-[PIF Program Office detail](https://docs.google.com/document/d/18m2dHoCKX6lg8GDXFGHBs1Y6lYsxqNPDTuaGURyN8Sw/edit?usp=sharing)
-Open Friday January, 6th through Friday, January 13th
-
-[eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
-Open Friday, October 28th through Tuesday, February 28th
+{% endfor %}
 
 ## Opportunities with partners
 
