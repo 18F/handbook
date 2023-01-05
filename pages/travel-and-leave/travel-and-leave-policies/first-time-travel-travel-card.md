@@ -11,7 +11,8 @@ sidebar: travel
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
 
 [Next to Complete Concur profile
->]({% page "/first-time-travel-complete-concur-profile" %})
+
+> ]({% page "/first-time-travel-complete-concur-profile" %})
 
 A GSA travel card will help you pay for lodging, taxis, and other miscellaneous
 expenses while on your trip.
