@@ -39,7 +39,7 @@ and your [travel card]({% page "/first-time-travel-travel-card/" %}) is on its
 way, there are three main parts of the travel process to be aware of:
 
 1. [Booking flights/rail, hotels, and rental
-   cars]({% page "/travel-guide-2-book-travel/" %}) in
+   cars]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}) in
    [Concur](https://travel.gsa.gov) or via AdTrav at (877) 472-6716, [completing
    trip
    information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#completing-trip-information" %})
@@ -52,10 +52,10 @@ way, there are three main parts of the travel process to be aware of:
    or through the [event request
    process]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering" %})
 2. [What to keep in mind while on official
-   travel]({% page "/travel-guide-2-travel/" %}), including which receipts to
+   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}), including which receipts to
    keep, and when to use the GSA travel card
 3. [Getting reimbursed for official
-   travel]({% page "/travel-guide-3-reimbursement/" %}) (plus [local
+   travel]({% page "/travel-guide-4-reimbursement/" %}) (plus [local
    travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
    or [non-travel related
    reimbursements]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
