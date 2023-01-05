@@ -8,14 +8,15 @@ questions:
 redirect_from:
   - /travel-guide-1-book-travel/
 current_step: 2
-sidebar: travel
+sidebar:
+   kind: travel
+   current: 2. Book travel
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
-[Next to What to Consider While Traveling
-
-> ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
+[Next to What to Consider
+While Traveling >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 ## Brief overview of booking travel
 

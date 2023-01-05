@@ -7,11 +7,16 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-email-templates/
-sidebar: travel
+current_step: 2
+sidebar:
+   kind: travel
+   current: Approval email templates
 ---
 
+{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
+
 [Jump to Step 2: Booking
-Travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
+Travel >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 <br>
 
 ##### Note about travel to a training, conference, speaking event, large team IRL, or international

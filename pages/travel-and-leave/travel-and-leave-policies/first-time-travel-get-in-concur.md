@@ -8,7 +8,9 @@ questions:
 redirect_from:
   - /first-time-travel-get-in-concur/
 current_step: 1
-sidebar: travel
+sidebar:
+   kind: travel
+   current: 1. First time setup
 ---
 
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}

@@ -4,7 +4,9 @@ travel_advisory: false
 redirect_from:
   - /travel-101/
 current_step: 1
-sidebar: travel
+sidebar:
+  kind: travel
+  current: Travel 101
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}

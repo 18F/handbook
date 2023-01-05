@@ -5,7 +5,9 @@ questions:
 redirect_from:
   - /first-time-travel-travel-card/
 current_step: 2
-sidebar: travel
+sidebar:
+   kind: travel
+   current: 1. First time setup
 ---
 
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
