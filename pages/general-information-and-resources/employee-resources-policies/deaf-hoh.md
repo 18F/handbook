@@ -10,8 +10,6 @@ redirect_from:
 Tools, services, points of contact, and tips for navigating the resources
 available to individuals and teams.
 
-## Services provided by GSA
-
 Once GSA has established that a person is Deaf and/or is Hard of Hearing (HoH),
 they should not have to provide additional medical documentation for assistive
 technologies or services related to that disability—only any other reasonable
@@ -20,41 +18,118 @@ documentation, consult GSA’s
 [Office of Civil Rights](https://www.gsa.gov/about-us/organization/office-of-civil-rights-overview)
 to determine whether that request is appropriate.
 
-### CART
+## Services for remote meetings
+
+### CART (Captioning)
 
 In order to provide accessible telecommunications services for Deaf/HoH and
-speech-disabled employees, GSA has a contract with CART provider for these
-shared services. These services are not free, they are billed to a task order (a
-request for services from within an established contract) that GSA pays for and
-should only be used when needed to accommodate the individual. There is no cost
-to program offices (like 18F, OPP, PIF, etc.) for using these services, and CART
-services do not require medical documentation. Visit
-[Live Captioning InSite](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/virtual-and-online-meetings/closed-captioning)
-page for further details.
+speech-disabled employees, GSA has a contract with CART (Communication Access
+Real-time Translation) provider for these shared services. These services are
+not free, they are billed to a task order (a request for services from within an
+established contract) that GSA pays for and should only be used when needed to
+accommodate the individual. There is no cost to program offices (like 18F, OPP,
+PIF, etc.) for using these services, and CART services do not require medical
+documentation.
 
 The general public who are Deaf/HoH or those having speech disabilities can also
 use this service to conduct business with federal agencies.
 
-## Accessing remote services
+To access captioning services:
 
-To access remote interpreting or captioning services:
+- Send an email at least 12 hours prior to the meeting (2-3 days is preferred)
+  to [BISCOORD@BISWORLD.COM](mailto:BISCOORD@BISWORLD.COM) with the following
+  information:
+  - **Requestors Name:**
+  - **Event Title:**
+  - **Event Point of contact:**
+  - **Phone number and pin for conference line:**
+  - **Event date:**
+  - **Start and End time (include timezone):**
+  - **Names of the speakers / panelist / participants** that are going to
+    present on the event:
+  - **Prepartion materials** (acronyms, agenda, PowerPoint, documents) anything
+    that will help the Writer/Captioner to prepare for the call: i.
+  - _Optional information to provide:_ What platform the event will be on and
+    URL of the event.
+- Confirmation information will be emailed to the Requestor’s Name with the
+  captioning URL.
 
-1. Send an email 3 business days prior to the meeting to
-   [BISCOORD@BISWORLD.COM](mailto:BISCOORD@BISWORLD.COM) with the following
-   information: a. **Requestors Name:** b. **Event Title:** c. **Event Point of
-   contact:** d. **Phone number and pin for conference line:** e. **Event
-   date:** f. **Start and Endtime (include timezone):** g. **Names of the
-   speakers / panelist / participants** that are going to present on the event:
-   h. **Prepartion materials** (acronyms, agenda, PowerPoint, documents)
-   anything that will help the Writer/Captioner to prepare for the call: i.
-   _Optional information to provide:_ What platform the event will be on and URL
-   of the event.
-2. Confirmation information will be emailed to the Requestor’s Name with the
-   captioning URL.
+Visit the
+[Live Captioning InSite page](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/virtual-and-online-meetings/closed-captioning)
+for further details.
+
+#### Integrating with Zoom for Government
+
+To integrate captions from the provided captioner with Zoom:
+
+- You must be signed in and the meeting host or co-host and in the meeting.
+- Select the three dots button on the captioner’s square and click **Assign a
+  participant to type**.
+- If this is not visible, head to the bottom toolbar and select **Live
+  Transcript** (it may be under **More…** on smaller screens) and then **Set up
+  manual captioner** and then **Assign a participant to type**.
+
+Visit the
+[Zoom documentation page on manual captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-manual-captioning#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f)
+for further details.
+
+##### Attaching captions to Zoom meeting recordings
+
+When recording a meeting, Zoom will record captions in a `.vtt` file
+automatically, which captures both the caption text and when to show them on the
+video.
+
+The caption file can be attached to the video after it is uploaded to sites like
+Google Drive (commonly used at TTS). See how to
+[add caption tracks to your videos in Google Drive](https://support.google.com/drive/answer/1372218).
+
+### ASL interpreters
+
+An American Sign Language interpreter can be provided when two parties in a
+virtual meeting experience a communication barrier (e.g. Google Meet or Zoom).
+
+These services are not free, they are billed to a task order (a request for
+services from within an established contract) that GSA pays for and should only
+be used when needed to accommodate the individual. There is no cost to program
+offices (like 18F, OPP, PIF, etc.) for using these services unless an event is
+cancelled. GSA will be billed for events that are not cancelled within 48 hours
+of event and reimbursement may be requested by the employee's office.
+
+To request ASL interpreters:
+
+- Fill out the
+  [ASL Service Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSc0i5qH-JeF22VmfQ8v2v4t6cP0S4Rb1o1QnU42Iyvyb1Y74A/viewform)
+  at least 72 hours before the event is scheduled.
+- You will be asked to provide information about the reasonable accommodation on
+  file that supports this request.
+- A coordinator will be in touch via email to confirm the details.
+
+#### Integrating with Zoom for Government
+
+Sign language interpreters are shown in dedicated video channels that are pinned
+and spotlighted, identifying the specific type of sign language they are
+interpreting. Participants can then select which sign language video channel
+they’d like to view, and resize or relocate the video window as needed.
+
+- You must be signed in and the meeting host or co-host.
+- Before the meeting:
+  - **Sign language interpretation view** must be enabled in the host’s user
+    settings in the Zoom web portal. Click on **Settings**, the **Meeting** tab,
+    and look for the **In Meeting (Advanced)** section.
+  - If Zoom for Desktop is running, restart it.
+  - Select your scheduled meeting in Zoom for Desktop and click **Edit**, then
+    **Select sign language interpretation (video channels) below**.
+- During the meeting:
+  - In the bottom toolbar, select **Interpretation** and select the interpreter.
+  - Select the three dots button on the interpreter’s square and click **Allow
+    to talk**. Alternatively, you can find the interpreter in the
+    **Participants** panel and click **Allow to talk** there as well.
+
+Visit the
+[Zoom documentation page on enabling sign language interpretation view](https://support.zoom.us/hc/en-us/articles/9513103461005-Enabling-Sign-Language-interpretation-view#h_01GFC7KAKXZZWWW1YRWWSZJ5GB:~:text=confirm%20the%20setting.-,User,-To%20enable%20or)
+for further information.
 
 ### Video relay services (VRS)
-
-#### Dependencies for [video relay](https://www.federalrelay.us/vrs)
 
 In order to use video relay services in combination with video meeting tools
 like Google Meet, the Deaf/HoH individual will need to install GSA-approved
@@ -125,55 +200,22 @@ interpreter. To get this software:
 - Inform the meeting host ahead of time that they may see an unrecognizable
   number dialed in—this is FedRelay.
 
-### Relay conference captioning (RCC)
-
-[Relay conference captioning](https://www.federalrelay.us/rcc) is real-time
-captioning for meetings over the phone or internet, including web conferencing,
-by creating text in a computer window. **This is the only service that needs to
-be scheduled in advance:** please book at least 12 hours ahead for English, and
-48 hours ahead for Spanish.
-
-#### Schedule a meeting with Relay Conference Captioning
-
-- Follow the instructions on the
-  [FedRelay RCC page](https://www.federalrelay.us/rcc)
-- When the booking is confirmed, you will receive a link for accessing the
-  transcript at the time of the event
-- Add the link for accessing the live transcript to the meeting invitation, so
-  that individuals using it can find it easily when they join the meeting
-
-#### Relay Conference captioning tips
-
-- For the Federal Agency Name field, GSA is **4700**
-- Join the meeting early if you can so that you can make sure the captioner is
-  set up properly.
-- Include a good description of the event so they know what words or acryonms to
-  expect. For example, if you're giving a technical talk the captioner might not
-  be familiar with some of the words you expect to use, so including them will
-  help the captions be more accurate.
-- Consider also including the phonetic pronunciation for words or you expect to
-  use a lot. (Use your judgement, you don't want to overwhelm them either!)
-- You are also able to chat through the captioning interface. You can use this
-  to correct or supplement captions if necessary.
-
 ### Other software
 
-If an individual has used other software that isn’t included in the FedRelay
-package, follow the instructions on the [Software]({% page "/software/" %}) page
-to check whether it is already approved by GSA, and how to request it.
+If an individual has used other software that isn’t included, follow the
+instructions on the [Software]({% page "/software/" %}) page to check whether it
+is already approved by GSA, and how to request it.
 
 ## Accessing in-person services
 
 There are times when a Deaf/HoH individual may desire or find it more convenient
-to have a live interpreter than to manipulate the FedRelay tools, such as
-in-person events like workshops or group meetings.
+to have a live interpreter, such as in-person events like workshops or group
+meetings.
 
 Choose a service provider that the individual has previously had a good
-experience with if you can. GSA has not allocated centralized funds to support
-costs associated with accommodating employees outside of FedRelay, which leaves
-some flexibility and choice up to the individual. Find organizations or
-interpreters the individual has worked with before that have knowledge of their
-specialized technical vocabulary.
+experience with if you can. Find organizations or interpreters the individual
+has worked with before that have knowledge of their specialized technical
+vocabulary.
 
 Each program office is responsible for the cost of these services.
 
@@ -236,8 +278,7 @@ help organize on-site resources for their area.
 
 **Contact**
 
-> James Mulvaney  
-> james.mulvaney@gsa.gov
+> James Mulvaney james.mulvaney@gsa.gov
 
 ### Office of Civil Rights
 
@@ -266,8 +307,7 @@ technology solutions through the
 
 **Contact**
 
-> Alexander Koudry  
-> alex.koudry@gsa.gov
+> Alexander Koudry alex.koudry@gsa.gov
 
 ## Terms to know
 
@@ -283,7 +323,8 @@ technology solutions through the
   hearing ability.
 - **Federal Relay (FedRelay):** Provides telecommunications services for federal
   agencies and tribal governments to conduct official business with individuals
-  who are Deaf and/or Hard of Hearing, or have speech disabilities.
+  who are Deaf and/or Hard of Hearing, or have speech disabilities. All Federal
+  Relay contract services ended on 2/13/22.
 - **Interpreter:** An interpreter converts spoken information into sign language
   in real-time. Also, an interpreter converts sign language into verbal speech
   for a hearing person. (_See difference, translator_)
