@@ -156,8 +156,8 @@ around your trip.
 ### Don't forget about vouchers!
 
 Have a good trip, [get
-reimbursement]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})-- filling out a
-voucher-- within 5 business days of getting back.
+reimbursement]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})--
+filling out a voucher-- within 5 business days of getting back.
 
 Why the rush? Filling out a voucher correctly allows you to:
 
