@@ -148,7 +148,7 @@ will need to complete for your request.
 ### Booking travel
 
 You can start making [Travel Arrangements in
-Concur]({% page "/travel-guide-2-book-travel/" %}) (if needed) at any point in
+Concur]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}) (if needed) at any point in
 the process, even before you've submitted the
 [Events request form](https://docs.google.com/forms/d/e/1FAIpQLSeQHPIOtNwzEA7IxrJ4JDHeEUrWNUsiEkbnp8lK26jX04PYBg/viewform?usp=sf_link)
 if you would like to get an estimate of travel costs. Most travel reservations

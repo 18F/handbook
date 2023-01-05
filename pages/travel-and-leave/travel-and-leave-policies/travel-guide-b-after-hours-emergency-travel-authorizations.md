@@ -11,7 +11,7 @@ sidebar: travel
 ---
 
 [Jump to Step 3: What to Consider While
-Traveling]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})
+Traveling]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 If the need to travel arises after-hours, or if you forgot to stamp and submit
 so your authorization was never approved, you may still be able to get your

@@ -45,7 +45,7 @@ miles and/or points earned while on government travel.
 
 ## Do you have an upcoming trip?
 
-[Yes: Get travel authorization]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})
+[Yes: Get travel authorization]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 #### Having Trouble
 
