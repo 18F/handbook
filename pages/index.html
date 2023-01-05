@@ -1,13 +1,26 @@
 ---
 permalink: /
 homepage: true
-title: TTS Handbook
+title: Technology Transformation Services Handbook
 ---
 
-<p>
-  {{ site.description }}
-  <a href="{% page "/about/" %}">Read more about the Handbook.</a>
-</p>
+<section class="grid-container usa-section usa-section--dark">
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col-4">
+      <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">
+        A resource for TTS Employees
+      </h2>
+    </div>
+    <div class="tablet:grid-col-8 usa-prose">
+      <p>
+        {{ site.description }}
+      </p>
+      <p>
+        <a href="{% page "/about/" %}">Read more about the Handbook. >></a>
+      </p>
+    </div>
+  </div>
+</section>
 {% include "most-visited.html" %}
 <div class="layout-table-of-contents">
   <div class="wrapper usa-prose">
