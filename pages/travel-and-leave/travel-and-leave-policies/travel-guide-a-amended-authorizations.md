@@ -144,7 +144,7 @@ the authorized amount...
 
 Congratulations! No further action is required. Make the changes to your
 itinerary, and proceed with your [travel]({% page "/travel-guide-2-travel" %})
-and [voucher]({% page "/travel-guide-3-reimbursement" %}) upon your return with
+and [voucher]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %}) upon your return with
 no further approvals required.
 
 **Otherwise:**

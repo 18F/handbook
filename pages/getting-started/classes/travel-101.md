@@ -25,7 +25,7 @@ reservations in Concur. It is recommended that you make all of your reservations
 via AdTrav at (877) 472-6716 until your card arrives. You will need to use your
 personal funds for all travel expenses other than flights/rail, but can be
 reimbursed for all official expenses when you [complete a voucher upon your
-return]({% page "/travel-guide-3-reimbursement/" %}).
+return]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/" %}).
 
 \*_Note: there are [special
 procedures]({% page "/first-time-travel-get-in-concur-pre-olu/" %}) for staff
@@ -55,7 +55,7 @@ way, there are three main parts of the travel process to be aware of:
    travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}),
    including which receipts to keep, and when to use the GSA travel card
 3. [Getting reimbursed for official
-   travel]({% page "/travel-guide-4-reimbursement/" %}) (plus [local
+   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %}) (plus [local
    travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
    or [non-travel related
    reimbursements]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})

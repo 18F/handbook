@@ -1,5 +1,5 @@
 ---
-title: First-Time travel get a travel card
+title: First-time travel guide - Step 2 - Get a travel card
 questions:
   - ronnail.rawls@gsa.gov
 redirect_from:

@@ -65,7 +65,7 @@ sidebar: travel
   - [Meals and Incidental
     Expenses]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/#meals-and-incidental-expenses-m-and-ie" %})
 - [4. Get
-  Reimbursed]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement" %})
+  Reimbursed]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})
   - [Voucher from authorization (all non-local
     travel)]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-voucher-from-authorization" %})
   - [Local and miscellaneous
