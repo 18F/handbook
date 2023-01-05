@@ -16,7 +16,7 @@ sidebar: travel
 Steps to take after onboarding:
 
 - [Get access to Concur]({% page "/first-time-travel-get-in-concur" %})
-- [Get reimbursed]({% page "/travel-guide-3-reimbursement" %})<br>
+- [Get reimbursed]({% page "/travel-guide-4-reimbursement" %})<br>
 
 If you're traveling for TTS during your first two weeks (normally for
 orientation, if you're based in a city that doesn't have a TTS office), you'll

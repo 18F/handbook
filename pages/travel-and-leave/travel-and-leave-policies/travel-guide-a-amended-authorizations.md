@@ -11,7 +11,7 @@ sidebar: travel
 ---
 
 [Jump to Step 3: What to Consider While
-Traveling]({% page "/travel-guide-2-travel" %})
+Traveling]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your
 authorizing officials, and the TTS travel team are ready for that!

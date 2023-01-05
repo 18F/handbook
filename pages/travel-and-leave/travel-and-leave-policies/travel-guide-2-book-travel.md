@@ -14,7 +14,7 @@ sidebar: travel
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
 [Next to What to Consider While Traveling
->]({% page "/travel-guide-2-travel" %})
+>]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 ## Brief overview of booking travel
 
