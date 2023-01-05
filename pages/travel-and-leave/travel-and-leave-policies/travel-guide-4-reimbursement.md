@@ -1,5 +1,5 @@
 ---
-title: Step 4 - Get Reimbursed
+title: Step 4 - Get reimbursed
 questions:
   - travel
   - tts-travel@gsa.gov
