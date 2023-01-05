@@ -396,7 +396,8 @@ card 3-5 business days after travel team approval. For issues with
 reimbursement, read on more [here](#issues-with-reimbursement)
 
 Once your authorization is approved and ticketed, you might want to take a look
-at [what to expect while traveling]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})!
+at [what to expect while
+traveling]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})!
 
 ### How to secure authorizing official approval
 

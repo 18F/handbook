@@ -13,7 +13,8 @@ sidebar: travel
 
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
 
-[Next to Booking travel >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})<br>
+[Next to Booking travel
+>]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})<br>
 
 You will want to complete your Concur profile to pay for hotels listed in Concur
 with your Travel Card and get your preferred airline seats, miles, rewards, etc.
@@ -45,7 +46,8 @@ miles and/or points earned while on government travel.
 
 ## Do you have an upcoming trip?
 
-[Yes: Get travel authorization]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})
+[Yes: Get travel
+authorization]({% page "/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 #### Having Trouble
 
