@@ -55,7 +55,8 @@ way, there are three main parts of the travel process to be aware of:
    travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}),
    including which receipts to keep, and when to use the GSA travel card
 3. [Getting reimbursed for official
-   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %}) (plus [local
+   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})
+   (plus [local
    travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
    or [non-travel related
    reimbursements]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
