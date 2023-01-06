@@ -4,13 +4,9 @@ travel_advisory: false
 redirect_from:
   - /travel-101/
 current_step: 1
-<<<<<<< HEAD
 sidebar:
   kind: travel
   current: Travel 101
-=======
-sidebar: travel
->>>>>>> 00e24b517d0f6c6ddaeb94c3e0404402e1057589
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
