@@ -52,10 +52,10 @@ We will post new opportunities as they become available
 ### Internal only opportunities
 
 [Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#)
-Open Thursday, December 8 through Friday, January 6
+Open Thursday, December 8 through Friday, January 13
 
 [Login.gov Account Manager Team Lead detail](https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit#)
-Open Tuesday, December 13 through Friday, January 6
+Open Tuesday, December 13 through Friday, January 13
 
 [PIF Program Office detail](https://docs.google.com/document/d/18m2dHoCKX6lg8GDXFGHBs1Y6lYsxqNPDTuaGURyN8Sw/edit?usp=sharing)
 Open Friday January, 6th through Friday, January 13th
