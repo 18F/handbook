@@ -267,7 +267,7 @@ primary:
                 url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
                 internal: false
               - text: Employee assistance program
-                url: employee-assistance-program/
+                url: getting-started/classes/benefits/#employee-assistance-program
                 internal: true
               - text: Employment verification
                 url: employment-verification/
