@@ -1,0 +1,42 @@
+name: Add a job to the Handbook
+description: Add a job to the TTS Jobs page in the TTS Handbook.
+title: "[TTS Jobs] Add a job: "
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Add a new job to [the Handbook](https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/ttsjobs/).
+
+        Please fill out the form below to request to add a new job to the TTS
+        Handbook. After you submit this issue, a pull request will automatically
+        be generated to make the update.
+  - type: dropdown
+    label: Is this job available to the public, or is it internal-only?
+    validations:
+      required: true
+    options:
+      - "public"
+      - "internal-only"
+  - type: input
+    label: Role
+  - type: input
+    label: Link
+    description: |
+      For roles available to the public, this is typically a link to to the
+      TTS Jobs site at https://join.tts.gsa.gov. For internal-only roles, this
+      is typically a link to a Google Doc.
+  - type: input
+    label: Job opening date
+    description: The date must be formatted as YYYY-MM-DD.
+  - type: input
+    label: Job closing date
+    description: The date must be formatted as YYYY-MM-DD.
+  - type: dropdown
+    label: Does this job close when all selections have been made?
+    validations:
+      required: true
+    value: "no"
+    options:
+      - "no"
+      - "yes"
