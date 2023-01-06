@@ -1,26 +1,70 @@
 <div class="usa-overlay"></div>
-<header class="usa-header usa-header--basic">
-  <div class="usa-nav-container">
-    <div class="usa-navbar">
-      <div class="usa-logo" id="-logo">
-        <em class="usa-logo__text"><a href="{{ "/" | url }}" title="Home">{{ site.title }}</a></em>
-      </div>
-      <button type="button" class="usa-menu-btn">Menu</button>
+<header class="usa-header usa-header--extended">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="-logo">
+      <em class="usa-logo__text"><a href="{{ "/" | url }}" title="Home">{{ site.title }}</a></em>
     </div>
-    <nav aria-label="Primary navigation" class="usa-nav">
+    <button type="button" class="usa-menu-btn">Menu</button>
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
       <button type="button" class="usa-nav__close">
         {% uswds_icon "close" %}
       </button>
       <ul class="usa-nav__primary usa-accordion">
         {% for item in navigation.primary %}
-        <li class="usa-nav__primary-item">
-          <a href="{{ item.href | url }}" class="usa-nav__link">{{ item.text }}</a>
-        </li>
+          {% if item.children %}
+            <li class="usa-nav__primary-item">
+              <button
+                type="button"
+                class="usa-accordion__button usa-nav__link usa-current"
+                aria-expanded="false"
+                aria-controls="extended-nav-section-{{ item.text | slugify }}"
+              >
+                <span>{{ item.text }}</span>
+              </button>
+              {% if item.children.size > 6 %}
+              <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
+              <div class="grid-row grid-gap-4">
+                <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+              {% else %}
+                <ul id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu">
+              {% endif %}
+                {% for index in (1..item.children.size) %}
+                {% assign divthree = index | modulo:3 %}
+                {{ divthree }}
+                {% if divthree == 0 %}
+                  </div>
+                  <div class="usa-col">
+                {% endif %}
+                  {% if item.children[forloop.index0].url %}
+                    <li class="usa-nav__submenu-item">
+                      <a href="{{ item.children[forloop.index0].url | url }}"><span>{{ item.children[forloop.index0].text }}</span></a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+              {% if item.children.size > 6 %}
+                </div>
+                </div>
+              </div>
+              {% endif %}
+            </li>
+            {% else %}
+            <li class="usa-nav__primary-item">
+              <a href="{{ item.url | url }}" class="usa-nav-link"><span>{{ item.text }}</span></a>
+            </li>
+            {% endif %}
         {% endfor %}
+
       </ul>
-      <section aria-label="Search component">
-        {% include "searchgov/form.html" searchgov: site.searchgov %}
-      </section>
-    </nav>
-  </div>
+      <div class="usa-nav__secondary">
+        <ul class="usa-nav__secondary-links"></ul>
+        <section aria-label="Search component">
+          {% include "searchgov/form.html" searchgov: site.searchgov %}
+        </section>
+      </div>
+    </div>
+  </nav>
 </header>

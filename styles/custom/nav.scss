@@ -1,13 +1,1 @@
-.usa-nav__primary {
-  // only show the navigation in the top bar on mobile
-  display: none;
-  .usa-js-mobile-nav--active & {
-    display: block;
-  }
-}
 
-nav.usa-nav {
-  section {
-    overflow-x: visible;
-  }
-}
