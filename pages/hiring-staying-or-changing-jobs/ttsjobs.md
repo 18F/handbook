@@ -20,17 +20,16 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental
+* TTS Internal competitions (e.g. directors, supervisors) and developmental
   opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion
+* Hiring actions using the Excepted Service version of the Merit Promotion
   Process
-- Links to USAJobs Announcements for hiring actions using the Competitive
+* Links to USAJobs Announcements for hiring actions using the Competitive
   Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and
   local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page,
@@ -52,10 +51,10 @@ We will post new opportunities as they become available
 ### Internal only opportunities
 
 [Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#)
-Open Thursday, December 8 through Friday, January 6
+Open Thursday, December 8 through Friday, January 13
 
 [Login.gov Account Manager Team Lead detail](https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit#)
-Open Tuesday, December 13 through Friday, January 6
+Open Tuesday, December 13 through Friday, January 13
 
 [PIF Program Office detail](https://docs.google.com/document/d/18m2dHoCKX6lg8GDXFGHBs1Y6lYsxqNPDTuaGURyN8Sw/edit?usp=sharing)
 Open Friday January, 6th through Friday, January 13th
@@ -87,7 +86,7 @@ require to further facilitate their technical transformation.
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
