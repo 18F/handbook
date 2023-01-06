@@ -61,7 +61,7 @@ Open Tuesday, December 13 through Friday, January 6
 Detail Open Friday January, 6th through Friday, January 13th
 
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
-Open Friday, October 28th through Tuesday, February 28th 
+Open Friday, October 28th through Tuesday, February 28th
 
 ## Opportunities with partners
 
