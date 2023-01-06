@@ -57,8 +57,8 @@ Open Thursday, December 8 through Friday, January 6
 [Login.gov Account Manager Team Lead Detail](https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit#)
 Open Tuesday, December 13 through Friday, January 6
 
-[PIF Program Office](https://docs.google.com/document/d/18m2dHoCKX6lg8GDXFGHBs1Y6lYsxqNPDTuaGURyN8Sw/edit?usp=sharing)
-Detail Open Friday January, 6th through Friday, January 13th
+[PIF Program Office detail](https://docs.google.com/document/d/18m2dHoCKX6lg8GDXFGHBs1Y6lYsxqNPDTuaGURyN8Sw/edit?usp=sharing)
+Open Friday January, 6th through Friday, January 13th
 
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
 Open Friday, October 28th through Tuesday, February 28th
