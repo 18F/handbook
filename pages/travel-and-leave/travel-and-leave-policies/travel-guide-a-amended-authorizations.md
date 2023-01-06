@@ -8,8 +8,8 @@ questions:
 redirect_from:
   - /travel-guide-a-amended-authorizations/
 sidebar:
-   kind: travel
-   current: 3. Travel
+  kind: travel
+  current: 3. Travel
 ---
 
 [Jump to Step 3: What to Consider While

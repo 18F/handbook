@@ -9,8 +9,8 @@ redirect_from:
   - /first-time-travel-complete-concur-profile/
 current_step: 3
 sidebar:
-   kind: travel
-   current: 1. First time setup
+  kind: travel
+  current: 1. First time setup
 ---
 
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
