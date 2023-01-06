@@ -13,6 +13,9 @@ sidebar:
 
 ## Initial setup for travel
 
+<!-- prettier-ignore -->
+[Start the First-time travel guide to setup >]({% page "/first-time-travel-get-in-concur/" %})
+
 In order to travel officially in TTS, you need to, at minimum, [get set up in
 Concur]({% page "/first-time-travel-get-in-concur/" %})\*, GSA's travel system.
 Flights or Amtrak booked in Concur are paid for directly by GSA-- no travel card
@@ -35,6 +38,9 @@ who need to get into Concur to travel during their first week and may not yet
 have access to OLU to complete the required IT security trainings._
 
 ## Brief overview of how to travel
+
+<!-- prettier-ignore -->
+[Start booking travel >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 Once you are [set up in Concur]({% page "/first-time-travel-get-in-concur/" %})
 and your [travel card]({% page "/first-time-travel-travel-card/" %}) is on its
