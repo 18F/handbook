@@ -20,16 +20,17 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental
+- TTS Internal competitions (e.g. directors, supervisors) and developmental
   opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion
+- Hiring actions using the Excepted Service version of the Merit Promotion
   Process
-* Links to USAJobs Announcements for hiring actions using the Competitive
+- Links to USAJobs Announcements for hiring actions using the Competitive
   Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and
   local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page,
@@ -57,11 +58,10 @@ Open Thursday, December 8 through Friday, January 6
 Open Tuesday, December 13 through Friday, January 6
 
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
-Open Friday, October 28th through Tuesday, February 
+Open Friday, October 28th through Tuesday, February
 
-[P﻿IF Program Office](https://docs.google.com/document/d/18m2dHoCKX6lg8GDXFGHBs1Y6lYsxqNPDTuaGURyN8Sw/edit?usp=sharing) Detail Open Friday January, 6th through Friday, January 13th
-
-
+[P﻿IF Program Office](https://docs.google.com/document/d/18m2dHoCKX6lg8GDXFGHBs1Y6lYsxqNPDTuaGURyN8Sw/edit?usp=sharing)
+Detail Open Friday January, 6th through Friday, January 13th
 
 ## Opportunities with partners
 
@@ -87,7 +87,7 @@ require to further facilitate their technical transformation.
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
