@@ -1,5 +1,5 @@
 ---
-title: Step 2 - Travel
+title: Step 3 - What to consider while traveling
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,15 +7,13 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-2-travel/
+current_step: 3
+sidebar: travel
 ---
 
-[TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br>
-[FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Back to Step 1: Book Travel]({% page "/travel-guide-1-book-travel" %})
-<br> [Jump to Step 3: Reimbursement]({% page "/travel-guide-3-reimbursement" %})
+{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
-## What to consider while traveling
+[Next to Get reimbursed >]({% page "/travel-guide-3-reimbursement" %})
 
 Now for the fun part! Here are a few things to keep in mind when traveling for
 TTS.
@@ -158,8 +156,8 @@ around your trip.
 ### Don't forget about vouchers!
 
 Have a good trip, [get
-reimbursement]({% page "/travel-guide-3-reimbursement" %})-- filling out a
-voucher-- within 5 business days of getting back.
+reimbursement]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})--
+filling out a voucher-- within 5 business days of getting back.
 
 Why the rush? Filling out a voucher correctly allows you to:
 
@@ -178,4 +176,4 @@ approved for anyone with travel expenses that are more than 5 business days
 outstanding.**
 
 [Back from your trip? Head on over to get
-reimbursed!]({% page "/travel-guide-3-reimbursement" %})
+reimbursed!]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})

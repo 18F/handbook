@@ -1,5 +1,5 @@
 ---
-title: First Time Travel Complete Concur Profile
+title: First-time travel guide - Step 3 - Complete Concur Profile
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,12 +7,15 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-complete-concur-profile/
+current_step: 3
+sidebar: travel
 ---
 
-[TTS Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br> [Back to Getting a
-Travel Card]({% page "/first-time-travel-travel-card" %}) <br> [Next to Booking
-travel]({% page "/travel-guide-1-book-travel" %})<br>
+{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+
+[Next to Booking travel
+
+> ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})<br>
 
 You will want to complete your Concur profile to pay for hotels listed in Concur
 with your Travel Card and get your preferred airline seats, miles, rewards, etc.
@@ -44,7 +47,8 @@ miles and/or points earned while on government travel.
 
 ## Do you have an upcoming trip?
 
-[Yes: Get travel authorization]({% page "/travel-guide-1-book-travel" %})
+[Yes: Get travel
+authorization]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 #### Having Trouble
 

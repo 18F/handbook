@@ -1,5 +1,5 @@
 ---
-title: Get access to Concur
+title: First-time travel guide - Step 1 - Get access to Concur
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,11 +7,13 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-get-in-concur/
+current_step: 1
+sidebar: travel
 ---
 
-[TTS Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br /> [Next to Travel
-Card]({% page "/first-time-travel-travel-card" %})
+{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+
+[Next to Get a travel card >]({% page "/first-time-travel-travel-card" %})
 
 There are four required steps to gain access to
 [Concur](https://travel.gsa.gov/). Please be aware, you cannot access the

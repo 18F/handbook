@@ -618,3 +618,19 @@ footer:
     external: true
   - text: Contributing
     href: /contributing/
+
+travel:
+  - text: FAQ
+    url: travel-and-leave/travel-and-leave-policies/travel-guide-faq/
+  - text: Travel 101
+    url: getting-started/classes/travel-101/
+  - text: 1. First time setup
+    url: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
+  - text: 2. Book travel
+    url: travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/
+  - text: 3. Travel
+    url: travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/
+  - text: 4. Get reimbursed
+    url: travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/
+  - text: Approval email templates
+    url: travel-and-leave/travel-and-leave-policies/travel-guide-email-templates/
