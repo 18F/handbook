@@ -52,10 +52,10 @@ W﻿e will post new opportunities as they become available
 ### Internal only opportunities
 
 [Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#)
-Open Thursday, December 8 through Friday, January 6
+Open Thursday, December 8 through Friday, January 13
 
 [Login.gov Account Manager Team Lead Detail](https://docs.google.com/document/d/1ksZshnGYpsLL51wXSy54cuKvawTRngcXcWksf137AAA/edit#)
-Open Tuesday, December 13 through Friday, January 6
+Open Tuesday, December 13 through Friday, January 13
 
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
 Open Friday, October 28th through Tuesday, February 28th
