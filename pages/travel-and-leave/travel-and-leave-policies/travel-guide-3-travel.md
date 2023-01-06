@@ -15,8 +15,8 @@ sidebar:
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
-[Next to Get reimbursed
->]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement" %})
+<!-- prettier-ignore -->
+[Next to Get reimbursed >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement" %})
 
 Now for the fun part! Here are a few things to keep in mind when traveling for
 TTS.
