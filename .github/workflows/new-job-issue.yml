@@ -15,7 +15,5 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            if(true || context.issue.number) {
-              const { data: { body } } = await github.rest.issues.get({ ...context.issue, issue_number: 3380 });
-              console.log(body);
-            }
+            const script = require("./new-job-issue.js");
+            script({ context, github });
