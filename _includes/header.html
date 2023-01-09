@@ -13,7 +13,7 @@
       </button>
       <ul class="usa-nav__primary usa-accordion">
         {% for item in navigation.primary %}
-          {% if item.children %}
+          {% if item.children and item.topnavcondense != "true" %}
             <li class="usa-nav__primary-item">
               <button
                 type="button"
@@ -23,32 +23,37 @@
               >
                 <span>{{ item.text }}</span>
               </button>
-              {% if item.children.size > 6 %}
+              {% assign subitemsSize = item.children.size %}
+              {% if subitemsSize > 6 %}
               <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
               <div class="grid-row grid-gap-4">
                 <div class="usa-col">
                 <ul class="usa-nav__submenu-list">
-              {% else %}
+                  {% for index in (1..subitemsSize) %}
+                  {% assign divthree = forloop.index0 | modulo: 3 %}
+                    {% if divthree == 0 and index != subitemsSize and forloop.index0 > 0 %}
+                      </ul>
+                      </div>
+                      <div class="usa-col">
+                        <ul class="usa-nav__submenu-list">
+                    {% endif%}
+                    <li class="usa-nav__submenu-item">
+                      <a href="{{ item.children[forloop.index0].url | url }}"><span>{{ item.children[forloop.index0].text }}</span></a>
+                    </li>
+                  {% endfor %}
+                  </ul>
+                </div>
+              </div>
+              {% elsif item.topnavcondense != "true" %} 
                 <ul id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu">
-              {% endif %}
-                {% for index in (1..item.children.size) %}
-                {% assign divthree = index | modulo:3 %}
-                {{ divthree }}
-                {% if divthree == 0 %}
-                  </div>
-                  <div class="usa-col">
-                {% endif %}
+                {% for index in (1..subitemsSize) %}
                   {% if item.children[forloop.index0].url %}
                     <li class="usa-nav__submenu-item">
                       <a href="{{ item.children[forloop.index0].url | url }}"><span>{{ item.children[forloop.index0].text }}</span></a>
                     </li>
                   {% endif %}
                 {% endfor %}
-              </ul>
-              {% if item.children.size > 6 %}
-                </div>
-                </div>
-              </div>
+                </ul>
               {% endif %}
             </li>
             {% else %}
@@ -57,7 +62,33 @@
             </li>
             {% endif %}
         {% endfor %}
-
+        {% comment %} This is to condense the rest into a more button {% endcomment %}
+        <li class="usa-nav__primary-item">
+          <button
+            type="button"
+            class="usa-accordion__button usa-nav__link usa-current"
+            aria-expanded="false"
+            aria-controls="extended-nav-section-more"
+          >
+            <span>More</span>
+          </button>
+          <div id="extended-nav-section-more" class="usa-nav__submenu usa-megamenu">
+          <div class="grid-row grid-gap-4">
+            {% for index in navigation.primary %}
+              {% if item.topnavcondense == "true" %}
+              <div class="usa-col">
+              <h2>{{ item.text }}</h2>
+              <ul class="usa-nav__submenu-list">
+                      <li class="usa-nav__submenu-item">
+                        <a href=""><span>{{ item.text }}</span></a>
+                      </li>
+                </ul>
+            </div>
+              {% endif %}
+              {% endfor %}
+          </div>
+          </div>
+          </li>
       </ul>
       <div class="usa-nav__secondary">
         <ul class="usa-nav__secondary-links"></ul>
