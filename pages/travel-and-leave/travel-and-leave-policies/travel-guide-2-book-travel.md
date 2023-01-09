@@ -7,6 +7,7 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-1-book-travel/
+  - /travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/
 current_step: 2
 sidebar:
   kind: travel
