@@ -1,15 +1,17 @@
 const makeBody = (body) => {
   return {
     getValueForHeader: (header) => {
-      const [, value] = body.match(
-        new RegExp(
-          `^### ${header
-            .replace("?", "?")
-            .replace(".", ".")
-            .replace("*", "*")}\n\n([^\n]+)\n`,
-          "m"
-        )
+      const regex = new RegExp(
+        `^### ${header
+          .replace("?", "?")
+          .replace(".", ".")
+          .replace("*", "*")}\n\n([^\n]+)\n`,
+        "m"
       );
+      console.log(regex);
+
+      const [, value] = body.match(regex) ?? [];
+      return value;
     },
   };
 };
