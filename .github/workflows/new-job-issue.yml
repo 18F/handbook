@@ -15,5 +15,5 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const script = require("./new-job-issue.js");
+            const script = require("./.github/workflows/new-job-issue.js");
             script({ context, github });
