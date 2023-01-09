@@ -3,9 +3,9 @@ const makeBody = (body) => {
     getValueForHeader: (header) => {
       const regex = new RegExp(
         `^### ${header
-          .replace("?", "?")
-          .replace(".", ".")
-          .replace("*", "*")}\n\n([^\n]+)\n`,
+          .replace("?", "\\?")
+          .replace(".", "\\.")
+          .replace("*", "\\*")}\n\n([^\n]+)\n`,
         "m"
       );
       console.log(regex);
