@@ -58,7 +58,10 @@ National Airport station to Farragut West station. It should take approximately
 directions under "Public Transit."
 
 If you're coming from **Dulles International Airport (IAD)**, you can take a cab
-(~$80) or ride the Metro. Take the Silver line from the Dulles Airport station to Farragut West station. It will take approximately one hour and cost less than $5. Once outside the Farragut West station, follow the directions under "Public Transit."
+(~$80) or ride the Metro. Take the Silver line from the Dulles Airport station
+to Farragut West station. It will take approximately one hour and cost less than
+$5. Once outside the Farragut West station, follow the directions under "Public
+Transit."
 
 If you're coming from **Thurgood Marshall Baltimore-Washington Airport (BWI)**,
 you can:
@@ -225,9 +228,9 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located at either end of the G100 wing. A single-occupancy,
-wheelchair-accessible all-gender bathroom is located on the third floor in wing
-three (room 3355).
+Gendered bathrooms are located at either end of the G100 wing. A
+single-occupancy, wheelchair-accessible all-gender bathroom is located on the
+third floor in wing three (room 3355).
 
 ### Nursing/Pumping rooms
 
