@@ -58,28 +58,7 @@ National Airport station to Farragut West station. It should take approximately
 directions under "Public Transit."
 
 If you're coming from **Dulles International Airport (IAD)**, you can take a cab
-(~$80) or ride public transit, which will take about an hour and cost between
-$4.25 and $11.
-
-There are two public transit options:
-
-- You can take the 5A bus from Dulles Main Terminal to the Rosslyn station on
-  the Blue/Orange/Silver Line. The bus costs $2. You can then hop on a Metro to
-  the Farragut West station. The Metro fare from Rosslyn to Farragut West costs
-  $2 - $2.25, depending on time of day. More information is available on the
-  [Metro site](https://www.wmata.com/service/rail/#main-content).
-
-- Alternatively, you can take the
-  [Silver Line Express Bus](https://www.flydulles.com/iad/silver-line-express-bus-metrorail-station)
-  from Dulles Main Terminal to the Wiehle-Reston East Metro Station on the
-  Silver Line. The Express Bus costs $5, payable by cash or credit card, and
-  runs every 15-20 minutes. Signs in the airport will direct you to the Express
-  Bus boarding area. You can then take the Silver Line to Farragut West station.
-  The Metro fare from Wiehle-Reston East to Farragut West costs $3.85 - $6,
-  depending on time of day.
-
-Once outside the Farragut West station, follow the directions under "Public
-Transit."
+(~$80) or ride the Metro. Take the Silver line from the Dulles Airport station to Farragut West station. It will take approximately one hour and cost less than $5. Once outside the Farragut West station, follow the directions under "Public Transit."
 
 If you're coming from **Thurgood Marshall Baltimore-Washington Airport (BWI)**,
 you can:
@@ -246,7 +225,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located at the end of the 3100 wing. A single-occupancy,
+Gendered bathrooms are located at either end of the G100 wing. A single-occupancy,
 wheelchair-accessible all-gender bathroom is located on the third floor in wing
 three (room 3355).
 
