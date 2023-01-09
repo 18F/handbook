@@ -6,6 +6,9 @@ tags:
   - remote work
 redirect_from:
   - /working-while-traveling/
+sidebar:
+  kind: travel
+  current: 3. Travel
 ---
 
 When you're working from an atypical location in another time zone or attending

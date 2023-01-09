@@ -48,13 +48,13 @@ you may want to take a look at these org charts:
 - [Login org chart](https://docs.google.com/spreadsheets/d/1tiTR2ohdl0NIsrF4gJjNipEZ0z0oq1pOFWYjHg8Tbi0/edit?usp=sharing)
 - [18F org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?ts=5c8b93f9#slide=id.g54b7f7db38_18_0)
 
-You'll probably spend quite a bit of time with
-[the TTS Handbook]({{site.baseurl}}/) --- you're reading it now! The TTS
-Handbook isn't at all like most organizational handbooks. Where past experience
-might have you expecting a dry rehashing of PR policies and jargon-heavy mission
-statements, we've filled our Handbook with useful information that we update
-regularly --- and you can help update it, too. Get in there, poke around, and
-search a little. It's a treasure trove.
+You'll probably spend quite a bit of time with [the TTS
+Handbook]({% page "/" %}) --- you're reading it now! The TTS Handbook isn't at
+all like most organizational handbooks. Where past experience might have you
+expecting a dry rehashing of PR policies and jargon-heavy mission statements,
+we've filled our Handbook with useful information that we update regularly ---
+and you can help update it, too. Get in there, poke around, and search a little.
+It's a treasure trove.
 
 Here's a tip: As you work through your onboarding checklist, search the handbook
 for the items in your list. You'll find tons of extra information and context.

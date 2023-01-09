@@ -7,13 +7,18 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-2-travel/
+  - /travel-and-leave/travel-and-leave-policies/travel-guide-2-travel/
+
 current_step: 3
-sidebar: travel
+sidebar:
+  kind: travel
+  current: 3. Travel
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
-[Next to Get reimbursed >]({% page "/travel-guide-3-reimbursement" %})
+<!-- prettier-ignore -->
+[Next to Get reimbursed >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement" %})
 
 Now for the fun part! Here are a few things to keep in mind when traveling for
 TTS.

@@ -8,14 +8,15 @@ questions:
 redirect_from:
   - /first-time-travel-complete-concur-profile/
 current_step: 3
-sidebar: travel
+sidebar:
+  kind: travel
+  current: 1. First time setup
 ---
 
 {% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
 
-[Next to Booking travel
-
-> ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})<br>
+<!-- prettier-ignore -->
+[Next to Booking travel > ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})<br>
 
 You will want to complete your Concur profile to pay for hotels listed in Concur
 with your Travel Card and get your preferred airline seats, miles, rewards, etc.

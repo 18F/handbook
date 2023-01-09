@@ -7,8 +7,11 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-3-reimbursement/
+  - /travel-and-leave/travel-and-leave-policies/travel-guide-3-reimbursement/
 current_step: 4
-sidebar: travel
+sidebar:
+  kind: Travel
+  current: 4. Get reimbursed
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
