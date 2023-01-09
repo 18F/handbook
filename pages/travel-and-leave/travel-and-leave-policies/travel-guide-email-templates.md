@@ -20,7 +20,7 @@ sidebar:
 > ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 > <br>
 
-##### Note about travel to a training, conference, speaking event, large team IRL, or international
+## Note about travel to a training, conference, speaking event, large team IRL, or international
 
 Authorizing official approval is secured via the [event request
 process]({% page "/conferences-events-training" %}), so you are all set as long
@@ -33,7 +33,7 @@ the
 event]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home" %}),
 or combining your event travel with travel for some other reason._
 
-#### Email Template for Individual Travel:
+## Email Template for Individual Travel:
 
 **Subject:** Approval for travel between \[dates] for
 [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
@@ -60,7 +60,7 @@ Many thanks,
 
 ---
 
-#### Email Template for Group Travel:
+## Email Template for Group Travel:
 
 **Subject:** Approval for travel between \[dates] for
 [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
