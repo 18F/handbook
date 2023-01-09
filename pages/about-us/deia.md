@@ -2,14 +2,14 @@
 title: Diversity, Equity, Inclusion, and Accessibility at TTS
 redirect_from:
   - /intro-to-the-diversity-guild/
-  - /diversity/
+  - /diversity/ 
   - /about-us/diversity/
 questions:
   - g-diversity
   - g-accessibility
 ---
 
-At TTS, [our mission]({{site.baseurl}}/tts-history/) is to design and deliver a
+At TTS, [our mission]({% page "/tts-history/" %}) is to design and deliver a
 digital government with and for the American public.
 
 To ensure that the products we build and services we offer truly serve everyone,
@@ -42,8 +42,8 @@ _Our efforts_:
   website for federal employee demographic data.
 - Partnering with organizations that focus on recruitment and hiring for
   underrepresented groups.
-- Supporting all employees to join an
-  [affinity group]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/)
+- Supporting all employees to join an [affinity
+  group]({% page "/training-and-development/working-groups-and-guilds-101/" %})
   and/or create new groups. Our affinity groups are spaces where employees of
   similar identities come together in community.
 - Coordinating with GSA’s Senior Advisor for Diversity, Equity, Inclusion, and
@@ -62,9 +62,8 @@ _Our efforts_:
 
 - Holding quarterly feedback sessions between affinity groups and the TTS
   Executive Director.
-- Providing
-  [unconscious bias training]({{site.baseurl}}/getting-started/classes/) to all
-  new employees during onboarding.
+- Providing [unconscious bias training]({% page "/getting-started/classes/" %})
+  to all new employees during onboarding.
 - Leading regular [information sessions](https://join.tts.gsa.gov/) for
   candidates that focus on demystifying the federal hiring process.
 - Reviewing interview guides for bias.
@@ -79,19 +78,18 @@ our colleagues feel included, valued, welcomed, and respected?
 _Our efforts_:
 
 - Conducting an annual Inclusion and Belonging Survey.
-- Delivering a
-  [DEIA onboarding class]({{site.baseurl}}/getting-started/classes/) to all new
-  employees.
+- Delivering a [DEIA onboarding class]({% page "/getting-started/classes/" %})
+  to all new employees.
 - Writing content and building products externally which follow
   [inclusive language principles](https://content-guide.18f.gov/our-style/inclusive-language/).
-- Maintaining an
-  [Inclusion Bot]({{site.baseurl}}/general-information-and-resources/inclusion-bot/)
-  that nudges Slack users about exclusionary language and hurtful phrases.
-- Maintaining a
-  [list of inclusive behaviors]({{site.baseurl}}/general-information-and-resources/inclusive-behaviors/)
-  and a
-  [list of resources]({{site.baseurl}}/general-information-and-resources/deia-resources/)
-  to help our employees understand and advance DEIA through their work.
+- Maintaining an [Inclusion
+  Bot]({% page "/general-information-and-resources/inclusion-bot/" %}) that
+  nudges Slack users about exclusionary language and hurtful phrases.
+- Maintaining a [list of inclusive
+  behaviors]({% page "/general-information-and-resources/inclusive-behaviors/" %})
+  and a [list of
+  resources]({% page "/general-information-and-resources/deia-resources/" %}) to
+  help our employees understand and advance DEIA through their work.
 
 ### Accessibility
 
@@ -156,7 +154,7 @@ regularly collect feedback from employees.
 ## DEIA Guilds
 
 TTS has two
-[Guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#guilds-in-tts)
+[Guilds]({% page "/training-and-development/working-groups-and-guilds-101/#guilds-in-tts" %})
 that support our DEIA efforts: Diversity Guild and Accessibility Guild.
 
 ### Diversity Guild
@@ -175,13 +173,14 @@ grassroots DEIA efforts.
    every Friday at 12:30-1pm EST. The meetings show up on the
    [TTS Working Groups and Guilds Calendar](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com).
    If you would like to be added to the invites directly, message one of the
-   [Diversity Guild Co-Leads]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds).
+   [Diversity Guild
+   Co-Leads]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds" %}).
 2. Join the (Slack) conversation. TTSers regularly share articles, ask
    questions, and celebrate milestones via the {% slack_channel "g-diversity" %}
    Slack channel. To promote a healthy and respectful environment, there are
    [special guidelines for #g-diversity](https://docs.google.com/document/d/1IP0GERswH8t5nQxH0VyYPidj5TrkNtfJEmaPz3_y-go/edit).
-3. Reach out with questions: the
-   [Diversity Guild Co-Leads]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds)
+3. Reach out with questions: the [Diversity Guild
+   Co-Leads]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds" %})
    are available to chat with you.
 4. Become a DEI representative (Rep): These are volunteers across TTS that help
    teams create a diverse, equitable, inclusive, and welcoming TTS. While
@@ -205,8 +204,8 @@ principles in visual design and prototypes and software engineering best
 practices. The guild provides training and awareness to make accessibility
 everyone’s responsibility.
 
-For more information, see the
-[Accessibility Handbook page]({{site.baseurl}}/accessibility/),
+For more information, see the [Accessibility Handbook
+page]({% page "/accessibility/" %}),
 [Accessibility Guide](https://accessibility.18f.gov/), or join the
 {% slack_channel "g-accessibility" %} Slack channel.
 
@@ -214,6 +213,6 @@ For more information, see the
 
 Affinity groups are spaces where employees of similar identities can talk freely
 amongst themselves. Depending on the group, it may be open or invite-only. Visit
-the
-[affinity groups, working groups, guilds, and other communities Handbook page]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/)
-for more information.
+the [affinity groups, working groups, guilds, and other communities Handbook
+page]({% page "/training-and-development/working-groups-and-guilds-101/" %}) for
+more information.

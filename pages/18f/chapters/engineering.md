@@ -197,9 +197,9 @@ our calendars.
 ### Guilds and working groups
 
 See current
-[guilds]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-guilds)
-and
-[working groups]({{site.baseurl}}/training-and-development/working-groups-and-guilds-101/#current-working-groups).
+[guilds]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds " %})
+and [working
+groups]({% page "/training-and-development/working-groups-and-guilds-101/#current-working-groups" %}).
 
 ### Cohorts
 
