@@ -40,3 +40,10 @@ body:
     options:
       - "no"
       - "yes"
+  - type: markdown
+    attributes:
+      value: |
+        **PLEASE NOTE:** If you need to edit this job before it is published,
+        you must close this issue and create a new one. If you need to edit this
+        job *after* it is published, you will have to edit the jobs data file
+        directly.

@@ -1,0 +1,18 @@
+name: add new TTS job
+
+on:
+  issues:
+    types: [opened]
+  push:
+
+jobs:
+  add_job:
+    name: add a new TTS job
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: bob's burgers
+        uses: action/github-script@v6
+        with:
+          script: |
+            console.log(context.issue())
