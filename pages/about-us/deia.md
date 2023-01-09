@@ -2,7 +2,7 @@
 title: Diversity, Equity, Inclusion, and Accessibility at TTS
 redirect_from:
   - /intro-to-the-diversity-guild/
-  - /diversity/ 
+  - /diversity/
   - /about-us/diversity/
 questions:
   - g-diversity
