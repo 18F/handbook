@@ -17,6 +17,6 @@ jobs:
           script: |
             const issue = { owner: '18F', repo: 'handbook', number: 3380 }
             if(true || context.issue.number) {
-              const { data: { body } } = await github.rest.issues.get({ ...context.issue });
+              const { data: { body } } = await github.rest.issues.get({ ...context.issue, issue_number: context.issue.number });
               console.log(body);
             }
