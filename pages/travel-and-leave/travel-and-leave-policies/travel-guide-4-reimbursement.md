@@ -1,6 +1,6 @@
 ---
-title: Step 4 - Get reimbursed
-subtitle: "Travel guide:"
+title: Get reimbursed
+subtitle: "Travel guide: Step 4"
 questions:
   - travel
   - tts-travel@gsa.gov

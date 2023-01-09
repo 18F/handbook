@@ -1,6 +1,6 @@
 ---
-title: Step 1a - Get access to Concur
-subtitle: "First-time travel guide:"
+title: Get access to Concur
+subtitle: "First-time travel guide: Step 1a"
 questions:
   - travel
   - tts-travel@gsa.gov

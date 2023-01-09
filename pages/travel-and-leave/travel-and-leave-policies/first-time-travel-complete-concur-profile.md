@@ -1,6 +1,6 @@
 ---
-title: Step 1c - Complete Concur Profile
-subtitle: "First-time travel guide:"
+title: Complete Concur Profile
+subtitle: "First-time travel guide: Step 1c"
 questions:
   - travel
   - tts-travel@gsa.gov

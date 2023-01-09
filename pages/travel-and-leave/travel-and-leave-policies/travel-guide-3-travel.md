@@ -1,6 +1,6 @@
 ---
-title: Step 3 - What to consider while traveling
-subtitle: "Travel guide:"
+title: What to consider while traveling
+subtitle: "Travel guide: Step 3"
 questions:
   - travel
   - tts-travel@gsa.gov

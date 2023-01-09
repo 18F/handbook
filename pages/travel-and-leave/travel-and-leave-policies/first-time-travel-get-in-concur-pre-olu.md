@@ -1,6 +1,6 @@
 ---
-title: Step 1a - Get set up to travel for TTS <em>before</em> GSA onboarding
-subtitle: "First-time travel guide:"
+title: Get set up to travel for TTS <em>before</em> GSA onboarding
+subtitle: "First-time travel guide: Step 1a"
 questions:
   - travel
   - tts-travel@gsa.gov

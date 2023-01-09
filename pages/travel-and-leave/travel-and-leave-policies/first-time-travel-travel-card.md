@@ -1,6 +1,6 @@
 ---
-title: Step 1b - Get a travel card
-subtitle: "First-time travel guide:"
+title: Get a travel card
+subtitle: "First-time travel guide: Step 1b"
 questions:
   - ronnail.rawls@gsa.gov
 redirect_from:

@@ -1,6 +1,6 @@
 ---
-title: Step 2 - Book travel in Concur and secure approvals
-subtitle: "Travel guide:"
+title:  Book travel in Concur and secure approvals
+subtitle: "Travel guide: Step 2"
 questions:
   - travel
   - tts-travel@gsa.gov
