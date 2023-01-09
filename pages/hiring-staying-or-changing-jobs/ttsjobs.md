@@ -47,7 +47,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 ### Opportunities open to the public
 
 [TTS Product Management Supervisor GS15 ](https://join.tts.gsa.gov/join/tts-productsupervisor15/)-
-open Monday, January 9th, 2023 through Tuesday, January 17th, 2023
+open Monday, January 9th through Tuesday, January 17th
 
 ### Internal only opportunities
 
