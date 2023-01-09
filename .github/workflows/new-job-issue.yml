@@ -15,5 +15,6 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
+            console.log(__dirname)
             const script = require("./.github/workflows/new-job-issue.js");
-            script({ context, github });
+            await script({ context, github });
