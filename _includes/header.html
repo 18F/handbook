@@ -13,7 +13,7 @@
       </button>
       <ul class="usa-nav__primary usa-accordion">
         {% for item in navigation.primary %}
-          {% if item.children and item.topnavcondense != "true" %}
+          {% if item.children and item.topnavcondense != "more" %}
             <li class="usa-nav__primary-item">
               <button
                 type="button"
@@ -44,7 +44,7 @@
                   </ul>
                 </div>
               </div>
-              {% elsif item.topnavcondense != "true" %} 
+              {% else %} 
                 <ul id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu">
                 {% for index in (1..subitemsSize) %}
                   {% if item.children[forloop.index0].url %}
@@ -56,7 +56,7 @@
                 </ul>
               {% endif %}
             </li>
-            {% else %}
+            {% elsif item.topnavcondense != "more" %}
             <li class="usa-nav__primary-item">
               <a href="{{ item.url | url }}" class="usa-nav-link"><span>{{ item.text }}</span></a>
             </li>
@@ -74,18 +74,21 @@
           </button>
           <div id="extended-nav-section-more" class="usa-nav__submenu usa-megamenu">
           <div class="grid-row grid-gap-4">
-            {% for index in navigation.primary %}
-              {% if item.topnavcondense == "true" %}
+            {% for item in navigation.primary %}
+            {% if item.topnavcondense == "more" %}
               <div class="usa-col">
-              <h2>{{ item.text }}</h2>
-              <ul class="usa-nav__submenu-list">
-                      <li class="usa-nav__submenu-item">
-                        <a href=""><span>{{ item.text }}</span></a>
-                      </li>
-                </ul>
+                  <h2 class="text-white">{{ item.text }}</h2>
+                  <ul class="usa-nav__submenu-list">
+                      {% for child in item.children %}
+                          <li class="usa-nav__submenu-item">
+                            <a href=""><span>{{ child.text }}</span></a>
+                          </li>
+                        {% endfor %}
+                    </ul>
             </div>
-              {% endif %}
-              {% endfor %}
+            {% endif %}
+            {% endfor %}
+
           </div>
           </div>
           </li>

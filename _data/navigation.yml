@@ -182,7 +182,7 @@ primary:
         url: office-of-operations/talent/#referring-a-person
         internal: true
   - text: General information and resources
-    topnavcondense: true
+    topnavcondense: more
     href: /#general-information-and-resources
     children:
       - children:
@@ -311,7 +311,7 @@ primary:
               - text: Privacy
                 url: launching-software/privacy/
   - text: TTS Offices
-    topnavcondense: true
+    topnavcondense: more
     href: /#tts-offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
@@ -514,7 +514,7 @@ primary:
             url: https://digitalcorps.gsa.gov/
             internal: false
   - text: Tools
-    topnavcondense: true
+    topnavcondense: more
     href: /#tools
     blurb: |
       A by-no-means complete sampling of commonly used tools around TTS.
