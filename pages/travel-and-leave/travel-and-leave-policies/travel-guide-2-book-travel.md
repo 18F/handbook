@@ -63,19 +63,19 @@ Once you have finalized your reservations, there are still a few more steps to
 follow through on.
 
 1. [Completing trip
-     information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-complete-your-trip-information" %}),
-     including relevant details about your trip.
+   information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-complete-your-trip-information" %}),
+   including relevant details about your trip.
 2. [Justify any rental car use or personal vehicle mileage
-     claims]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-justify-rental-cars-and-personal-vehicle-mileage" %}),
-     when applicable.
+   claims]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-justify-rental-cars-and-personal-vehicle-mileage" %}),
+   when applicable.
 3. [Stamp and submit
-     authorization]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %}),
-     ensuring your authorization is in SUBMIT TO APPROVER status.\
+   authorization]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %}),
+   ensuring your authorization is in SUBMIT TO APPROVER status.\
 4. If you haven't done so already, [secure written approval from your
-     authorizing
-     official]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %})
-     and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise
-     approve your trip in the system.
+   authorizing
+   official]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %})
+   and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise
+   approve your trip in the system.
 
 Ensure all of the above steps are completed no later than 3:30 PM ET the last
 business day before travel to give the travel team sufficient time to review.
