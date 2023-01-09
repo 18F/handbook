@@ -182,8 +182,8 @@ participants via digital/e-gift or physical gift cards through
 [purchase card request](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
 The total amount of the purchase must be under $10,000 per project.
 
-For more information, see
-[how do I complete a micropurchase request?]({{site.baseurl}}/office-of-acquisition/#how-do-i-complete-a-micropurchase)
+For more information, see [how do I complete a micropurchase
+request?]({%page "/office-of-acquisition/#how-do-i-complete-a-micropurchase" %})
 in the handbook.
 
 **Use usertesting.com:** Teams can also use usertesting.com, if that’s
