@@ -15,4 +15,4 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            console.log(context.issue())
+            console.log(context.issue)
