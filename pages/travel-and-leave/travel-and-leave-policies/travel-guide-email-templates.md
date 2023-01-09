@@ -15,10 +15,8 @@ sidebar:
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
-[Jump to Step 2: Booking Travel
-
-> ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
-> <br>
+<!-- prettier-ignore -->
+[Jump to Step 2: Booking Travel > ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 ## Note about travel to a training, conference, speaking event, large team IRL, or international
 
