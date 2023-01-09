@@ -1,5 +1,5 @@
 ---
-title:  Book travel in Concur and secure approvals
+title: Book travel in Concur and secure approvals
 subtitle: "Travel guide: Step 2"
 questions:
   - travel
@@ -17,9 +17,9 @@ sidebar:
   current: 2. Book travel
 ---
 
-{% include "step-indicator.html" 
-steps: travel-steps.steps 
-current_step: step_indicator.current_step 
+{% include "step-indicator.html"
+steps: travel-steps.steps
+current_step: step_indicator.current_step
 hide_steps: step_indicator.hide_steps %}
 
 <!-- prettier-ignore -->

@@ -17,9 +17,9 @@ sidebar:
   current: 3. Travel
 ---
 
-{% include "step-indicator.html" 
-steps: travel-steps.steps 
-current_step: step_indicator.current_step 
+{% include "step-indicator.html"
+steps: travel-steps.steps
+current_step: step_indicator.current_step
 hide_steps: step_indicator.hide_steps %}
 
 <!-- prettier-ignore -->
