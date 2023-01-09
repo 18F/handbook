@@ -15,8 +15,7 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const issue = { owner: '18F', repo: 'handbook', number: 3380 }
             if(true || context.issue.number) {
-              const { data: { body } } = await github.rest.issues.get({ ...context.issue, issue_number: context.issue.number });
+              const { data: { body } } = await github.rest.issues.get({ ...context.issue, issue_number: 3380 });
               console.log(body);
             }
