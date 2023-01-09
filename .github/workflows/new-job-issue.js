@@ -9,6 +9,8 @@ const makeBody = (body) => {
         "m"
       );
       console.log(regex);
+      console.log(body);
+      console.log(body.match(regex));
 
       const [, value] = body.match(regex) ?? [];
       return value;
