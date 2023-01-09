@@ -1,7 +1,10 @@
 {% comment %}
 https://designsystem.digital.gov/components/step-indicator/
-steps: the number of steps
+steps: the steps in a array
 current_step: step page is currently on
+optional:
+  substep: if you need to have a 1a like thing
+  hide_steps: if you want to hide the steps
 {% endcomment %}
 <div
   class="usa-step-indicator usa-step-indicator--center" aria-label="progress">
@@ -37,14 +40,12 @@ class="usa-step-indicator__segment{{ classes }}"
     {% endfor %}
   </ol>
   <div class="usa-step-indicator__header">
-    <h4 class="usa-step-indicator__heading">
-      <span class="usa-step-indicator__heading-counter"
-        ><span class="usa-sr-only">Step</span>
-        <span class="usa-step-indicator__current-step">{{ current_step }}</span>
-        <span class="usa-step-indicator__total-steps">of {{ steps.size }}</span> </span
-      ><span class="usa-step-indicator__heading-text"
-        >{{ steps[currentstepindex].text }}</span
-      >
-    </h4>
+<h4 class="usa-step-indicator__heading">
+<span class="usa-step-indicator__heading-counter">
+<span class="usa-sr-only">Step</span>
+<span class="usa-step-indicator__current-step">
+  {% if substep %}{{ substep }}{% else %}{{ current_step }}{% endif %}</span> {% if hide_steps ==false %}<span class="usa-step-indicator__total-steps">of {{ steps.size }}</span> </span>{% endif %}
+  <span class="usa-step-indicator__heading-text">{{ steps[currentstepindex].text }}</span>
+</h4>
   </div>
 </div>

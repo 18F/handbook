@@ -1,5 +1,6 @@
 ---
 title: Step 3 - What to consider while traveling
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -8,14 +9,18 @@ questions:
 redirect_from:
   - /travel-guide-2-travel/
   - /travel-and-leave/travel-and-leave-policies/travel-guide-2-travel/
-
-current_step: 3
+step_indicator:
+  current_step: 3
+  hide_steps: false
 sidebar:
   kind: travel
   current: 3. Travel
 ---
 
-{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
+{% include "step-indicator.html" 
+steps: travel-steps.steps 
+current_step: step_indicator.current_step 
+hide_steps: step_indicator.hide_steps %}
 
 <!-- prettier-ignore -->
 [Next to Get reimbursed >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement" %})

@@ -1,5 +1,6 @@
 ---
 title: Step 4 - Get reimbursed
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -8,13 +9,18 @@ questions:
 redirect_from:
   - /travel-guide-3-reimbursement/
   - /travel-and-leave/travel-and-leave-policies/travel-guide-3-reimbursement/
-current_step: 4
+step_indicator:
+  current_step: 4
+  hide_steps: false
 sidebar:
   kind: Travel
   current: 4. Get reimbursed
 ---
 
-{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
+{% include "step-indicator.html" 
+steps: travel-steps.steps 
+current_step: step_indicator.current_step 
+hide_steps: step_indicator.hide_steps %}
 
 ## Brief overview of vouchers
 

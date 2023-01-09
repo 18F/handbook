@@ -1,7 +1,6 @@
 ---
-title:
-  First-time travel guide - Step 1 - Get set up to travel for TTS
-  <em>before</em> GSA onboarding
+title: Step 1a - Get set up to travel for TTS <em>before</em> GSA onboarding
+subtitle: "First-time travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -9,13 +8,20 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-get-in-concur-pre-olu/
-current_step: 1
+step_indicator:
+  current_step: 1
+  substep: 1a
+  hide_steps: true
 sidebar:
   kind: travel
   current: 1. First time setup
 ---
 
-{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+{% include "step-indicator.html" 
+steps: travel-steps.first_time_steps 
+current_step: step_indicator.current_step 
+substep: step_indicator.substep
+hide_steps: step_indicator.hide_steps %}
 
 Steps to take after onboarding:
 

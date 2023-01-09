@@ -1,5 +1,6 @@
 ---
 title: Travel Approval Email Templates
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,13 +8,18 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-email-templates/
-current_step: 2
+step_indicator:
+  current_step: 2
+  hide_steps: false
 sidebar:
   kind: travel
   current: Approval email templates
 ---
 
-{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
+{% include "step-indicator.html" 
+steps: travel-steps.steps 
+current_step: step_indicator.current_step 
+hide_steps: step_indicator.hide_steps %}
 
 <!-- prettier-ignore -->
 [Jump to Step 2: Booking Travel > ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})

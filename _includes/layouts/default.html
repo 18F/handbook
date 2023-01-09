@@ -26,7 +26,11 @@ footer, etc.).
 {% endif %}
 
   {% if title %}
+    {% if subtitle %}<h2>{{ subtitle }}</h2>
+    <h1 class="margin-top-1" data-page-title>{{ title }}</h1>
+    {% else %}
     <h1 data-page-title>{{ title }}</h1>
+    {% endif %}
   {% endif %}
 
   {% include "page-outdated.html" %}

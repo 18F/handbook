@@ -1,5 +1,6 @@
 ---
-title: First-time travel guide - Step 3 - Complete Concur Profile
+title: Step 1c - Complete Concur Profile
+subtitle: "First-time travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,13 +8,20 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-complete-concur-profile/
-current_step: 3
+step_indicator:
+  current_step: 3
+  substep: 1c
+  hide_steps: true
 sidebar:
   kind: travel
   current: 1. First time setup
 ---
 
-{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+{% include "step-indicator.html" 
+steps: travel-steps.first_time_steps 
+current_step: step_indicator.current_step 
+substep: step_indicator.substep
+hide_steps: step_indicator.hide_steps %}
 
 <!-- prettier-ignore -->
 [Next to Booking travel > ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})<br>
