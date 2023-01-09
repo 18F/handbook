@@ -1,5 +1,5 @@
 ---
-title: Step 2 - Book travel in Concur and secure spprovals
+title: Step 2 - Book travel in Concur and secure approvals
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -17,7 +17,7 @@ sidebar:
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
 
 <!-- prettier-ignore -->
-[Next to What to Consider While Traveling >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/" %})
+[Next to What to consider while traveling >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/" %})
 
 ## Brief overview of booking travel
 
@@ -62,16 +62,16 @@ charged directly to the GSA._
 Once you have finalized your reservations, there are still a few more steps to
 follow through on.
 
-- 1. [Completing trip
+1. [Completing trip
      information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-complete-your-trip-information" %}),
      including relevant details about your trip.
-- 2. [Justify any rental car use or personal vehicle mileage
+2. [Justify any rental car use or personal vehicle mileage
      claims]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-justify-rental-cars-and-personal-vehicle-mileage" %}),
      when applicable.
-- 3. [Stamp and submit
+3. [Stamp and submit
      authorization]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %}),
-     ensuring your authorization is in SUBMIT TO APPROVER status.
-- 4. If you haven't done so already, [secure written approval from your
+     ensuring your authorization is in SUBMIT TO APPROVER status.\
+4. If you haven't done so already, [secure written approval from your
      authorizing
      official]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %})
      and send it to tts-travelauths@gsa.gov so the TTS travel team can likewise
