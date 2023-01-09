@@ -7,7 +7,9 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-faq/
-sidebar: travel
+sidebar:
+  kind: travel
+  current: FAQ
 ---
 
 ## Questions about booking travel

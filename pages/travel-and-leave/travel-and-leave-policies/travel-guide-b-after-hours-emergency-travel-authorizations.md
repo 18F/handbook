@@ -7,7 +7,9 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-b-after-hours-emergency-travel-authorizations/
-sidebar: travel
+sidebar:
+  kind: travel
+  current: 3. Travel
 ---
 
 [Jump to Step 3: What to Consider While

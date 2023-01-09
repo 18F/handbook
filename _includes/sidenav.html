@@ -3,7 +3,7 @@
         <ul class="usa-sidenav">
             {% for item in navigation.travel %}
                 <li class="usa-sidenav__item">
-                    <a href="{% page item.url %}">
+                    <a href="{% page item.url %}" {% if sidebar.current == item.text %}class="usa-current"{% endif%}>
                         {{ item.text }}
                     </a>
                 </li>

@@ -8,7 +8,9 @@ questions:
 redirect_from:
   - /travel-guide-3-reimbursement/
 current_step: 4
-sidebar: travel
+sidebar:
+  kind: Travel
+  current: 4. Get reimbursed
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
