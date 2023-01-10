@@ -36,7 +36,7 @@ module.exports = async ({ context, core, github }) => {
       issue_number: issue.number,
     });
 
-    console.log(body);
+    console.log(rawBody);
 
     const body = makeBody(rawBody);
 
