@@ -26,18 +26,17 @@ const makeBody = (body) => {
 
 module.exports = async ({ context, core, github }) => {
   // const issue = context.issue;
-  core.debug(context);
   const issue = { owner: "18F", repo: "handbook", number: "3380" };
-  core.debug("OKAY I AM INSIDE THE SCRIPT");
 
   if (issue.number) {
-    core.debug(`OKAY I HAVE AN ISSUE NUMBER: ${issue.number}`);
     const {
       data: { body: rawBody },
     } = await github.rest.issues.get({
       ...issue,
       issue_number: issue.number,
     });
+
+    console.log(body);
 
     const body = makeBody(rawBody);
 
