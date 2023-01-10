@@ -40,4 +40,4 @@ jobs:
       - name: logging
         if: steps.parse.outputs.updated == 'yes'
         run: |
-          echo "howdy y'all"
+          git status

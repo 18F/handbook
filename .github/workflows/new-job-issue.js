@@ -119,7 +119,6 @@ module.exports = async ({ context, core, github }) => {
       }
     );
 
-    console.log("OKAY I GOT THIS FAR NOW WHAT");
     core.setOutput("updated", "yes");
   }
 };
