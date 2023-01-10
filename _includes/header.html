@@ -28,7 +28,7 @@
               <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
                 <div class="grid-row grid-gap-4">
                   <div class="usa-col">
-                    <h2 class="text-white">{{ item.text }}</h2>
+                    <h2 class="usa-nav__header">{{ item.text }}</h2>
                     <ul class="usa-nav__submenu-list">
                       {% for child in item.children %}
                           <li class="usa-nav__submenu-item">
@@ -40,7 +40,7 @@
                     {% for condensedItem in navigation.primary %}
                       {% if condensedItem.topnavcondense == item.text %}
                       <div class="usa-col">
-                        <h2 class="text-white">{{ condensedItem.text }}</h2>
+                        <h2 class="usa-nav__header">{{ condensedItem.text }}</h2>
                         <ul class="usa-nav__submenu-list">
                           {% for condensedChild in condensedItem.children %}
                               <li class="usa-nav__submenu-item">
@@ -53,7 +53,7 @@
                     {% endfor %}
                 </div>
               </div>
-              {% elsif subitemsSize > 5 %}
+              {% elsif subitemsSize > 6 %}
               <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
               <div class="grid-row grid-gap-4">
                 <div class="usa-col">
