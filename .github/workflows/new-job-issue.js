@@ -26,8 +26,10 @@ const makeBody = (body) => {
 
 module.exports = async ({ context, core, github }) => {
   context.issue = { org: "18F", repo: "handbook", number: "3380" };
+  core.debug("OKAY I AM INSIDE THE SCRIPT");
 
   if (context.issue.number) {
+    core.debug(`OKAY I HAVE AN ISSUE NUMBER: ${context.issue.number}`);
     const {
       data: { body: rawBody },
     } = await github.rest.issues.get({
@@ -75,8 +77,8 @@ module.exports = async ({ context, core, github }) => {
 
     if (validationErrors.length > 0) {
       // post a comment about validation problems
-      console.log("oh noes");
-      console.log(validationErrors.join("\n"));
+      core.error("oh noes");
+      core.error(validationErrors.join("\n"));
       return;
     }
 
