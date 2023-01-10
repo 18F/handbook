@@ -11,6 +11,7 @@ const makeBody = (body) => {
     getValueForHeader: (header) => {
       const regex = new RegExp(
         `^### ${header
+          .replace(/\\/g, "\\\\")
           .replace(/\?/g, "\\?")
           .replace(/\./g, "\\.")
           .replace(/\*/g, "\\*")}\n\n([^\n]+)`,
