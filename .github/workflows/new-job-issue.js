@@ -24,7 +24,7 @@ const makeBody = (body) => {
   };
 };
 
-module.exports = async ({ context, github }) => {
+module.exports = async ({ context, core, github }) => {
   context.issue = { org: "18F", repo: "handbook", number: "3380" };
 
   if (context.issue.number) {
@@ -118,6 +118,7 @@ module.exports = async ({ context, github }) => {
       }
     );
 
-    await fs.writeFile(process.env.GITHUB_OUTPUT, "updated=yes");
+    console.log("OKAY I GOT THIS FAR NOW WHAT");
+    core.setOutput("updated", "yes");
   }
 };
