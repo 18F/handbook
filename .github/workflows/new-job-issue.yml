@@ -40,6 +40,8 @@ jobs:
       - name: logging
         if: steps.parse.outputs.updated == 'yes'
         run: |
+          git config user.email "bot@tts.gsa.gov"
+          git config user.name "TTS Jobs Automation"
           git checkout -b tts-jobs/${{ steps.parse.outputs.issue }}
           git add _data/jobs.yaml
           git commit -m "adding TTS Job from issue #${{ steps.parse.outputs.issue}}"
