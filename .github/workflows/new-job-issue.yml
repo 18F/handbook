@@ -37,10 +37,9 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            console.log(process.cwd());
             const script = require("./.github/workflows/new-job-issue.js");
             await script({ context, github });
       - name:
-        if: ${{ steps.parse.outputs.updated == 'yes' }}
+        if: steps.parse.outputs.updated == 'yes'
         run: |
           echo "howdy y'all"
