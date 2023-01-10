@@ -26,7 +26,8 @@ const makeBody = (body) => {
 
 module.exports = async ({ context, core, github }) => {
   // const issue = context.issue;
-  const issue = { org: "18F", repo: "handbook", number: "3380" };
+  core.debug(context);
+  const issue = { owner: "18F", repo: "handbook", number: "3380" };
   core.debug("OKAY I AM INSIDE THE SCRIPT");
 
   if (issue.number) {
