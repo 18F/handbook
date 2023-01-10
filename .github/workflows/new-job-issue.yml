@@ -25,6 +25,8 @@ jobs:
         with:
           ref: main
           token: ${{ steps.app_token.outputs.token }}
+      - run: pwd
+      - run: ls -lsa
       - uses: actions/setup-node@v3
         with:
           node-version: 16
