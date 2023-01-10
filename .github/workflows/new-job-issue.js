@@ -11,6 +11,7 @@ const makeBody = (body) => {
     getValueForHeader: (header) => {
       const regex = new RegExp(
         `^### ${header
+          .replace(/\r/g, "")
           .replace(/\\/g, "\\\\")
           .replace(/\?/g, "\\?")
           .replace(/\./g, "\\.")
@@ -35,8 +36,6 @@ module.exports = async ({ context, core, github }) => {
       ...issue,
       issue_number: issue.number,
     });
-
-    console.log(rawBody);
 
     const body = makeBody(rawBody);
 
@@ -125,3 +124,5 @@ module.exports = async ({ context, core, github }) => {
     core.setOutput("updated", "yes");
   }
 };
+
+module.exports({});
