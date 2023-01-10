@@ -11,15 +11,14 @@ const makeBody = (body) => {
     getValueForHeader: (header) => {
       const regex = new RegExp(
         `^### ${header
-          .replace(/\r/g, "")
           .replace(/\\/g, "\\\\")
           .replace(/\?/g, "\\?")
           .replace(/\./g, "\\.")
           .replace(/\*/g, "\\*")}\n\n([^\n]+)`,
-        "m"
+        "im"
       );
 
-      const [, value] = body.match(regex) ?? [];
+      const [, value] = body.replace(/\r/g, "").match(regex) ?? [];
       return value;
     },
   };
