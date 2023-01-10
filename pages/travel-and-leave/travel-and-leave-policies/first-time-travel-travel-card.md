@@ -14,9 +14,9 @@ sidebar:
   current: 1. First time setup
 ---
 
-{% include "step-indicator.html" 
-steps: travel-steps.first_time_steps 
-current_step: step_indicator.current_step 
+{% include "step-indicator.html"
+steps: travel-steps.first_time_steps
+current_step: step_indicator.current_step
 substep: step_indicator.substep
 hide_steps: step_indicator.hide_steps %}
 
