@@ -37,7 +37,7 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const script = require("./workflows/new-job-issue.js");
+            const script = require("./.github/workflows/new-job-issue.js");
             await script({ context, github });
       - name:
         if: ${{ steps.parse.outputs.updated == 'yes' }}
