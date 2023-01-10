@@ -13,7 +13,7 @@
       </button>
       <ul class="usa-nav__primary usa-accordion">
         {% for item in navigation.primary %}
-          {% if item.children and item.topnavcondense != "more" %}
+          {% if item.children and item.topnavcondense ==false %} {% comment %} This allows you to put additional sub navs in a top menu{% endcomment %}
             <li class="usa-nav__primary-item">
               <button
                 type="button"
@@ -24,7 +24,36 @@
                 <span>{{ item.text }}</span>
               </button>
               {% assign subitemsSize = item.children.size %}
-              {% if subitemsSize > 6 %}
+              {% if item.sub %}
+              <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
+                <div class="grid-row grid-gap-4">
+                  <div class="usa-col">
+                    <h2 class="text-white">{{ item.text }}</h2>
+                    <ul class="usa-nav__submenu-list">
+                      {% for child in item.children %}
+                          <li class="usa-nav__submenu-item">
+                            <a href=""><span>{{ child.text }}</span></a>
+                          </li>
+                        {% endfor %}
+                    </ul>
+                  </div>
+                    {% for condensedItem in navigation.primary %}
+                      {% if condensedItem.topnavcondense == item.text %}
+                      <div class="usa-col">
+                        <h2 class="text-white">{{ condensedItem.text }}</h2>
+                        <ul class="usa-nav__submenu-list">
+                          {% for condensedChild in condensedItem.children %}
+                              <li class="usa-nav__submenu-item">
+                                <a href=""><span>{{ condensedChild.text }}</span></a>
+                              </li>
+                            {% endfor %}
+                        </ul>
+                      </div>
+                      {% endif %}
+                    {% endfor %}
+                </div>
+              </div>
+              {% elsif subitemsSize > 5 %}
               <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
               <div class="grid-row grid-gap-4">
                 <div class="usa-col">
@@ -56,39 +85,12 @@
                 </ul>
               {% endif %}
             </li>
-            {% elsif item.topnavcondense != "more" %}
+            {% elsif item.topnavcondense == "false" %}
             <li class="usa-nav__primary-item">
               <a href="{{ item.url | url }}" class="usa-nav-link"><span>{{ item.text }}</span></a>
             </li>
             {% endif %}
         {% endfor %}
-        {% comment %} This is to condense the rest into a more button {% endcomment %}
-        <li class="usa-nav__primary-item">
-          <button
-            type="button"
-            class="usa-accordion__button usa-nav__link usa-current"
-            aria-expanded="false"
-            aria-controls="extended-nav-section-more"
-          >
-            <span>More</span>
-          </button>
-          <div id="extended-nav-section-more" class="usa-nav__submenu usa-megamenu">
-          <div class="grid-row grid-gap-4">
-            {% for item in navigation.primary %}
-            {% if item.topnavcondense == "more" %}
-              <div class="usa-col">
-                  <h2 class="text-white">{{ item.text }}</h2>
-                  <ul class="usa-nav__submenu-list">
-                      {% for child in item.children %}
-                          <li class="usa-nav__submenu-item">
-                            <a href=""><span>{{ child.text }}</span></a>
-                          </li>
-                        {% endfor %}
-                    </ul>
-            </div>
-            {% endif %}
-            {% endfor %}
-
           </div>
           </div>
           </li>

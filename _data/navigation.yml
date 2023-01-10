@@ -1,6 +1,9 @@
 primary:
   - text: About TTS
     href: /#about-tts
+    sub: 
+      - TTS Offices
+    topnavcondense: false
     blurb: |
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
@@ -20,6 +23,10 @@ primary:
         url: about-us/digital-council/
         internal: true
   - text: Getting started
+    topnavcondense: false
+    sub:
+      - General information and resources
+      - Tools
     href: /#getting-started
     blurb: |
       Here's what you probably want to know in your first weeks at TTS.
@@ -46,6 +53,7 @@ primary:
         url: getting-started/classes/travel-101/
         internal: true
   - text: Training & Development
+    topnavcondense: false
     href: /#training-and-development
     blurb: |
       Classes, coaching and ongoing professional development
@@ -83,6 +91,7 @@ primary:
         url: https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe
         internal: false
   - text: Travel and leave
+    topnavcondense: false
     href: /#travel-and-leave
     blurb: |
       Going somewhere? Here's what you need to know.
@@ -117,6 +126,7 @@ primary:
         url: https://docs.google.com/document/d/1ow1VIwSzAGGzsBjGUZMlnLwK6kKTZWS_paGyIzfgpbE/edit
         internal: false
   - text: Performance management
+    topnavcondense: false
     href: /#performance-management
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
@@ -182,7 +192,7 @@ primary:
         url: office-of-operations/talent/#referring-a-person
         internal: true
   - text: General information and resources
-    topnavcondense: more
+    topnavcondense: Getting started
     href: /#general-information-and-resources
     children:
         - text: Who we are
@@ -310,7 +320,7 @@ primary:
             - text: Privacy
               url: launching-software/privacy/
   - text: TTS Offices
-    topnavcondense: more
+    topnavcondense: About TTS
     href: /#tts-offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
@@ -513,7 +523,7 @@ primary:
             url: https://digitalcorps.gsa.gov/
             internal: false
   - text: Tools
-    topnavcondense: more
+    topnavcondense: Getting started
     href: /#tools
     blurb: |
       A by-no-means complete sampling of commonly used tools around TTS.
