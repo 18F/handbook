@@ -25,16 +25,17 @@ const makeBody = (body) => {
 };
 
 module.exports = async ({ context, core, github }) => {
-  context.issue = { org: "18F", repo: "handbook", number: "3380" };
+  // const issue = context.issue;
+  const issue = { org: "18F", repo: "handbook", number: "3380" };
   core.debug("OKAY I AM INSIDE THE SCRIPT");
 
-  if (context.issue.number) {
-    core.debug(`OKAY I HAVE AN ISSUE NUMBER: ${context.issue.number}`);
+  if (issue.number) {
+    core.debug(`OKAY I HAVE AN ISSUE NUMBER: ${issue.number}`);
     const {
       data: { body: rawBody },
     } = await github.rest.issues.get({
-      ...context.issue,
-      issue_number: context.issue.number,
+      ...issue,
+      issue_number: issue.number,
     });
 
     const body = makeBody(rawBody);
