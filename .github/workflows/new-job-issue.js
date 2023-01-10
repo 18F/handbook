@@ -38,6 +38,10 @@ module.exports = async ({ context, core, github }) => {
 
     const body = makeBody(rawBody);
 
+    // TODO [GW]: First check if these heading exists. If they all exist, then
+    // we can assume this is from a jobs issue template. If they don't, it may
+    // be some other kind of issue so we should ignore it.
+
     const type = body.getValueForHeader(
       "Is this job available to the public, or is it internal-only?"
     );
@@ -120,5 +124,6 @@ module.exports = async ({ context, core, github }) => {
     );
 
     core.setOutput("updated", "yes");
+    core.setOutput("issue", issue.number);
   }
 };
