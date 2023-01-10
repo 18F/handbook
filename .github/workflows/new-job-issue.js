@@ -124,5 +124,3 @@ module.exports = async ({ context, core, github }) => {
     core.setOutput("updated", "yes");
   }
 };
-
-module.exports({});
