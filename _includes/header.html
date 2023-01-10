@@ -44,7 +44,7 @@
                         <ul class="usa-nav__submenu-list">
                           {% for condensedChild in condensedItem.children %}
                               <li class="usa-nav__submenu-item">
-                                <a href=""><span>{{ condensedChild.text }}</span></a>
+                                <a href="{% page'/' %}#{{ condensedChild.text | slugify }}"><span>{{ condensedChild.text }}</span></a>
                               </li>
                             {% endfor %}
                         </ul>
