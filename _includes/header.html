@@ -32,7 +32,7 @@
                     <ul class="usa-nav__submenu-list">
                       {% for child in item.children %}
                           <li class="usa-nav__submenu-item">
-                            <a href=""><span>{{ child.text }}</span></a>
+                            <a href="{{ child.url | url }}"><span>{{ child.text }}</span></a>
                           </li>
                         {% endfor %}
                     </ul>
