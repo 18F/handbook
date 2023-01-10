@@ -121,5 +121,3 @@ module.exports = async ({ context, github }) => {
     await fs.writeFile(process.env.GITHUB_OUTPUT, "updated=yes");
   }
 };
-
-module.exports({});
