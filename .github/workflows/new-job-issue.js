@@ -25,9 +25,9 @@ const makeBody = (body) => {
 };
 
 module.exports = async ({ context, github }) => {
-  context.issue = { number: 3380 };
+  context.issue = { org: "18F", repo: "handbook", number: "3380" };
 
-  if (true || context.issue.number) {
+  if (context.issue.number) {
     const {
       data: { body: rawBody },
     } = await github.rest.issues.get({
