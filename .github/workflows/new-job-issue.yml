@@ -23,8 +23,10 @@ jobs:
           private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
       - uses: actions/checkout@v3
         with:
-          ref: main
+          # ref: main
           token: ${{ steps.app_token.outputs.token }}
+      - run: pwd
+      - run: ls -lsa .github/workflows
       - uses: actions/setup-node@v3
         with:
           node-version: 16
