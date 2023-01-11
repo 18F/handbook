@@ -1,5 +1,5 @@
 ---
-title: Complete Concur Profile
+title: Complete Concur profile
 subtitle: "First-time travel guide: Step 1c"
 questions:
   - travel
