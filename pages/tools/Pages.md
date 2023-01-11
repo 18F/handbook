@@ -12,10 +12,14 @@ We use [Cloud.gov's Pages](https://cloud.gov/pages/) to build websites.
 
 ## Getting access
 
- - Instead of putting in a support ticket, users are granted cloud.gov Pages access by their organization manager. Head to the [Pages access and permission section](https://cloud.gov/pages/documentation/access-permissions/) if you want more information.
- - To find out who is an org manager for a given site, ask over in {% slack_channel "cg-pages" %}, and they'll direct you to your next steps.
- - Once you have access, you can begin adding sites by following [cloud.gov's instructions for adding new sites in Pages](https://cloud.gov/pages/documentation/#adding-a-new-site).
-
+- Instead of putting in a support ticket, users are granted cloud.gov Pages
+  access by their organization manager. Head to the
+  [Pages access and permission section](https://cloud.gov/pages/documentation/access-permissions/)
+  if you want more information.
+- To find out who is an org manager for a given site, ask over in
+  {% slack_channel "cg-pages" %}, and they'll direct you to your next steps.
+- Once you have access, you can begin adding sites by following
+  [cloud.gov's instructions for adding new sites in Pages](https://cloud.gov/pages/documentation/#adding-a-new-site).
 
 ## Rules
 
