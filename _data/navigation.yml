@@ -113,6 +113,7 @@ primary:
         internal: true
   - text: Supervisor Resources
     href: /#supervisor-resources
+    topnavcondense: false
     blurb: |
       Tools and tips for supervisors.
     children:
