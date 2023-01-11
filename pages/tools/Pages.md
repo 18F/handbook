@@ -1,22 +1,21 @@
 ---
 title: Federalist
 redirect_from:
-  - /federalist/
+  - /pages/
 ---
 
-We use [Federalist](https://federalist.18f.gov) to build websites.
+We use [Cloud.gov's Pages](https://cloud.gov/pages/) to build websites.
 
 ## Documentation
 
-- [Federalist Documentation](https://federalist.18f.gov/documentation/)
+- [Pages documentation](https://cloud.gov/pages/documentation/)
 
-## Setup
+## Getting access
 
-- Set up your [GitHub]({% page "/github/" %}) account.
-- Request access in the {% slack_channel "cg-pages" %} channel. If approved, an
-  administrator will send you an invitation to the federalist-users group in
-  GitHub.
-- Log in at the [Federalist app](https://federalistapp.18f.gov/).
+ - Instead of putting in a support ticket, users are granted cloud.gov Pages access by their organization manager. Head to the [Pages access and permission section](https://cloud.gov/pages/documentation/access-permissions/) if you want more information.
+ - To find out who is an org manager for a given site, ask over in {% slack_channel "cg-pages" %}, and they'll direct you to your next steps.
+ - Once you have access, you can begin adding sites by following [cloud.gov's instructions for adding new sites in Pages](https://cloud.gov/pages/documentation/#adding-a-new-site).
+
 
 ## Rules
 
