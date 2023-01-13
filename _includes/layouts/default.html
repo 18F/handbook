@@ -22,7 +22,7 @@ footer, etc.).
   data-threshold="1"
   ></aside>
   {% endif %}
-  <main id="main-content" class="usa-prose test">
+  <main id="main-content" class="usa-prose">
 {% endif %}
 
   {% if title %}
@@ -36,4 +36,8 @@ footer, etc.).
   {% endif %}
 
   {{ content }}
+  {% if words.size > site.inpagenavwordcount %}
+  
+  <a href="#top" class="float-right">Return to the top of the page ^</a>
+  {% endif%}
 </main>
