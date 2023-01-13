@@ -4,6 +4,7 @@ primary:
     sub: 
       - TTS Offices
     topnavcondense: false
+    main-file-path: /about-us/
     blurb: |
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
@@ -28,6 +29,7 @@ primary:
       - General information and resources
       - Tools
     href: /#getting-started
+    main-file-path: /getting-started/
     blurb: |
       Here's what you probably want to know in your first weeks at TTS.
     children:
@@ -55,6 +57,7 @@ primary:
   - text: Training & Development
     topnavcondense: false
     href: /#training-and-development
+    main-file-path: /training-and-development/
     blurb: |
       Classes, coaching and ongoing professional development
     children:
@@ -93,6 +96,7 @@ primary:
   - text: Travel and leave
     topnavcondense: false
     href: /#travel-and-leave
+    main-file-path: /travel-and-leave/
     blurb: |
       Going somewhere? Here's what you need to know.
     children:
@@ -113,6 +117,7 @@ primary:
         internal: true
   - text: Supervisor Resources
     href: /#supervisor-resources
+    main-file-path: /supervisor-resources/
     topnavcondense: false
     blurb: |
       Tools and tips for supervisors.
@@ -129,6 +134,7 @@ primary:
   - text: Performance management
     topnavcondense: false
     href: /#performance-management
+    main-file-path: /performance-management/
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
@@ -155,6 +161,7 @@ primary:
         interal: true
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
+    main-file-path: /hiring-staying-or-changing-jobs/
     blurb: |
       Everything you need to know about getting a job at TTS,
       changing jobs at TTS, or leaving TTS.
@@ -195,6 +202,7 @@ primary:
   - text: General information and resources
     topnavcondense: Getting started
     href: /#general-information-and-resources
+    main-file-path: /general-information-and-resources/
     children:
         - text: Who we are
           children:
@@ -526,6 +534,7 @@ primary:
   - text: Tools
     topnavcondense: Getting started
     href: /#tools
+    main-file-path: /tools/
     blurb: |
       A by-no-means complete sampling of commonly used tools around TTS.
     children:
