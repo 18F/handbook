@@ -48,4 +48,4 @@ jobs:
           git add _data/jobs.yaml
           git commit -m "adding TTS Job from issue #${{ steps.parse.outputs.issue}}"
           git push -u origin tts-jobs/${{ steps.parse.outputs.issue }}
-          gh pr create -B jobs-data -l "HIGH PRIORITY" -l "TTS Jobs" -t "Add TTS Job from Issue #${{ steps.parse.outputs.issue }}"
+          gh pr create -B jobs-data -l "HIGH PRIORITY" -l "TTS Jobs" -t "Add TTS Job from Issue #${{ steps.parse.outputs.issue }}" -b "PR created automatically. Closes #${{ steps.parse.outputs.issue }}."
