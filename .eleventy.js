@@ -103,6 +103,7 @@ module.exports = function (config) {
   config.addLiquidShortcode("usa_current", usaCurrentShortcode);
 
   config.addLiquidShortcode("page", (link) => path.join(pathPrefix, link));
+  config.addLiquidShortcode("link", (link) => link.startsWith("http") ? link : path.join(pathPrefix, link));
 
   config.on("eleventy.after", async () => {
     await postbuild();
