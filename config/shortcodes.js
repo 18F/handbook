@@ -69,10 +69,18 @@ const slackChannelLinkShortcode = (channel, name) => {
   }</a>`;
 };
 
+const usaCurrentShortcode = (navItemMainFilePath, pagePath) => {
+  if (pagePath.includes(navItemMainFilePath)) {
+    return `usa-current - ${pagePath} - ${navItemMainFilePath}`;
+  }
+  return "";
+};
+
 module.exports = {
   downloadShortCode,
   imageWithClassShortcode,
   imageShortcode,
   slackChannelLinkShortcode,
   uswdsIconShortcode,
+  usaCurrentShortcode,
 };

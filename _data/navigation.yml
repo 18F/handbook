@@ -1,6 +1,10 @@
 primary:
   - text: About TTS
     href: /#about-tts
+    sub:
+      - TTS Offices
+    topnavcondense: false
+    main-file-path: /about-us/
     blurb: |
       <a href="https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services">Technology Transformation Services (TTS)</a> applies modern methodologies and technologies to improve the public’s experience with government by helping agencies make their services more accessible, efficient, and effective. Below is more information on both general TTS policies and the individual offices within TTS.
     children:
@@ -20,7 +24,12 @@ primary:
         url: about-us/digital-council/
         internal: true
   - text: Getting started
+    topnavcondense: false
+    sub:
+      - General information and resources
+      - Tools
     href: /#getting-started
+    main-file-path: /getting-started/
     blurb: |
       Here's what you probably want to know in your first weeks at TTS.
     children:
@@ -46,7 +55,9 @@ primary:
         url: getting-started/classes/travel-101/
         internal: true
   - text: Training & Development
+    topnavcondense: false
     href: /#training-and-development
+    main-file-path: /training-and-development/
     blurb: |
       Classes, coaching and ongoing professional development
     children:
@@ -83,7 +94,9 @@ primary:
         url: https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe
         internal: false
   - text: Travel and leave
+    topnavcondense: false
     href: /#travel-and-leave
+    main-file-path: /travel-and-leave/
     blurb: |
       Going somewhere? Here's what you need to know.
     children:
@@ -104,6 +117,8 @@ primary:
         internal: true
   - text: Supervisor Resources
     href: /#supervisor-resources
+    main-file-path: /supervisor-resources/
+    topnavcondense: false
     blurb: |
       Tools and tips for supervisors.
     children:
@@ -117,7 +132,9 @@ primary:
         url: https://docs.google.com/document/d/1ow1VIwSzAGGzsBjGUZMlnLwK6kKTZWS_paGyIzfgpbE/edit
         internal: false
   - text: Performance management
+    topnavcondense: false
     href: /#performance-management
+    main-file-path: /performance-management/
     blurb: |
       Annual reviews, self-evaluations and peer feedback. Oh my!
     children:
@@ -144,6 +161,7 @@ primary:
         interal: true
   - text: Hiring, staying, or changing jobs
     href: /#hiring-staying-or-changing-jobs
+    main-file-path: /hiring-staying-or-changing-jobs/
     blurb: |
       Everything you need to know about getting a job at TTS,
       changing jobs at TTS, or leaving TTS.
@@ -182,134 +200,136 @@ primary:
         url: office-of-operations/talent/#referring-a-person
         internal: true
   - text: General information and resources
+    topnavcondense: Getting started
     href: /#general-information-and-resources
+    main-file-path: /general-information-and-resources/
     children:
-      - children:
-          - text: Who we are
+      - text: Who we are
+        children:
+          - text: Staff directory
+            url: https://docs.google.com/spreadsheets/d/1pt68FCytthwhwBiXzrC78mCl4G_pG8QtyzlyfsyGsP4/edit#gid=655713658
+            internal: false
+          - text: General contacts
+            url: general-contacts/
+            internal: true
+          - text: Glossary
+            url: glossary/
+            internal: true
+          - text: Records management
+            url: records-management/
+            internal: true
+      - text: Diversity, equity, inclusion, and accessibility
+        children:
+          - text: DEIA Resources
+            url: general-information-and-resources/deia-resources/
+            internal: true
+          - text: Inclusive Behaviors
+            url: general-information-and-resources/inclusive-behaviors/
+            internal: true
+          - text: Inclusion Bot
+            url: general-information-and-resources/inclusion-bot/
+            internal: true
+      - text: TTS locations
+        children:
+          - text: Distributed
+            url: distributed/
+            internal: true
+          - text: Chicago
+            url: chicago/
+            internal: true
+          - text: New York City
+            url: new-york-city/
+            internal: true
+          - text: San Francisco
+            url: san-francisco/
+            internal: true
+          - text: Washington, D.C.
+            url: washington-dc/
+            internal: true
+      - text: TTS platforms
+        children:
+          - text: Cloud.gov
+            url: https://cloud.gov/
+            internal: false
+          - text: Login.gov
+            url: https://login.gov/
+            internal: false
+          - text: Federalist (publishing platform)
+            url: federalist/
+            internal: true
+      - text: Tech
+        children:
+          - text: FITARA
+            url: fitara/
+            internal: true
+          - text: Requirements for passwords
+            url: password-requirements/
+            internal: true
+          - text: Security incidents
+            url: security-incidents/
+            internal: true
+          - text: Sensitive information
+            url: sensitive-information/
+            internal: true
+      - text: Employee resources
+        children:
+          - text: Benefits links and resources
+            url: benefits-links/
+            internal: true
+          - text: Covid leave guidance
+            url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
+            internal: false
+          - text: Daily Check-in
+            url: daily-checkin/
+            internal: true
+          - text: Emergency procedures
+            url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
+            internal: false
+          - text: Employee assistance program
+            url: getting-started/classes/benefits/#employee-assistance-program
+            internal: true
+          - text: Employment verification
+            url: employment-verification/
+            internal: true
+          - text: Overtime, comp time, and credit hours
+            url: travel-and-leave/overtime/
+            internal: true
+          - text: Purchase requests
+            url: purchase-requests/
+            internal: true
             children:
-              - text: Staff directory
-                url: https://docs.google.com/spreadsheets/d/1pt68FCytthwhwBiXzrC78mCl4G_pG8QtyzlyfsyGsP4/edit#gid=655713658
-                internal: false
-              - text: General contacts
-                url: general-contacts/
+              - text: Software under $10,000
+                url: software/
                 internal: true
-              - text: Glossary
-                url: glossary/
+              - text: Procurements over $10,000
+                url: procurements-over-10000/
                 internal: true
-              - text: Records management
-                url: records-management/
-                internal: true
-          - text: Diversity, equity, inclusion, and accessibility
-            children:
-              - text: DEIA Resources
-                url: general-information-and-resources/deia-resources/
-                internal: true
-              - text: Inclusive Behaviors
-                url: general-information-and-resources/inclusive-behaviors/
-                internal: true
-              - text: Inclusion Bot
-                url: general-information-and-resources/inclusion-bot/
-                internal: true
-          - text: TTS locations
-            children:
-              - text: Distributed
-                url: distributed/
-                internal: true
-              - text: Chicago
-                url: chicago/
-                internal: true
-              - text: New York City
-                url: new-york-city/
-                internal: true
-              - text: San Francisco
-                url: san-francisco/
-                internal: true
-              - text: Washington, D.C.
-                url: washington-dc/
-                internal: true
-          - text: TTS platforms
-            children:
-              - text: Cloud.gov
-                url: https://cloud.gov/
-                internal: false
-              - text: Login.gov
-                url: https://login.gov/
-                internal: false
-              - text: Federalist (publishing platform)
-                url: federalist/
-                internal: true
-          - text: Tech
-            children:
-              - text: FITARA
-                url: fitara/
-                internal: true
-              - text: Requirements for passwords
-                url: password-requirements/
-                internal: true
-              - text: Security incidents
-                url: security-incidents/
-                internal: true
-              - text: Sensitive information
-                url: sensitive-information/
-                internal: true
-          - text: Employee resources
-            children:
-              - text: Benefits links and resources
-                url: benefits-links/
-                internal: true
-              - text: Covid leave guidance
-                url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
-                internal: false
-              - text: Daily Check-in
-                url: daily-checkin/
-                internal: true
-              - text: Emergency procedures
-                url: https://docs.google.com/document/d/11tUnOegbHajqXPwSFxGtmGakupYrLgyItz4sgxAysi8/edit
-                internal: false
-              - text: Employee assistance program
-                url: getting-started/classes/benefits/#employee-assistance-program
-                internal: true
-              - text: Employment verification
-                url: employment-verification/
-                internal: true
-              - text: Overtime, comp time, and credit hours
-                url: travel-and-leave/overtime/
-                internal: true
-              - text: Purchase requests
-                url: purchase-requests/
-                internal: true
-                children:
-                  - text: Software under $10,000
-                    url: software/
-                    internal: true
-                  - text: Procurements over $10,000
-                    url: procurements-over-10000/
-                    internal: true
-              - text: Resources for Deaf and Hard of Hearing individuals
-                url: deaf-hoh/
-                internal: true
-              - text: Moving and changing your address
-                url: moving/
-                internal: true
-              - text: Transit benefit
-                url: transit-benefit/
-                internal: true
-              - text: Within Grade Increases (opm.gov)
-                url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
-                internal: false
-          - text: Launching software
-            children:
-              - text: Lifecycle of a Launch (ATOs, etc.)
-                url: launching-software/lifecycle/
-              - text: Security
-                url: launching-software/security/
-              - text: Infrastructure
-                url: launching-software/infrastructure/
-              - text: Laws
-                url: launching-software/laws/
-              - text: Privacy
-                url: launching-software/privacy/
+          - text: Resources for Deaf and Hard of Hearing individuals
+            url: deaf-hoh/
+            internal: true
+          - text: Moving and changing your address
+            url: moving/
+            internal: true
+          - text: Transit benefit
+            url: transit-benefit/
+            internal: true
+          - text: Within Grade Increases (opm.gov)
+            url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
+            internal: false
+      - text: Launching software
+        children:
+          - text: Lifecycle of a Launch (ATOs, etc.)
+            url: launching-software/lifecycle/
+          - text: Security
+            url: launching-software/security/
+          - text: Infrastructure
+            url: launching-software/infrastructure/
+          - text: Laws
+            url: launching-software/laws/
+          - text: Privacy
+            url: launching-software/privacy/
   - text: TTS Offices
+    topnavcondense: About TTS
     href: /#tts-offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
@@ -512,7 +532,9 @@ primary:
             url: https://digitalcorps.gsa.gov/
             internal: false
   - text: Tools
+    topnavcondense: Getting started
     href: /#tools
+    main-file-path: /tools/
     blurb: |
       A by-no-means complete sampling of commonly used tools around TTS.
     children:

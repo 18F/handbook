@@ -12,6 +12,7 @@ const {
   imageWithClassShortcode,
   slackChannelLinkShortcode,
   uswdsIconShortcode,
+  usaCurrentShortcode,
 } = require("./config/shortcodes");
 const { headingLinks } = require("./config/headingLinks");
 const postbuild = require("./config/postbuild");
@@ -99,8 +100,12 @@ module.exports = function (config) {
   config.addLiquidShortcode("image_with_class", imageWithClassShortcode);
   config.addLiquidShortcode("slack_channel", slackChannelLinkShortcode);
   config.addLiquidShortcode("uswds_icon", uswdsIconShortcode);
+  config.addLiquidShortcode("usa_current", usaCurrentShortcode);
 
   config.addLiquidShortcode("page", (link) => path.join(pathPrefix, link));
+  config.addLiquidShortcode("link", (link) =>
+    link.startsWith("http") ? link : path.join(pathPrefix, link)
+  );
 
   config.on("eleventy.after", async () => {
     await postbuild();
