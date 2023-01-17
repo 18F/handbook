@@ -1,5 +1,6 @@
 ---
 title: Working While Traveling
+subtitle: "Travel guide:"
 tags:
   - travel
   - away from office

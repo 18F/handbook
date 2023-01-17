@@ -22,11 +22,15 @@ footer, etc.).
   data-threshold="1"
   ></aside>
   {% endif %}
-  <main id="main-content" class="usa-prose test">
+  <main id="main-content" class="usa-prose">
 {% endif %}
 
   {% if title %}
+    {% if subtitle %}<p class="font-sans-lg">{{ subtitle }}</p>
+    <h1 class="margin-top-1" data-page-title>{{ title }}</h1>
+    {% else %}
     <h1 data-page-title>{{ title }}</h1>
+    {% endif %}
   {% endif %}
 
   {% include "page-outdated.html" %}
@@ -36,4 +40,8 @@ footer, etc.).
   {% endif %}
 
   {{ content }}
+  {% if words.size > site.inpagenavwordcount %}
+  
+  <a href="#top" class="float-right">Return to the top of the page ^</a>
+  {% endif%}
 </main>
