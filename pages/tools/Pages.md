@@ -4,7 +4,7 @@ redirect_from:
   - /pages/
 ---
 
-We use [Cloud.gov's Pages](https://cloud.gov/pages/) to build websites.
+We use [cloud.gov's Pages](https://cloud.gov/pages/) to build websites.
 
 ## Documentation
 
