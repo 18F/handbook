@@ -1,7 +1,8 @@
 ---
 title: Federalist
 redirect_from:
-  - /pages/
+  - /federalist/
+  - /pages/tools/federalist/
 ---
 
 We use [cloud.gov's Pages](https://cloud.gov/pages/) to build websites.
