@@ -68,11 +68,13 @@ You may also want to take a look at
 
 ### 4. Join a GSA/TTS organization
 
-Have a current teammember request an inviation to the 
-[GSA or TTS Organization](#organizations) you need in the #github-admins channel.
+Have a current teammember request an inviation to the
+[GSA or TTS Organization](#organizations) you need in the #github-admins
+channel.
 
-Then An admin will add you, after which you'll need to accept their invite from the
-email or by going to the https://github.com/orgs/<organization-name>/invitation?via_email=1 page.
+Then An admin will add you, after which you'll need to accept their invite from
+the email or by going to the
+https://github.com/orgs/<organization-name>/invitation?via_email=1 page.
 
 ### 5. Make your membership public
 
