@@ -8,26 +8,10 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-get-in-concur-pre-olu/
-step_indicator:
-  current_step: 1
-  substep: 1a
-  hide_steps: true
 sidebar:
   kind: travel
   current: 1. First time setup
 ---
-
-{% include "step-indicator.html"
-steps: travel-steps.first_time_steps
-current_step: step_indicator.current_step
-substep: step_indicator.substep
-hide_steps: step_indicator.hide_steps %}
-
-Steps to take after onboarding:
-
-- [Get access to Concur]({% page "/first-time-travel-get-in-concur" %})
-- [Get
-  reimbursed]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})<br>
 
 If you're traveling for TTS during your first two weeks (normally for
 orientation, if you're based in a city that doesn't have a TTS office), you'll
