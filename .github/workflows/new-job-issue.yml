@@ -39,6 +39,8 @@ jobs:
             await script({ context, core, github });
       - name: logging
         if: steps.parse.outputs.updated == 'yes'
+        env:
+          GH_TOKEN: ${{ steps.app_token.outputs.token }}
         run: |
           git config user.email "bot@tts.gsa.gov"
           git config user.name "TTS Jobs Automation"
