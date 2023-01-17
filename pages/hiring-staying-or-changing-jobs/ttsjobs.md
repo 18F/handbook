@@ -49,6 +49,9 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 [TTS Product Management Supervisor GS15 ](https://join.tts.gsa.gov/join/tts-productsupervisor15/)-
 open Monday, January 9th through Tuesday, January 17th
 
+[PIF Deputy Director GS15 ](https://join.tts.gsa.gov/join/pif-deputy-director15/)-
+open Tuesday, January 17th through Tuesday, January 24th
+
 ### Internal only opportunities
 
 [Login.gov Account Manager GS-15 reassignment](https://docs.google.com/document/d/1nwclGp2MOnJppsxkZtmoG2XhHrjxN1_dzDy5IkIhy_4/edit#)
