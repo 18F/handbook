@@ -1,5 +1,6 @@
 ---
-title: Step 2 - Book travel in Concur and secure approvals
+title: Book travel in Concur and secure approvals
+subtitle: "Travel guide: Step 2"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -8,13 +9,18 @@ questions:
 redirect_from:
   - /travel-guide-1-book-travel/
   - /travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/
-current_step: 2
+step_indicator:
+  current_step: 2
+  hide_steps: false
 sidebar:
   kind: travel
   current: 2. Book travel
 ---
 
-{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
+{% include "step-indicator.html"
+steps: travel-steps.steps
+current_step: step_indicator.current_step
+hide_steps: step_indicator.hide_steps %}
 
 <!-- prettier-ignore -->
 [Next to What to consider while traveling >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/" %})

@@ -1,5 +1,6 @@
 ---
 title: Appendix B - After-hours emergency travel authorizations
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov

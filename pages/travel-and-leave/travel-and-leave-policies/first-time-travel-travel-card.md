@@ -1,16 +1,24 @@
 ---
-title: First-time travel guide - Step 2 - Get a travel card
+title: Get a travel card
+subtitle: "First-time travel guide: Step 1b"
 questions:
   - ronnail.rawls@gsa.gov
 redirect_from:
   - /first-time-travel-travel-card/
-current_step: 2
+step_indicator:
+  current_step: 2
+  substep: 1b
+  hide_steps: true
 sidebar:
   kind: travel
   current: 1. First time setup
 ---
 
-{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+{% include "step-indicator.html"
+steps: travel-steps.first_time_steps
+current_step: step_indicator.current_step
+substep: step_indicator.substep
+hide_steps: step_indicator.hide_steps %}
 
 <!-- prettier-ignore -->
 [Next to Complete Concur profile >]({% page "/first-time-travel-complete-concur-profile" %})

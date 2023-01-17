@@ -1,5 +1,6 @@
 ---
 title: Appendix A - Amended authorizations
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov

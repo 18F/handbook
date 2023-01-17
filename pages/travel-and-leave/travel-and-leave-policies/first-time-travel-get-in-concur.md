@@ -1,5 +1,6 @@
 ---
-title: First-time travel guide - Step 1 - Get access to Concur
+title: Get access to Concur
+subtitle: "First-time travel guide: Step 1a"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,13 +8,20 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-get-in-concur/
-current_step: 1
+step_indicator:
+  current_step: 1
+  substep: 1a
+  hide_steps: true
 sidebar:
   kind: travel
   current: 1. First time setup
 ---
 
-{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
+{% include "step-indicator.html"
+steps: travel-steps.first_time_steps
+current_step: step_indicator.current_step
+substep: step_indicator.substep
+hide_steps: step_indicator.hide_steps %}
 
 [Next to Get a travel card >]({% page "/first-time-travel-travel-card" %})
 

@@ -1,7 +1,6 @@
 ---
-title:
-  First-time travel guide - Step 1 - Get set up to travel for TTS
-  <em>before</em> GSA onboarding
+title: Get set up to travel for TTS <em>before</em> GSA onboarding
+subtitle: "First-time travel guide: Step 1a"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -9,19 +8,10 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-get-in-concur-pre-olu/
-current_step: 1
 sidebar:
   kind: travel
   current: 1. First time setup
 ---
-
-{% include "step-indicator.html" steps: travel-steps.first_time_steps current_step:current_step  %}
-
-Steps to take after onboarding:
-
-- [Get access to Concur]({% page "/first-time-travel-get-in-concur" %})
-- [Get
-  reimbursed]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})<br>
 
 If you're traveling for TTS during your first two weeks (normally for
 orientation, if you're based in a city that doesn't have a TTS office), you'll

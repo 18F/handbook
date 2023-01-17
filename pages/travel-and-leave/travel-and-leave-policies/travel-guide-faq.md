@@ -1,5 +1,6 @@
 ---
-title: Travel Guide FAQ
+title: Frequently Asked Questions
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
