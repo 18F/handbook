@@ -49,6 +49,9 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 [TTS Product Management Supervisor GS15 ](https://join.tts.gsa.gov/join/tts-productsupervisor15/)-
 open Monday, January 9th through Tuesday, January 17th
 
+[Public Experience Portfolio Director GS15](https://join.tts.gsa.gov/join/tts-pubexperiencedirector/) -
+open Tuesday, January 17th through Monday, January 23rd
+
 [PIF Deputy Director GS15 ](https://join.tts.gsa.gov/join/pif-deputy-director15/)-
 open Tuesday, January 17th through Tuesday, January 24th
 
