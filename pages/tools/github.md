@@ -66,14 +66,13 @@ particular, it's suggested that you turn off `Automatically watch repositories`.
 You may also want to take a look at
 [tips for filtering GitHub notifications in email](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#filtering-email-notifications).
 
-### 4. Join the 18F organization
+### 4. Join a GSA/TTS organization
 
-An admin will add you, after which you'll need to accept their invite from the
-email or by going [here](https://github.com/orgs/18F/invitation?via_email=1).
+Have a current teammember request an inviation to the 
+[GSA or TTS Organization](#organizations) you need in the #github-admins channel.
 
-You may need access to [other GitHub organizations](#organizations), depending
-on your job. If that applies to you, your team will get you added as part of
-their onboarding.
+Then An admin will add you, after which you'll need to accept their invite from the
+email or by going to the https://github.com/orgs/<organization-name>/invitation?via_email=1 page.
 
 ### 5. Make your membership public
 
@@ -327,9 +326,8 @@ TTS is heavily involved in the following GitHub organizations:
 | [@federalist-users](https://github.com/federalist-users)                               | Y                            | Y                                                 |
 | [@fedramp](https://github.com/fedramp)                                                 | Y                            | Y                                                 |
 | [@fellows-in-innovation](https://github.com/fellows-in-innovation)                     | Y                            | Y                                                 |
-| [@fisma-ready](https://github.com/fisma-ready)                                         | N                            | N                                                 |
 | [@GSA](https://github.com/GSA)                                                         | Y                            | [N](https://github.com/GSA/GitHub-Administration) |
-| [@opencontrol](https://github.com/opencontrol)                                         | N                            | N                                                 |
+| [@GSA-TTS](https://github.com/GSA-TTS)                                                 | Y                            | Y                                                 |
 | [@project-open-data](https://github.com/project-open-data)                             | Y                            | Y, shared with OMB                                |
 | [@presidential-innovation-fellows](https://github.com/presidential-innovation-fellows) | Y                            | Y                                                 |
 | [@usagov](https://github.com/usagov)                                                   | Y                            | Y                                                 |
