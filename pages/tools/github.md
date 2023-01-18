@@ -72,7 +72,7 @@ Have a current teammember request an inviation to the
 [GSA or TTS Organization](#organizations) you need in the #github-admins
 channel.
 
-Then An admin will add you, after which you'll need to accept their invite from
+An admin will add you, after which you'll need to accept their invitation from
 the email or by going to the
 https://github.com/orgs/<organization-name>/invitation?via_email=1 page.
 
