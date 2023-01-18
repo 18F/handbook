@@ -20,8 +20,8 @@ not). Please submit a request through the
 [TTS Internal Hiring Request form](https://forms.gle/hD2XkzivybBQzNWE6) even if
 you’re not completely sure how to best proceed.
 
-Although internal (non-competitive) personnel actions are processed quicker than
-external (competed) hiring actions, internal actions still require need, effort
+Although internal hiring actions are processed quicker than
+external hiring actions, internal actions still require need, effort
 and intentionality. We recommend Hiring Managers read this Handbook page in its
 entirety before working on their internal posting, as it contains important
 information about approvals.
@@ -38,7 +38,7 @@ A reassignment is a lateral transfer to a new TTS office at the same GS level.
 
 A detail is a temporary assignment to a different position or a different
 organization/business unit. Details last up to 120 days and can be extended up
-to another 120 days (NTE 240 days total), provided that:
+to another 120 days (not to exceed 240 days total), provided that:
 
 - The detailee, the TTS supervisor, the Business Unit Director, and the
   Assistant Commissioner agree, as well as the employee’s permanent supervisor.
@@ -57,7 +57,7 @@ Submissions are reviewed every **Thursday morning at 10am ET** by the Internal
 Hiring Review Committee, which includes members of Leadership, Finance, Talent,
 and PeopleOps. Follow-up discussions take place in a private Slack channel
 #internal-hiring-review, and requestors may be added to the channel to provide
-additional context.\*
+additional context.
 
 ## Internal Posting Process
 
@@ -175,7 +175,7 @@ employee’s current supervisor about the following:
 
 Once you have submitted your candidate pool sheet and internal approval for your
 selected detailee to the Talent team at
-[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) , please email
+[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov), please email
 [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and copy
 [JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) with the following information for
 detail opportunities processing:
@@ -200,7 +200,7 @@ proposed detail.
 ## Notifying TTS People Operations for Permanent Reassignment Processing
 
 Once you have submitted your candidate pool sheet to the Talent Team at
-[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) , please email
+[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov), please email
 [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and copy
 [JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) with the following information for
 permanent reassignment opportunities:
