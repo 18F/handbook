@@ -186,9 +186,9 @@ GitHub. If you don't have a GitHub account,
 
 Because the Handbook is built and served by
 [Cloud.gov Pages](https://cloud.gov/pages/), you'll also need to [request access
-to Pages]({% page "/tools/federalist/" %}) before you can use NetlifyCMS.
-Cloud.gov Pages uses cloud.gov for authentication, so you'll need a Cloud.gov
-account before requesting access to Pages.
+to Pages]({% page "/tools/pages/" %}) before you can use NetlifyCMS. Cloud.gov
+Pages uses cloud.gov for authentication, so you'll need a Cloud.gov account
+before requesting access to Pages.
 
 ### Step 2: Find the page you'd like to edit
 
