@@ -13,8 +13,12 @@ redirect_from:
 ---
 
 All opportunities within TTS, including details and reassignments, should be
-openly shared and competed within the organization. There is a [TTS Internal Hiring request process](https://docs.google.com/document/d/11EaJO13KL7-NKMu8HwQsJS7nckPFPj5sbKcTwf9jKHc/edit) for pursuing any type of internal hiring request (open application process or not). Please submit a request through the
-[TTS Internal Hiring Request form](https://forms.gle/hD2XkzivybBQzNWE6) even if you’re not completely sure how to best proceed.
+openly shared and competed within the organization. There is a
+[TTS Internal Hiring request process](https://docs.google.com/document/d/11EaJO13KL7-NKMu8HwQsJS7nckPFPj5sbKcTwf9jKHc/edit)
+for pursuing any type of internal hiring request (open application process or
+not). Please submit a request through the
+[TTS Internal Hiring Request form](https://forms.gle/hD2XkzivybBQzNWE6) even if
+you’re not completely sure how to best proceed.
 
 Although internal (non-competitive) personnel actions are processed quicker than
 external (competed) hiring actions, internal actions still require need, effort
@@ -45,9 +49,15 @@ to another 120 days (NTE 240 days total), provided that:
 
 ## Internal Role Approval Process
 
-Hiring Managers must receive advanced approval from their Supervisor and Business Unit Head and also confirm funding availability before proceeding with a [TTS Internal Hiring Request](https://forms.gle/hD2XkzivybBQzNWE6).
+Hiring Managers must receive advanced approval from their Supervisor and
+Business Unit Head and also confirm funding availability before proceeding with
+a [TTS Internal Hiring Request](https://forms.gle/hD2XkzivybBQzNWE6).
 
-Submissions are reviewed every **Thursday morning at 10am ET** by the Internal Hiring Review Committee, which includes members of Leadership, Finance, Talent, and PeopleOps. Follow-up discussions take place in a private Slack channel #internal-hiring-review, and requestors may be added to the channel to provide additional context.*
+Submissions are reviewed every **Thursday morning at 10am ET** by the Internal
+Hiring Review Committee, which includes members of Leadership, Finance, Talent,
+and PeopleOps. Follow-up discussions take place in a private Slack channel
+#internal-hiring-review, and requestors may be added to the channel to provide
+additional context.\*
 
 ## Internal Posting Process
 
