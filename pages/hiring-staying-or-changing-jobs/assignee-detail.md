@@ -20,11 +20,10 @@ not). Please submit a request through the
 [TTS Internal Hiring Request form](https://forms.gle/hD2XkzivybBQzNWE6) even if
 you’re not completely sure how to best proceed.
 
-Although internal hiring actions are processed quicker than
-external hiring actions, internal actions still require need, effort
-and intentionality. We recommend Hiring Managers read this Handbook page in its
-entirety before working on their internal posting, as it contains important
-information about approvals.
+Although internal hiring actions are processed quicker than external hiring
+actions, internal actions still require need, effort and intentionality. We
+recommend Hiring Managers read this Handbook page in its entirety before working
+on their internal posting, as it contains important information about approvals.
 
 ## Identifying an Internal Hiring Need
 
