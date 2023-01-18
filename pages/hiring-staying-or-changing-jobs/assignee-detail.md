@@ -13,13 +13,17 @@ redirect_from:
 ---
 
 All opportunities within TTS, including details and reassignments, should be
-openly shared and competed within the organization. There is an
-[exception process hiring managers can pursue](https://docs.google.com/document/d/11PU1cjA7m55EiakrMh64wjvYGXj0SJKpB1ir2r2fa_8/edit#heading=h.s8r1ej1u91xe).
-Although internal (non-competitive) personnel actions are processed quicker than
-external (competed) hiring actions, internal actions still require need, effort
-and intentionality. We recommend Hiring Managers read this Handbook page in its
-entirety before working on their internal posting, as it contains important
-information about approvals.
+openly shared and competed within the organization. There is a
+[TTS Internal Hiring request process](https://docs.google.com/document/d/11EaJO13KL7-NKMu8HwQsJS7nckPFPj5sbKcTwf9jKHc/edit)
+for pursuing any type of internal hiring request (open application process or
+not). Please submit a request through the
+[TTS Internal Hiring Request form](https://forms.gle/hD2XkzivybBQzNWE6) even if
+you’re not completely sure how to best proceed.
+
+Although internal hiring actions are processed quicker than external hiring
+actions, internal actions still require need, effort and intentionality. We
+recommend Hiring Managers read this Handbook page in its entirety before working
+on their internal posting, as it contains important information about approvals.
 
 ## Identifying an Internal Hiring Need
 
@@ -33,7 +37,7 @@ A reassignment is a lateral transfer to a new TTS office at the same GS level.
 
 A detail is a temporary assignment to a different position or a different
 organization/business unit. Details last up to 120 days and can be extended up
-to another 120 days (NTE 240 days total), provided that:
+to another 120 days (not to exceed 240 days total), provided that:
 
 - The detailee, the TTS supervisor, the Business Unit Director, and the
   Assistant Commissioner agree, as well as the employee’s permanent supervisor.
@@ -44,12 +48,15 @@ to another 120 days (NTE 240 days total), provided that:
 
 ## Internal Role Approval Process
 
-Hiring Managers must receive advanced approval from the TTS leadership team to
-compete a detail or a reassignment.
-[Submit your request for consideration](https://forms.gle/6KtSQp8HkFhyR7KLA) by
-close of business on Thursday and it will be reviewed in the TTS leadership team
-meeting on Monday. If you submit your request after close of business on
-Thursday, it will not be reviewed until the following Monday.
+Hiring Managers must receive advanced approval from their Supervisor and
+Business Unit Head and also confirm funding availability before proceeding with
+a [TTS Internal Hiring Request](https://forms.gle/hD2XkzivybBQzNWE6).
+
+Submissions are reviewed every **Thursday morning at 10am ET** by the Internal
+Hiring Review Committee, which includes members of Leadership, Finance, Talent,
+and PeopleOps. Follow-up discussions take place in a private Slack channel
+#internal-hiring-review, and requestors may be added to the channel to provide
+additional context.
 
 ## Internal Posting Process
 
@@ -167,7 +174,7 @@ employee’s current supervisor about the following:
 
 Once you have submitted your candidate pool sheet and internal approval for your
 selected detailee to the Talent team at
-[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) , please email
+[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov), please email
 [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and copy
 [JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) with the following information for
 detail opportunities processing:
@@ -192,7 +199,7 @@ proposed detail.
 ## Notifying TTS People Operations for Permanent Reassignment Processing
 
 Once you have submitted your candidate pool sheet to the Talent Team at
-[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) , please email
+[JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov), please email
 [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and copy
 [JoinTTS@gsa.gov](mailto:JoinTTS@gsa.gov) with the following information for
 permanent reassignment opportunities:
