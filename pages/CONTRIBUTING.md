@@ -136,6 +136,18 @@ time!
     `Diversity Guild`, like so:
     {% slack_channel "#g-diversity" "Diversity Guild" %}
 
+- **Linking to a download**  
+  If you need to link to a publicly-downloadable file, you can add the file to
+  the `downloads` directory in the Handbook repository. Then in your content,
+  you can use the `{{ '{% download %}' }}` short code to get the full URL to
+  your file, like so:
+
+  ```
+  [download my file]({{ '{% download "my_file.pdf" %}' }})
+  or
+  <a href="{{ '{% download "my_file.pdf" %}' }}">download my file</a>
+  ```
+
 - **Using a USWDS icon**  
   The Handbook is built on [USWDS](https://designsystem.digital.gov/) 3. As a
   result, it includes USWDS's icons. To make it easier to access the icons, you
@@ -148,7 +160,7 @@ time!
   to help you find the perfect piece of iconography for your needs.
 
   {% capture alert_content %} Do not use icons in place of textual content.
-  These icons do not come with alt text are not accessible. Use them as
+  These icons do not come with alt text and are not accessible. Use them as
   decorative elements or as additional emphasis on the text. {% endcapture %}
   {% include "alert.html" heading:"Be careful with icons" content:alert_content %}
 

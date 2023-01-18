@@ -8,9 +8,29 @@ want other kinds of pages with the same base setup (banner, header, search,
 footer, etc.).
 {% endcomment %}
 
-<main id="main-content" class="usa-prose">
+{% if page.inputPath == './pages/index.html' %} 
+  <main id="main-content" class="usa-prose usa-prose__home">
+{% else %}
+  {% assign words = content | split: " "%}
+  {% if words.size > site.inpagenavwordcount %}
+  <aside
+  class="usa-in-page-nav"
+  data-title-text="On this page"
+  data-title-heading-level="h3"
+  data-scroll-offset="0"
+  data-root-margin="0px 0px 0px 0px"
+  data-threshold="1"
+  ></aside>
+  {% endif %}
+  <main id="main-content" class="usa-prose">
+{% endif %}
+
   {% if title %}
+    {% if subtitle %}<p class="font-sans-lg">{{ subtitle }}</p>
+    <h1 class="margin-top-1" data-page-title>{{ title }}</h1>
+    {% else %}
     <h1 data-page-title>{{ title }}</h1>
+    {% endif %}
   {% endif %}
 
   {% include "page-outdated.html" %}
@@ -20,4 +40,8 @@ footer, etc.).
   {% endif %}
 
   {{ content }}
+  {% if words.size > site.inpagenavwordcount %}
+  
+  <a href="#top" class="float-right">Return to the top of the page ^</a>
+  {% endif%}
 </main>

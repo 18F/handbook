@@ -1,0 +1,19 @@
+steps:
+  - text: First time setup
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
+  - text: Book travel
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/
+  - text: Travel
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/
+  - text: Get reimbursed
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/
+
+first_time_steps:
+  - text: Get Concur access
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/
+  - text: Get GSA travel card
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card/
+  - text: Update Concur profile
+    href: travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile/
+  - text: "Book travel"
+    href: travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/

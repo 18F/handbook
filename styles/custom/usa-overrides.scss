@@ -11,15 +11,14 @@
   }
 }
 
-.usa-header--basic .usa-nav-container {
-  align-items: center;
+.usa-layout-docs__main {
+  border-top: 1px solid #dfe1e2;
 }
 
-.usa-layout-docs__main {
+.usa-prose.usa-prose__home {
   width: 100%;
-  border-top: 1px solid #dfe1e2;
+}
 
-  main#main-content {
-    width: 100%;
-  }
+h1.margin-top-1 {
+  margin-top: 0.5rem;
 }

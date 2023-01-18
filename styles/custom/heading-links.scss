@@ -5,12 +5,14 @@
 }
 
 /* but when the header is hovered/focused, make them easier to see */
-h1, h2, h3, h4 {
-  &:hover, &:focus {
+h1,
+h2,
+h3,
+h4 {
+  &:hover,
+  &:focus {
     .heading-permalink {
       opacity: 1;
     }
   }
-
 }
-

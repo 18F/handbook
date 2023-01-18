@@ -1,5 +1,6 @@
 ---
 title: Appendix A - Amended authorizations
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,13 +8,13 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-a-amended-authorizations/
+sidebar:
+  kind: travel
+  current: 3. Travel
 ---
 
-[TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br>
-[FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Jump to Step 2: What to Consider While
-Traveling]({% page "/travel-guide-2-travel" %})
+[Jump to Step 3: What to Consider While
+Traveling]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 Sometimes, travel plans change. Fortunately, Concur, AdTrav, your carriers, your
 authorizing officials, and the TTS travel team are ready for that!
@@ -146,8 +147,9 @@ the authorized amount...
 
 Congratulations! No further action is required. Make the changes to your
 itinerary, and proceed with your [travel]({% page "/travel-guide-2-travel" %})
-and [voucher]({% page "/travel-guide-3-reimbursement" %}) upon your return with
-no further approvals required.
+and
+[voucher]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})
+upon your return with no further approvals required.
 
 **Otherwise:**
 

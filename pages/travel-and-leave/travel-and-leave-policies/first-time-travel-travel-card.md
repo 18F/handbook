@@ -1,15 +1,27 @@
 ---
-title: First-Time Travel Get a Travel Card
+title: Get a travel card
+subtitle: "First-time travel guide: Step 1b"
 questions:
   - ronnail.rawls@gsa.gov
 redirect_from:
   - /first-time-travel-travel-card/
+step_indicator:
+  current_step: 2
+  substep: 1b
+  hide_steps: true
+sidebar:
+  kind: travel
+  current: 1. First time setup
 ---
 
-[TTS Travel 101]({% page "/travel-101/" %}) <br> [Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br> [Back to Get in
-Concur]({% page "/first-time-travel-get-in-concur" %}) <br> [Next to Complete
-Concur Profile]({% page "/first-time-travel-complete-concur-profile" %})
+{% include "step-indicator.html"
+steps: travel-steps.first_time_steps
+current_step: step_indicator.current_step
+substep: step_indicator.substep
+hide_steps: step_indicator.hide_steps %}
+
+<!-- prettier-ignore -->
+[Next to Complete Concur profile >]({% page "/first-time-travel-complete-concur-profile" %})
 
 A GSA travel card will help you pay for lodging, taxis, and other miscellaneous
 expenses while on your trip.
@@ -116,7 +128,7 @@ You need a PIN to complete chip enabled transactions.
    temporary PIN. Select the unique link and follow the prompts to reset your
    PIN, including entering the temporary PIN from the second email.
 
-[Visit the GSA SmartPay 3 purchase card page on InSite for more information](https://insite.gsa.gov/topics/acquisition-purchases-and-payments/gsa-purchase-card/preparing-and-implementing-gsa-smartpay-3-sp3).
+[Visit the GSA SmartPay 3 travel card page for more information](https://smartpay.gsa.gov/content/travel).
 
 [Next Step: Complete Your Concur
 Profile]({% page "/first-time-travel-complete-concur-profile" %})

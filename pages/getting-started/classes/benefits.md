@@ -23,6 +23,10 @@ can email your GSA HR Benefits contact listed in the
 [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
 document if you have any questions.
 
+Note: if you have dependents that you wish to cover, begin by going to
+**HRLinks**, click the **Life Events** tile, and select a **New Employee** life
+event. It will give you the option to add dependents.
+
 ### Current employees
 
 If you are revising benefits due to a change in life event (for example, getting

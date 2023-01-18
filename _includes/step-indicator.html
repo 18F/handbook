@@ -1,0 +1,51 @@
+{% comment %}
+https://designsystem.digital.gov/components/step-indicator/
+steps: the steps in a array
+current_step: step page is currently on
+optional:
+  substep: if you need to have a 1a like thing
+  hide_steps: if you want to hide the steps
+{% endcomment %}
+<div
+  class="usa-step-indicator usa-step-indicator--center" aria-label="progress">
+<ol class="usa-step-indicator__segments">
+{% assign stepsrange = steps.size | minus:1 %}
+{% assign currentstepindex = current_step | minus: 1 %}
+{% for index in (0..stepsrange) %}
+    {% if currentstepindex == index %}
+    {% capture status %}current{% endcapture %}
+    {% capture classes %} usa-step-indicator__segment--current{% endcapture %}
+    {% elsif index < currentstepindex %}
+    {% capture status %}compeleted{% endcapture %}
+    {% capture classes %} usa-step-indicator__segment--complete{% endcapture %}
+    {% else %}
+    {% capture status %}not compeleted{% endcapture %}
+    {% capture classes %}{% endcapture %}
+    {% endif%}
+<li
+class="usa-step-indicator__segment{{ classes }}"
+>
+<span class="usa-step-indicator__segment-label">
+
+{% if steps[index].href and status != "current" %}
+  {% assign href = steps[index].href %}
+  <a href="{% page href %}">
+{% endif %}
+{{ steps[index].text }} <span class="usa-sr-only">{{ status }}</span></span>
+{% if steps[index].href and status != "current" %}
+  </a>
+{% endif %}
+
+</li>
+    {% endfor %}
+  </ol>
+  <div class="usa-step-indicator__header">
+<h4 class="usa-step-indicator__heading">
+<span class="usa-step-indicator__heading-counter">
+<span class="usa-sr-only">Step</span>
+<span class="usa-step-indicator__current-step">
+  {% if substep %}{{ substep }}{% else %}{{ current_step }}{% endif %}</span> {% if hide_steps ==false %}<span class="usa-step-indicator__total-steps">of {{ steps.size }}</span>{% endif %}</span>
+  <span class="usa-step-indicator__heading-text">{{ steps[currentstepindex].text }}</span>
+</h4>
+  </div>
+</div>

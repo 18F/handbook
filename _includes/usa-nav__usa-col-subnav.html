@@ -1,0 +1,14 @@
+<div class="usa-col">
+    <h2 class="usa-nav__header">{{ item.text }}</h2>
+    <ul class="usa-nav__submenu-list">
+        {% for child in item.children %}
+            <li class="usa-nav__submenu-item">
+                {% if child.url %}
+            <a href="{% link child.url %}"><span>{{ child.text }}</span></a>
+            {% else %}
+            <a href="{% page'/' %}#{{ child.text | slugify }}"><span>{{ child.text }}</span></a>
+            {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</div>

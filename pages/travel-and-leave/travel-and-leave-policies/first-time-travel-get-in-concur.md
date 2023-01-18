@@ -1,5 +1,6 @@
 ---
 title: Get access to Concur
+subtitle: "First-time travel guide: Step 1a"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,11 +8,22 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /first-time-travel-get-in-concur/
+step_indicator:
+  current_step: 1
+  substep: 1a
+  hide_steps: true
+sidebar:
+  kind: travel
+  current: 1. First time setup
 ---
 
-[TTS Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br /> [Next to Travel
-Card]({% page "/first-time-travel-travel-card" %})
+{% include "step-indicator.html"
+steps: travel-steps.first_time_steps
+current_step: step_indicator.current_step
+substep: step_indicator.substep
+hide_steps: step_indicator.hide_steps %}
+
+[Next to Get a travel card >]({% page "/first-time-travel-travel-card" %})
 
 There are four required steps to gain access to
 [Concur](https://travel.gsa.gov/). Please be aware, you cannot access the
@@ -24,7 +36,8 @@ active.
    ID”**. Use the
    [Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx)
    to request a new vendor ID. Please note that you'll need to be on the VPN to
-   access this site.
+   access this site. (Note: The "travel vendor ID" will show up as "Employee ID"
+   in your Concur profile once it's been issued.)
 
 **Vendor Request Instructions**
 
@@ -35,17 +48,16 @@ an issue with your internet._
   "Traveler". Then, under "ADD VENDOR/ADDR CODE", click the "CLICK HERE" button.
 - For Point of Contact / POC fields, enter the contact information for your
   supervisor.
-- For "Service Divison", select "FAS" since TTS is under FAS.
+- For "Service Division", select "FAS" since TTS is under FAS.
 - Once you complete the form and submit, you might see an error like
-  `Application error occured while saving the information to the database: Error getting next Request ID from database - Connect Timeout expired.`
+  `Application error occurred while saving the information to the database: Error getting next Request ID from database - Connect Timeout expired.`
   If this occurs, continue submitting until you receive a successful
   confirmation message.
 
 In case the travel finance team is unable to locate your payroll banking
-information, they may request that you complete
-[the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing)
-and will provide instructions on how you can send this information to them
-securely.
+information, they may request that you complete [the EFT
+form]({% download "downloads/EFT_Enrollment_Form.pdf" %}) and will provide
+instructions on how you can send this information to them securely.
 
 While you wait for the ID number to be generated and sent to you via email
 (which can take up to 1 business day), you may get started on [applying for the
@@ -56,14 +68,12 @@ GSA travel card]({% page "/first-time-travel-travel-card" %}).
    Follow the instructions
    [here]({% page "/training-and-development/olu/#help-with-olu" %}) if you need
    help.
-
 3. Complete the
    [CGE Access Request Form](https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request),
    minus the EFT enrollment form. Either an electronic or ink signature is fine.
    Don't forget to get your supervisor's signature as well! \*_Not sure about a
    particular field? Get help by reading the_
-   [_FAQ below_](#frequently-asked-questions)
-
+   _[FAQ below](#frequently-asked-questions)_
 4. Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
    _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only
    email it to tts-travel@gsa.gov. Your account will be set up before
@@ -94,3 +104,9 @@ GSA employee (Virtual) if based anywhere else.
 #### Whose signature should I get for the supervisor field?
 
 That of your functional supervisor.
+
+#### Where can I find my Travel Vendor ID once it's been assigned?
+
+Y﻿our Travel Vendor ID is a number in the format "E000XXXXX" that is called
+"Employee ID" in your Concur profile. It is also called "Traveler ID" on Concur
+authorizations.

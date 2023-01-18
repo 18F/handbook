@@ -3,9 +3,18 @@ title: TTS Travel 101
 travel_advisory: false
 redirect_from:
   - /travel-101/
+current_step: 1
+sidebar:
+  kind: travel
+  current: Travel 101
 ---
 
-### Initial setup for travel
+{% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
+
+## Initial setup for travel
+
+<!-- prettier-ignore -->
+[Start the First-time travel guide to setup >]({% page "/first-time-travel-get-in-concur/" %})
 
 In order to travel officially in TTS, you need to, at minimum, [get set up in
 Concur]({% page "/first-time-travel-get-in-concur/" %})\*, GSA's travel system.
@@ -21,23 +30,26 @@ reservations in Concur. It is recommended that you make all of your reservations
 via AdTrav at (877) 472-6716 until your card arrives. You will need to use your
 personal funds for all travel expenses other than flights/rail, but can be
 reimbursed for all official expenses when you [complete a voucher upon your
-return]({% page "/travel-guide-3-reimbursement/" %}).
+return]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/" %}).
 
 \*_Note: there are [special
 procedures]({% page "/first-time-travel-get-in-concur-pre-olu/" %}) for staff
 who need to get into Concur to travel during their first week and may not yet
 have access to OLU to complete the required IT security trainings._
 
-### Brief overview of how to travel
+## Brief overview of how to travel
+
+<!-- prettier-ignore -->
+[Start booking travel >]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
 
 Once you are [set up in Concur]({% page "/first-time-travel-get-in-concur/" %})
 and your [travel card]({% page "/first-time-travel-travel-card/" %}) is on its
 way, there are three main parts of the travel process to be aware of:
 
 1. [Booking flights/rail, hotels, and rental
-   cars]({% page "/travel-guide-1-book-travel/" %}) in
-   [Concur](https://travel.gsa.gov) or via AdTrav at (877) 472-6716, [completing
-   trip
+   cars]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
+   in [Concur](https://travel.gsa.gov) or via AdTrav at (877) 472-6716,
+   [completing trip
    information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#completing-trip-information" %})
    and [stamping and
    submitting]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %})
@@ -48,10 +60,11 @@ way, there are three main parts of the travel process to be aware of:
    or through the [event request
    process]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering" %})
 2. [What to keep in mind while on official
-   travel]({% page "/travel-guide-2-travel/" %}), including which receipts to
-   keep, and when to use the GSA travel card
+   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}),
+   including which receipts to keep, and when to use the GSA travel card
 3. [Getting reimbursed for official
-   travel]({% page "/travel-guide-3-reimbursement/" %}) (plus [local
+   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})
+   (plus [local
    travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
    or [non-travel related
    reimbursements]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
@@ -75,7 +88,7 @@ situations:
 - [Issues with
   reimbursement]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#issues-with-reimbursement" %})
 
-### Getting help
+## Getting help
 
 **You** are responsible for securing your [authorizing official's approval to
 travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %}),

@@ -63,7 +63,6 @@ img.travel-guide-hide {
 /* @group layouts */
 
 @import "./toc";
-@import "./inline-nav";
 
 /* @group .layout-article-professional-development-and-training */
 
@@ -148,11 +147,6 @@ img.travel-guide-hide {
       background-color: color("warning-lighter");
     }
   }
-}
-
-// ensure tables are horizontally scrollable
-section {
-  overflow-x: scroll;
 }
 
 figure {

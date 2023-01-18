@@ -70,7 +70,7 @@ Ask yourself the following questions when considering an invitation:
 
 If you are not familiar with the organization issuing the invitation or with the
 particular event at which you have been invited to speak, feel free to reach out
-to our OSC liaison [Drew Jack](mailto:drew.jack@gsa.gov).
+to our OSC liaison [Marcia Simms](mailto:marcia.simms@gsa.gov).
 
 ## Professional vs personal capacity
 

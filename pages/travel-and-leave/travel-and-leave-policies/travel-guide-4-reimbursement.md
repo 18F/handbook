@@ -1,5 +1,6 @@
 ---
-title: Step 3 - Get Reimbursed
+title: Get reimbursed
+subtitle: "Travel guide: Step 4"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,13 +8,19 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-3-reimbursement/
+  - /travel-and-leave/travel-and-leave-policies/travel-guide-3-reimbursement/
+step_indicator:
+  current_step: 4
+  hide_steps: false
+sidebar:
+  kind: Travel
+  current: 4. Get reimbursed
 ---
 
-[TTS Travel 101]({% page "/travel-101" %}) <br> [Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br>
-[FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Back to Step 2: What to Consider While
-Traveling]({% page "/travel-guide-2-travel" %})
+{% include "step-indicator.html"
+steps: travel-steps.steps
+current_step: step_indicator.current_step
+hide_steps: step_indicator.hide_steps %}
 
 ## Brief overview of vouchers
 

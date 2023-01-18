@@ -1,5 +1,6 @@
 ---
 title: Travel Approval Email Templates
+subtitle: "Travel guide:"
 questions:
   - travel
   - tts-travel@gsa.gov
@@ -7,15 +8,23 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /travel-guide-email-templates/
+step_indicator:
+  current_step: 2
+  hide_steps: false
+sidebar:
+  kind: travel
+  current: Approval email templates
 ---
 
-[TTS Travel 101]({% page "/travel-101" %}) <br> [TTS Travel Guide Table of
-Contents]({% page "/travel-guide-table-of-contents" %}) <br>
-[FAQ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq" %})
-<br> [Jump to Step 1: Booking Travel]({% page "/travel-guide-1-book-travel" %})
-<br>
+{% include "step-indicator.html"
+steps: travel-steps.steps
+current_step: step_indicator.current_step
+hide_steps: step_indicator.hide_steps %}
 
-##### Note about travel to a training, conference, speaking event, large team IRL, or international
+<!-- prettier-ignore -->
+[Jump to Step 2: Booking Travel > ]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
+
+## Note about travel to a training, conference, speaking event, large team IRL, or international
 
 Authorizing official approval is secured via the [event request
 process]({% page "/conferences-events-training" %}), so you are all set as long
@@ -28,7 +37,7 @@ the
 event]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#what-if-i-am-returning-to-or-traveling-from-a-location-other-than-home" %}),
 or combining your event travel with travel for some other reason._
 
-#### Email Template for Individual Travel:
+## Email Template for Individual Travel:
 
 **Subject:** Approval for travel between \[dates] for
 [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
@@ -55,7 +64,7 @@ Many thanks,
 
 ---
 
-#### Email Template for Group Travel:
+## Email Template for Group Travel:
 
 **Subject:** Approval for travel between \[dates] for
 [Budget name](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)

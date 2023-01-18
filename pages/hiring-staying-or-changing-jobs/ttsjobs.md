@@ -39,28 +39,23 @@ please join the {% slack_channel "tts-jobs" %} (for TTS opportunities) and
 agencies) Slack channels.
 
 If you know an awesome person for a TTS role or just know a great person that
-you'd like to recommend in general, please check out the [referring a
+you'd like to recommend in general, please check out the \[referring a
 person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ## Announcements
 
 ### Opportunities open to the public
 
-[TTS Designer (GS13)](https://join.tts.gsa.gov/join/tts-designer13/) - open
-Friday, October 7th, 2022 through Friday, October 6th, 2023 or until all
-selections have been made
+[Public Experience Portfolio Director GS15](https://join.tts.gsa.gov/join/tts-pubexperiencedirector/) -
+open Tuesday, January 17th through Monday, January 23rd
 
-[TTS Designer (GS14/15)](https://join.tts.gsa.gov/join/tts-designer/) - open
-Thursday, September 22nd, 2022 through Thursday, September 21st, 2023 or until
-all selections have been made
+[PIF Deputy Director GS15 ](https://join.tts.gsa.gov/join/pif-deputy-director15/)-
+open Tuesday, January 17th through Tuesday, January 24th
 
 ### Internal only opportunities
 
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
 Open Friday, October 28th through Tuesday, February 28th
-
-[18F Account Manager](https://docs.google.com/document/d/1tdqMHihMNR03eVpHQpa4AkLVMMZmoagKKZy2MMze1YU/edit#)
-Open Wednesday, November 23rd through Wednesday, December 28th
 
 ## Opportunities with partners
 

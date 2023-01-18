@@ -55,6 +55,9 @@ option).
   Leave Recipient**
 - Follow the system prompts to donate leave; select **General Services
   Administration** as the agency and **0 - Central Office** as the region.
+- Note: once you donate, you will see a message that says
+  `You MUST also notify your timekeeper of the number of annual leave hours you have donated so they can update your Annual Attendance Record (GSA Form 873).`
+  You can ignore this message: this step is not needed.
 
 If you have any questions, please email our
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
