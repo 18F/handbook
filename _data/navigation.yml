@@ -54,12 +54,12 @@ primary:
       - text: Travel 101
         url: getting-started/classes/travel-101/
         internal: true
-  - text: Training & Development
+  - text: Training & Travel
     topnavcondense: false
-    href: /#training-and-development
+    href: /#training-and-travel
     main-file-path: /training-and-development/
     blurb: |
-      Classes, coaching and ongoing professional development
+      How to grow and how to go!
     children:
       - text: Coaching, mentoring and professional development
         url: training-and-development/
@@ -93,12 +93,14 @@ primary:
       - text: TTS Career Progression Frameworks
         url: https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe
         internal: false
-  - text: Travel and leave
+      - text: Travel guide (table of contents)
+        url: travel-and-leave/travel-guide-table-of-contents/
+  - text: Leave
     topnavcondense: false
-    href: /#travel-and-leave
+    href: /#leave
     main-file-path: /travel-and-leave/
     blurb: |
-      Going somewhere? Here's what you need to know.
+      Learn about types of leave and how to request it.
     children:
       - text: Leave (HR Links)
         url: travel-and-leave/leave/
@@ -109,16 +111,13 @@ primary:
       - text: Paid Parental Leave
         url: travel-and-leave/leave/#paid-parental-leave
         internal: true
-      - text: Travel guide (table of contents)
-        url: travel-and-leave/travel-guide-table-of-contents/
-        internal: true
       - text: Voluntary Leave Transfer Program (VLTP)
         url: travel-and-leave/voluntary-leave-transfer-program/
         internal: true
   - text: Supervisor Resources
     href: /#supervisor-resources
     main-file-path: /supervisor-resources/
-    topnavcondense: false
+    topnavcondense: Performance & Supervision
     blurb: |
       Tools and tips for supervisors.
     children:
@@ -131,7 +130,10 @@ primary:
       - text: A Supervisor's Guide to Onboarding New Hires
         url: https://docs.google.com/document/d/1ow1VIwSzAGGzsBjGUZMlnLwK6kKTZWS_paGyIzfgpbE/edit
         internal: false
-  - text: Performance management
+  - text: Performance & Supervision
+    subnav-alt: Performance-managment
+    sub:
+      - Supervisor Resources
     topnavcondense: false
     href: /#performance-management
     main-file-path: /performance-management/
