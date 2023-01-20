@@ -31,7 +31,7 @@ primary:
     href: /#getting-started
     main-file-path: /getting-started/
     blurb: |
-      Here's what you probably want to know in your first weeks at TTS.
+      What to know during your first weeks at TTS.
     children:
       - text: Welcome
         url: getting-started/welcome-letter/
@@ -131,7 +131,7 @@ primary:
         url: https://docs.google.com/document/d/1ow1VIwSzAGGzsBjGUZMlnLwK6kKTZWS_paGyIzfgpbE/edit
         internal: false
   - text: Performance & Supervision
-    subnav-alt: Performance-managment
+    subnav-alt: Performance Management
     sub:
       - Supervisor Resources
     topnavcondense: false
