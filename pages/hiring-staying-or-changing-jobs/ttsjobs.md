@@ -52,6 +52,9 @@ open Tuesday, January 17th through Monday, January 23rd
 [PIF Deputy Director GS15 ](https://join.tts.gsa.gov/join/pif-deputy-director15/)-
 open Tuesday, January 17th through Tuesday, January 24th
 
+[Login Fraud Technical Expert GS15](https://join.tts.gsa.gov/join/login-fraud-technical-expert15/) -
+open Monday, January 23rd through Monday, January 30th
+
 ### Internal only opportunities
 
 [eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
