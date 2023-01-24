@@ -46,9 +46,6 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-[Public Experience Portfolio Director GS15](https://join.tts.gsa.gov/join/tts-pubexperiencedirector/) -
-open Tuesday, January 17th through Monday, January 23rd
-
 [PIF Deputy Director GS15 ](https://join.tts.gsa.gov/join/pif-deputy-director15/)-
 open Tuesday, January 17th through Tuesday, January 24th
 
