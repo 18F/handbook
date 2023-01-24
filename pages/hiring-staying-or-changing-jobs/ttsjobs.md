@@ -20,16 +20,17 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental
+- TTS Internal competitions (e.g. directors, supervisors) and developmental
   opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion
+- Hiring actions using the Excepted Service version of the Merit Promotion
   Process
-* Links to USAJobs Announcements for hiring actions using the Competitive
+- Links to USAJobs Announcements for hiring actions using the Competitive
   Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and
   local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page,
@@ -59,7 +60,8 @@ Open Friday, October 28th through Tuesday, February 28th
 [Login.gov Integration Engineer reassignment](https://docs.google.com/document/d/1XB0U_Fo8geDDh87gSTXwO1eto_X6ohFWjKU746ubh0Y/edit#)
 Open Monday, January 23rd through Monday, January 30th
 
-[T﻿ech Portfolio Temporary promotion](https://docs.google.com/document/d/1yNgp5mSDYpznTarjDPlB0w0E2u8Cfr53s4PyDBzS-AM/edit?usp=sharing) Open Tuesday, January 24th through Tuesday January 31st
+[T﻿ech Portfolio Temporary promotion](https://docs.google.com/document/d/1yNgp5mSDYpznTarjDPlB0w0E2u8Cfr53s4PyDBzS-AM/edit?usp=sharing)
+Open Tuesday, January 24th through Tuesday January 31st
 
 ## Opportunities with partners
 
@@ -85,7 +87,7 @@ require to further facilitate their technical transformation.
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
