@@ -54,9 +54,6 @@ open Monday, January 23rd through Monday, January 30th
 
 ### Internal only opportunities
 
-[eRulemaking System Architect reassignment](https://docs.google.com/document/d/1_zVyD23nTsalKQz0vmIZTs6SmjYPt5PjIZW57qXV5UA/edit)
-Open Friday, October 28th through Tuesday, February 28th
-
 [Login.gov Integration Engineer reassignment](https://docs.google.com/document/d/1XB0U_Fo8geDDh87gSTXwO1eto_X6ohFWjKU746ubh0Y/edit#)
 Open Monday, January 23rd through Monday, January 30th
 
