@@ -50,7 +50,7 @@ open Monday, January 23rd through Monday, January 30th
 
 <!--StartFragment-->
 
-[Login.gov Security Engineer Technical Expert GS15](https://join.tts.gsa.gov/join/performance-profiles/login.gov-security-engineer-tech-expert/) - Open now through Wednesday, February 1, 2023 at 11:59pm Eastern
+[Login.gov Security Engineer Technical Expert GS15](https://join.tts.gsa.gov/join/performance-profiles/login.gov-security-engineer-tech-expert/) - Open Wednesday, January 25th through Wednesday, February 1st
 
 <!--EndFragment-->
 
