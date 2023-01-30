@@ -222,7 +222,7 @@ the
 [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/),
 if you do not use any of your annual leave hours between now and then. As noted
 above, there is a 240 hour limit on the number of hours you can carry over from
-one leave year to the next.
+one leave year to the next. Use or Lose only applies to annual leave.
 
 For example: You look in HRLinks and see "182 Hours (96 Hours Use or Lose)."
 Today, January 25th, 2022, you have 182 hours of annual leave available. If you
@@ -585,15 +585,14 @@ instructions.
 You can only take advanced annual leave in the amount that you would earn back
 by the end of the current
 [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/),
-and you cannot request more than 80 hours.
+and you cannot request more than 80 hours. TTS has a [Annual Leave Calculator](https://docs.google.com/spreadsheets/d/15iEWRsP2n0Im30bfMVW_L-sHwRgCs6jMdHxgoIQcseg/edit#gid=1453802911) that you can use for this calculation.
 
 For example: It is June 19th, 2022, and the
 [2022 Leave Year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
 ends on December 31st. You [earn 4 annual leave hours per pay
 period]({% page "/travel-and-leave/leave/#annual-leave" %}) and there are 14 pay
-periods left until December 31st. You will earn 84 more annual leave hours (13
-pay periods x 6 hours per pay period). Therefore, you can request the 80 maximum
-advanced annual leave hours.
+periods left until December 31st. You will earn 56 more annual leave hours (14
+pay periods x 4 hours per pay period). Therefore, you can request up to 56 advanced annual leave hours.
 
 #### Requesting advanced annual leave in HR Links
 
