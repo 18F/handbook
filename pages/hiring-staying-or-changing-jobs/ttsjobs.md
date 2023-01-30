@@ -20,16 +20,17 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental
+- TTS Internal competitions (e.g. directors, supervisors) and developmental
   opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion
+- Hiring actions using the Excepted Service version of the Merit Promotion
   Process
-* Links to USAJobs Announcements for hiring actions using the Competitive
+- Links to USAJobs Announcements for hiring actions using the Competitive
   Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and
   local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page,
@@ -48,9 +49,11 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 [Login Fraud Technical Expert GS15](https://join.tts.gsa.gov/join/login-fraud-technical-expert15/) -
 open Monday, January 23rd through Monday, January 30th
 
-[Login.gov Security Engineer Technical Expert GS15](https://join.tts.gsa.gov/join/performance-profiles/login.gov-security-engineer-tech-expert/) - Open Wednesday, January 25th through Wednesday, February 1st
+[Login.gov Security Engineer Technical Expert GS15](https://join.tts.gsa.gov/join/performance-profiles/login.gov-security-engineer-tech-expert/) -
+Open Wednesday, January 25th through Wednesday, February 1st
 
-[Login.gov Product Manager GS15 ](https://join.tts.gsa.gov/join/login-productmanagers15/)- open Monday, January 30th through Monday, February 6th
+[Login.gov Product Manager GS15 ](https://join.tts.gsa.gov/join/login-productmanagers15/)-
+open Monday, January 30th through Monday, February 6th
 
 ### Internal only opportunities
 
@@ -84,7 +87,7 @@ require to further facilitate their technical transformation.
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
