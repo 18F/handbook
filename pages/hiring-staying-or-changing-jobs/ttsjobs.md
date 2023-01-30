@@ -50,6 +50,8 @@ open Monday, January 23rd through Monday, January 30th
 
 [Login.gov Security Engineer Technical Expert GS15](https://join.tts.gsa.gov/join/performance-profiles/login.gov-security-engineer-tech-expert/) - Open Wednesday, January 25th through Wednesday, February 1st
 
+[Login.gov Product Manager GS15 ](https://join.tts.gsa.gov/join/login-productmanagers15/)- open Monday, January 30th through Monday, February 6h
+
 ### Internal only opportunities
 
 [Login.gov Integration Engineer reassignment](https://docs.google.com/document/d/1XB0U_Fo8geDDh87gSTXwO1eto_X6ohFWjKU746ubh0Y/edit#)
