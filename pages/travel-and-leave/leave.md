@@ -589,10 +589,11 @@ and you cannot request more than 80 hours.
 
 For example: It is June 19th, 2022, and the
 [2022 Leave Year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
-ends on December 31st. You [earn 4 annual leave hours per pay period]({% page "/travel-and-leave/leave/#annual-leave" %}) and there
-are 14 pay periods left until December 31st. You will earn 84 more annual leave
-hours (13 pay periods x 6 hours per pay period). Therefore, you can request the
-80 maximum advanced annual leave hours.
+ends on December 31st. You [earn 4 annual leave hours per pay
+period]({% page "/travel-and-leave/leave/#annual-leave" %}) and there are 14 pay
+periods left until December 31st. You will earn 84 more annual leave hours (13
+pay periods x 6 hours per pay period). Therefore, you can request the 80 maximum
+advanced annual leave hours.
 
 #### Requesting advanced annual leave in HR Links
 
