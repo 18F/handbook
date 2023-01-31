@@ -57,9 +57,6 @@ open Monday, January 30th through Monday, February 6th
 
 ### Internal only opportunities
 
-[Login.gov Integration Engineer reassignment](https://docs.google.com/document/d/1XB0U_Fo8geDDh87gSTXwO1eto_X6ohFWjKU746ubh0Y/edit#)
-Open Monday, January 23rd through Monday, January 30th
-
 [T﻿ech Portfolio Temporary promotion](https://docs.google.com/document/d/1yNgp5mSDYpznTarjDPlB0w0E2u8Cfr53s4PyDBzS-AM/edit?usp=sharing)
 Open Tuesday, January 24th through Tuesday January 31st
 
