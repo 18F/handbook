@@ -585,7 +585,7 @@ instructions.
 You can only take advanced annual leave in the amount that you would earn back
 by the end of the current
 [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/),
-and you cannot request more than 80 hours. TTS has a
+and you cannot request more than 80 hours. TTS has an
 [Annual Leave Calculator](https://docs.google.com/spreadsheets/d/15iEWRsP2n0Im30bfMVW_L-sHwRgCs6jMdHxgoIQcseg/edit#gid=1453802911)
 that you can use for this calculation.
 
