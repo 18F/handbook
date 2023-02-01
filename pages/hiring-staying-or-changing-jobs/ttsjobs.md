@@ -49,9 +49,6 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 [Login.gov Security Engineer Technical Expert GS15](https://join.tts.gsa.gov/join/performance-profiles/login.gov-security-engineer-tech-expert/) -
 Open Wednesday, January 25th through Wednesday, February 1st
 
-[Login.gov Product Manager GS15 ](https://join.tts.gsa.gov/join/login-productmanagers15/)-
-open Monday, January 30th through Monday, February 6th
-
 ### Internal only opportunities
 
 [T﻿ech Portfolio Temporary promotion](https://docs.google.com/document/d/1yNgp5mSDYpznTarjDPlB0w0E2u8Cfr53s4PyDBzS-AM/edit?usp=sharing)
