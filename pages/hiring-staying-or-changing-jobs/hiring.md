@@ -39,7 +39,7 @@ Below are some resources that cover expectations around interviews, best
 practices for remote interviewing and Slack usage, and tips for recognizing and
 correcting for unconscious bias.
 
-- [TTS Interviewer Training slides](https://docs.google.com/presentation/d/17ZNmfN40kPOUlF5e6Xix7UlUH02gKQAkY23MhQusPxw/edit#slide=id.p1)
+- [TTS Interview Prep Session slides](https://docs.google.com/presentation/d/17ZNmfN40kPOUlF5e6Xix7UlUH02gKQAkY23MhQusPxw/edit#slide=id.p1)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
 - [Fair & Equitable Hiring Practices](https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/fair-and-equitable-hiring-practices)
 
