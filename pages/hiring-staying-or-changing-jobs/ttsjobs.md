@@ -46,8 +46,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-[Login.gov Security Engineer Technical Expert GS15](https://join.tts.gsa.gov/join/performance-profiles/login.gov-security-engineer-tech-expert/) -
-Open Wednesday, January 25th through Wednesday, February 1st
+We will be sharing open opportunities as they become available.
 
 ### Internal only opportunities
 
