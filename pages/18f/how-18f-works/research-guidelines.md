@@ -67,7 +67,7 @@ research, generally by asking that our research participants sign a "design
 research participant agreement". TTS maintains a
 [template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit)
 for internal use, and an
-[example participant agreement](https://methods.18f.gov/participant-agreement/)
+[example participant agreement](https://ux-guide.18f.gov/participant-agreement)
 for sharing with interested parties. Please make a copy of the participant
 agreement document template, put it into your project folder, and edit the
 highlighted text for each of your research studies. If your participants are
