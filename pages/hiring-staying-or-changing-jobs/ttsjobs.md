@@ -20,17 +20,16 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental
+* TTS Internal competitions (e.g. directors, supervisors) and developmental
   opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion
+* Hiring actions using the Excepted Service version of the Merit Promotion
   Process
-- Links to USAJobs Announcements for hiring actions using the Competitive
+* Links to USAJobs Announcements for hiring actions using the Competitive
   Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and
   local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page,
@@ -47,6 +46,8 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 ### Opportunities open to the public
 
 We will be sharing open opportunities as they become available.
+
+[L﻿ogin.gov Product Manager GS15](https://www.usajobs.gov/job/704355400) open Monday, February 6th through Monday February 13th OR at 400 applications
 
 ### Internal only opportunities
 
@@ -77,7 +78,7 @@ require to further facilitate their technical transformation.
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
