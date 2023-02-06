@@ -46,14 +46,12 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-We will be sharing open opportunities as they become available.
-
-[L﻿ogin.gov Product Manager GS15](https://www.usajobs.gov/job/704355400) open
-Monday, February 6th through Monday February 13th OR at 400 applications
+[Login.gov Product Manager GS15](https://join.tts.gsa.gov/join/login-productmanagers15) open
+Monday, February 6th through Monday February 13th OR at 400 applications received
 
 ### Internal only opportunities
 
-[T﻿ech Portfolio Temporary promotion](https://docs.google.com/document/d/1yNgp5mSDYpznTarjDPlB0w0E2u8Cfr53s4PyDBzS-AM/edit?usp=sharing)
+[Tech Portfolio Temporary promotion](https://docs.google.com/document/d/1yNgp5mSDYpznTarjDPlB0w0E2u8Cfr53s4PyDBzS-AM/edit?usp=sharing)
 Open Tuesday, January 24th through Tuesday January 31st
 
 ## Opportunities with partners
