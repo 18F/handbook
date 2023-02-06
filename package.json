@@ -29,7 +29,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
-    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-img": "^3.0.0",
     "autoprefixer": "^10.4.2",
     "cheerio": "^1.0.0-rc.12",
     "chokidar-cli": "^3.0.0",
