@@ -52,8 +52,7 @@ received
 
 ### Internal only opportunities
 
-[Tech Portfolio Temporary promotion](https://docs.google.com/document/d/1yNgp5mSDYpznTarjDPlB0w0E2u8Cfr53s4PyDBzS-AM/edit?usp=sharing)
-Open Tuesday, January 24th through Tuesday January 31st
+We will be sharing open opportunities as they become available.
 
 ## Opportunities with partners
 
