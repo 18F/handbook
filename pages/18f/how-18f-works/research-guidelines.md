@@ -262,7 +262,7 @@ satisfied the law.
 
 If you are collecting PII in the course of research, the best place to store it
 is in a locked-down folder on Google Drive that is only accessible to the core
-research team, as Google Drive is is a GSA-approved place to store PII. (The
+research team, as Google Drive is a GSA-approved place to store PII. (The
 only other GSA-approved software for storing PII is Salesforce, which we don't
 use for research). Raw interview notes, which may contain PII, should be stored
 in this folder. The core research team should also create a document that gives
