@@ -22,6 +22,7 @@ redirect_from:
   If you know that you will be out for a longer duration due to Paid Parental
   leave, medical leave, an extended jury leave, or other leave, please bill to
   #1810. (See below.)
+
 - **Extended Out of Office - #1810:** Intended for if you are Out of Office for
   3 weeks or longer continuously, or will be using extensive donated or
   unaccrued leave, such as using Paid Parental Leave part-time each week for 5
