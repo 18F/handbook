@@ -10,38 +10,40 @@ redirect_from:
 
 ### 18F
 
-- **Out of Office - #670:**
-Any time you are out of office for less than 3 weeks. Including:
+- **Out of Office - #670:** Any time you are out of office for less than 3
+  weeks. Including:
   - Vacations,
   - Sick leave,
   - Administrative leave,
   - Jury leave, and
   - Bereavement
-  
-  If you know that you will be out for a longer duration due to Paid Parental leave, medical
-  leave, an extended jury leave, or other leave, please bill to #1810. (See below.)
-- **Extended Out of Office - #1810:**
-Intended for if you are Out of Office for 3 weeks or longer continuously, or will be using
-extensive donated or unaccrued leave, such as using Paid Parental Leave part-time each week
-for 5 or 6 months. Intended expecially to capture:
+  If you know that you will be out for a longer duration due to Paid Parental
+  leave, medical leave, an extended jury leave, or other leave, please bill to
+  #1810. (See below.)
+- **Extended Out of Office - #1810:** Intended for if you are Out of Office for
+  3 weeks or longer continuously, or will be using extensive donated or
+  unaccrued leave, such as using Paid Parental Leave part-time each week for 5
+  or 6 months. Intended expecially to capture:
   - Paid Parental Leave,
   - Medical or disability leave,
   - Extended jury leave, or
   - Any significant Out of Office time other than accrued PTO and sick leave.
-- **18F Project work - project ID varies:**
-  The specific projects you're working on. Please see [below](#what-activities-do-i-record-billable-hours-for)
-  for more guidance on project billable work.
+- **18F Project work - project ID varies:** The specific projects you're working
+  on. Please see [below](#what-activities-do-i-record-billable-hours-for) for
+  more guidance on project billable work.
 
-  *Some projects are billed on a weekly basis and others on an hourly basis — they need
-  to be Tocked differently. Clarify with your AM which billing model your project uses.*
-- **18F Engagement Management - project ID varies:**
-This code is used for non-primary project team members for any support given to
-the project, including staffing the project, providing feedback to their staff
-regarding their project, conducting post-mortems, meeting to share information and
-lessons learned from other projects, etc.
-- **18F Administrative & Supervisory - #1814:**
-This tracks the work supervisors do supporting their direct reports AND time individuals
-spend on mandated administrative tasks.
+  _Some projects are billed on a weekly basis and others on an hourly basis —
+  they need to be Tocked differently. Clarify with your AM which billing model
+  your project uses._
+
+- **18F Engagement Management - project ID varies:** This code is used for
+  non-primary project team members for any support given to the project,
+  including staffing the project, providing feedback to their staff regarding
+  their project, conducting post-mortems, meeting to share information and
+  lessons learned from other projects, etc.
+- **18F Administrative & Supervisory - #1814:** This tracks the work supervisors
+  do supporting their direct reports AND time individuals spend on mandated
+  administrative tasks.
   - Performance management/performance reviews, including:
     - Writing self-evaluations,
     - Collecting peer feedback,
@@ -64,8 +66,9 @@ spend on mandated administrative tasks.
     - Filing and resolving GSA IT service tickets,
     - Requesting leave in HR Links,
     - Any time you cannot work because of GSA IT forced reboots or updates, etc.
-- **18F Hiring / Onboarding - #1241:**
-Time specifically spent working on 18F hiring and onboarding. Hiring activity includes:
+- **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F
+  hiring and onboarding. Hiring activity includes:
+
   - Interviews,
   - Note taking,
   - Resume review,
@@ -74,40 +77,45 @@ Time specifically spent working on 18F hiring and onboarding. Hiring activity in
   - Writing interview guides or questions, and
   - Writing specialized experience.
 
-  New employee onboarding activies during the first two weeks should also be billed here.
-  Those include:
+  New employee onboarding activies during the first two weeks should also be
+  billed here. Those include:
+
   - Getting set up with laptops and accounts,
   - Attending onboarding classes,
   - Doing necessary benefits enrollment, and
   - Travel card and other paperwork during their first two weeks.
-  
-  Please do not use this to track hiring work for any other part of TTS. We cannot work
-  without an agreement, so if you find yourself doing hiring activities (including
-  interviews, note taking, and onboarding support) for any other group outside of 18F, please
-  set it down and talk with your supervisor.
-- **18F Intake & Scoping - #1811:**
-Capture all activities for calls with partners, briefings with the Scoping team,
-proposal writing, and working with the TTS Agreements team to get to a signed agreement.
-This includes any conversation with any part of TTS, OMB, GSA, a State/Local/Tribal/Territorial
-government entity, or a potential partner agency where they ask us to do work.
-- **18F Staffing - #1812:**
-Tracks activities done to match staff to projects. This includes:
+
+  Please do not use this to track hiring work for any other part of TTS. We
+  cannot work without an agreement, so if you find yourself doing hiring
+  activities (including interviews, note taking, and onboarding support) for any
+  other group outside of 18F, please set it down and talk with your supervisor.
+
+- **18F Intake & Scoping - #1811:** Capture all activities for calls with
+  partners, briefings with the Scoping team, proposal writing, and working with
+  the TTS Agreements team to get to a signed agreement. This includes any
+  conversation with any part of TTS, OMB, GSA, a State/Local/Tribal/Territorial
+  government entity, or a potential partner agency where they ask us to do work.
+- **18F Staffing - #1812:** Tracks activities done to match staff to projects.
+  This includes:
   - All work by Staffing Reps,
   - Conversations that staff have with Staffing Reps, and
-  - Any work done to plan for capacity, project assignments and backfills, microrequests,
-  and briefings from AMs or Scoping SMEs to Staffing Reps on upcoming work.
-- **18F Delivery Assurance Team - #1813:**
-Tracks work contributing to the Delivery Assurance team efforts.
-- **18F Non-Billable Work - #968:**
-Time spent working on activities for 18F that do not fit in other Tock code categories. You
-are strongly encouraged to work on activities that align clearly with the 18F goals and that
-fit into other existing Tock categories.
+  - Any work done to plan for capacity, project assignments and backfills,
+    microrequests, and briefings from AMs or Scoping SMEs to Staffing Reps on
+    upcoming work.
+- **18F Delivery Assurance Team - #1813:** Tracks work contributing to the
+  Delivery Assurance team efforts.
+- **18F Non-Billable Work - #968:** Time spent working on activities for 18F
+  that do not fit in other Tock code categories. You are strongly encouraged to
+  work on activities that align clearly with the 18F goals and that fit into
+  other existing Tock categories.
 - **18F / External Detail - #1280:**
   - If you are on an external detail to TTS, GSA, or another agency, please Tock
-  100% to this Tock line when you work.
+    100% to this Tock line when you work.
   - If you are on a detail within 18F, please do not use this Tock line.
 
-If you still have questions about how to Tock, please check out the [Revised FY23 Tock Guidance](https://docs.google.com/document/d/1FG4Gsv-diySrt8fgZxMCRg9mA1SD2RZJRC07ZlDAGAI/edit#) for more comprehensive details.
+If you still have questions about how to Tock, please check out the
+[Revised FY23 Tock Guidance](https://docs.google.com/document/d/1FG4Gsv-diySrt8fgZxMCRg9mA1SD2RZJRC07ZlDAGAI/edit#)
+for more comprehensive details.
 
 ### Cloud.gov
 
