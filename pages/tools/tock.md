@@ -12,11 +12,13 @@ redirect_from:
 
 - **Out of Office - #670:** Any time you are out of office for less than 3
   weeks. Including:
+
   - Vacations,
   - Sick leave,
   - Administrative leave,
   - Jury leave, and
   - Bereavement
+
   If you know that you will be out for a longer duration due to Paid Parental
   leave, medical leave, an extended jury leave, or other leave, please bill to
   #1810. (See below.)
