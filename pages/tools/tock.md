@@ -8,41 +8,126 @@ redirect_from:
 
 ## Quick reference
 
-**18F staff should only enter time in the following categories:**
+### 18F
 
-- **18F Non-Billable Work - #968:** Time spent working on non-project work for
-  18F.
-- **18F Business Ops - #1195:** Time specifically spent working on 18F business
-  development efforts.
-- **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F
-  hiring (such as preparing interview guides, reading resumes, interviews and
-  debriefs) or onboarding (such as new employee onboarding classes, acting as an
-  onboarding buddy, or completing paperwork related to new hires).
-- **18F / External Detail - #1280:** Time spent on external details. If the
-  project has a more specific Tock line established, report your time there
-  instead.
-- **GSA-mandated Non-Billable Work - #969:** Time spent on compulsory overhead:
-  HRLinks, mandatory OLU trainings, IDPs, midyear & annual reviews, SF-182s,
-  OGE-450s, seeking training approvals, tech support for GSA-required software,
-  etc.
-- **Out of Office - #670:** Vacation time, federal holidays, sick time, and
-  administrative leave (including early dismissals).
+- **Out of Office - #670:** Any time you are out of office for less than 3
+  weeks. Including:
+
+  - Vacations,
+  - Sick leave,
+  - Administrative leave,
+  - Jury leave, and
+  - Bereavement
+
+  If you know that you will be out for a longer duration due to Paid Parental
+  leave, medical leave, an extended jury leave, or other leave, please bill to
+  #1810. (See below.)
+
+- **Extended Out of Office - #1810:** Intended for if you are Out of Office for
+  3 weeks or longer continuously, or will be using extensive donated or
+  unaccrued leave, such as using Paid Parental Leave part-time each week for 5
+  or 6 months. Intended expecially to capture:
+  - Paid Parental Leave,
+  - Medical or disability leave,
+  - Extended jury leave, or
+  - Any significant Out of Office time other than accrued PTO and sick leave.
 - **18F Project work - project ID varies:** The specific projects you're working
-  on.
+  on. Please see [below](#what-activities-do-i-record-billable-hours-for) for
+  more guidance on project billable work.
+
+  _Some projects are billed on a weekly basis and others on an hourly basis —
+  they need to be Tocked differently. Clarify with your AM which billing model
+  your project uses._
+
 - **18F Engagement Management - project ID varies:** This code is used for
   non-primary project team members for any support given to the project,
   including staffing the project, providing feedback to their staff regarding
   their project, conducting post-mortems, meeting to share information and
   lessons learned from other projects, etc.
+- **18F Administrative & Supervisory - #1814:** This tracks the work supervisors
+  do supporting their direct reports AND time individuals spend on mandated
+  administrative tasks.
+  - Performance management/performance reviews, including:
+    - Writing self-evaluations,
+    - Collecting peer feedback,
+    - Delivering feedback,
+    - Drafting performance plans,
+    - Entering performance reviews into HRLinks,
+    - 1:1s discussing career development or feedback, etc.
+  - Organizational meetings, including:
+    - Cohort or chapter huddles,
+    - 18F Team Coffee,
+    - TTS Supervisor meetings,
+    - TTS All Hands,
+    - FAS Town Halls,
+    - GSA Town Halls, etc.
+  - Administrative tasks, including:
+    - Submitting and approving timecards and leave approvals,
+    - OLU refresh courses,
+    - Completing OGE-450s,
+    - Concur travel documentation,
+    - Filing and resolving GSA IT service tickets,
+    - Requesting leave in HR Links,
+    - Any time you cannot work because of GSA IT forced reboots or updates, etc.
+- **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F
+  hiring and onboarding. Hiring activity includes:
 
-**Cloud.gov**
+  - Interviews,
+  - Note taking,
+  - Resume review,
+  - Conversations with Talent,
+  - Planning for hiring actions,
+  - Writing interview guides or questions, and
+  - Writing specialized experience.
+
+  New employee onboarding activies during the first two weeks should also be
+  billed here. Those include:
+
+  - Getting set up with laptops and accounts,
+  - Attending onboarding classes,
+  - Doing necessary benefits enrollment, and
+  - Travel card and other paperwork during their first two weeks.
+
+  Please do not use this to track hiring work for any other part of TTS. We
+  cannot work without an agreement, so if you find yourself doing hiring
+  activities (including interviews, note taking, and onboarding support) for any
+  other group outside of 18F, please set it down and talk with your supervisor.
+
+- **18F Intake & Scoping - #1811:** Capture all activities for calls with
+  partners, briefings with the Scoping team, proposal writing, and working with
+  the TTS Agreements team to get to a signed agreement. This includes any
+  conversation with any part of TTS, OMB, GSA, a State/Local/Tribal/Territorial
+  government entity, or a potential partner agency where they ask us to do work.
+- **18F Staffing - #1812:** Tracks activities done to match staff to projects.
+  This includes:
+  - All work by Staffing Reps,
+  - Conversations that staff have with Staffing Reps, and
+  - Any work done to plan for capacity, project assignments and backfills,
+    microrequests, and briefings from AMs or Scoping SMEs to Staffing Reps on
+    upcoming work.
+- **18F Delivery Assurance Team - #1813:** Tracks work contributing to the
+  Delivery Assurance team efforts.
+- **18F Non-Billable Work - #968:** Time spent working on activities for 18F
+  that do not fit in other Tock code categories. You are strongly encouraged to
+  work on activities that align clearly with the 18F goals and that fit into
+  other existing Tock categories.
+- **18F / External Detail - #1280:**
+  - If you are on an external detail to TTS, GSA, or another agency, please Tock
+    100% to this Tock line when you work.
+  - If you are on a detail within 18F, please do not use this Tock line.
+
+If you still have questions about how to Tock, please check out the
+[Revised FY23 Tock Guidance](https://docs.google.com/document/d/1FG4Gsv-diySrt8fgZxMCRg9mA1SD2RZJRC07ZlDAGAI/edit#)
+for more comprehensive details.
+
+### Cloud.gov
 
 - cloud.gov is not currently using Tock to record regular work. An exception is
   billable work performed for 18F.  More specific Tock instructions for Cloud
   team members can be found
   [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
 
-**Centers of Excellence**
+### Centers of Excellence
 
 - **COE /Non-Billable Hours (Line #1145):** Time spent working on non-project
   work for COE.
