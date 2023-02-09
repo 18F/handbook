@@ -10,79 +10,39 @@ redirect_from:
 questions: []
 ---
 
-We’ve put together a curriculum of classes we encourage you to take during your
-[first 90 days]({% page "/getting-started/" %}).
+Our onboarding program helps you transition into TTS and adapt to our TTS culture. To assist with this transition, we’ve put together a curriculum of classes to help you navigate your first two weeks at TTS.
 
-These classes will expose you to a variety of aspects of our organization,
-introduce you to the people involved, and create opportunities to ask questions.
+These classes will expose you to a variety of aspects of our organization, introduce you to the people involved, and create opportunities for you to ask questions.
 
-**Most of these classes are recommended, but optional** (with a few exceptions).
-If you have a conflicting team meeting or another commitment, prioritize that
-first! Most classes recur on a two-week cycle so you can always join the class 2
-weeks later or read the materials at your convenience.
+Most of these classes are required, some are recommended, and others are optional. If you have a conflicting team meeting or another commitment scheduled at the same time as a class, prioritize your project work first! Most classes recur on a two-week cycle so you can always join the class two weeks later or read the course materials at your convenience.
 
-**There is A LOT to take in over your first 1-3 months.** So take it all at your
-own pace, ask questions, and feel free to follow up with your class leads at any
-point — they’re happy to help.
+It may seem like A LOT to take in at first, but go at your own pace, ask questions, and feel free to follow up with the onboarding leads, your assigned onboarding buddy, or your supervisor at any point — we’re all happy to help.
 
-## Curriculum
+## Class Formats
 
-This section provides an overview of each of the classes, broken into topics,
-followed by [a calendar]({% page "/getting-started/classes/#calendar" %})
-showing when classes are scheduled during each two-week cycle.
+We have varied the class format in order to best suit the content and your schedule. The formats include:
 
-### Topics
+- Video Conference – TTS leads will talk you through the content (sometimes with a presentation) and provide time for questions. *Although not required, turning on your camera is strongly advised.*
+- Self-Guided Documentation / Video – You will be directed to a handbook page, which typically includes a transcript page, a document, deck, and/or video to review on your own. We set up calendar invites for these classes only as a reminder for you to take them — nothing more. You do not need to take the self-guided classes at the specific time they show up on your calendar.
 
-- [Our Values and Principles at
-  TTS]({% page "/getting-started/classes/#our-values-and-principles-at-tts" %})
-- [Working in the
-  Government]({% page "/getting-started/classes/#working-in-the-government" %})
-- [Background and Operations at
-  TTS]({% page "/getting-started/classes/#background-and-operations-at-tts" %})
-- [Divisions of TTS]({% page "/getting-started/classes/#divisions-of-tts" %})
-- [Online Learning University (OLU) Mandatory
-  Training]({% page "/getting-started/classes/#online-learning-university-olu-mandatory-training" %})
-- [Methods, Tidbits, and Case
-  Studies]({% page "/getting-started/classes/#methods-tidbits-and-case-studies" %})
+### Guidance to help you prioritize
 
-### Class Formats
-
-Curricula like this can feel a bit overwhelming and exhausting, so we have
-varied the class format in order to best suit the content and your schedule. The
-formats include:
-
-- **Video Conference** – (sometimes with a presentation) – TTS leads will talk
-  you through the content and ask questions. _Turning on your camera is highly
-  encouraged but not required._
-- **Self-guided Doc / Video** – You will be directed to a handbook page, a
-  document, deck, or video to review on your own. _No quiz or test after – we
-  swear._ We set up calendar invites for these, only as reminders — nothing
-  more.
-- **Slack** – Hosted in the #TTS-Classes slack channel at a scheduled time, a
-  lead will post messages overviewing a topic and resources and make space for
-  questions. _Emoji reactions are welcome._
-- **Coffee (Beta)** – A hybrid of a video conference and slack class, a lead
-  will overview and casually discuss a topic via video conference. A summary and
-  links are shared in the #TTS-Classes slack channel for posterity. _Turning on
-  your camera is highly encouraged but not required._
-
-### Guidance to help you prioritize:
-
-- **Required (and in bold)** - Critical for your onboarding and employment
-- Recommended - Suggested for better understanding TTS
-- As Needed – Additional and valuable context depending on your interests or
-  office
+- Required - Core classes that are critical to your onboarding and employment at TTS
+- Recommended - Classes suggested for a better understanding of TTS
+- Optional - Elective classes that are taken based on business need 
 
 ## Classes
 
+This section provides an overview of each of the classes, broken out into topics.
+
 ### Our Values and Principles at TTS
 
-| Name                                | Description                                                                                                                                                                                                              | Format           | Guidance     |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------ |
-| **Intro to the Diversity Guild**    | Introduction to the Diversity Guild (#g-diversity) [Intro to the Diversity Guild deck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit#slide=id.g86f01f88a5_1_0)                | Video Conference | **Required** |
-| **Accessibility 101**               | Introduction to accessibility as it relates to our work, hosted by the Accessibility Guild (#g-accessibility)                                                                                                            | Video Conference | **Required** |
-| Human-Centered Design (HCD) & Agile | Discussion of our core values: Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work [HCD & Agile script](https://docs.google.com/document/d/1B2epdYJPdVDvxQ3aYh1R7He7UaGrKsul3oJXK0z3Fv0/edit) | Coffee           | Recommended  |
-| Working Groups and Guilds           | Introduction to Working Groups and Guilds, how to join, and ways to get involved [Working Groups and Guilds page]({% page "/working-groups-and-guilds-101/" %})                                                          | Self-guided      | Recommended  |
+| Name                                | Description                                                                                                                                                                                                              | Format           | Guidance     | Resource(s)     |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------ | ------------ |
+| Working Groups and Guilds    | An introduction to TTS’ Working Groups and Guilds, how to join, and ways to get involved.                 | Self-guided | Required | [Working Groups and Guilds Handbook page](({% page "/training-and-development/working-groups-and-guilds-101/" %}) |
+| Intro to the Diversity Guild and DEIA&B @ TTS               | An introduction to the Diversity Guild and our DEIA&B initiatives.<br/><br/>*Course prerequisite*: The self-guided Working Groups and Guilds course should be taken prior to completing this course. | Video Conference | Required | [Intro to the Diversity Guild slidedeck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit)<br/><br/>[Diversity Guild Slack channel](https://app.slack.com/client/T025AQGAN/C02DJFR0V/)|
+| Accessibility 101 | An introduction to the Accessibility Guild and accessibility as it relates to our work at TTS. | Video Conference           |  Required | [Accessibility 101 slidedeck](https://docs.google.com/presentation/d/1AdOryFB99T64uQn7GFdIzkDz_RChFU6T9zGlgs-G3Fs/edit)<br/><br/>[Accessibility Guild Slack channel](https://gsa-tts.slack.com/archives/C02BT4H5Q)|
+| Unconscious Bias           | An overview of how to recognize bias, speak out about it, and respond when we make a mistake. | Video Conference      | Required  | [Unconscious Bias slidedeck](https://docs.google.com/presentation/d/1igSISA6XarCgXqKhvaU1wzG-q_DY3-5KuqAeVxxW66s/edit) |
 
 ### Working in the Government
 
