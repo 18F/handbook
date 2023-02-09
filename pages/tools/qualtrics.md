@@ -9,10 +9,11 @@ application for external feedback collection projects.
 
 ## Getting a Qualtrics license
 
-Any TTS employee may request a license from GSA’s Office of Customer Experience
-(OCE) by [emailing OCE](mailto:customerexperience@gsa.gov). Please make sure to
-state your business case in your request, including the expected number of
-responses per year, so that OCE can advise on any potential cost implications
+For information about getting a license, check GSA's Office of Customer
+Experience
+[Customer Feedback and Surveys](https://insite.gsa.gov/services-and-offices/staff-offices/office-of-customer-experience/customer-feedback-and-surveys)
+page. This page also has more information about GSA policies on the use of
+surveys.
 
 Qualtrics can only be used if you’re collecting feedback that is directly
 helping GSA; not another agency. For example: if you’re working with NIH, you
