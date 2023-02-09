@@ -10,39 +10,58 @@ redirect_from:
 questions: []
 ---
 
-Our onboarding program helps you transition into TTS and adapt to our TTS culture. To assist with this transition, we’ve put together a curriculum of classes to help you navigate your first two weeks at TTS.
+Our onboarding program helps you transition into TTS and adapt to our TTS
+culture. To assist with this transition, we’ve put together a curriculum of
+classes to help you navigate your first two weeks at TTS.
 
-These classes will expose you to a variety of aspects of our organization, introduce you to the people involved, and create opportunities for you to ask questions.
+These classes will expose you to a variety of aspects of our organization,
+introduce you to the people involved, and create opportunities for you to ask
+questions.
 
-Most of these classes are required, some are recommended, and others are optional. If you have a conflicting team meeting or another commitment scheduled at the same time as a class, prioritize your project work first! Most classes recur on a two-week cycle so you can always join the class two weeks later or read the course materials at your convenience.
+Most of these classes are required, some are recommended, and others are
+optional. If you have a conflicting team meeting or another commitment scheduled
+at the same time as a class, prioritize your project work first! Most classes
+recur on a two-week cycle so you can always join the class two weeks later or
+read the course materials at your convenience.
 
-It may seem like A LOT to take in at first, but go at your own pace, ask questions, and feel free to follow up with the onboarding leads, your assigned onboarding buddy, or your supervisor at any point — we’re all happy to help.
+It may seem like A LOT to take in at first, but go at your own pace, ask
+questions, and feel free to follow up with the onboarding leads, your assigned
+onboarding buddy, or your supervisor at any point — we’re all happy to help.
 
 ## Class Formats
 
-We have varied the class format in order to best suit the content and your schedule. The formats include:
+We have varied the class format in order to best suit the content and your
+schedule. The formats include:
 
-- Video Conference – TTS leads will talk you through the content (sometimes with a presentation) and provide time for questions. *Although not required, turning on your camera is strongly advised.*
-- Self-Guided Documentation / Video – You will be directed to a handbook page, which typically includes a transcript page, a document, deck, and/or video to review on your own. We set up calendar invites for these classes only as a reminder for you to take them — nothing more. You do not need to take the self-guided classes at the specific time they show up on your calendar.
+- Video Conference – TTS leads will talk you through the content (sometimes with
+  a presentation) and provide time for questions. _Although not required,
+  turning on your camera is strongly advised._
+- Self-Guided Documentation / Video – You will be directed to a handbook page,
+  which typically includes a transcript page, a document, deck, and/or video to
+  review on your own. We set up calendar invites for these classes only as a
+  reminder for you to take them — nothing more. You do not need to take the
+  self-guided classes at the specific time they show up on your calendar.
 
 ### Guidance to help you prioritize
 
-- Required - Core classes that are critical to your onboarding and employment at TTS
+- Required - Core classes that are critical to your onboarding and employment at
+  TTS
 - Recommended - Classes suggested for a better understanding of TTS
-- Optional - Elective classes that are taken based on business need 
+- Optional - Elective classes that are taken based on business need
 
 ## Classes
 
-This section provides an overview of each of the classes, broken out into topics.
+This section provides an overview of each of the classes, broken out into
+topics.
 
 ### Our Values and Principles at TTS
 
-| Name                                | Description                                                                                                                                                                                                              | Format           | Guidance     | Resource(s)     |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------ | ------------ |
-| Working Groups and Guilds    | An introduction to TTS’ Working Groups and Guilds, how to join, and ways to get involved.                 | Self-guided | Required | [Working Groups and Guilds Handbook page](({% page "/training-and-development/working-groups-and-guilds-101/" %}) |
-| Intro to the Diversity Guild and DEIA&B @ TTS               | An introduction to the Diversity Guild and our DEIA&B initiatives.<br/><br/>*Course prerequisite*: The self-guided Working Groups and Guilds course should be taken prior to completing this course. | Video Conference | Required | [Intro to the Diversity Guild slidedeck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit)<br/><br/>[Diversity Guild Slack channel](https://app.slack.com/client/T025AQGAN/C02DJFR0V/)|
-| Accessibility 101 | An introduction to the Accessibility Guild and accessibility as it relates to our work at TTS. | Video Conference           |  Required | [Accessibility 101 slidedeck](https://docs.google.com/presentation/d/1AdOryFB99T64uQn7GFdIzkDz_RChFU6T9zGlgs-G3Fs/edit)<br/><br/>[Accessibility Guild Slack channel](https://gsa-tts.slack.com/archives/C02BT4H5Q)|
-| Unconscious Bias           | An overview of how to recognize bias, speak out about it, and respond when we make a mistake. | Video Conference      | Required  | [Unconscious Bias slidedeck](https://docs.google.com/presentation/d/1igSISA6XarCgXqKhvaU1wzG-q_DY3-5KuqAeVxxW66s/edit) |
+| Name                                          | Description                                                                                                                                                                                          | Format           | Guidance | Resource(s)                                                                                                                                                                                                                    |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Working Groups and Guilds                     | An introduction to TTS’ Working Groups and Guilds, how to join, and ways to get involved.                                                                                                            | Self-guided      | Required | [Working Groups and Guilds Handbook page](({% page "/training-and-development/working-groups-and-guilds-101/" %})                                                                                                              |
+| Intro to the Diversity Guild and DEIA&B @ TTS | An introduction to the Diversity Guild and our DEIA&B initiatives.<br/><br/>_Course prerequisite_: The self-guided Working Groups and Guilds course should be taken prior to completing this course. | Video Conference | Required | [Intro to the Diversity Guild slidedeck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit)<br/><br/>[Diversity Guild Slack channel](https://app.slack.com/client/T025AQGAN/C02DJFR0V/) |
+| Accessibility 101                             | An introduction to the Accessibility Guild and accessibility as it relates to our work at TTS.                                                                                                       | Video Conference | Required | [Accessibility 101 slidedeck](https://docs.google.com/presentation/d/1AdOryFB99T64uQn7GFdIzkDz_RChFU6T9zGlgs-G3Fs/edit)<br/><br/>[Accessibility Guild Slack channel](https://gsa-tts.slack.com/archives/C02BT4H5Q)             |
+| Unconscious Bias                              | An overview of how to recognize bias, speak out about it, and respond when we make a mistake.                                                                                                        | Video Conference | Required | [Unconscious Bias slidedeck](https://docs.google.com/presentation/d/1igSISA6XarCgXqKhvaU1wzG-q_DY3-5KuqAeVxxW66s/edit)                                                                                                         |
 
 ### Working in the Government
 
