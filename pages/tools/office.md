@@ -21,8 +21,10 @@ need to put in a request.
 
 1. [Open a Software request through ServiceNow](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
 1. For `Software Name`, select
-    * for Macs: `Microsoft Office Suite (Word, Excel, PowerPoint) (*GSA* - MAC Client only) 2019: Approved-Preferred`
-    * for PCs: `Microsoft Office Suite (Word, Excel, PowerPoint) (*GSA* - WIN Client only) 2019: Approved-Preferred`
+   - for Macs:
+     `Microsoft Office Suite (Word, Excel, PowerPoint) (*GSA* - MAC Client only) 2019: Approved-Preferred`
+   - for PCs:
+     `Microsoft Office Suite (Word, Excel, PowerPoint) (*GSA* - WIN Client only) 2019: Approved-Preferred`
 
 ## Questions?
 
