@@ -7,7 +7,6 @@ tags:
 redirect_from:
   - /onboarding-schedule/
   - /tts-classes/
-questions: []
 ---
 
 Our onboarding program helps you transition into TTS and adapt to our TTS
