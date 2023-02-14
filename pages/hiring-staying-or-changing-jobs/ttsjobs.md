@@ -46,9 +46,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-[Login.gov Product Manager GS15](https://join.tts.gsa.gov/join/login-productmanagers15)
-open Monday, February 6th through Monday, February 13th OR at 400 applications
-received
+We will be sharing open opportunities as they become available.
 
 ### Internal only opportunities
 
