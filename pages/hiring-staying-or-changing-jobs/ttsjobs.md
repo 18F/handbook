@@ -48,7 +48,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 [US Digital Corps Deputy Director GS-15](https://join.tts.gsa.gov/join/usdc-deputy-director/)
 Open Wednesday, February 15 through Wednesday, February 22 OR at 250
-applications received
+applications received.
 
 ### Internal only opportunities
 
