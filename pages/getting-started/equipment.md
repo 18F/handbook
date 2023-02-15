@@ -169,8 +169,8 @@ activating your iPhone.
     Number Change (USF)**; make sure to set the phone type as "Business Mobile"
     so it correctly populates in the GCIMS and works for 2FA.
   - You can learn more about using your phone for two-factor authentication in
-    our [Slack]({% page "/tools/slack" %}), [GitHub]({% page "/github" %}),
-    and [Gmail]({% page "/gmail" %}) guides. For two-factor authentication with
+    our [Slack]({% page "/tools/slack" %}), [GitHub]({% page "/github" %}), and
+    [Gmail]({% page "/gmail" %}) guides. For two-factor authentication with
     these applications, you can use SMS, [Authy](https://www.authy.com/), or
     [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
