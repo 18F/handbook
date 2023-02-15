@@ -7,7 +7,6 @@ tags:
 redirect_from:
   - /onboarding-schedule/
   - /tts-classes/
-questions: []
 ---
 
 Our onboarding program helps you transition into TTS and adapt to our TTS
@@ -54,6 +53,18 @@ schedule. The formats include:
 This section provides an overview of each of the classes, broken out into
 topics.
 
+### Topics
+
+- [Our Values and Principles at
+  TTS]({% page "/getting-started/classes/#our-values-and-principles-at-tts" %})
+- [How we work]({% page "/getting-started/classes/#how-we-work" %})
+- [TTS Products and Service
+  Offerings]({% page "/getting-started/classes/#tts-products-and-service-offerings" %})
+- [TTS Resources and
+  Operations]({% page "/getting-started/classes/#tts-resources-and-operations" %})
+- [TTS Leadership]({% page "/getting-started/classes/#tts-leadership" %})
+- [18F Courses]({% page "/getting-started/classes/#18f-courses" %})
+
 ### Our values and principles at TTS
 
 These courses introduce you to the values and principles that guide our behavior
@@ -95,15 +106,15 @@ compliance tools.
 These courses are designed to provide information about employee support
 resources, compliance obligations, and our internal operations.
 
-| Name                                                                  | Description                                                                                             | Format           | Guidance    | Resource(s)                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Intro to PeopleOps                                                    | Overview of the PeopleOps team and how they support TTS                                                 | Video Conference | Required    | [What is PeopleOps? slidedeck](https://docs.google.com/presentation/d/1uXx5fCX8a6oBY_RBrI4oe4raeH3yC2xy_O-aWabb7uc/edit#slide=id.p1)                                                                                                     |
-| HRLinks Training: Setting Up Your Base Schedule                       | An overview of how to set up a base schedule in HR Links to ensure proper payment of wages.             | Video Conference | Required    | [How to Manage Your Timesheet in HR Links slidedeck](https://docs.google.com/presentation/d/187pWF3CbLIUHeppN-x4BsRlCf4J9I5mDje6X4aXPgKc/edit) <br/><br/> [Time & Leave Help Guides](https://corporateapps.gsa.gov/hr-links/time-leave/) |
-| Continuity of Operations (COOP) Emergency Management Responsibilities | A discussion on how to plan for and respond to emergency notifications from GSA/TTS.                    | Video Conference | Required    | N/A                                                                                                                                                                                                                                      |
-| Travel 101                                                            | An overview of how to set up a travel account, how to book travel and get reimbursed.                   | Self-guided      | Recommended | [Travel 101 page]({% page "/travel-101/" %})                                                                                                                                                                                             |
-| GSA/TTS Tools and Equipment                                           | An overview on how to work with GSA’s tools and your GSA-issued equipment.                              | Self-guided      | Recommended | [GSA Operational Tools page]({% page "/gsa-internal-tools/" %})<br/>[Equipment page]({% page "/equipment/" %}) <br/>[GSA IT Training](https://insite.gsa.gov/employee-resources/information-technology/training)                         |     |
-| Handbook 101                                                          | An overview of how to navigate the TTS Handbook.                                                        | Video Conference | Recommended | [TTS Handbook]({% page "/" %})                                                                                                                                                                                                           |
-| Compliance                                                            | An overview of important compliance topics including The Hatch Act, FOIA, Ethics, and the OGE 450 form. | Self-guided      | Recommended | [Hatch Act Overview doc](https://osc.gov/Documents/Outreach%20and%20Training/Posters/The%20Hatch%20Act%20and%20Most%20Federal%20Employees%20Poster.pdf)                                                                                  |
+| Name                                                                  | Description                                                                                             | Format           | Guidance    | Resource(s)                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Intro to PeopleOps                                                    | Overview of the PeopleOps team and how they support TTS                                                 | Video Conference | Required    | [What is PeopleOps? slidedeck](https://docs.google.com/presentation/d/1uXx5fCX8a6oBY_RBrI4oe4raeH3yC2xy_O-aWabb7uc/edit#slide=id.p1)                                                                                                   |
+| HRLinks Training: Setting Up Your Base Schedule                       | An overview of how to set up a base schedule in HR Links to ensure proper payment of wages.             | Video Conference | Required    | [How to Manage Your Timesheet in HR Links slidedeck](https://docs.google.com/presentation/d/187pWF3CbLIUHeppN-x4BsRlCf4J9I5mDje6X4aXPgKc/edit)<br/><br/>[Time & Leave Help Guides](https://corporateapps.gsa.gov/hr-links/time-leave/) |
+| Continuity of Operations (COOP) Emergency Management Responsibilities | A discussion on how to plan for and respond to emergency notifications from GSA/TTS.                    | Video Conference | Required    | N/A                                                                                                                                                                                                                                    |
+| Travel 101                                                            | An overview of how to set up a travel account, how to book travel and get reimbursed.                   | Self-guided      | Recommended | [Travel 101 page]({% page "/travel-101/" %})                                                                                                                                                                                           |
+| GSA/TTS Tools and Equipment                                           | An overview on how to work with GSA’s tools and your GSA-issued equipment.                              | Self-guided      | Recommended | [GSA Operational Tools page]({% page "/gsa-internal-tools/" %})<br/><br/>[Equipment page]({% page "/equipment/" %}) <br/><br/>[GSA IT Training](https://insite.gsa.gov/employee-resources/information-technology/training)             |
+| Handbook 101                                                          | An overview of how to navigate the TTS Handbook.                                                        | Video Conference | Recommended | [TTS Handbook]({% page "/" %})                                                                                                                                                                                                         |
+| Compliance                                                            | An overview of important compliance topics including The Hatch Act, FOIA, Ethics, and the OGE 450 form. | Self-guided      | Recommended | [Hatch Act Overview doc](https://osc.gov/Documents/Outreach%20and%20Training/Posters/The%20Hatch%20Act%20and%20Most%20Federal%20Employees%20Poster.pdf)                                                                                |
 
 ### TTS Leadership
 
@@ -124,7 +135,7 @@ _Please note, these classes are not listed on the main TTS Classes calendar._
 | Staffing                              | An introduction to how 18F team members get staffed to projects.                                              | Self-guided | Optional | [How Staffing Works Now video](https://drive.google.com/file/d/13j_wFY7ewvyEoPfK4p0gr9L2Bv1Q65yD/view?t=36m34s)                        |
 | Vendor transitions and sustainability | A sharing of lessons learned from vendor transitions and how to plan for sustainability throughout a project. | Self-guided | Optional | [Vendor Transition and Sustainability Planning video](https://drive.google.com/file/d/1dKlUVH7aVCyu7TI2oo413-CT2z4yln3J/view?t=23m30s) |
 
-### Online Learning University (OLU) Mandatory Training
+## Online Learning University (OLU) Mandatory Training
 
 See our [Online Learning University handbook page]({% page "/olu/" %}) for a
 list of mandatory annual training certifications.
