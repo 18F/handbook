@@ -156,21 +156,21 @@ activating your iPhone.
   as possible.
 - After GSA IT provisions your phone, set up two-factor verification:
 
-  - If you don't have access to \[HR
+  - If you don't have access to [HR
     Links]({% page "/getting-started/classes/gsa-internal-tools/#hr-links" %}),
     email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them
     to add your work cell phone number (which you may or may not have) and your
     personal cell phone number to your GSA Credential and Identity Management
     System (GCIMS) profile.
-  - Once you have access to \[HR
+  - Once you have access to [HR
     Links]({% page "/getting-started/classes/gsa-internal-tools/#hr-links" %}),
     you can update your contact information there. You'll find it under
     **Navigator > Employee Self Service > View/Update My Personal Info > Phone
     Number Change (USF)**; make sure to set the phone type as "Business Mobile"
     so it correctly populates in the GCIMS and works for 2FA.
   - You can learn more about using your phone for two-factor authentication in
-    our \[Slack]({% page "/tools/slack" %}), \[GitHub]({% page "/github" %}),
-    and \[Gmail]({% page "/gmail" %}) guides. For two-factor authentication with
+    our [Slack]({% page "/tools/slack" %}), [GitHub]({% page "/github" %}),
+    and [Gmail]({% page "/gmail" %}) guides. For two-factor authentication with
     these applications, you can use SMS, [Authy](https://www.authy.com/), or
     [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
