@@ -53,6 +53,17 @@ schedule. The formats include:
 This section provides an overview of each of the classes, broken out into
 topics.
 
+### Topics
+
+- [Our Values and Principles at
+  TTS]({% page "/getting-started/classes/#our-values-and-principles-at-tts" %})
+- [How we work]({% page "/getting-started/classes/#how-we-work" %})
+- [TTS Products and Service Offerings]({% page "/getting-started/classes/#tts-products-and-service-offerings" %})
+- [TTS Resources and Operations]({% page "/getting-started/classes/#tts-resources-and-operations" %})
+- [TTS Leadership]({% page "/getting-started/classes/#tts-leadership" %})
+- [18F Courses]({% page "/getting-started/classes/#18f-courses" %})
+
+
 ### Our values and principles at TTS
 
 These courses introduce you to the values and principles that guide our behavior
@@ -123,7 +134,7 @@ _Please note, these classes are not listed on the main TTS Classes calendar._
 | Staffing                              | An introduction to how 18F team members get staffed to projects.                                              | Self-guided | Optional | [How Staffing Works Now video](https://drive.google.com/file/d/13j_wFY7ewvyEoPfK4p0gr9L2Bv1Q65yD/view?t=36m34s)                        |
 | Vendor transitions and sustainability | A sharing of lessons learned from vendor transitions and how to plan for sustainability throughout a project. | Self-guided | Optional | [Vendor Transition and Sustainability Planning video](https://drive.google.com/file/d/1dKlUVH7aVCyu7TI2oo413-CT2z4yln3J/view?t=23m30s) |
 
-### Online Learning University (OLU) Mandatory Training
+## Online Learning University (OLU) Mandatory Training
 
 See our [Online Learning University handbook page]({% page "/olu/" %}) for a
 list of mandatory annual training certifications.
