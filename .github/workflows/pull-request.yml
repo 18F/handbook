@@ -1,0 +1,62 @@
+name: pull request
+
+on: [pull_request]
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/cache@v3
+        id: cache
+        with:
+          path: "**/**"
+          key: workspace-${{ env.GITHUB_SHA }}-v1
+      - if: steps.cache.outputs.hit != true
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - if: steps.cache.outputs.hit != true
+        run: npm install
+      - if: steps.cache.outputs.hit != true
+        run: npm run build
+
+  validate_html:
+    needs: [build]
+    name: validate html
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        with:
+          key: workspace-${{ env.GITHUB_SHA }}-v1
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run test:html-validation
+
+  validate_internal_links:
+    needs: [build]
+    name: validate internal links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        with:
+          key: workspace-${{ env.GITHUB_SHA }}-v1
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run test:internal-links
+
+  validate_links_use_helper:
+    needs: [build]
+    name: validate links use helper
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        with:
+          key: workspace-${{ env.GITHUB_SHA }}-v1
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run test:prefixed-links
