@@ -145,48 +145,38 @@ activating your iPhone.
 
 ### Rules
 
-- GSA IT will ask for your Apple ID and password. **Do not send your personal
-  Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA
-  email address, or set one up for yourself and use Google Hangouts to send them
-  your password. (Never share passwords over email.)
-
-- Change the phone's passcode. The new code should be known only to you.
-
-- **Activate
+* **Change the phone's passcode.** It must be longer than 14 characters and contain both letters and numbers. The code should be known only to you.
+* **Activate
   [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If
   you're on an Android phone, activate
   [Android Device Manager](https://www.google.com/android/devicemanager).
-
-- **You are responsible for applying software updates.** When you receive a
+* **You are responsible for applying software updates.** When you receive a
   notification that an update is available, you should apply the update as soon
   as possible.
+* After GSA IT provisions your phone, set up two-factor verification:
 
-- After GSA IT provisions your phone, set up two-factor verification:
-  - If you don't have access to [HR
+  * If you don't have access to \[HR
     Links]({% page "/getting-started/classes/gsa-internal-tools/#hr-links" %}),
     email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them
     to add your work cell phone number (which you may or may not have) and your
     personal cell phone number to your GSA Credential and Identity Management
     System (GCIMS) profile.
-  - Once you have access to [HR
+  * Once you have access to \[HR
     Links]({% page "/getting-started/classes/gsa-internal-tools/#hr-links" %}),
     you can update your contact information there. You'll find it under
     **Navigator > Employee Self Service > View/Update My Personal Info > Phone
     Number Change (USF)**; make sure to set the phone type as "Business Mobile"
     so it correctly populates in the GCIMS and works for 2FA.
-  - You can learn more about using your phone for two-factor authentication in
-    our [Slack]({% page "/tools/slack" %}), [GitHub]({% page "/github" %}), and
-    [Gmail]({% page "/gmail" %}) guides. For two-factor authentication with
-    these applications, you can use SMS, [Authy](https://www.authy.com/), or
-    [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
+  * You can learn more about using your phone for two-factor authentication in
+        our \[Slack]({% page "/tools/slack" %}), \[GitHub]({% page "/github" %}), and
+        \[Gmail]({% page "/gmail" %}) guides. For two-factor authentication with
+        these applications, you can use SMS, [Authy](https://www.authy.com/), or
+        [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
+* **Only use Apple's default Mail app to access your GSA email.** You must [generate an App Password](https://support.google.com/accounts/answer/185833?hl=en) in your Google account to use with your Mail app, instead of your normal email password.
 
 ### Tips
 
-- **You can use your phone to access your email.** You should be prompted to
-  sign in with your ENT username and password. Note that the GSA IT Service Desk
-  does not support this connection, so please do not ask them about it as they
-  will reject your request.
-- **[You can tether to your laptop to iPhone](https://support.apple.com/en-us/HT204023)**
+* **[You should tether to your laptop to the iPhone](https://support.apple.com/en-us/HT204023)**
   for internet access when you're on the go.
 - If you can't send email with your new work iPhone, create a new email and
   check the From field. If it's a jumble of letters and numbers
