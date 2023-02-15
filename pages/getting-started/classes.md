@@ -58,11 +58,12 @@ topics.
 - [Our Values and Principles at
   TTS]({% page "/getting-started/classes/#our-values-and-principles-at-tts" %})
 - [How we work]({% page "/getting-started/classes/#how-we-work" %})
-- [TTS Products and Service Offerings]({% page "/getting-started/classes/#tts-products-and-service-offerings" %})
-- [TTS Resources and Operations]({% page "/getting-started/classes/#tts-resources-and-operations" %})
+- [TTS Products and Service
+  Offerings]({% page "/getting-started/classes/#tts-products-and-service-offerings" %})
+- [TTS Resources and
+  Operations]({% page "/getting-started/classes/#tts-resources-and-operations" %})
 - [TTS Leadership]({% page "/getting-started/classes/#tts-leadership" %})
 - [18F Courses]({% page "/getting-started/classes/#18f-courses" %})
-
 
 ### Our values and principles at TTS
 
