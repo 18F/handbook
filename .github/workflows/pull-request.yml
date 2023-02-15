@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - id: cache_key
-        run: echo "cache_key=${{ hashFiles('**/**')-v1 }}" >> "$GITHUB_OUTPUT"
+        run: echo "cache_key=${{ hashFiles('**/**') }}-v1" >> "$GITHUB_OUTPUT"
       - uses: actions/cache@v3
         id: cache
         with:
