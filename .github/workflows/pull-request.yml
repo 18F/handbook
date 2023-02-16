@@ -1,0 +1,71 @@
+name: pull request
+
+on: [pull_request]
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+
+    outputs:
+      cache_key: ${{ steps.cache_key.outputs.cache_key }}
+
+    steps:
+      - uses: actions/checkout@v3
+      - id: cache_key
+        run: echo "cache_key=${{ hashFiles('**/**') }}-v1" >> "$GITHUB_OUTPUT"
+      - uses: actions/cache@v3
+        id: cache
+        with:
+          path: .
+          key: ${{ steps.cache_key.outputs.cache_key }}
+      - if: steps.cache.outputs.hit != true
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - if: steps.cache.outputs.hit != true
+        run: npm install
+      - if: steps.cache.outputs.hit != true
+        run: npm run build
+
+  validate_html:
+    needs: [build]
+    name: validate html
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        with:
+          key: ${{ needs.build.outputs.cache_key }}
+          path: .
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run test:html-validation
+
+  validate_internal_links:
+    needs: [build]
+    name: validate internal links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        with:
+          key: ${{ needs.build.outputs.cache_key }}
+          path: .
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run test:internal-links
+
+  validate_links_use_helper:
+    needs: [build]
+    name: validate links use helper
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        with:
+          key: ${{ needs.build.outputs.cache_key }}
+          path: .
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: npm run test:prefixed-links
