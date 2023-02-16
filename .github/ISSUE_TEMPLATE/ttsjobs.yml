@@ -20,18 +20,33 @@ body:
       - "internal-only"
   - type: input
     label: Role
+    validations:
+      required: true
   - type: input
     label: Link
     description: |
       For roles available to the public, this is typically a link to to the
       TTS Jobs site at https://join.tts.gsa.gov. For internal-only roles, this
       is typically a link to a Google Doc.
+    validations:
+      required: true
   - type: input
     label: Job opening date
     description: The date must be formatted as YYYY-MM-DD.
+    validations:
+      required: true
   - type: input
     label: Job closing date
     description: The date must be formatted as YYYY-MM-DD.
+    validations:
+      required: true
+  - type: input
+    label: Maximum number of applications
+    description: If this job will close after receiving a certain number of
+      applications, put that number here. Otherwise, leave it 0 or blank.
+    validations:
+      required: true
+    value: 0
   - type: dropdown
     label: Does this job close when all selections have been made?
     validations:

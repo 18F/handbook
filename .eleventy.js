@@ -98,6 +98,12 @@ module.exports = function (config) {
   config.addFilter("fullDate", (dateObj) =>
     luxon.DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("EEEE, MMMM d")
   );
+  config.addFilter("trim", (str) => str.trim());
+
+  config.addFilter("push", (arr, item) => {
+    arr.push(item);
+    return arr;
+  });
 
   // Set image shortcodes
   config.addLiquidShortcode("download", downloadShortCode);
@@ -112,9 +118,9 @@ module.exports = function (config) {
     link.startsWith("http") ? link : path.join(pathPrefix, link)
   );
 
-  config.on("eleventy.after", async () => {
-    await postbuild();
-  });
+  // config.on("eleventy.after", async () => {
+  //   await postbuild();
+  // });
 
   return {
     // Control which files Eleventy will process

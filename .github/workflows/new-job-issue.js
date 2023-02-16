@@ -79,7 +79,8 @@ module.exports = async ({ context, core, github }) => {
       "Link",
       "Job opening date",
       "Job closing date",
-      "closesEarly",
+      "Maximum number of applications",
+      "Does this job close when all selections have been made?",
     ];
 
     for (const heading of HEADINGS) {
@@ -100,6 +101,9 @@ module.exports = async ({ context, core, github }) => {
     const link = body.getValueForHeading("Link");
     const opens = body.getValueForHeading("Job opening date");
     const closes = body.getValueForHeading("Job closing date");
+    const maxApplications = body.getValueForHeading(
+      "Maximum number of applications"
+    );
     const closesEarly =
       body.getValueForHeading(
         "Does this job close when all selections have been made?"
@@ -161,6 +165,7 @@ module.exports = async ({ context, core, github }) => {
       closes: new Date(Date.parse(`${closes}T00:00:00.000Z`)),
 
       // Yaml properties are perfectly happy to have spaces in their names.
+      "max applications": Number.parseInt(maxApplications, 10) | 0,
       "closes when filled": closesEarly,
     });
 
