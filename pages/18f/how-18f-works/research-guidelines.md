@@ -54,9 +54,9 @@ collect. Before getting consent, ensure participants understand:
 1. They cannot expect to receive compensation for their participation (unless
    otherwise agreed to with our agency partners — note that this is a legal
    issue!)
-1. The types of information we may record (this could be name, direct
+2. The types of information we may record (this could be name, direct
    quotations, photos, screen captures, etc.)
-1. How we will share information we collect. Usual options include: No one ever
+3. How we will share information we collect. Usual options include: No one ever
    (off the record), within the immediate project team, on a need-to-know basis
    (our default), and with the general public.
 
@@ -67,7 +67,7 @@ research, generally by asking that our research participants sign a "design
 research participant agreement". TTS maintains a
 [template](https://docs.google.com/document/d/16qg58Hn92UlXLsi-2taizi7qe5mvQ3LMSkcvyHk8Bdo/edit)
 for internal use, and an
-[example participant agreement](https://methods.18f.gov/participant-agreement/)
+[example participant agreement](https://ux-guide.18f.gov/participant-agreement/)
 for sharing with interested parties. Please make a copy of the participant
 agreement document template, put it into your project folder, and edit the
 highlighted text for each of your research studies. If your participants are
@@ -152,10 +152,10 @@ your account manager to get it signed by an authorized official at the partner
 agency.
 
 The partner’s OGC will need to provide TTS a concurrence that “the benefit
-accruing to [the requesting agency] in obtaining this feedback outweighs the
-personal nature of this expense. [The requesting agency] has also determined
+accruing to \[the requesting agency] in obtaining this feedback outweighs the
+personal nature of this expense. \[The requesting agency] has also determined
 that the feedback from this user research will directly advance the statutory
-mission and objectives of [the requesting agency]."
+mission and objectives of \[the requesting agency]."
 
 ### How much compensation should I offer?
 
@@ -182,7 +182,7 @@ participants via digital/e-gift or physical gift cards through
 [purchase card request](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
 The total amount of the purchase must be under $10,000 per project.
 
-For more information, see [how do I complete a micropurchase
+For more information, see \[how do I complete a micropurchase
 request?]({%page "/office-of-acquisition/#how-do-i-complete-a-micropurchase" %})
 in the handbook.
 
@@ -227,9 +227,9 @@ combination with a first name, often become PII. Photos of people's faces are
 almost always PII, and that's why we always ask before taking photos and get
 explicit statements about if we can share them.
 
-[Sensitive PII]({% page "/launching-software/privacy/" %}) is information which,
-if shared, could seriously harm or embarrass someone. Unique identifying numbers
-and biometric data is always sensitive: In general, combining:
+\[Sensitive PII]({% page "/launching-software/privacy/" %}) is information
+which, if shared, could seriously harm or embarrass someone. Unique identifying
+numbers and biometric data is always sensitive: In general, combining:
 
 - Citizenship or immigration status
 - Ethnic or religious affiliation
@@ -262,10 +262,10 @@ satisfied the law.
 
 If you are collecting PII in the course of research, the best place to store it
 is in a locked-down folder on Google Drive that is only accessible to the core
-research team, as Google Drive is is a GSA-approved place to store PII. (The
-only other GSA-approved software for storing PII is Salesforce, which we don't
-use for research). Raw interview notes, which may contain PII, should be stored
-in this folder. The core research team should also create a document that gives
+research team, as Google Drive is a GSA-approved place to store PII. (The only
+other GSA-approved software for storing PII is Salesforce, which we don't use
+for research). Raw interview notes, which may contain PII, should be stored in
+this folder. The core research team should also create a document that gives
 each participant a pseudonym (eg. a codename or number such as "PO1"). Analysis
 & synthesis documents and research reports, which are typically accessed by
 additional members of the project team, should only contain those pseudonyms or
@@ -275,7 +275,7 @@ documents with PII, they always go into a locked file cabinet.
 
 A good rule is to check with your project lead before sharing information
 outside the immediate team. What has been approved by GSA may not be approved by
-partners. Check the Appendix in [Design page]({% page "/design/" %}) for
+partners. Check the Appendix in \[Design page]({% page "/design/" %}) for
 detailed information about who can see what, when. The social media,
 collaboration, and security classes in GSA's Online University can also be
 helpful in managing access.
@@ -296,11 +296,11 @@ or
 narrated by the GSA Privacy Office.
 
 **Bottom line: If you have questions about sharing information, just ask.** See
-the page on [sensitive information]({% page "/sensitive-information/" %}). If
+the page on \[sensitive information]({% page "/sensitive-information/" %}). If
 you're not sure if you're collecting PII or need help with policy guidance, you
 can ask on Slack in {% slack_channel "#g-research" %}. If you are not sure where
 the right place might be to store any given file, or what access permissions to
-grant, you can [ask the Tech
+grant, you can \[ask the Tech
 Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
 
 ## Join the research guild!

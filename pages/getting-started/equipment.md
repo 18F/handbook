@@ -145,23 +145,17 @@ activating your iPhone.
 
 ### Rules
 
-- GSA IT will ask for your Apple ID and password. **Do not send your personal
-  Apple ID or password to IT.** Ask them to set up a new Apple ID with your GSA
-  email address, or set one up for yourself and use Google Hangouts to send them
-  your password. (Never share passwords over email.)
-
-- Change the phone's passcode. The new code should be known only to you.
-
+- **Change the phone's passcode.** It must be longer than 14 characters and
+  contain both letters and numbers. The code should be known only to you.
 - **Activate
   [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If
   you're on an Android phone, activate
   [Android Device Manager](https://www.google.com/android/devicemanager).
-
 - **You are responsible for applying software updates.** When you receive a
   notification that an update is available, you should apply the update as soon
   as possible.
-
 - After GSA IT provisions your phone, set up two-factor verification:
+
   - If you don't have access to [HR
     Links]({% page "/getting-started/classes/gsa-internal-tools/#hr-links" %}),
     email [hspd12.security@gsa.gov](mailto:hspd12.security@gsa.gov) and ask them
@@ -180,30 +174,32 @@ activating your iPhone.
     these applications, you can use SMS, [Authy](https://www.authy.com/), or
     [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
+- **Only use Apple's default Mail app to access your GSA email.** You must
+  [generate an App Password](https://support.google.com/accounts/answer/185833?hl=en)
+  in your Google account to use with your Mail app, instead of your normal email
+  password.
+
 ### Tips
 
-- **You can use your phone to access your email.** You should be prompted to
-  sign in with your ENT username and password. Note that the GSA IT Service Desk
-  does not support this connection, so please do not ask them about it as they
-  will reject your request.
-- **[You can tether to your laptop to iPhone](https://support.apple.com/en-us/HT204023)**
+- **[You should tether to your laptop to the iPhone](https://support.apple.com/en-us/HT204023)**
   for internet access when you're on the go.
-- If you can't send email with your new work iPhone, create a new email and
+
+* If you can't send email with your new work iPhone, create a new email and
   check the From field. If it's a jumble of letters and numbers
   `@secure.mass360.com`, tap on it to change it to your `@gsa.gov` email
   address. Then go **Settings > Mail > Default Account > GSA Account** to switch
   the default address.
-- If you stop getting email on your phone and can't log into your account,
+* If you stop getting email on your phone and can't log into your account,
   [contact the Service
   Desk]({% page "/getting-started/classes/gsa-internal-tools/#it-service-desk" %}).
-- To reduce waste, GSA IT will
+* To reduce waste, GSA IT will
   [disable mobile service for inactive accounts](https://insite.gsa.gov/portal/content/663074).
   The consumed minutes is the metric used to determine activity, so if you only
   use the phone for data, you'll still need to make an occasional call on your
   mobile phone to prevent the account from going inactive.
-- If you need help with your phone, [contact the GSA IT Service
+* If you need help with your phone, [contact the GSA IT Service
   Desk]({% page "/getting-started/classes/gsa-internal-tools/#it-service-desk" %}).
-- For information on which mobile phones are available on GSA's current
+* For information on which mobile phones are available on GSA's current
   contract, employee discounts, voicemail setup, commonly used apps to install,
   mobile security, traveling with your smartphone, the GSA smartphone
   replacement process, and more, see

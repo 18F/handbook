@@ -14,7 +14,7 @@ primary:
       - text: Diversity, equity, inclusion, and accessibility
         url: about-us/deia/
         internal: true
-      - text: Code of Conduct
+      - text: Code of conduct
         url: about-us/code-of-conduct/
         internal: true
       - text: Org chart
@@ -31,18 +31,18 @@ primary:
     href: /#getting-started
     main-file-path: /getting-started/
     blurb: |
-      Here's what you probably want to know in your first weeks at TTS.
+      What to know during your first weeks at TTS.
     children:
       - text: Welcome
         url: getting-started/welcome-letter/
         internal: true
-      - text: Getting Started at TTS
+      - text: Getting started at TTS
         url: getting-started/
         internal: true
-      - text: TTS Classes for Onboarding
+      - text: TTS classes for onboarding
         url: getting-started/classes/
         internal: true
-      - text: Logging in &amp; Networks
+      - text: Logging in &amp; networks
         url: getting-started/how-to-log-in/
         internal: true
       - text: Equipment
@@ -54,12 +54,12 @@ primary:
       - text: Travel 101
         url: getting-started/classes/travel-101/
         internal: true
-  - text: Training & Development
+  - text: Training & travel
     topnavcondense: false
-    href: /#training-and-development
+    href: /#training-and-travel
     main-file-path: /training-and-development/
     blurb: |
-      Classes, coaching and ongoing professional development
+      How to grow and how to go!
     children:
       - text: Coaching, mentoring and professional development
         url: training-and-development/
@@ -93,12 +93,14 @@ primary:
       - text: TTS Career Progression Frameworks
         url: https://drive.google.com/drive/folders/12E7VbV7YhRfBp5fRdcjfpdVSLPPCyKHe
         internal: false
-  - text: Travel and leave
+      - text: Travel guide (table of contents)
+        url: travel-and-leave/travel-guide-table-of-contents/
+  - text: Leave
     topnavcondense: false
-    href: /#travel-and-leave
+    href: /#leave
     main-file-path: /travel-and-leave/
     blurb: |
-      Going somewhere? Here's what you need to know.
+      Learn about types of leave and how to request it.
     children:
       - text: Leave (HR Links)
         url: travel-and-leave/leave/
@@ -106,32 +108,32 @@ primary:
       - text: Out of office expectations
         url: travel-and-leave/leave/#leave-checklist
         internal: true
-      - text: Paid Parental Leave
+      - text: Paid parental leave
         url: travel-and-leave/leave/#paid-parental-leave
-        internal: true
-      - text: Travel guide (table of contents)
-        url: travel-and-leave/travel-guide-table-of-contents/
         internal: true
       - text: Voluntary Leave Transfer Program (VLTP)
         url: travel-and-leave/voluntary-leave-transfer-program/
         internal: true
-  - text: Supervisor Resources
+  - text: Supervisor resources
     href: /#supervisor-resources
     main-file-path: /supervisor-resources/
-    topnavcondense: false
+    topnavcondense: Performance & supervision
     blurb: |
       Tools and tips for supervisors.
     children:
-      - text: New Supervisor Playbook
+      - text: New supervisor playbook
         url: supervisor-resources/new-supervisor-playbook/
         internal: true
-      - text: TTS Supervisor Guide
+      - text: TTS supervisor guide
         url: https://docs.google.com/document/u/0/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit
         internal: false
-      - text: A Supervisor's Guide to Onboarding New Hires
+      - text: A supervisor's guide to onboarding new hires
         url: https://docs.google.com/document/d/1ow1VIwSzAGGzsBjGUZMlnLwK6kKTZWS_paGyIzfgpbE/edit
         internal: false
-  - text: Performance management
+  - text: Performance & supervision
+    subnav-alt: Performance management
+    sub:
+      - Supervisor resources
     topnavcondense: false
     href: /#performance-management
     main-file-path: /performance-management/
@@ -166,7 +168,7 @@ primary:
       Everything you need to know about getting a job at TTS,
       changing jobs at TTS, or leaving TTS.
     children:
-      - text: TTS Hiring Overview
+      - text: TTS hiring overview
         url: hiring-staying-or-changing-jobs/hiring/
         internal: true
       - text: TTSJobs
@@ -220,13 +222,13 @@ primary:
             internal: true
       - text: Diversity, equity, inclusion, and accessibility
         children:
-          - text: DEIA Resources
+          - text: DEIA resources
             url: general-information-and-resources/deia-resources/
             internal: true
-          - text: Inclusive Behaviors
+          - text: Inclusive behaviors
             url: general-information-and-resources/inclusive-behaviors/
             internal: true
-          - text: Inclusion Bot
+          - text: Inclusion bot
             url: general-information-and-resources/inclusion-bot/
             internal: true
       - text: TTS locations
@@ -279,7 +281,7 @@ primary:
           - text: Covid leave guidance
             url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
             internal: false
-          - text: Daily Check-in
+          - text: Daily check-in
             url: daily-checkin/
             internal: true
           - text: Emergency procedures
@@ -304,7 +306,7 @@ primary:
               - text: Procurements over $10,000
                 url: procurements-over-10000/
                 internal: true
-          - text: Resources for Deaf and Hard of Hearing individuals
+          - text: Resources for deaf and hard of hearing individuals
             url: deaf-hoh/
             internal: true
           - text: Moving and changing your address
@@ -313,12 +315,12 @@ primary:
           - text: Transit benefit
             url: transit-benefit/
             internal: true
-          - text: Within Grade Increases (opm.gov)
+          - text: Within grade increases (opm.gov)
             url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
             internal: false
       - text: Launching software
         children:
-          - text: Lifecycle of a Launch (ATOs, etc.)
+          - text: Lifecycle of a launch (ATOs, etc.)
             url: launching-software/lifecycle/
           - text: Security
             url: launching-software/security/
@@ -328,17 +330,17 @@ primary:
             url: launching-software/laws/
           - text: Privacy
             url: launching-software/privacy/
-  - text: TTS Offices
+  - text: TTS offices
     topnavcondense: About TTS
     href: /#tts-offices
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
     children:
-      - text: TTS Office of Operations
+      - text: TTS office of operations
         children:
-          - text: Business Operations
+          - text: Business operations
             children:
-              - text: Overview of Business Operations
+              - text: Overview of business operations
                 url: office-of-operations/bizops/
                 internal: true
               - text: Agreements
@@ -370,7 +372,7 @@ primary:
           - text: Overview of OA
             url: office-of-acquisition/
             internal: true
-          - text: Roles and Responsibilities
+          - text: Roles and responsibilities
             url: office-of-acquisition/roles-and-responsibilities
             internal: true
           - text: Contractors
@@ -403,7 +405,7 @@ primary:
               - text: One-on-ones
                 url: one-on-ones/
                 internal: true
-              - text: Performance Plan (FY22)
+              - text: Performance plan (FY22)
                 url: https://docs.google.com/document/d/1456ZSIOf6Pp6rcNCdKd82dwXOYv1sARxAwbVytxRXls
                 internal: false
               - text: Open source policy
@@ -467,14 +469,14 @@ primary:
                 internal: true
           - text: 18F team resources
             children:
-              - text: Leadership Selection Guide
+              - text: Leadership selection guide
                 url: leadership-selection/
-              - text: Leadership Candidate Guide
+              - text: Leadership candidate guide
                 url: leadership-candidate-guide/
               - text: Doing research at 18F
                 url: research-guidelines/
                 internal: true
-              - text: Accessing DoD Systems
+              - text: Accessing DoD systems
                 url: accessing-dod-systems/
                 internal: true
       - text: TTS Solutions
@@ -518,17 +520,17 @@ primary:
           - text: Overview of CoE
             url: centers-of-excellence/
             internal: true
-          - text: CoE Website
+          - text: CoE website
             url: https://coe.gsa.gov/
             internal: false
       - text: Presidential Innovation Fellows (PIF)
         children:
-          - text: PIF Website
+          - text: PIF website
             url: https://presidentialinnovationfellows.gov/
             internal: false
       - text: U.S. Digital Corps (USDC)
         children:
-          - text: USDC Website
+          - text: USDC website
             url: https://digitalcorps.gsa.gov/
             internal: false
   - text: Tools
