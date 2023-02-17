@@ -27,7 +27,7 @@ It may seem like A LOT to take in at first, but go at your own pace, ask
 questions, and feel free to follow up with the onboarding leads, your assigned
 onboarding buddy, or your supervisor at any point — we’re all happy to help.
 
-## Class Formats
+## Class formats
 
 We have varied the class format in order to best suit the content and your
 schedule. The formats include:
@@ -55,15 +55,15 @@ topics.
 
 ### Topics
 
-- [Our Values and Principles at
+- [Our values and principles at
   TTS]({% page "/getting-started/classes/#our-values-and-principles-at-tts" %})
 - [How we work]({% page "/getting-started/classes/#how-we-work" %})
-- [TTS Products and Service
-  Offerings]({% page "/getting-started/classes/#tts-products-and-service-offerings" %})
-- [TTS Resources and
-  Operations]({% page "/getting-started/classes/#tts-resources-and-operations" %})
-- [TTS Leadership]({% page "/getting-started/classes/#tts-leadership" %})
-- [18F Courses]({% page "/getting-started/classes/#18f-courses" %})
+- [TTS products and service
+  offerings]({% page "/getting-started/classes/#tts-products-and-service-offerings" %})
+- [TTS resources and
+  operations]({% page "/getting-started/classes/#tts-resources-and-operations" %})
+- [TTS leadership]({% page "/getting-started/classes/#tts-leadership" %})
+- [18F courses]({% page "/getting-started/classes/#18f-courses" %})
 
 ### Our values and principles at TTS
 
@@ -73,7 +73,7 @@ in TTS.
 | Name                                          | Description                                                                                                                                                                                          | Format           | Guidance | Resource(s)                                                                                                                                                                                                                    |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Working Groups and Guilds                     | An introduction to TTS’ Working Groups and Guilds, how to join, and ways to get involved.                                                                                                            | Self-guided      | Required | [Working Groups and Guilds Handbook page]({% page "/training-and-development/working-groups-and-guilds-101/" %})                                                                                                               |
-| Intro to the Diversity Guild and DEIA&B @ TTS | An introduction to the Diversity Guild and our DEIA&B initiatives.<br/><br/>_Course prerequisite_: The self-guided Working Groups and Guilds course should be taken prior to completing this course. | Video Conference | Required | [Intro to the Diversity Guild slidedeck](https://docs.google.com/presentation/d/17AW0VueV9FkAnlzm8mFwHc7lP85snbtbVKAiZrJVh1I/edit)<br/><br/>[Diversity Guild Slack channel](https://app.slack.com/client/T025AQGAN/C02DJFR0V/) |
+| Intro to the Diversity Guild and DEIA&B @ TTS | An introduction to the Diversity Guild and our DEIA&B initiatives.<br/><br/>_Course prerequisite_: The self-guided Working Groups and Guilds course should be taken prior to completing this course. | Video Conference | Required | [Diversity Guild Slack channel](https://app.slack.com/client/T025AQGAN/C02DJFR0V/) |
 | Accessibility 101                             | An introduction to the Accessibility Guild and accessibility as it relates to our work at TTS.                                                                                                       | Video Conference | Required | [Accessibility 101 slidedeck](https://docs.google.com/presentation/d/1AdOryFB99T64uQn7GFdIzkDz_RChFU6T9zGlgs-G3Fs/edit)<br/><br/>[Accessibility Guild Slack channel](https://gsa-tts.slack.com/archives/C02BT4H5Q)             |
 | Unconscious Bias                              | An overview of how to recognize bias, speak out about it, and respond when we make a mistake.                                                                                                        | Video Conference | Required | [Unconscious Bias slidedeck](https://docs.google.com/presentation/d/1igSISA6XarCgXqKhvaU1wzG-q_DY3-5KuqAeVxxW66s/edit)                                                                                                         |
 
@@ -88,20 +88,19 @@ our business operations.
 | Tock 101                                     | An overview of Tock and how we use it track work time.                                                                                      | Self-guided      | Required for 18F, Centers of Excellence, and cloud.gov <br/><br/> Recommended for Agreements and Finance | [Tock 101 Handbook page]({% page "/tools/tock/" %})                                                                                                                                                                                                        |
 | Intro to Agreements                          | An overview of the Agreements team and the TTS Agreements process.                                                                          | Video Conference | Recommended <br/><br/> _Note: this class is offered quarterly._                                          | [TTS Agreements Process](https://docs.google.com/presentation/d/1Zlsp5D3du5dp6wRYN4DFG6gQu5E1XEiUeNeEON6OyME/edit)<br/><br/>[Agreements Handbook page]({% page "/18f/how-18f-works/agreements/" %})                                                        |
 | Tech Portfolio                               | An introduction to the Tech Portfolio team, important compliance topics, and technology best practices at TTS.                              | Self-guided      | Recommended                                                                                              | [Tech Portfolio @ TTS Handbook page]({% page "/office-of-solutions/tech-portfolio/" %})                                                                                                                                                                    |
-| Intro to Human-Centered Design (HCD) & Agile | A discussion of Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work.                                             | Video Conference | Recommended                                                                                              | [HDC & Agile slidedeck](https://docs.google.com/presentation/d/1Ho0iFJUzxaE8M6__6eTGoDBfAANDAkQH-bQChraAk_Q/edit)                                                                                                                                          |
+| Intro to Human-Centered Design (HCD) & Agile | A discussion of Human-Centered Design (HCD) and Agile, and how they impact our day-to-day work.                                             | Video Conference | Recommended                                                                                              | [HCD & Agile slidedeck](https://docs.google.com/presentation/d/1Ho0iFJUzxaE8M6__6eTGoDBfAANDAkQH-bQChraAk_Q/edit)                                                                                                                                          |
 | Slack 101                                    | An overview of Slack and how we use it to communicate.                                                                                      | Self-guided      | Recommended                                                                                              | [Slack Handbook pages]({% page "/tools/slack/" %}) <br/><br/> [TTS Slack Channels list](https://docs.google.com/document/d/1HAcC0qU756AzeZ38iZOlosN98Xeppr2sJ9LXLOx0UbM/edit) <br/><br/> [Slack Tutorials](https://slack.com/help/categories/360000049063) |
 
-### TTS Products and Service Offerings
+### TTS products and service offerings
 
-These courses introduce you to TTS products and services as well as website
-compliance tools.
+These courses introduce you to TTS products and services as well as website compliance tools.
 
 | Name                                                   | Description                                                                                                                                                                               | Format           | Guidance    | Resource(s)                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TTS Offerings (Offices) Overview                       | An overview of TTS’ current product offerings and business units.                                                                                                                         | Self-guided      | Recommended | [TTS Offices Overview slidedeck](https://docs.google.com/document/d/1u58yAFWUeJxDu7X67KIzPCNiL_OCNLOhuzgO3cfRqyw/edit#) <br/><br/>[TTS Offerings: Products, Platforms, and Services List](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit#) |
-| Cloud.gov and Pages 101 (formerly known as Federalist) | An introduction to cloud.gov - a secure and compliant way to access cloud services - and cloud.gov Pages (formerly known as Federalist), a service that makes it easy to launch websites. | Video Conference | Recommended | [cloud.gov Pages 101 slidedeck](https://docs.google.com/presentation/d/10yBP1vcZrztcYTgU855dlQ55ajHaKlVWorJYdNzvzbA/edit) <br/><br/> [cloud.gov website](https://cloud.gov/docs/overview/what-is-cloudgov/)                                                                      |
+| TTS Offerings (Offices) Overview                       | An overview of TTS’ current product offerings and business units.                                                                                                                         | Self-guided      | Recommended | [TTS Offices Overview slidedeck](https://docs.google.com/presentation/d/17AlGTx_vdCUnsflG-1UFX2tHG9c7zv3a8g5Liu244bo/edit#) <br/><br/>[TTS Offerings: Products, Platforms, and Services List](https://docs.google.com/document/d/1vfBiQsprY1m8dG4tS_GeXkhG6ThF5ZqW9JKlDlvbWis/edit#) |
+| Cloud.gov and Pages 101 (formerly known as Federalist) | An introduction to cloud.gov - a secure and compliant way to access cloud services - and cloud.gov Pages (formerly known as Federalist), a service that makes it easy to launch websites. | Video Conference | Recommended | [cloud.gov Pages (Federalist) 101 slidedeck](https://docs.google.com/presentation/d/10yBP1vcZrztcYTgU855dlQ55ajHaKlVWorJYdNzvzbA/edit) <br/><br/> [cloud.gov website](https://cloud.gov/docs/overview/what-is-cloudgov/)                                                                      |
 
-### TTS Resources and Operations
+### TTS resources and operations
 
 These courses are designed to provide information about employee support
 resources, compliance obligations, and our internal operations.
@@ -109,14 +108,14 @@ resources, compliance obligations, and our internal operations.
 | Name                                                                  | Description                                                                                             | Format           | Guidance    | Resource(s)                                                                                                                                                                                                                            |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Intro to PeopleOps                                                    | Overview of the PeopleOps team and how they support TTS                                                 | Video Conference | Required    | [What is PeopleOps? slidedeck](https://docs.google.com/presentation/d/1uXx5fCX8a6oBY_RBrI4oe4raeH3yC2xy_O-aWabb7uc/edit#slide=id.p1)                                                                                                   |
-| HRLinks Training: Setting Up Your Base Schedule                       | An overview of how to set up a base schedule in HR Links to ensure proper payment of wages.             | Video Conference | Required    | [How to Manage Your Timesheet in HR Links slidedeck](https://docs.google.com/presentation/d/187pWF3CbLIUHeppN-x4BsRlCf4J9I5mDje6X4aXPgKc/edit)<br/><br/>[Time & Leave Help Guides](https://corporateapps.gsa.gov/hr-links/time-leave/) |
+| HR Links Training: Setting Up Your Base Schedule                       | An overview of how to set up a base schedule in HR Links to ensure proper payment of wages.             | Video Conference | Required    | [How to Manage Your Timesheet in HR Links slidedeck](https://docs.google.com/presentation/d/187pWF3CbLIUHeppN-x4BsRlCf4J9I5mDje6X4aXPgKc/edit)<br/><br/>[Time & Leave Help Guides](https://corporateapps.gsa.gov/hr-links/time-leave/) |
 | Continuity of Operations (COOP) Emergency Management Responsibilities | A discussion on how to plan for and respond to emergency notifications from GSA/TTS.                    | Video Conference | Required    | N/A                                                                                                                                                                                                                                    |
 | Travel 101                                                            | An overview of how to set up a travel account, how to book travel and get reimbursed.                   | Self-guided      | Recommended | [Travel 101 page]({% page "/travel-101/" %})                                                                                                                                                                                           |
 | GSA/TTS Tools and Equipment                                           | An overview on how to work with GSA’s tools and your GSA-issued equipment.                              | Self-guided      | Recommended | [GSA Operational Tools page]({% page "/gsa-internal-tools/" %})<br/><br/>[Equipment page]({% page "/equipment/" %}) <br/><br/>[GSA IT Training](https://insite.gsa.gov/employee-resources/information-technology/training)             |
 | Handbook 101                                                          | An overview of how to navigate the TTS Handbook.                                                        | Video Conference | Recommended | [TTS Handbook]({% page "/" %})                                                                                                                                                                                                         |
 | Compliance                                                            | An overview of important compliance topics including The Hatch Act, FOIA, Ethics, and the OGE 450 form. | Self-guided      | Recommended | [Hatch Act Overview doc](https://osc.gov/Documents/Outreach%20and%20Training/Posters/The%20Hatch%20Act%20and%20Most%20Federal%20Employees%20Poster.pdf)                                                                                |
 
-### TTS Leadership
+### TTS leadership
 
 An introduction to the TTS leadership team.
 
@@ -124,7 +123,7 @@ An introduction to the TTS leadership team.
 | ---------------------------------------- | ------------------------------------------------------------------- | ---------------- | -------- | ----------- |
 | TTS New Hire Leadership Meet & Greet/Q&A | A meet and greet with the TTS Executive Director and other leaders. | Video Conference | Required | N/A         |
 
-### 18F Courses
+### 18F courses
 
 These courses are designed for 18F staff, though the materials are open to all.
 _Please note, these classes are not listed on the main TTS Classes calendar._
@@ -135,7 +134,7 @@ _Please note, these classes are not listed on the main TTS Classes calendar._
 | Staffing                              | An introduction to how 18F team members get staffed to projects.                                              | Self-guided | Optional | [How Staffing Works Now video](https://drive.google.com/file/d/13j_wFY7ewvyEoPfK4p0gr9L2Bv1Q65yD/view?t=36m34s)                        |
 | Vendor transitions and sustainability | A sharing of lessons learned from vendor transitions and how to plan for sustainability throughout a project. | Self-guided | Optional | [Vendor Transition and Sustainability Planning video](https://drive.google.com/file/d/1dKlUVH7aVCyu7TI2oo413-CT2z4yln3J/view?t=23m30s) |
 
-## Online Learning University (OLU) Mandatory Training
+## Online Learning University (OLU) mandatory training
 
 See our [Online Learning University handbook page]({% page "/olu/" %}) for a
 list of mandatory annual training certifications.
@@ -144,7 +143,7 @@ We suggest logging in to OLU monthly to check whether you have any mandatory or
 suggested classes assigned to you. Please be aware that mandatory classes will
 have ‘due dates’ and must be completed on time.
 
-## Additional Resources
+## Additional resources
 
 If you have questions about the onboarding classes and/or training schedule,
 please reach out in your #newhire cohort channel (which you will be added to on
