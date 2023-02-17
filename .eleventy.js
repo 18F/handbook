@@ -118,9 +118,9 @@ module.exports = function (config) {
     link.startsWith("http") ? link : path.join(pathPrefix, link)
   );
 
-  // config.on("eleventy.after", async () => {
-  //   await postbuild();
-  // });
+  config.on("eleventy.after", async () => {
+    await postbuild();
+  });
 
   return {
     // Control which files Eleventy will process
