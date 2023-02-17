@@ -1,5 +1,5 @@
 ---
-title: Leaving TTS
+title: Offboarding & Leaving TTS
 tags:
   - quit
   - quitting
