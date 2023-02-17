@@ -71,7 +71,7 @@ You might not have much assigned work during your first two weeks here. That’s
 okay and expected. If you’ve gotten all the government onboarding items done and
 a project _still_ hasn’t landed, the design team has a list of internal projects
 that aren’t funded but that will help us all work better together. Talk to your
-design lead (more on that, below) to get more information about these internal
+supervisor to get more information about these internal
 projects and how you can get involved.
 
 ## Who we are
@@ -90,14 +90,7 @@ strategy, and user experience teams. Members of the Design team are active
 participants in the content and research
 [guilds]({% page "/working-groups-and-guilds-101" %}).
 
-As these teams have grown in size, we’ve introduced **leads** and
-**supervisors**. In your first week, you’ll be assigned a lead. Leads
-concentrate on project work while providing a first level of practical support
-and project advice to 2-3 people. Supervisors carry out most managerial
-responsibilities for their disciplines. They lead staffing, hiring, training,
-and project troubleshooting for their discipline. Leads and supervisors are
-selected through nominations and interviews according to team needs. These
-competitions will be announced ahead of time. More detail on
+Before starting at 18F, you will have been assigned a supervisor. Supervisors meet with you regularly and carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. More detail on
 [Design team roles and responsibilities](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4)
 is provided internally.
 
@@ -145,8 +138,8 @@ calendars.
   interest to the team. Past topics have included: how other chapters work, our
   collaborative work practices, and recent organizational changes within 18F or
   TTS.
-- **Once a week:** meet with your lead. Once a week, you’ll have a short
-  check-in with your Design lead at a time that’s convenient for both of you.
+- **Once a week/Every two weeks:** meet with your supervisor. You’ll have a short
+  check-in with your supervisor at a time that’s convenient for both of you.
   The purpose of this meeting is both administrative and personal. It’s how the
   team leadership keeps on top of project timelines and activities to coordinate
   resourcing. It’s also a time to talk through any project concerns, figure out
@@ -160,7 +153,7 @@ calendars.
 
 Here are some common tools we use, how we use them, and how you can get access
 to them. If you can’t find the information you need in the chart below, get in
-touch with your design lead; they’ll be able to point you in the right
+touch with your supervisor; they’ll be able to point you in the right
 direction.
 
 And one more thing: before you start using any new tool that asks for access to
@@ -197,7 +190,7 @@ Trello]({% page "/trello" %}) page.
 - **Analytics:** We recommend leveraging the
   [Digital Analytics Program](https://digital.gov/services/dap/) whenever
   possible. We augment DAP with site-specific Google analytics tracking. Ask
-  your lead or post in {% slack_channel "analytics" %} to ask to chat with
+  your supervisor or post in {% slack_channel "analytics" %} to ask to chat with
   someone to learn more.
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government
   employees outside 18F often can't access Google Forms on their work computers.
