@@ -67,14 +67,14 @@ topics.
 
 ### Our values and principles at TTS
 
-These courses introduce you to the values and principles that guide our behavior
+These courses introduce you to the values and principles that guide our decisions
 in TTS.
 
 | Name                                          | Description                                                                                                                                                                                          | Format           | Guidance | Resource(s)                                                                                                                                                                                                                    |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Working Groups and Guilds                     | An introduction to TTS’ Working Groups and Guilds, how to join, and ways to get involved.                                                                                                            | Self-guided      | Required | [Working Groups and Guilds Handbook page]({% page "/training-and-development/working-groups-and-guilds-101/" %})                                                                                                               |
-| Intro to the Diversity Guild and DEIA&B @ TTS | An introduction to the Diversity Guild and our DEIA&B initiatives.<br/><br/>_Course prerequisite_: The self-guided Working Groups and Guilds course should be taken prior to completing this course. | Video Conference | Required | [Diversity Guild Slack channel](https://app.slack.com/client/T025AQGAN/C02DJFR0V/) |
 | Accessibility 101                             | An introduction to the Accessibility Guild and accessibility as it relates to our work at TTS.                                                                                                       | Video Conference | Required | [Accessibility 101 slidedeck](https://docs.google.com/presentation/d/1AdOryFB99T64uQn7GFdIzkDz_RChFU6T9zGlgs-G3Fs/edit)<br/><br/>[Accessibility Guild Slack channel](https://gsa-tts.slack.com/archives/C02BT4H5Q)             |
+| Intro to the Diversity Guild and DEIA&B @ TTS | An introduction to the Diversity Guild and our DEIA&B initiatives.| Video Conference | Required | [Diversity Guild Slack channel](https://app.slack.com/client/T025AQGAN/C02DJFR0V/) |
 | Unconscious Bias                              | An overview of how to recognize bias, speak out about it, and respond when we make a mistake.                                                                                                        | Video Conference | Required | [Unconscious Bias slidedeck](https://docs.google.com/presentation/d/1igSISA6XarCgXqKhvaU1wzG-q_DY3-5KuqAeVxxW66s/edit)                                                                                                         |
 
 ### How we work
