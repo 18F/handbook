@@ -14,8 +14,8 @@ This page contains links to all TTS hiring resources.
 
 ## TTS Open Positions
 
-The [TTSJobs Handbook page]({% page "/ttsjobs" %}) lists all open hiring actions
-across TTS.
+The \[TTSJobs Handbook page]({% page "/ttsjobs" %}) lists all open hiring
+actions across TTS.
 
 ## TTS Hiring Managers Guide
 
@@ -39,15 +39,14 @@ Below are some resources that cover expectations around interviews, best
 practices for remote interviewing and Slack usage, and tips for recognizing and
 correcting for unconscious bias.
 
-- [TTS Interviewer Training slides](https://docs.google.com/presentation/d/1IvFawhU2lUPIQexUgCgCcRgxjaD5D9BGnRJYkAyM3JY/edit#slide=id.g6d9ab3b2cf_0_404)
+- [TTS Interview Prep Session slides](https://docs.google.com/presentation/d/17ZNmfN40kPOUlF5e6Xix7UlUH02gKQAkY23MhQusPxw/edit#slide=id.p1)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
-- [Fair & Equitable Hiring
-  Practices]({% page "/fair-and-equitable-hiring-practices" %})
+- [Fair & Equitable Hiring Practices](https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/fair-and-equitable-hiring-practices)
 
 ## Promotions
 
 "Promotions" in the traditional, private sector sense do not exist within the
-federal government. The [Promotions Handbook page]({% page "/promotions" %})
+federal government. The \[Promotions Handbook page]({% page "/promotions" %})
 explains Merit Promotions for both Competitive Service (Career) and Excepted
 Service positions.
 
@@ -72,12 +71,12 @@ of how hiring actions are prioritized and managed across TTS, read the
 ### Hiring Authorities
 
 Once a need has been identified and the role has been prioritized, TTS uses many
-[hiring authorities]({% page "/hiring-authorities" %}) available within the
+\[hiring authorities]({% page "/hiring-authorities" %}) available within the
 federal government.
 
 ### Internal Hiring and Details
 
-All [internal opportunities]({% page "/assignee-detail" %}) within TTS,
-including details, must be openly shared and competed. [Details within
-GSA]({% page "/gsa-details" %}) and [details with other
+All \[internal opportunities]({% page "/assignee-detail" %}) within TTS,
+including details, must be openly shared and competed. \[Details within
+GSA]({% page "/gsa-details" %}) and \[details with other
 agencies]({% page "/external-details" %}) require additional considerations.
