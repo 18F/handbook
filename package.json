@@ -15,7 +15,6 @@
     "dev:assets": "npm run assets:refresh && npm run assets:watch",
     "dev:debug": "DEBUG=* npx @11ty/eleventy --serve --watch",
     "dev:serve": "npx @11ty/eleventy --serve --watch",
-    "dev:cms": "npx netlify-cms-proxy-server",
     "federalist": "npm run build",
     "lint": "prettier -w .",
     "serve": "npx @11ty/eleventy --serve",

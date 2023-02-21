@@ -78,7 +78,7 @@ type of content you're creating -- for example, if you're documenting a new tool
 
 Now, assuming you've identified what you want to contribute -- if you haven't,
 check out the Handbook's [open issues](https://github.com/18F/handbook/issues)
--- let's talk about the mechanism by which you'll contribute: NetlifyCMS or Git.
+-- let's talk about GitHub, the mechanism by which you'll contribute.
 
 ## Helpers and shortcuts
 
@@ -215,26 +215,6 @@ complicated.
 - You can continue to edit files from your branch and they will be added to your
   pull request.
 
-## Contributing via Netlify (not recommended)
-
-Netlify is a content management system (CMS) that is intended to make it easier
-to keep the Handbook updated. It includes a rich text editor so you can edit
-content without necessarily having to write any Markdown yourself.
-
-{% capture alert_content %} In our experience, it is often more difficult to use
-Netlify because of how it works under the hood, including some formatting
-decisions that can break the content. If you choose to use Netlify to make
-edits, please be sure to review its changes in GitHub afterwards to ensure it
-did not auto-format anything incorrectly. {% endcapture %}
-{% include "alert.html" heading:"" content:alert_content %}
-
-You will need a [GitHub account](https://github.com/signup) and a cloud.gov
-account in order to use Netlify. Once you have both, you will need to [get
-access to Pages]({% page "/tools/federalist" %}).
-
-Once those are setup, you can access Netlify via [the Handbook content
-manager]({% page "/admin" %}).
-
 ## Other
 
 Random technical details:
@@ -307,26 +287,6 @@ merged, please add a comment letting reviewers know!
 
 If you're not sure, ask for a second opinion in
 {% slack_channel "tts-handbook" %} first.
-
-**If you're reviewing a pull request made using NetlifyCMS**
-
-Pull requests made using NetlifyCMS should only be reviewed when the label is
-changed from `netlify-cms/draft` to `netlify-cms/pending_review` or
-`netlify-cms/pending_publish`.
-
-### Using repo specific labels
-
-- _do not merge yet:_ Delay merging this pull request until the label has been
-  removed
-- _help wanted:_ Need additional assistance
-- _In progress:_ Currently being worked on
-- _info is incorrect/outdated:_ The current information that is there needs
-  tending to
-- _new content needed:_ There is information that is not present that should
-  exist
-- _<2 hours:_ Easy peazy, lemon squeezy
-- _2-4 hours:_ Hold my callz
-- _\>4 hours:_ Ooph, its a doozy!
 
 ## Content and accessibility
 

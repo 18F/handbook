@@ -75,9 +75,6 @@ const run = async () => {
       })
       .get()
       .filter((url) => /^[#\/]/.test(url))
-      // The /admin/ page is populated dynamically by Netlify, so those links
-      // are never "there" at build time. Don't test for them.
-      .filter((url) => !/\/admin\//i.test(url))
       // Filter out /#top anchor since that is rendered by the browser
       .filter((url) => !/#top/i.test(url));
 
