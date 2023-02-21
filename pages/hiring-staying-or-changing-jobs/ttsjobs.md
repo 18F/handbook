@@ -46,8 +46,8 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-{% if jobs.public.length > 0 %}
-{% for post in jobs.public %}{% include "job-posting.md" post:post %}
+{% assign jobs = jobs | openJobs %} {% if jobs.length > 0 %}
+{% for post in jobs %}{% include "job-posting.md" post:post %}
 {% endfor %}{% else %}We will post new opportunities as they become available
 {% endif %}
 
