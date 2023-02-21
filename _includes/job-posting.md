@@ -4,6 +4,6 @@
 [{{ post.title }}]({{ post.url }})
 {%- else -%}
 {{ post.title }}
-{%- endif -%} - {{ post.text }}
+{%- endif -%}&nbsp;- {{ post.text }}
 
 <!-- prettier-ignore-end -->
