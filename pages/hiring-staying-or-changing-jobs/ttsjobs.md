@@ -20,17 +20,16 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-
 This page serves as a central listing for:
 
-- TTS Internal competitions (e.g. directors, supervisors) and developmental
+* TTS Internal competitions (e.g. directors, supervisors) and developmental
   opportunities (e.g. details, leads) within TTS
-- Hiring actions using the Excepted Service version of the Merit Promotion
+* Hiring actions using the Excepted Service version of the Merit Promotion
   Process
-- Links to USAJobs Announcements for hiring actions using the Competitive
+* Links to USAJobs Announcements for hiring actions using the Competitive
   Service (Career) Merit Promotion Process
-- Links to Excepted Service job announcements posted on the TTS Join site
-- Links to external technology career opportunities with federal, state, and
+* Links to Excepted Service job announcements posted on the TTS Join site
+* Links to external technology career opportunities with federal, state, and
   local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page,
@@ -46,9 +45,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-[US Digital Corps Deputy Director GS-15](https://join.tts.gsa.gov/join/usdc-deputy-director/)
-Open Wednesday, February 15 through Wednesday, February 22 OR 250
-applications have been received.
+We will be sharing open opportunities as they become available.
 
 ### Internal only opportunities
 
@@ -78,7 +75,7 @@ require to further facilitate their technical transformation.
 
 **Various Federal Agencies**
 
----
+- - -
 
 ### Still have questions?
 
