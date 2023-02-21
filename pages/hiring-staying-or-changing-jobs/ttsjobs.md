@@ -53,7 +53,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Internal only opportunities
 
-We will post new opportunities as they become available.
+We will be sharing open opportunities as they become available.
 
 ## Opportunities with partners
 
