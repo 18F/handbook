@@ -49,7 +49,7 @@ We will be sharing open opportunities as they become available.
 
 ### Internal only opportunities
 
-We will be sharing open opportunities as they become available.
+[18F Acting Chief of Delivery Detai](https://docs.google.com/document/d/1ljDhE2uFF-8GEYiS8RMoR3C_IQYY__DB6V07kAjb9SI/edit?usp=sharing)l- Open 02/21/2023-03/03/2023
 
 ## Opportunities with partners
 
