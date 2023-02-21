@@ -53,10 +53,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Internal only opportunities
 
-{% if jobs.internal.length > 0 %}
-{% for post in jobs.internal %}{% include "job-posting.md" post:post %}
-{% endfor %}{% else %}We will post new opportunities as they become available
-{% endif %}
+We will post new opportunities as they become available.
 
 ## Opportunities with partners
 

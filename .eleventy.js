@@ -95,16 +95,6 @@ module.exports = function (config) {
     pathPrefix = process.env.BASEURL;
   }
 
-  config.addFilter("fullDate", (dateObj) =>
-    luxon.DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("EEEE, MMMM d")
-  );
-  config.addFilter("trim", (str) => str.trim());
-
-  config.addFilter("push", (arr, item) => {
-    arr.push(item);
-    return arr;
-  });
-
   config.addFilter("openJobs", (jobs) =>
     jobs.filter(({ status }) => status === "open")
   );
