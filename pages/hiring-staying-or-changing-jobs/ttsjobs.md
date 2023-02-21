@@ -49,7 +49,7 @@ We will be sharing open opportunities as they become available.
 
 ### Internal only opportunities
 
-[18F Acting Chief of Delivery Detai](https://docs.google.com/document/d/1ljDhE2uFF-8GEYiS8RMoR3C_IQYY__DB6V07kAjb9SI/edit?usp=sharing)l- Open Tuesday, February 21st through Friday, March 3rd 
+[18F Acting Chief of Delivery Detail](https://docs.google.com/document/d/1ljDhE2uFF-8GEYiS8RMoR3C_IQYY__DB6V07kAjb9SI/edit?usp=sharing)- Open Tuesday, February 21st through Friday, March 3rd 
 
 ## Opportunities with partners
 
