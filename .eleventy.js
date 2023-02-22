@@ -94,6 +94,10 @@ module.exports = function (config) {
     pathPrefix = process.env.BASEURL;
   }
 
+  config.addFilter("openJobs", (jobs) =>
+    jobs.filter(({ status }) => status === "open")
+  );
+
   // Set image shortcodes
   config.addLiquidShortcode("download", downloadShortCode);
   config.addLiquidShortcode("image", imageShortcode);
