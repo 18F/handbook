@@ -25,23 +25,24 @@
           </div>
           {% elsif subitemsSize > 6 %}
           <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
-          <div class="grid-row grid-gap-4">
-            <div class="usa-col">
-            <ul class="usa-nav__submenu-list">
-              {% for index in (1..subitemsSize) %}
-              {% assign divthree = forloop.index0 | modulo: 3 %}
-                {% if divthree == 0 and index != subitemsSize and forloop.index0 > 0 %}
-                  </ul>
-                  </div>
-                  <div class="usa-col">
-                    <ul class="usa-nav__submenu-list">
-                {% endif%}
-                <li class="usa-nav__submenu-item">
-                  {% assign suburl = item.children[forloop.index0].url %}
-                  <a href="{% link suburl %}"><span>{{ item.children[forloop.index0].text }}</span></a>
-                </li>
-              {% endfor %}
-              </ul>
+            <div class="grid-row grid-gap-4">
+              <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                {% for index in (1..subitemsSize) %}
+                {% assign divthree = forloop.index0 | modulo: 3 %}
+                  {% if divthree == 0 and index != subitemsSize and forloop.index0 > 0 %}
+                    </ul>
+                    </div>
+                    <div class="usa-col">
+                      <ul class="usa-nav__submenu-list">
+                  {% endif%}
+                  <li class="usa-nav__submenu-item">
+                    {% assign suburl = item.children[forloop.index0].url %}
+                    <a href="{% link suburl %}"><span>{{ item.children[forloop.index0].text }}</span></a>
+                  </li>
+                {% endfor %}
+                </ul>
+              </div>
             </div>
           </div>
           {% else %} 

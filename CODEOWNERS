@@ -26,6 +26,7 @@ CODEOWNERS                                                                @18F/h
 pages/office-of-operations/outreach.md                                   @18F/outreach
 pages/office-of-operations/blogging.md                                   @18F/outreach
 pages/office-of-operations/talent.md                                     @18F/team-talent
+_data/jobs.json                                                          @18F/team-talent
 
 ## Office of Acquisition
 pages/office-of-acquisition/*                                            @18F/tts-office-of-acqusition

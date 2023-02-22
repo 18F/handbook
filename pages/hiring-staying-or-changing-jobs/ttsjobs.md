@@ -20,16 +20,17 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
+
 This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental
+- TTS Internal competitions (e.g. directors, supervisors) and developmental
   opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion
+- Hiring actions using the Excepted Service version of the Merit Promotion
   Process
-* Links to USAJobs Announcements for hiring actions using the Competitive
+- Links to USAJobs Announcements for hiring actions using the Competitive
   Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and
+- Links to Excepted Service job announcements posted on the TTS Join site
+- Links to external technology career opportunities with federal, state, and
   local government agencies
 
 If you’d like to be notified when new opportunities are listed on this page,
@@ -45,11 +46,14 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Opportunities open to the public
 
-We will be sharing open opportunities as they become available.
+{% assign jobs = jobs | openJobs %} {% if jobs.length > 0 %}
+{% for post in jobs %}{% include "job-posting.md" post:post %}
+{% endfor %}{% else %}We will post new opportunities as they become available.
+{% endif %}
 
 ### Internal only opportunities
 
-We will be sharing open opportunities as they become available.
+[18F Acting Chief of Delivery Detail](https://docs.google.com/document/d/1ljDhE2uFF-8GEYiS8RMoR3C_IQYY__DB6V07kAjb9SI/edit?usp=sharing)- Open Tuesday, February 21st through Friday, March 3rd 
 
 ## Opportunities with partners
 
@@ -75,7 +79,7 @@ require to further facilitate their technical transformation.
 
 **Various Federal Agencies**
 
-- - -
+---
 
 ### Still have questions?
 
