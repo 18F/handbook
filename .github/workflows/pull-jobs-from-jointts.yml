@@ -1,18 +1,12 @@
 name: pull jobs from JoinTTS
 
 on:
-  # Fetch jobs nightly because the JoinTTS site rebuilds shortly after midnight
-  # to un-publish jobs that have closed. Once that site is rebuilt, we should
-  # pull the most recent jobs data to update the Handbook.
+  # Fetch jobs every hour. JoinTTS auto-rebuilds nightly and updates its static
+  # API based on the opens/closes dates of posted positions. The Talent team may
+  # also manually update jobs during the course of the day. Fetching jobs every
+  # hour keeps the Handbook reasonably close to the JoinTTS site.
   schedule:
-    # 1000 UTC will always be after midnight ET.
-    - cron: 0 10 * * *
-  
-  # We also want to provide a way to update jobs data on-demand. Listening for
-  # repository dispatch events lets us do that. The JoinTTS site has a companion
-  # workflow that uses the GitHub API to create a repository dispatch event.
-  repository_dispatch:
-    types: [update-jobs-data]
+    - cron: 0 * * * *
 
 jobs:
   pull:
