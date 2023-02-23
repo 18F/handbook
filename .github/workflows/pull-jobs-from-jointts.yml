@@ -1,0 +1,57 @@
+name: pull jobs from JoinTTS
+
+on:
+  push:
+    branches:
+      - pull-jobs-data
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      # Rather than use a personal access token to interact with the project, we
+      # can use this GitHub App. There's an API for exchanging app credentials
+      # for a short-term token, and we use that API here.
+      - name: get token
+        uses: tibdex/github-app-token@v1
+        id: app_token
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          installation_id: ${{ secrets.APP_INSTALLATION_ID }}
+          private_key: ${{ secrets.APP_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ steps.app_token.outputs.token }}
+      
+      - name: fetch jobs data from JoinTTS
+        run: curl https://join.tts.gsa.gov/jobs.json -o _data/jobs.json
+
+      - name: check if changes have been made
+        id: diff
+        run: |
+          cd .HANDBOOK
+          if [[ `git status --porcelain` ]]
+          then
+            echo "has_diff=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - if: steps.diff.outputs.has_diff == 'true'
+        name: update the handbook
+        env:
+          GH_TOKEN: ${{ steps.app_token.outputs.token }}
+        run: |
+          git config --global user.email "bot@tts.gsa.gov"
+          git config --global user.name "TTSJobs → Handbook Sync"
+
+          git checkout -b job-sync/auto
+          git add _data/jobs.json
+          git commit -m "syncing jobs from TTSJobs"
+          git push -f origin job-sync/auto
+          
+          echo -e "This pull request was created automatically to synchronize the Handbook TTSJobs page with join.tts.gsa.gov. This PR will merge automatically once it has been reviewed and approved." > PR_BODY
+          gh pr create \
+            --title "🔁 Synchronize jobs from TTSJobs" \
+            --label "TTS Jobs" \
+            --body-file PR_BODY || true
+          gh pr merge --auto --squash
