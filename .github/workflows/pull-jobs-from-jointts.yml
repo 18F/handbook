@@ -30,7 +30,6 @@ jobs:
       - name: check if changes have been made
         id: diff
         run: |
-          cd .HANDBOOK
           if [[ `git status --porcelain` ]]
           then
             echo "has_diff=true" >> "$GITHUB_OUTPUT"
