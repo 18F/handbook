@@ -61,8 +61,7 @@ does not apply, and these roles must be posted on USAJobs.
 Currently, GSA has the authority to hire IT Specialists in the 2210 series via
 DHA with two options:
 
-* IT Specialist: term limited to a maximum of 8 years (3 year term that can be
-  extended for another 3 years, and then extended for another 2 years)
+* IT Specialist: term limited to a maximum of 8 years. Initial appointments are made lasting longer than 1 year, but not to exceed 4 years. GSA, may extend an appointment up to 4 additional years. No individual hired under this DHA can serve in excess of 8 years with GSA, and cannot be transferred to positions that are not IT positions.
 * IT Specialist - Information Security (INFOSEC): term limited or permanent.
   There is no expiration date on this DHA.
 
