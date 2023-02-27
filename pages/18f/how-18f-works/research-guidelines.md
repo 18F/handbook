@@ -137,12 +137,12 @@ participants via digital/e-gift or physical gift cards through
 [purchase card request](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
 The total amount of the purchase must be under $10,000 per project.
 
-For more information, see \[how do I complete a micropurchase
+For more information, see [how do I complete a micropurchase
 request?]({%page "/office-of-acquisition/#how-do-i-complete-a-micropurchase" %})
 in the handbook.
 
 **Use usertesting.com:** Teams can also use usertesting.com, if that’s
-applicable. [ There are instructions available on how to use usertesting.com for research](https://docs.google.com/document/d/1zJuzKW1txg73ukZlFF37vp5RRhf-iR0r2QZzs0-MXY8/edit).  Access to usertesting.com varies by business unit. Consult your supervisor or manager to see if your team is able to use this service. 
+applicable. [There are instructions available on how to use usertesting.com for research](https://docs.google.com/document/d/1zJuzKW1txg73ukZlFF37vp5RRhf-iR0r2QZzs0-MXY8/edit).  Access to usertesting.com varies by business unit. Consult your supervisor or manager to see if your team is able to use this service. 
 
 ### Step-by-step checklist for compensating participants
 
@@ -177,7 +177,7 @@ combination with a first name, often become PII. Photos of people's faces are
 almost always PII, and that's why we always ask before taking photos and get
 explicit statements about if we can share them.
 
-\[Sensitive PII]({% page "/launching-software/privacy/" %}) is information
+[Sensitive PII]({% page "/launching-software/privacy/" %}) is information
 which, if shared, could seriously harm or embarrass someone. Unique identifying
 numbers and biometric data is always sensitive: In general, combining:
 
@@ -225,7 +225,7 @@ documents with PII, they always go into a locked file cabinet.
 
 A good rule is to check with your project lead before sharing information
 outside the immediate team. What has been approved by GSA may not be approved by
-partners. Check the Appendix in \[Design page]({% page "/design/" %}) for
+partners. Check the Appendix on the [Design page]({% page "/design/#appendix" %}) for
 detailed information about who can see what, when. The social media,
 collaboration, and security classes in GSA's Online University can also be
 helpful in managing access.
@@ -246,11 +246,11 @@ or
 narrated by the GSA Privacy Office.
 
 **Bottom line: If you have questions about sharing information, just ask.** See
-the page on \[sensitive information]({% page "/sensitive-information/" %}). If
+the page on [sensitive information]({% page "/sensitive-information/" %}). If
 you're not sure if you're collecting PII or need help with policy guidance, you
 can ask on Slack in {% slack_channel "#g-research" %}. If you are not sure where
 the right place might be to store any given file, or what access permissions to
-grant, you can \[ask the Tech
+grant, you can [ask the Tech
 Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
 
 ## Join the research guild!
