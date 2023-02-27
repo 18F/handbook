@@ -28,7 +28,7 @@ We recognize that there is a plethora of information provided during onboarding.
 
 ## TTS Handbook
 
-As a TTS employee, you’ll spend quite a bit of time with the [TTS Handbook]({% page "/" %}). It’s filled with useful information that we update regularly — and you can help update it, too! You’ll learn more when you attend the [Handbook 101 onboarding class]({% page "/getting-started/classes/#tts-resources-and-operations/" %}), and you can join the [Handbook Slack channel](https://gsa-tts.slack.com/archives/C0DCAMLQH).
+As a TTS employee, you’ll spend quite a bit of time with the [TTS Handbook]({% page "/" %}). It’s filled with useful information that we update regularly — and you can help update it, too! You’ll learn more when you attend the [Handbook 101 onboarding class]({% page "/getting-started/classes/" %}), and you can join the [Handbook Slack channel](https://gsa-tts.slack.com/archives/C0DCAMLQH).
 
 ## Diversity, Equity, Inclusion, Accessibility, & Belonging at TTS
 TTS strives to thoughtfully and intentionally represent the broad American populace we serve. We believe in inclusive design — creating products and environments that are accessible to all people, regardless of age, disability, or other factors. We also strive to be intentional when interacting with one another and with our partners.
@@ -58,7 +58,7 @@ At TTS, collaboration is a part of our culture. Here are the collaboration tools
 Here are some ways we disseminate information to shape our organizational outcomes, which helps us strengthen processes/practices:
 - **TTS Newsletters**: We also provide monthly updates to TTS employees by way of newsletters. Here is an [example OneTTS Newsletter](https://docs.google.com/document/d/14vvYbyFy7NY-MKS_vmBAOZPxWm-L5LHSwbZhXGym_lY/edit).
 - **Internal communications campaigns**: We have a variety of internal comms campaigns that TTS Outreach uses to circulate messages throughout the organization. Each [campaign has its own deck](https://docs.google.com/presentation/d/1GZzPs-Yy61HmsXpYb1EudHalzfHO3CceqHAfpYH4kLc/edit#slide=id.p) with a record of all messages.
-- **Surveys and polls**: These methods allow us to obtain detailed information and feedback from our internal employees. [Google Forms]({% page "/tools/google-drive/#google-form-tips/" %}) is a common method we use to elicit feedback at TTS. You can check out [detailed training videos on GSA Insite](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-workspace/google-forms-training).
+- **Surveys and polls**: These methods allow us to obtain detailed information and feedback from our internal employees. Google Forms is a common method we use to elicit feedback at TTS. You can check out [detailed training videos on GSA Insite](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-workspace/google-forms-training).
 - **Virtual coffee**: A [virtual coffee chat](https://docs.google.com/document/d/1wjIjmzXhDCTU6aJZHADndIPksQgvderQbqyGA2q7EzA/edit#) is a casual 1:1, 20-30 minute video meeting that is usually used as a “Meet & Greet” introduction for employees to connect with members of their team (or other teams throughout TTS).
 
 ## Get Involved
