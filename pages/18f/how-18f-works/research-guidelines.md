@@ -83,35 +83,35 @@ that we do not contact them in the future.
 
 ### Background
 
-Compensation of research participants has been a long standing issue for teams at TTS. Our teams tried different methods and types of compensation over the years, but conflicts with appropriations and regulations laws and practices made it difficult or impossible to compensate participants. So until relatively recently, we could conduct user research, but only with participants who were willing to donate their time. 
+Compensation of research participants has been a long-standing issue for teams at TTS. Although we've investigated a variety of compensation methods over the years, conflicts with laws and practices related to appropriations and regulations made it difficult or impossible to compensate participants. Until relatively recently, we could conduct user research, but only with participants who were willing to donate their time.
 
-Fortunately, we made a lot of progress, and now have an approved process to compensate research participants.  We will continue to update this page as we streamline and refine our practices.
+Fortunately, we now have an approved process to compensate research participants.  We'll continue to update this page as we streamline and refine our practices.
 
 
 ### Should I compensate research participants?
 
-In general, if you are conducting research with members of the public, you should compensate them for their time and expertise. 
-Offering compensation is critical to reaching the people most in need of government services, because without it, we are likely to hear only from the people who can afford to volunteer their time. Compensation makes it easier to recruit participants, especially from underserved communities, and helps build trust that their input is valuable. 
+In general, if you're conducting research with members of the public, you should compensate them for their time and expertise.
+Offering compensation is critical to reaching the people most in need of government services. Without compensation, we're likely to hear only from the people who can afford to volunteer their time. Compensation makes it easier to recruit participants, especially from underserved communities, and helps build trust that their input is valued.
 
 
-### What should I do if I cannot compensate participants? 
+### What should I do if I cannot compensate participants?
 If you can’t provide compensation, There are other ways to recognize the value of participants’ knowledge and experience. These can include:
 - Resources or  additional information on the topic
 - Offer to find out answers to questions they may have
 - Sharing outcomes of the research, and how the research impacted the final product
 
 
-### What process do I need to follow? 
-TTS User Research Participant Compensation Justification Checklist: Each project team must document their need to compensate user research participants by filling in a [User Research Participant Compensation Justification Checklist template](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit). Teams can use this [sample justification](https://docs.google.com/document/d/1dNxmqlvtTwFbVBnypsVqA4rU2aNS1oXA1k4tmWLSwUw/edit#heading=h.qgqf6gne4pg0) for reference. 
+### What process do I need to follow?
+TTS User Research Participant Compensation Justification Checklist: Each project team must document their need to compensate user research participants by filling in a [User Research Participant Compensation Justification Checklist template](https://docs.google.com/document/d/15SxB0JCi-OvTD2lLokkuixb9sWuu1i2v-K8wGhPqcno/edit). Teams can use this [sample justification](https://docs.google.com/document/d/1dNxmqlvtTwFbVBnypsVqA4rU2aNS1oXA1k4tmWLSwUw/edit#heading=h.qgqf6gne4pg0) for reference.
 
-Teams do not need to submit this justification, but they must keep a copy in the [user research compensation justifications folder](https://drive.google.com/drive/folders/0AGmTTInlTCCQUk9PVA). These are part of the expected authorization process because OGC wants this information for clarity on the justified need. It’s helpful to have this in case there is a question of compensation later on. 
+Teams don't need to submit this justification, but they must keep a copy in the [user research compensation justifications folder](https://drive.google.com/drive/folders/0AGmTTInlTCCQUk9PVA). This is part of the expected authorization process so OGC can confirm that we are consistently basing a decision to provide compensation according to the guidance Counsel has provided. The documentation is also necessary in case there is a future question about a decision to offer compensation.
 
 The justification answers the following questions:
 - Does this work directly advance GSA’s or the client’s statutory mission and objectives?
 - Does the benefit to the government outweigh the benefit to the individual?
 - Has the agency attempted to accomplish its goals through means other than paid user research?
 
-Interagency Agreement (IAA) Attachment B - User Research Compensation Authorization: If your project has an Interagency Agreement (IAA), it must include an [Interagency Agreement (IAA) Attachment B - User Research Compensation Authorization](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY/edit). If it does  not, work with your account manager to get it signed by an authorized official at the partner agency.
+Interagency Agreement (IAA) Attachment B - User Research Compensation Authorization: If your project has an Interagency Agreement (IAA), the IAA must include an [Interagency Agreement (IAA) Attachment B - User Research Compensation Authorization](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY/edit). If Attachment B is not part of the IAA, work with your account manager to get it signed by an authorized official at the partner agency.
 
 In the agreement, the partner’s OGC will need to provide TTS a concurrence that “the benefit accruing to [the requesting agency] in obtaining this feedback outweighs the personal nature of this expense. [The requesting agency] has also determined that the feedback from this user research will directly advance the statutory mission and objectives of [the requesting agency]."
 
@@ -119,11 +119,11 @@ In the agreement, the partner’s OGC will need to provide TTS a concurrence tha
 
 While TTS is working to standardized base rates, the IAA
 [Attachment B - User Research Compensation Authorization](https://docs.google.com/document/d/1ehb3W14_eEo8DdHjU0bCeyzG_t8I__7VyLV_cU4ZmQY)
-sets a rate of $75 an hour for moderated research sessions. 
+sets a rate of $75 an hour for moderated research sessions.
 
 From 2020 research on third-party recruiters, the median range was between $50 to $70 per person per hour (this does not account for recruiting expenses an organization might incur). Recruitment and support averaged about $125 per participant, which means that the total cost for a moderated session would be about $195 per person.
 
-In 2022, TTS considers $75/hour as a starting point for compensation. Teams should consider factors of equity and complexity of the research when determining compensation for user research on their project.
+In 2022, TTS considers $75/hour as a starting point for compensation. Teams should consider factors of equity and complexity of the research when determining compensation for participants on their project.
 
 
 ### How do I actually distribute the compensation to research participants?
@@ -142,9 +142,7 @@ request?]({%page "/office-of-acquisition/#how-do-i-complete-a-micropurchase" %})
 in the handbook.
 
 **Use usertesting.com:** Teams can also use usertesting.com, if that’s
-applicable. TTS currently has a no cost agreement for that service (with help
-from a third party vendor)
-[ There are instructions available on how to use usertesting.com for research](https://docs.google.com/document/d/1zJuzKW1txg73ukZlFF37vp5RRhf-iR0r2QZzs0-MXY8/edit).  Access to usertesting.com varies by business unit. Consult your supervisor or manager to see if your team is able to use this service. 
+applicable. [ There are instructions available on how to use usertesting.com for research](https://docs.google.com/document/d/1zJuzKW1txg73ukZlFF37vp5RRhf-iR0r2QZzs0-MXY8/edit).  Access to usertesting.com varies by business unit. Consult your supervisor or manager to see if your team is able to use this service. 
 
 ### Step-by-step checklist for compensating participants
 
