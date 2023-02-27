@@ -189,7 +189,7 @@ primary:
       - text: Promotions
         url: hiring-staying-or-changing-jobs/promotions/
         internal: true
-      - text: Leaving TTS
+      - text: Leaving TTS & offboarding
         url: hiring-staying-or-changing-jobs/leaving-tts/
         internal: true
       - text: Hiring authorities
