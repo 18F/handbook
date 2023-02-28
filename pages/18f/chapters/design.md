@@ -1,5 +1,5 @@
 ---
-title: Design
+title: 18F Design
 tags:
   - design
 questions:
@@ -32,7 +32,7 @@ organization, including:
 - [18F Content Guide](https://content-guide.18f.gov/)
 - [18F Frontend Style Guide](https://engineering.18f.gov/frontend/)
 - [18F UX Guide](https://ux-guide.18f.gov)
-- [Design Methods](https://methods.18f.gov/)
+- [18F Methods](https://methods.18f.gov/)
 
 ### Suggested reading
 
@@ -45,7 +45,8 @@ organization, including:
 
 Find us on Slack:
 
-- {% slack_channel "design" %}
+- {% slack_channel "18f-design" %} — Our homebase for chapter conversation and news
+- {% slack_channel "design" %} (TTS-wide)
 - {% slack_channel "content-design" %}
 - {% slack_channel "service-design" %}
 - {% slack_channel "ux" %}
@@ -85,9 +86,7 @@ non-profits, consultancies, corporations, and academia.
 
 As per the
 [org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?usp=sharing),
-18F Design is itself composed of product design, content strategy, change
-strategy, and user experience teams. Members of the Design team are active
-participants in the content and research
+18F Design is itself composed of product design, content strategy, service design, and user experience teams. Members of the Design team are active participants in the content and research
 [guilds]({% page "/working-groups-and-guilds-101" %}).
 
 Before starting at 18F, you will have been assigned a supervisor. Supervisors meet with you regularly and carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. More detail on
@@ -130,22 +129,21 @@ initiatives. As you’d guess, everyone’s weeks look a little different. That
 said, there are recurring weekly meetings and commitments we all have on our
 calendars.
 
-- **Wednesdays:** every other week for 45 minutes at 2:30pm ET (11:30am PT)
+- **Wednesdays:** Every other week for 30-45 minutes at 2pm ET (11am PT)
   design team huddle. The whole team meets to discuss project status, policy
   updates, and general design-specific news. Our huddles typically follow the
-  same format: the Design Director provides general announcements. The rest of
+  same format: We start with an intro question for everyone to answer, welcome new teammates, and get chapter and organizational updates. The rest of
   the huddle features a presentation or conversation about a topic of current
-  interest to the team. Past topics have included: how other chapters work, our
-  collaborative work practices, and recent organizational changes within 18F or
-  TTS.
-- **Once a week/Every two weeks:** meet with your supervisor. You’ll have a short
+  interest to the team. Past topics have included: project share-outs, an overview of the Paperwork Reduction Act, and discussion around common challenges.
+- **Once a week/Every two weeks:** Meet with your discipline team.
+- **Once a week/Every two weeks:** Meet with your supervisor. You’ll have a short
   check-in with your supervisor at a time that’s convenient for both of you.
   The purpose of this meeting is both administrative and personal. It’s how the
   team leadership keeps on top of project timelines and activities to coordinate
   resourcing. It’s also a time to talk through any project concerns, figure out
   how to wrangle the federal bureaucracy, and talk about how to make 18F work
   better for you.
-- **Once a week:** meet with your critique group. Crit groups discuss creative
+- **Once a week/Every two weeks:** Meet with your critique group. Crit groups discuss creative
   questions and share work. We re-form the groups periodically so we have
   opportunities to learn from the whole group.
 
@@ -168,7 +166,6 @@ to get a license** for any of these.
 
 - **Figma** Talk with your supervisor to request a license
 - [**Sketch**]({% page "/sketch/" %})
-- [**InVision**]({% page "/invision/" %})
 - **OmniGraffle:**
   [Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
 - [**Adobe Creative Cloud**]({% page "/adobe/" %})
@@ -185,8 +182,9 @@ Trello]({% page "/trello" %}) page.
 
 #### Research
 
-- Please read [Doing Research at 18F]({% page "/research-guidelines" %}) for
-  more information on the tools and techniques.
+- Please read [Doing Research at TTS]({% page "/research-guidelines" %}) for
+  more information on the tools and techniques. 
+- The [18F UX Guide](https://ux-guide.18f.gov/) provides additional guidance on how we conduct research.
 - **Analytics:** We recommend leveraging the
   [Digital Analytics Program](https://digital.gov/services/dap/) whenever
   possible. We augment DAP with site-specific Google analytics tracking. Ask
@@ -231,7 +229,8 @@ Fortunately, there are many great resources for us to choose from.
   {% slack_channel "dev-frontend" %} if you are choosing a framework for
   something.
 - **Icons:**
-  - The product design team maintains guidance on
+  - 18F uses a customized [icon set](https://brand.18f.gov/icons/).
+  - The product design team has guidance on
     [icon resources](https://github.com/18F/visual-design/wiki/Icon-sets).
   - If you want to start using non-free ones, you’ll need to jump through some
     hoops — even if the icon only costs $1.99. You’ll need to get official
@@ -239,7 +238,7 @@ Fortunately, there are many great resources for us to choose from.
     {% slack_channel "teamops" %} for further instructions.
 - **Images:** Most images published by government agencies are in the public
   domain and thus free to use.
-  - The product design team maintains guidance on
+  - The product design team has guidance on
     [government photography resources](https://github.com/18F/visual-design/wiki/Government-photography).
   - You can use `incategory:PD_US_Government` as part of a search query on
     Wikimedia Commons:
@@ -256,8 +255,6 @@ Fortunately, there are many great resources for us to choose from.
   choosing fonts for something.
 
 ---
-
-# Appendix
 
 ## Designing in the open
 
@@ -306,9 +303,9 @@ in the future, anyone might be reading what you wrote in any of these channels.
 Meanwhile, in the context of day-to-day work, different tools offer different
 levels of access. Here’s a quick reference to who can see what, when:
 
-- Only viewable by addresses: Slack DMs, Slack private groups, Email
-- 18F only: open Slack channels
-- 18F plus invited guests: Slack channels labelled XXX-otheragencyhere or
+- Only viewable by members: Slack DMs, Slack private groups, Email
+- TTS only: open Slack channels
+- TTS plus invited guests: Slack channels labelled XXX-otheragencyhere or
   XXX-partners
 - GSA only: Google Drive- you can share files outside GSA, but exercise caution!
 - Across the government: mailing lists
