@@ -184,8 +184,8 @@ Guild meeting times can also be found on the
           <a href="https://github.com/18F/development-guide">Eng Guide repo</a> &bull; {% slack_channel "dev" %}
         </td>
         <td>
-          Sven Aas - U.S. Digital Corps<br>
-          Kimball Bighorse - 18F
+          Kimball Bighorse - 18F<br />
+          Drew Bollinger - cloud.gov Pages
         </td>
       </tr>
       <tr>
