@@ -33,7 +33,7 @@ As a TTS employee, you’ll spend quite a bit of time with the [TTS Handbook]({%
 ## Diversity, Equity, Inclusion, Accessibility, & Belonging at TTS
 TTS strives to thoughtfully and intentionally represent the broad American populace we serve. We believe in inclusive design — creating products and environments that are accessible to all people, regardless of age, disability, or other factors. We also strive to be intentional when interacting with one another and with our partners.
 
-To that end, we strongly encourage all new hires to read through the [Diversity, Equity, Inclusion, Accessibility, and Belonging (DEIA&B) materials]({% page "/diversity/" %}) in the TTS Handbook and to join the [Diversity](https://gsa-tts.slack.com/archives/C02DJFR0V) and [Accessibility](https://gsa-tts.slack.com/archives/C02BT4H5Q) guild channels in Slack.
+To that end, we strongly encourage all new hires to read through the [Diversity, Equity, Inclusion, Accessibility, and Belonging (DEIA&B) materials]({% page "/diversity/" %}) in the TTS Handbook and to join the {% slack_channel "g-diversity" "Diversity" %} and {% slack_channel "g-accessibility" "Accessibility" %} guild channels in Slack.
 
 ## How we collaborate
 At TTS, collaboration is a part of our culture. Here are the collaboration tools  we use to share ideas and coordinate efforts.
