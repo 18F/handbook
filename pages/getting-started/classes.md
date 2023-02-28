@@ -1,5 +1,5 @@
 ---
-title: TTS Classes for Onboarding
+title: TTS onboarding classes
 tags:
   - onboarding
   - getting started

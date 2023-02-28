@@ -36,10 +36,10 @@ primary:
       - text: Welcome
         url: getting-started/welcome-letter/
         internal: true
-      - text: Getting started at TTS
+      - text: Onboarding overview
         url: getting-started/
         internal: true
-      - text: TTS classes for onboarding
+      - text: TTS onboarding classes
         url: getting-started/classes/
         internal: true
       - text: Logging in &amp; networks
