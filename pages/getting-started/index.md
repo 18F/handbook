@@ -72,4 +72,4 @@ Now that you have had the opportunity to review this onboarding guide, we hope y
 
 ## Questions?
 - [tts-onboarding@gsa.gov](mailto:tts-onboarding@gsa.gov)
-- [#onboarding](https://gsa-tts.slack.com/archives/C03JL6MV4NR)
+- {% slack_channel "#onboarding" %}
