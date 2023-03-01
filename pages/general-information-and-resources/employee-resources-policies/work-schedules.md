@@ -68,7 +68,7 @@ GSA allows all 5 types of flexible schedules. For schedules that change from one
 
 For example: 
 - You begin working between 7 AM - 10 AM every day. 
-- Depending on when you arrive, you depart between 3:30 - 6:30 PM. (Accounting for a [30 min lunch break]({% page "/getting-started/classes/benefits/#lunch-and-break-periods %})).
+- Depending on when you arrive, you depart between 3:30 - 6:30 PM. (Accounting for a [30 min lunch break]({% page "/getting-started/classes/benefits/#lunch-and-break-periods" %})).
 
 ##### Variable Day
 - Each day in the work work can be slightly longer or shorter than 8 hours, but must add up to 40 hours per week.
