@@ -108,6 +108,9 @@ primary:
       - text: Out of office expectations
         url: travel-and-leave/leave/#leave-checklist
         internal: true
+      - text: Overtime, comp time, and credit hours
+        url: travel-and-leave/overtime/
+        internal: true
       - text: Paid parental leave
         url: travel-and-leave/leave/#paid-parental-leave
         internal: true
@@ -278,9 +281,6 @@ primary:
           - text: Benefits links and resources
             url: benefits-links/
             internal: true
-          - text: Covid leave guidance
-            url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
-            internal: false
           - text: Daily check-in
             url: daily-checkin/
             internal: true
@@ -292,9 +292,6 @@ primary:
             internal: true
           - text: Employment verification
             url: employment-verification/
-            internal: true
-          - text: Overtime, comp time, and credit hours
-            url: travel-and-leave/overtime/
             internal: true
           - text: Purchase requests
             url: purchase-requests/
@@ -318,6 +315,9 @@ primary:
           - text: Within grade increases (opm.gov)
             url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
             internal: false
+          - text: Work schedules
+            url: general-information-and-resources/employee-resources-policies/work-schedules/
+            internal: true
       - text: Launching software
         children:
           - text: Lifecycle of a launch (ATOs, etc.)
