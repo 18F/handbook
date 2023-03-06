@@ -52,8 +52,6 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Internal only opportunities
 
-[18F Acting Chief of Delivery Detail](https://docs.google.com/document/d/1ljDhE2uFF-8GEYiS8RMoR3C_IQYY__DB6V07kAjb9SI/edit?usp=sharing)- Open Tuesday, February 21st through Friday, March 3rd 
-
 [T﻿ribal Nations, American Indians and Alaska Natives (AI/AN) Project Support Detail](https://docs.google.com/document/d/1f1O3k36ZcaR-KSdfeGs01NaYZOa09lAx2tr7RKEDILw/edit)- Open Friday, March 3rd through Friday, March 10th 
 
 ## Opportunities with partners
