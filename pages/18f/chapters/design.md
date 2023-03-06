@@ -165,7 +165,7 @@ Unless otherwise specified, **see
 to get a license** for any of these.
 
 - **Figma** You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
-- [**Sketch**]({% page "/sketch/" %})
+- **Sketch** You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
 - **OmniGraffle:**
   [Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
 - [**Adobe Creative Cloud**]({% page "/adobe/" %})
