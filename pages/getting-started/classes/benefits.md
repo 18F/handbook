@@ -2,6 +2,7 @@
 title: Benefits
 redirect_from:
   - /benefits/
+cSpell: ignore govexec,govloop,Worklife4You,DocuSign,AmeriCorps
 ---
 
 **If you're looking for specific benefits sites, see the [benefits links
@@ -245,7 +246,7 @@ through the Monday of the second full workweek in December. OPM provides a
 [detailed FAQ on eligibility](https://www.opm.gov/healthcare-insurance/Guide-Me/Federal-Employees/#url=Health)
 for federal employees.
 
-To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your
+To enroll or re-enroll in FEHB, elect not to enroll in FEHB, change your
 enrollment, cancel your enrollment, or suspend your enrollment you must do so in
 HR Links by taking the following steps:
 
