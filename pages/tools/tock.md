@@ -240,7 +240,7 @@ for. We have a legal obligation to bill for them. They include:
   - Time writing about your project on the blog
   - Time onboarding to a project, which includes reading documentation and
     learning about the agency
-  - Time offboarding from a project. This includes post-mortems, writing
+  - Time offboarding from a project. This includes postmortems, writing
     documentation, and organizing your working files so that other people could
     pick it up later and continue your work
   - Business development and IAA work (for continuing projects only)
