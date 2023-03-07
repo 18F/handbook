@@ -1,5 +1,6 @@
 ---
 title: Security
+cSpell: ignore Kaplan,Bennetts
 ---
 
 ## General Security Standards
