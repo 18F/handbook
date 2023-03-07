@@ -40,7 +40,7 @@ output, it is determined by the whole team delivering on the mission.
 
 ### FY2021 Key Objectives
 
-1. Atttract and hire well-qualified candidates who reflect the diversity of the
+1. Attract and hire well-qualified candidates who reflect the diversity of the
    general public
 2. Strategically partner with leadership to understand and advise on the people
    needs of the organization
