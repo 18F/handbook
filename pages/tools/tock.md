@@ -42,7 +42,7 @@ redirect_from:
 - **18F Engagement Management - project ID varies:** This code is used for
   non-primary project team members for any support given to the project,
   including staffing the project, providing feedback to their staff regarding
-  their project, conducting post-mortems, meeting to share information and
+  their project, conducting postmortems, meeting to share information and
   lessons learned from other projects, etc.
 - **18F Administrative & Supervisory - #1814:** This tracks the work supervisors
   do supporting their direct reports AND time individuals spend on mandated
