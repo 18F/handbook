@@ -823,7 +823,7 @@ showing a map of your itinerary with the calculated distance.
 
 ### Issues with reimbursement
 
-#### I recieved a bill for an outstanding balance on my travel card. Should I pay it?
+#### I received a bill for an outstanding balance on my travel card. Should I pay it?
 
 A: First, verify that your most recent voucher was paid to the travel card
 account. Go to the **Vouchers** tab of Concur, then click on the voucher number
