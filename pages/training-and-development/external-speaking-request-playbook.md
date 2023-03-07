@@ -126,7 +126,7 @@ supervisor or [TTS Outreach](mailto:tts-outreach@gsa.gov).
 Request that your external event point of contact complete the
 [TTS Speaker Request Form](https://docs.google.com/document/d/13rdrk-5F_cM8ZztarEH5Ty2ElUVuRdxINQqWAPiVNb0/edit#heading=h.d6kk6wkyrvzf)
 to ensure you have all of the critical information for the approval process and
-return to you, ccing [speakers@gsa.gov](mailto:speakers@gsa.gov).
+return to you, CCing [speakers@gsa.gov](mailto:speakers@gsa.gov).
 
 #### Gather information
 
