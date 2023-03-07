@@ -232,7 +232,7 @@ discussing:
   and inclusion, but talking about these topics can be difficult -- especially
   for those to whom these are new topics. For example, some people new to TTS
   are confused by the “guysbot” in Slack, but may not feel comfortable asking
-  about it publically. Once you’ve spent some time building the relationship,
+  about it publicly. Once you’ve spent some time building the relationship,
   your 1:1 can become an excellent place to talk with people about diversity and
   inclusion in a friendly, non-judgemental way.
 
