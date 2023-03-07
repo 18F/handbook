@@ -75,7 +75,7 @@ FITARA,
 
 ## OCIO guidance
 
-When necessary, consult with your oganization's FITARA representative
+When necessary, consult with your organization's FITARA representative
 accordingly for further guidance or visit the
 {% slack_channel "tts-fitara-reviews" %} Slack channel and post your questions
 there.
