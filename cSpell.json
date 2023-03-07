@@ -2,9 +2,13 @@
     "version": "0.2",
     "language": "en",
     "words": [
+        "hotspot",
         "LWOP",
+        "telework",
         "timesheets",
-        "VLTP"
+        "Tock",
+        "VLTP",
+        "walkthrough"
     ],
     "ignoreWords": [],
     "patterns": [
