@@ -109,4 +109,4 @@ a hiring authority; rather it is an entitlement that certain individuals (and
 relatives of individuals) earn based on their military service.
 
 Detailed information about veterans and federal employment is available through
-OPM’s [FedsHireVets website](https://www.fedshirevets.gov/).
+OPM's [FedsHireVets website](https://www.fedshirevets.gov/).
