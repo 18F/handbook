@@ -341,7 +341,7 @@ justification is required if you intend to incur the following expenses:
   common carrier transit or a government car.
 - **Mileage:** You must [add this in as an expense](#adding-expenses) on the
   "Expenses and Receipts" page and then
-  [justify the mileage claim as advantageous to the govenment](#how-should-i-claim-local-transportation-expenses)
+  [justify the mileage claim as advantageous to the government](#how-should-i-claim-local-transportation-expenses)
   (considering both cost and time) compared to common carrier transit,
   government car, and rental car. Mileage from your home to the airport (plus
   associated parking fees or round-trip travel in case of a drop-off) need only
