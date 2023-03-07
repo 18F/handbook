@@ -2,9 +2,11 @@
     "version": "0.2",
     "language": "en",
     "words": [
+        "LWOP",
+        "timesheets",
+        "VLTP"
     ],
-    "ignoreWords": [
-    ],
+    "ignoreWords": [],
     "patterns": [
         {
             "name": "Markdown links",
