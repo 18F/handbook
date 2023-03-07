@@ -106,7 +106,7 @@ and proceed with the Security Clearance upgrade process.
 - Your supervisor will email both completed documents and the justification memo
   to OHRM, copying [tts-peopleops@gsa.gov](mailto:TTS-PeopleOps@gsa.gov).
 
-##### If an approriate PD already exists:
+##### If an appropriate PD already exists:
 
 Your supervisor will draft a
 [justification memo](https://docs.google.com/document/d/1P7L_i9Ow_UZeLo_cMKRQS87l8-bKzL3V/edit),
