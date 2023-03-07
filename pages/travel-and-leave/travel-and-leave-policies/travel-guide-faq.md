@@ -599,7 +599,7 @@ dates or locations fall outside what was originally approved, you'll need to
 by going to the **Authorizations** tab, selecting the amended authorization
 corresponding to your trip, and going in to **Open Document**.
 
-However, in some cases, Concur will generate an amendement in error. If you
+However, in some cases, Concur will generate an amendment in error. If you
 suspect this is the case, head to the **Authorizations** tab, select the amended
 authorization corresponding to your trip, and **Delete Document**
 
