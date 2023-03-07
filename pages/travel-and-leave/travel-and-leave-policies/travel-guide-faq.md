@@ -318,7 +318,7 @@ flagged. If this applies to you,
 #### Additional step if you are extending travel for personal reasons
 
 [Deleting hotel expenses](#deleting-expenses) which autopopulate on your
-authorization is relatively straighforward, but
+authorization is relatively straightforward, but
 [an additional step is required](#how-can-i-remove-extra-days-at-personal-expense-from-my-authorization-or-voucher)
 to remove M&IE. In some cases, Concur may not allow you to do this on the
 authorization. If that's the case, proceed as normal and return to this step
