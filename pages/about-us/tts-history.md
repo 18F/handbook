@@ -57,7 +57,7 @@ offices:
   centralizing best practices and expertise for holistic transformation.
 - **Presidential Innovation Fellows (PIF)** is a fellowship that embeds
   talented, diverse technologists and innovators within federal agencies as
-  yearlong entrerpreneurs in residence. Together with agency leaders, PIFs
+  yearlong entrepreneurs in residence. Together with agency leaders, PIFs
   improve the way our government designs, develops, and delivers services for
   the public.
 - **Office of Acquisition** drives smarter technology procurement through
