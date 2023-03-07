@@ -11,6 +11,7 @@ redirect_from:
 sidebar:
   kind: travel
   current: FAQ
+cSpell: ignore Trav
 ---
 
 ## Questions about booking travel

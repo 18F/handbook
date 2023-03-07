@@ -15,6 +15,7 @@ step_indicator:
 sidebar:
   kind: travel
   current: 1. First time setup
+cSpell: ignore substep
 ---
 
 {% include "step-indicator.html"
