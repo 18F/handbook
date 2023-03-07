@@ -27,7 +27,7 @@ from one of the 18F engineers. Here are a few pointers to get you started:
   [whether or not you will need to conduct a Privacy Impact Assessment
   (PIA)]({% page "/launching-software/privacy/" %}).
 - Be wary of systems that:
-  - trust unsanitized information from the internet
+  - trust un-sanitized information from the internet
   - do not encrypt data, both at rest and in transit
   - may be subject to privilege escalation
   - other items from the
