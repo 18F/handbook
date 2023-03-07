@@ -33,7 +33,7 @@ output, it is determined by the whole team delivering on the mission.
 - Inclusion
 - Empathy
 - User-Centric, Iterative and Agile
-- Measureable & data driven
+- Measurable & data driven
 - Transparency
 - Collaboration
 - Strategic Thinking
