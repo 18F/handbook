@@ -120,7 +120,7 @@ coming in.
   earning annual leave and sick leave. As you earn hours, you must use those
   newly accrued hours first, before any donated leave.
 
-## Unenrolling from VLTP
+## Un-enrolling from VLTP
 
 When your medical emergency is over:
 
