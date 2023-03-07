@@ -104,7 +104,7 @@ Access Online user ID:
 
 1. Go to https://access.usbank.com.
 2. Select the Register Online hyperlink at the bottom of the screen.
-3. Enter GSASP3 in the Organization Short Name field.
+3. Enter `GSASP3` in the Organization Short Name field.
 4. Enter the 16-digit number located on your new purchase card (without spaces
    or dashes) in the Account Number field.
 5. Enter the month and year your account expires in the Account Expiration Date
