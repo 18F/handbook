@@ -78,7 +78,7 @@ Supervisors can request that their direct reports submit one.
 - Step-by-step instructions:
 
   - [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.2bzg793t31vu)
-    - We **strongly recommend** that you draft your self-asssessment using
+    - We **strongly recommend** that you draft your self-assessment using
       Google Docs to avoid losing it if HRLinks crashes due to inactivity. If
       you want to draft your self-assessment directly in HRLinks, make sure to
       frequently click the "Save" button to preserve your work.
