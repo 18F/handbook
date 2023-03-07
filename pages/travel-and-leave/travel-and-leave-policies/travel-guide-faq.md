@@ -387,10 +387,10 @@ correction.
 
 \*For vouchers, your travel will be approved within 3-5 business days.
 
-6. Once you have been approved by the TTS travel team, you should recieve a
+6. Once you have been approved by the TTS travel team, you should receive a
    notification from Concur. Please note that in most cases, **government
    contract airfare does not ticket until 72 hours before departure**, so you
-   may not recieve official confirmation of your itinerary until then. Don't
+   may not receive official confirmation of your itinerary until then. Don't
    worry about this, the TTS travel team is not aware of any situations where
    approved travelers have not been issued tickets :)
 
@@ -792,7 +792,7 @@ supervisor approving the amount of the reimbursement you intend to claim and
 send it to tts-travelauths@gsa.gov. Then, create a
 [miscellaneous voucher](#how-do-i-create-a-local-or-miscellaneous-voucher) in
 [Concur](https://travel.gsa.gov) and [attach the receipt](#attaching-receipts)
-you recieved after purchasing the insurance.
+you received after purchasing the insurance.
 
 #### How should I claim local transportation expenses?
 
@@ -872,7 +872,7 @@ can simply **Edit Voucher** instead of amending.
 
 **Note:** Vouchers should NOT be amended in the case of revising the payment
 method ([IBA to CASH](#positive-balance-on-travel-card) or
-[vice versa](#i-recieved-a-bill-for-an-outstanding-balance-on-my-travel-card-should-i-pay-it),
+[vice versa](#i-received-a-bill-for-an-outstanding-balance-on-my-travel-card-should-i-pay-it),
 or reducing a claim on an already-approved expense. If you were over-reimbursed
 for something, you will need to mail a check for that amount, made out to GSA to
 the following address:
