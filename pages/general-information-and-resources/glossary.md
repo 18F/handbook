@@ -9,6 +9,7 @@ questions:
   - questions
 redirect_from:
   - /glossary/
+cSpell: ignore Technica
 ---
 
 - **[10X](https://10x.gsa.gov/)** - A way for federal employees across the
@@ -82,7 +83,7 @@ redirect_from:
 
 - **BOC** - Budget Object Code. Used for accounting.
 
-- **BPR** - Business Process Reengineering. This is when an organization designs
+- **BPR** - Business Process Re-engineering. This is when an organization designs
   new workflows to update or replace existing workflows.
 
 - **CALC** - Contract-Awarded Labor Category.
