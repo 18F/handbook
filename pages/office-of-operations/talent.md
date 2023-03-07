@@ -42,7 +42,7 @@ output, it is determined by the whole team delivering on the mission.
 
 1. Atttract and hire well-qualified candidates who reflect the diversity of the
    general public
-2. Strategically partner with leaderdhip to understand and advise on the people
+2. Strategically partner with leadership to understand and advise on the people
    needs of the organization
 3. Use data to make well informed decisions about the recruitment and onboarding
    process
