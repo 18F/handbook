@@ -2,6 +2,7 @@
 title: Slack integrations
 questions:
   - admins-slack
+cSpell: ignore coffeemate
 ---
 
 [_Back to Slack page_](../)
