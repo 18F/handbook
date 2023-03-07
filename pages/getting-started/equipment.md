@@ -77,7 +77,7 @@ within the System Security Plan (SSP).
 For users who do not work directly on a FISMA system who wish to use their
 personal machine (at a non-GSA facility), please consult with
 ispcompliance@gsa.gov to review the BYOD policy with regards to your specific
-needs and use cases. You can also post geneeral questions in the
+needs and use cases. You can also post general questions in the
 [AskIT Chatter Page](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001I35).
 
 **Controlled Unclassified Information (CUI) can never be stored on a personal
