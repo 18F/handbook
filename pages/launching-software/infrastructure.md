@@ -743,7 +743,7 @@ Projects can supplement their uptime/ping services together with a status, by
 embedded it as an `<iframe></iframe>` on their own sub-domain. This allows the
 team to provide one place for their customers to go for the system's about how
 you are responding to the outage and/or announcements of degraded services or
-maintainace periods.
+maintenance periods.
 
 ##### Static site (JAMstack) alternatives:
 
