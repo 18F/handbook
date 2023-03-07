@@ -1,5 +1,6 @@
 ---
 title: New Supervisor Playbook
+cSpell: Costino
 ---
 
 A guide for transitioning from being an individual contributor to a supervisor,
