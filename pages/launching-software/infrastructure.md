@@ -2,7 +2,7 @@
 title: Infrastructure
 questions:
   - infrastructure
-cSpell: ignore pipenv
+cSpell: ignore pipenv,virtualenv
 ---
 
 ## Overview
@@ -970,7 +970,7 @@ Requirement - see the “Audit and Accountability” doc on
   - Logs with sensitive data are only available to appropriate people
   - Logs can be browsed/drilled with low-latency (e.g. grepping not necessary)
 
-## Decomissioning
+## Decommissioning
 
 To decide whether a site needs to be decommissioned, use the following decision
 trees. Is the site required by law/policy?
