@@ -5,6 +5,7 @@ questions:
   - tts-outreach@gsa.gov
 redirect_from:
   - /social-media/
+cSpell: ignore codedotgov
 ---
 
 _Learn how TTS uses social media._
