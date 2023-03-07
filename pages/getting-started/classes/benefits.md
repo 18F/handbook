@@ -98,7 +98,7 @@ but some highlights include:
 
 The [Employee Assistance Program (EAP)](http://www.foh4you.com/) is a free
 support resource available to all GSA federal employees. The EAP offers sessions
-with licenced or credentialed counselors on a variety of topics:
+with licensed or credentialed counselors on a variety of topics:
 
 - Grief
 - Work-related stress
