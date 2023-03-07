@@ -33,7 +33,7 @@ roles.
 
   - [Employee](https://drive.google.com/open?id=1ljNaoVzZajW4REwaWDOmGdahwASStVta)
     - **_Note: Supervisors should create a new or clone (see below) an existing
-      Peformance Plan for their direct report(s)_**
+      Performance Plan for their direct report(s)_**
   - [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.2bzg793t31vu)
 
 - HR Links in-depth guide (with screenshots):
