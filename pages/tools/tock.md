@@ -26,7 +26,7 @@ redirect_from:
 - **Extended Out of Office - #1810:** Intended for if you are Out of Office for
   3 weeks or longer continuously, or will be using extensive donated or
   unaccrued leave, such as using Paid Parental Leave part-time each week for 5
-  or 6 months. Intended expecially to capture:
+  or 6 months. Intended especially to capture:
   - Paid Parental Leave,
   - Medical or disability leave,
   - Extended jury leave, or
