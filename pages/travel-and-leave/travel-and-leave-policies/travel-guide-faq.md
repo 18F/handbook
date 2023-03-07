@@ -11,7 +11,7 @@ redirect_from:
 sidebar:
   kind: travel
   current: FAQ
-cSpell: ignore Trav
+cSpell: ignore Trav,DeLeve,Brydges,Nico,Papafil,Mahan,Rostami
 ---
 
 ## Questions about booking travel
@@ -318,7 +318,7 @@ flagged. If this applies to you,
 
 #### Additional step if you are extending travel for personal reasons
 
-[Deleting hotel expenses](#deleting-expenses) which autopopulate on your
+[Deleting hotel expenses](#deleting-expenses) which auto-populate on your
 authorization is relatively straightforward, but
 [an additional step is required](#how-can-i-remove-extra-days-at-personal-expense-from-my-authorization-or-voucher)
 to remove M&IE. In some cases, Concur may not allow you to do this on the
@@ -440,7 +440,7 @@ authorizing official._
 
 Your authorizing official must be a supervisor or director at GSA.
 
-If your travel is **nonbillable**, and coming from your team's budget, your
+If your travel is **non-billable**, and coming from your team's budget, your
 authorizing official would be your supervisor or director. If expenses will be
 paid out of another team's budget (list of budgets available in cell C5 of
 [this sheet](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)),
@@ -476,7 +476,7 @@ weekends or leave is possible as long as the following conditions are met:
 - It is not possible to reschedule one of the meetings or events to avoid having
   days in between.
 - Considering both the travel time and overall cost, it is advantageous to the
-  government to pay for the hotel and meals for the time in betwen rather than
+  government to pay for the hotel and meals for the time in between rather than
   the round trip travel cost of having the employee return home.
 - One or both
   [authorizing officials](#who-is-my-authorizing-official-and-what-is-my-budget)
@@ -584,7 +584,7 @@ a voucher from your authorization that you got approved prior to traveling.
   name, look at the departure date column.
 
 Once you've selected your authorization and continue, you'll be taken to the
-**Document Information** page. This should all be autopopulated, so unless some
+**Document Information** page. This should all be auto-populated, so unless some
 of the details of your trip changed, no further action is required here and you
 may continue on to **Create Document** and start
 [adding your expenses](#how-to-add-edit-or-delete-expenses). More guidance on
