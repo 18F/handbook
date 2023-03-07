@@ -34,7 +34,7 @@ Speaking externally in your official capacity is a privilege, as you are
 representing GSA and your fellow TTSers. There is an approval process. GSA’s
 Office of Strategic Communications (OSC) and TTS Outreach must approve your
 participation, talking points, and presentation materials before you can
-participate in any external eventsin an official capacity. For additional
+participate in any external events in an official capacity. For additional
 information on representing GSA in an official vs. personal, please see official
 vs. personal section.
 
