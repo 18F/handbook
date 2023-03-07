@@ -465,7 +465,7 @@ To fill out your PSLF application and obtain employer verification:
 
     {% image "_img/pslf/pslf-document-add-signature.png" "Screenshot of DocuSign interface showing how to add a signature field for 'Authorized Official's Signature' in Section 4 of the document by dragging the 'Signature' field from the left sidebar to that line in the document" %}
 
-18. Click the "Send" buttom at the bottom right corner of the screen to send
+18. Click the "Send" button at the bottom right corner of the screen to send
     your document for signing.
 19. Once you receive an email confirming that your document has been signed,
     download the signed document.
