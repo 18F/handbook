@@ -9,7 +9,7 @@ information systems is the Federal Information Security Modernization Act
 (FISMA). For more information on FISMA, check out the
 [FISMA Implementation Project ](https://csrc.nist.gov/projects/risk-management),
 which will help you stay up to date and in the know about all things FISMA. If
-you're inclined to see TTS' intepretation of FISMA from a user-center approach,
+you're inclined to see TTS' interpretation of FISMA from a user-center approach,
 take a look at a previous project from the TTS Tech Portfolio and cloud.gov
 known as [FISMA Ready](https://github.com/fisma-ready/introduction).
 
