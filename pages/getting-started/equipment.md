@@ -106,7 +106,7 @@ that needs to match the machines of developers on the team.
 1. Help desk will create a shipping label and mail out loaner to the receiving
    party.
 
-If GSA IT doesn't have any availble inventory to issue a loaner, please [contact
+If GSA IT doesn't have any available inventory to issue a loaner, please [contact
 the Tech Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %})
 and they will work with you to determine a suitable alternative.
 
