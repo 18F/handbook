@@ -1,5 +1,6 @@
 ---
 title: Lifecycle of a Launch
+cSpell: ignore OmniGraffle,codecov
 ---
 
 ## ATOs
