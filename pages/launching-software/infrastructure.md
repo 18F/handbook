@@ -2,6 +2,7 @@
 title: Infrastructure
 questions:
   - infrastructure
+cSpell: ignore pipenv
 ---
 
 ## Overview
@@ -176,7 +177,7 @@ Anyone in TTS can get an access to any of the three (3) Cloud Service Provider
 
 Sandbox users have `power user` access, which means they have full privileges to
 all services except for Identity and Access Management (IAM). Program account
-requests will be isseued `administrator` access.
+requests will be issued `administrator` access.
 
 - [Request an account](https://docs.google.com/forms/d/e/1FAIpQLSfK3jioq5BuZALB9dbWHDHaiwLteK1Aua3TspfWPjlMTBYVJg/viewform)
 
