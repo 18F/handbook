@@ -69,7 +69,7 @@ You may also want to take a look at
 
 ### 4. Join a GSA/TTS organization
 
-Have a current teammember request an inviation to the
+Have a current team member request an inviation to the
 [GSA or TTS Organization](#organizations) you need in the #github-admins
 channel.
 
