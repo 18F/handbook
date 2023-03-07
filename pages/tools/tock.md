@@ -80,7 +80,7 @@ redirect_from:
   - Writing interview guides or questions, and
   - Writing specialized experience.
 
-  New employee onboarding activies during the first two weeks should also be
+  New employee onboarding activities during the first two weeks should also be
   billed here. Those include:
 
   - Getting set up with laptops and accounts,
