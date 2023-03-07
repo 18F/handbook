@@ -7,7 +7,7 @@ questions:
   - dev
 redirect_from:
   - /github/
-cSpell: ignore cloudfoundry,karn,
+cSpell: ignore cloudfoundry,karn,usagov,eregs,digitalgov,ghad,fedramp,Githug,bizops
 ---
 
 GitHub is a closed-source platform for
