@@ -64,7 +64,7 @@ Now, how to get that approval? Please send a message within the
 {% slack_channel "tts-fitara-reviews" %} Slack channel in order to initiate the
 process. A representative will work with you to ensure the FITARA review is
 conducted and routed to the GSA-CIO for final approval. Once you have received a
-signed and approved FTIARA form, please file this within your records and
+signed and approved FITARA form, please file this within your records and
 proceed with remaining procurement/acquisition activities.
 
 ## OMB guidance
