@@ -86,7 +86,7 @@ with rates under the government maximum (also known as the per diem rate).
 ### What happens if my flight gets cancelled?
 
 The easiest option is to have your airline reschedule you. If that's not
-possible or timely, you may also call Ad-Trav at _(877) 472-6716_ to be rebooked
+possible or timely, you may also call Ad-Trav at _(877) 472-6716_ to be re-booked
 on any airline.
 
 If you are traveling to orientation and are worried that you will miss it
@@ -98,6 +98,6 @@ but please continue to travel to the office where your orientation was scheduled
 to be for onboarding.
 
 While the Talent and Travel Teams won't be available until Monday if your
-cancellation occurs over the weekend, please feel comfortable rebooking your
+cancellation occurs over the weekend, please feel comfortable re-booking your
 travel either though the airline or via Ad-Trav, and rest assured that you will
 be in good hands when you arrive at TTS.

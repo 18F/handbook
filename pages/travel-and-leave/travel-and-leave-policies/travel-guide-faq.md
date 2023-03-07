@@ -522,7 +522,7 @@ from your authorization in Concur if you haven't already.
 
 Alternatively, you may book your official travel and have it approved as normal.
 Once your travel has been approved by the travel team in Concur, you may then
-call AdTrav at (877) 472-6716 and request to be rebooked on a different flight
+call AdTrav at (877) 472-6716 and request to be re-booked on a different flight
 for personal travel. In the case of most government contract flights, there is
 no additional charge. However, if there is an additional cost compared to your
 original itinerary, AdTrav will request you provide a personal credit or debit

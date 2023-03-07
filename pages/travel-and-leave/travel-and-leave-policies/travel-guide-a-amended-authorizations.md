@@ -72,7 +72,7 @@ non-government contract flight that exceeds the
 [city pair rate](https://cpsearch.fas.gsa.gov/cpsearch/search.do?method=enter)
 for each leg of your trip (note that this calculator shows the one-way price),
 you must submit an amended authorization in Concur, which should be generated
-for you within an hour of your rebooking.
+for you within an hour of your re-booking.
 
 Otherwise, carry on with your new itinerary. Depending on the changes you make
 to your trip, additional action in Concur may be required upon your return. Read
