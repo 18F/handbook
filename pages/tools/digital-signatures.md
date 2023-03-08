@@ -10,7 +10,6 @@ tag:
   - document
 redirect_from:
   - /digital-signatures/
-cSpell: ignore DocuSign
 ---
 
 GSA provides access to [DocuSign](https://sign.gsa.gov/) for staff to sign and

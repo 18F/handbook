@@ -2,7 +2,7 @@
 title: Benefits
 redirect_from:
   - /benefits/
-cSpell: ignore govexec,govloop,Worklife4You,DocuSign,AmeriCorps
+cSpell: ignore govexec,govloop,Worklife4You,AmeriCorps
 ---
 
 **If you're looking for specific benefits sites, see the [benefits links
