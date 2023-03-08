@@ -6,7 +6,7 @@ redirect_from:
   - /writing-lab/
 cSpell: ignore writerly
 ---
-blahblahblah
+
 The Writing Lab team knows that writing is hard: It can be time consuming and
 stress inducing, and can sometimes seem like a blocker to a project that’s
 humming along. That's why the Writing Lab came into being. The Lab is a virtual
