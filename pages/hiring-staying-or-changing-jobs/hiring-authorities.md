@@ -10,6 +10,7 @@ questions:
   - joinTTS@gsa.gov
 redirect_from:
   - /hiring-authorities/
+cSpell: ignore AmeriCorps
 ---
 There are several different hiring paths within the federal government. We have
 a side-by-side comparison chart of
