@@ -2,6 +2,7 @@
 title: Security incidents
 redirect_from:
   - /security-incidents/
+cSpell: ignore Cofense
 ---
 
 Something went "bump" in the night (or the day)? This document explains what to

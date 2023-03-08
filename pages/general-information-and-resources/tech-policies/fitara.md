@@ -6,6 +6,7 @@ tags:
   - act
 redirect_from:
   - /fitara/
+cSpell: ignore Dotgov,Gengo
 ---
 
 _The objective of FITARA policy is to improve the management of IT within an
