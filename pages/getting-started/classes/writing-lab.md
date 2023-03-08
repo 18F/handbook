@@ -4,7 +4,7 @@ questions:
   - writing-lab
 redirect_from:
   - /writing-lab/
-cSpell: ignore helpwanted,writerly
+cSpell: ignore writerly
 ---
 
 The Writing Lab team knows that writing is hard: It can be time consuming and
@@ -77,7 +77,7 @@ ask for guidance on getting somebody assigned to your project.
 If your request is billable, you can post your request in
 [#microrequests](https://app.slack.com/client/T025AQGAN/CNFHBCXDW). If you do
 not have a budget for this work, please post in
-[#helpwanted](https://app.slack.com/client/T025AQGAN/C018QJ2L44X). If you are
+[`#helpwanted`](https://app.slack.com/client/T025AQGAN/C018QJ2L44X). If you are
 not sure, you can post in #microrequests and someone will point you in the right
 direction.
 
