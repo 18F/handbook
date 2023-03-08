@@ -4,7 +4,7 @@ questions:
   - dev
 redirect_from:
   - /engineering/
-cSpell: ignore QUEAAJ
+cSpell: ignore QUEAAJ,amymok,alexsoble
 ---
 
 18F Engineering is responsible for delivering high quality, robust, open source

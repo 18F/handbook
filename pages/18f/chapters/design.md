@@ -305,7 +305,7 @@ levels of access. Here’s a quick reference to who can see what, when:
 
 - Only viewable by members: Slack DMs, Slack private groups, Email
 - TTS only: open Slack channels
-- TTS plus invited guests: Slack channels labelled XXX-otheragencyhere or
+- TTS plus invited guests: Slack channels labelled `XXX-otheragencyhere` or
   XXX-partners
 - GSA only: Google Drive- you can share files outside GSA, but exercise caution!
 - Across the government: mailing lists
