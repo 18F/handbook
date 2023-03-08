@@ -83,7 +83,7 @@ cSpell: ignore Technica
 
 - **BOC** - Budget Object Code. Used for accounting.
 
-- **BPR** - Business Process Re-engineering. This is when an organization designs
+- **BPR** - Business Process Reengineering. This is when an organization designs
   new workflows to update or replace existing workflows.
 
 - **CALC** - Contract-Awarded Labor Category.
