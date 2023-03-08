@@ -140,7 +140,7 @@ read Max.gov's documentation on how to manage permissions and upload documents.
 
 Be sure you know who you need to share with before posting. Only
 .gov/.mil/.fed.us users can self-register to Max.gov; other email domains can be
-individually granted access, but you'll have to personally sponser them by
+individually granted access, but you'll have to personally sponsor them by
 making a request to MAXsupport@omb.eop.gov.
 
 ### Cloud.gov
