@@ -6,7 +6,6 @@ tags:
   - loan
 redirect_from:
   - /benefits-links/
-cSpell: ignore Quicklinks
 ---
 
 Quicklinks to access the various benefits sites as well as information on who to

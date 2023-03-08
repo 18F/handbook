@@ -13,7 +13,6 @@ tags:
   - review
 questions:
   - people-ops
-cSpell: ignore quicklinks
 ---
 
 This page contains performance management quicklinks, important dates, and
