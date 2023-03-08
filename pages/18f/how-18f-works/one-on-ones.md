@@ -2,6 +2,7 @@
 title: One-on-Ones
 redirect_from:
   - /one-on-ones/
+cSpell: ignore guysbot
 ---
 
 One-to-ones are a foundational management tool. This guide provides a template
