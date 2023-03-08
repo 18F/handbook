@@ -2,6 +2,7 @@
 title: Washington, D.C.
 redirect_from:
   - /washington-dc/
+cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten
 ---
 
 <div class="table-wrapper">
@@ -162,7 +163,7 @@ Go to the F Street entrance, where 24/7 access is available.
 Use [BookIt](https://bookit.gsa.gov) to reserve rooms. The TTS space is in the
 G100 wing.
 
-- The TTS quiet room is G122B. It is unreservable and is first-come, first
+- The TTS quiet room is G122B. It is un-reservable and is first-come, first
   served.
 - The closest reservable team rooms are G123A and G145m.
 
