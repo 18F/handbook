@@ -4,6 +4,7 @@ questions:
   - writing-lab
 redirect_from:
   - /writing-lab/
+cSpell: ignore helpwanted,writerly
 ---
 
 The Writing Lab team knows that writing is hard: It can be time consuming and
