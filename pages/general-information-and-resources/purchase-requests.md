@@ -7,6 +7,7 @@ questions:
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
 redirect_from:
   - /purchase-requests/
+cSpell: ignore dotgov
 ---
 
 ## Making a micropurchase
@@ -33,7 +34,7 @@ request standard GSA business cards, which don't reflect TTS or 18F branding.
 
 To initiate your request,
 
-1. Head to [envisionprintservices.com](https://envisionprintservices.com/).
+1. Head to <https://envisionprintservices.com>.
    Verify your email, then create an account for yourself. Use a password that
    you are comfortable sharing with a member of the TTS Ops team, as they will
    need to later log in as you and make the purchase.

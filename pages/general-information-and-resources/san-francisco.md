@@ -2,6 +2,7 @@
 title: San Francisco
 redirect_from:
   - /san-francisco/
+cSpell: ignore Lyvette,McAllister
 ---
 
 <div class="table-wrapper">
