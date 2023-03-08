@@ -1,6 +1,6 @@
 ---
 title: Security
-cSpell: ignore Kaplan,Bennetts
+cSpell: ignore Kaplan,Bennetts,scanjs
 ---
 
 ## General Security Standards
