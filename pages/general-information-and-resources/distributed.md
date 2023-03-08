@@ -2,6 +2,7 @@
 title: Distributed
 redirect_from:
   - /distributed/
+cSpell: ignore Elman,Sennheiser,Karman,Sweger
 ---
 
 <div class="table-wrapper">

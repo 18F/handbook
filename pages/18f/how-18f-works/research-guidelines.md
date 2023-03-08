@@ -4,6 +4,7 @@ questions:
   - g-research
 redirect_from:
   - /research-guidelines/
+cSpell: ignore usertesting
 ---
 
 Research isn’t only usability testing. Testing our assumptions by actively

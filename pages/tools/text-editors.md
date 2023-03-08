@@ -4,6 +4,7 @@ questions:
   - questions
 redirect_from:
   - /text-editors/
+cSpell: ignore Blockr, hubinator
 ---
 
 We use text editors to write documentation in

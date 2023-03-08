@@ -50,7 +50,7 @@ Find us on Slack:
 - [Federalist](https://federalist.18f.gov/)
 - [AP Relationship Tracker Trello](https://trello.com/b/b1xsDX88/ap-relationship-tracker) -
   private to 18F staff
-- [18F Projects Tracker Tello](https://trello.com/b/kZ7PUggv/18f-projects-tracker) -
+- [18F Projects Tracker Trello](https://trello.com/b/kZ7PUggv/18f-projects-tracker) -
   private to 18F staff
 
 ## Getting Started

@@ -2,6 +2,7 @@
 title: Chicago
 redirect_from:
   - /chicago/
+cSpell: ignore Heppner,Buren,chitown
 ---
 
 <div class="table-wrapper">

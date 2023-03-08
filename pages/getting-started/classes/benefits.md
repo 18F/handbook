@@ -2,6 +2,7 @@
 title: Benefits
 redirect_from:
   - /benefits/
+cSpell: ignore govexec,govloop,Worklife4You,AmeriCorps
 ---
 
 **If you're looking for specific benefits sites, see the [benefits links
@@ -98,7 +99,7 @@ but some highlights include:
 
 The [Employee Assistance Program (EAP)](http://www.foh4you.com/) is a free
 support resource available to all GSA federal employees. The EAP offers sessions
-with licenced or credentialed counselors on a variety of topics:
+with licensed or credentialed counselors on a variety of topics:
 
 - Grief
 - Work-related stress
@@ -245,7 +246,7 @@ through the Monday of the second full workweek in December. OPM provides a
 [detailed FAQ on eligibility](https://www.opm.gov/healthcare-insurance/Guide-Me/Federal-Employees/#url=Health)
 for federal employees.
 
-To enroll or reenroll in FEHB, elect not to enroll in FEHB, change your
+To enroll or re-enroll in FEHB, elect not to enroll in FEHB, change your
 enrollment, cancel your enrollment, or suspend your enrollment you must do so in
 HR Links by taking the following steps:
 
@@ -465,7 +466,7 @@ To fill out your PSLF application and obtain employer verification:
 
     {% image "_img/pslf/pslf-document-add-signature.png" "Screenshot of DocuSign interface showing how to add a signature field for 'Authorized Official's Signature' in Section 4 of the document by dragging the 'Signature' field from the left sidebar to that line in the document" %}
 
-18. Click the "Send" buttom at the bottom right corner of the screen to send
+18. Click the "Send" button at the bottom right corner of the screen to send
     your document for signing.
 19. Once you receive an email confirming that your document has been signed,
     download the signed document.

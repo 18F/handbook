@@ -8,6 +8,7 @@ questions:
   - outreach
 redirect_from:
   - /blogging/
+cSpell: ignore retroed
 ---
 
 This guide helps TTS employees through the blogging process and assists them in

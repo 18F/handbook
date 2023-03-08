@@ -12,6 +12,7 @@ tag:
   - guide
 redirect_from:
   - /fas-speaker-guide/
+cSpell: ignore Simms
 ---
 
 _This guide was created with content from the GSA's Office of Strategic
@@ -96,7 +97,7 @@ event in your professional or personal capacity:
 
 ## Getting approval when speaking in your professional capacity
 
-If you and your supervisor decide this is a good oportunity for yourself and
+If you and your supervisor decide this is a good opportunity for yourself and
 TTS, arrange a call with the event host and ask them the following questions.
 You'll need this information for the approval process:
 

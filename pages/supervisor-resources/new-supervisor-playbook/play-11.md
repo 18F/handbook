@@ -75,7 +75,7 @@ as soon as possible, so you are operating with the proper guidance and support.
 - Involve your supervisor and HR to make sure you are operating with appropriate
   guidance and support; you never need to take action alone when it comes to
   performance issues
-- Prepare for conversations with an underperforming employee: consider
+- Prepare for conversations with an under-performing employee: consider
   role-playing with another supervisor the questions and conversation you would
   like to have
 - Send a follow-up message after performance conversations, documenting expected

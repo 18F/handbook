@@ -9,6 +9,7 @@ questions:
   - questions
 redirect_from:
   - /glossary/
+cSpell: ignore Technica
 ---
 
 - **[10X](https://10x.gsa.gov/)** - A way for federal employees across the

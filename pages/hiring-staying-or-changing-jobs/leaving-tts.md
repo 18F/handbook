@@ -100,7 +100,7 @@ document.
     grade, and other information useful to you or required if applying for
     reinstatement.
   - [eOPF](https://eopf.opm.gov/gsa/) supports an offline "print" function that
-    will allow you to output all your files. You will want to allott ~1hr for
+    will allow you to output all your files. You will want to allot ~1hr for
     the creation of this file.
 
 ### 5. Update your accounts

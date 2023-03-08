@@ -43,7 +43,7 @@ Compressed schedule examples - in a 2 week pay period:
 - Example 1: You work four, 10 hour days each week. You have one specific day off each week.
 - Example 2: One week, you work four 9 hour days and one 8 hour day (44 hours). The other week, you work four 9 hour days (36 hours) and have a specific day off.
 
-### Flexible schedue
+### Flexible schedule
 A type of schedule in which you might:
 - Arrive/depart at different times, depending on the day AND/OR
 - Work a different number of hours, depending on the day AND/OR

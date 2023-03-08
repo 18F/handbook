@@ -2,6 +2,7 @@
 title: Infrastructure
 questions:
   - infrastructure
+cSpell: ignore pipenv,virtualenv
 ---
 
 ## Overview
@@ -176,7 +177,7 @@ Anyone in TTS can get an access to any of the three (3) Cloud Service Provider
 
 Sandbox users have `power user` access, which means they have full privileges to
 all services except for Identity and Access Management (IAM). Program account
-requests will be isseued `administrator` access.
+requests will be issued `administrator` access.
 
 - [Request an account](https://docs.google.com/forms/d/e/1FAIpQLSfK3jioq5BuZALB9dbWHDHaiwLteK1Aua3TspfWPjlMTBYVJg/viewform)
 
@@ -742,8 +743,8 @@ You will want to know if your site goes down. Options (as of 1/20):
 Projects can supplement their uptime/ping services together with a status, by
 embedded it as an `<iframe></iframe>` on their own sub-domain. This allows the
 team to provide one place for their customers to go for the system's about how
-you are responsing to the outage and/or annoucements of degraded services or
-maintainace periods.
+you are responding to the outage and/or announcements of degraded services or
+maintenance periods.
 
 ##### Static site (JAMstack) alternatives:
 
@@ -969,7 +970,7 @@ Requirement - see the “Audit and Accountability” doc on
   - Logs with sensitive data are only available to appropriate people
   - Logs can be browsed/drilled with low-latency (e.g. grepping not necessary)
 
-## Decomissioning
+## Decommissioning
 
 To decide whether a site needs to be decommissioned, use the following decision
 trees. Is the site required by law/policy?

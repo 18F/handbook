@@ -35,7 +35,7 @@ access if you will be using Mural irregularly.
   murals related to the project in that room. If you invite them as guests to
   the room, they will automatically have access to all murals in that room.
   Guests do not cost any money to add, so add your partners!
-- If you add or offboard guests, please let the Mural adminstrator know in the
+- If you add or offboard guests, please let the Mural administrator know in the
   {% slack_channel "admins-mural" %} Slack channel, so they can track who is a
   part of the TTS Mural organization. If you do not want to add or offboard
   guests yourself, you can ask for them to be added in

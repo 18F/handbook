@@ -220,7 +220,7 @@ _(these are from your Acq Chapter friends)_
   you’re experiencing before and can offer a hand, ear, or whatever other body
   part you may need given the circumstances.
 
-- **Not everyone is ready for the 18F way on day one.** Our prinicples mirror
+- **Not everyone is ready for the 18F way on day one.** Our principles mirror
   agile software development and we are committed to modern procurement
   practices (ie. modular contracting). It’s ok to recognize that implementing
   new practices can be difficult and challenging. What’s worse would be to force

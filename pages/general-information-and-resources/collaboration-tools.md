@@ -4,6 +4,7 @@ questions:
   - questions
 redirect_from:
   - /collaboration-tools/
+cSpell: ignore Intelink
 ---
 
 Collaboration is a critical part of our work and organizational philosophy.

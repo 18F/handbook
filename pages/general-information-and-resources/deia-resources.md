@@ -15,7 +15,7 @@ diversity and inclusion principles and best-practices:
 - [18F Inclusive Language Guide](https://content-guide.18f.gov/inclusive-language/) -
   Principles, resources, and suggestions for writing and talking about diverse
   groups of people.
-- [“Here’s EY’s Simple But Effective Strategy For Increasing Diversity”](https://fortune.com/2017/02/10/ey-simple-effective-diversity-inclusiveness-strategy/) -
+- [“Here’s EY's Simple But Effective Strategy For Increasing Diversity”](https://fortune.com/2017/02/10/ey-simple-effective-diversity-inclusiveness-strategy/) -
   Is something a preference, tradition, or requirement? This article covers how
   Ernst and Young used the “PTR” framework to hire a more diverse workforce. It
   can be used widely to critically assess all aspects of a work culture.

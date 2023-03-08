@@ -146,7 +146,7 @@ have ‘due dates’ and must be completed on time.
 ## Additional resources
 
 If you have questions about the onboarding classes and/or training schedule,
-please reach out in your #newhire cohort channel (which you will be added to on
+please reach out in your `#newhire` cohort channel (which you will be added to on
 your first day) and/or you can reach out to the onboarding team via the
 [#onboarding](https://gsa-tts.slack.com/archives/C03JL6MV4NR) Slack channel.
 
@@ -154,4 +154,4 @@ your first day) and/or you can reach out to the onboarding team via the
 
 - [tts-onboarding@gsa.gov](mailto:tts-onboarding@gsa.gov)
 - [#onboarding](https://gsa-tts.slack.com/archives/C03JL6MV4NR)
-- Your #newhire cohort channel
+- Your `#newhire` cohort channel

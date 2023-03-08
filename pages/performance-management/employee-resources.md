@@ -28,7 +28,7 @@ page for the Performance Management Employee Checklist.
 
 ## Performance review training sessions
 
-The resources below are still applicable to the FY22 performance managment
+The resources below are still applicable to the FY22 performance management
 closeout and FY23 performance plan establishment process.
 
 - [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)

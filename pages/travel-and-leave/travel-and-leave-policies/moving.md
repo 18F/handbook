@@ -34,8 +34,8 @@ If you plan to permanently move or relocate for longer than 120 days, email
 [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) as soon as possible, and
 copy your supervisor on the email. Please provide the following information:
 
-- The city, county, state, zipcode that you are moving to.
-  - If you are staying in the same city, county, state, or zipcode, make a note
+- The city, county, state, ZIP code that you are moving to.
+  - If you are staying in the same city, county, state, or ZIP code, make a note
     of that.
 - The effective date for your move. The effective date needs to be the start of
   a pay period. You can find pay period dates via

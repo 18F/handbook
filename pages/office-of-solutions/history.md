@@ -5,6 +5,7 @@ redirect_from:
   - /solutions-history/
 questions:
   - solutions
+cSpell: ignore Gobierno,Guía,Consumidor
 ---
 
 A brief history of TTS Solutions is hard to write: our work spans six decades

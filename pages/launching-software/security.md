@@ -1,5 +1,6 @@
 ---
 title: Security
+cSpell: ignore Kaplan,Bennetts,scanjs
 ---
 
 ## General Security Standards
@@ -9,7 +10,7 @@ information systems is the Federal Information Security Modernization Act
 (FISMA). For more information on FISMA, check out the
 [FISMA Implementation Project ](https://csrc.nist.gov/projects/risk-management),
 which will help you stay up to date and in the know about all things FISMA. If
-you're inclined to see TTS' intepretation of FISMA from a user-center approach,
+you're inclined to see TTS' interpretation of FISMA from a user-center approach,
 take a look at a previous project from the TTS Tech Portfolio and cloud.gov
 known as [FISMA Ready](https://github.com/fisma-ready/introduction).
 
@@ -27,7 +28,7 @@ from one of the 18F engineers. Here are a few pointers to get you started:
   [whether or not you will need to conduct a Privacy Impact Assessment
   (PIA)]({% page "/launching-software/privacy/" %}).
 - Be wary of systems that:
-  - trust unsanitized information from the internet
+  - trust un-sanitized information from the internet
   - do not encrypt data, both at rest and in transit
   - may be subject to privilege escalation
   - other items from the

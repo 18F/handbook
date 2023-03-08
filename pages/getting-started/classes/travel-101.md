@@ -7,6 +7,7 @@ current_step: 1
 sidebar:
   kind: travel
   current: Travel 101
+cSpell: ignore Djemila
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
@@ -75,7 +76,7 @@ way, there are three main parts of the travel process to be aware of:
 There are also a few specialized guides to be aware of for the following
 situations:
 
-- [Rebooking and changing official travel
+- [Re-booking and changing official travel
   plans]({% page "/travel-guide-a-amended-authorizations/" %})
 - [After hours and emergency
   travel]({% page "/travel-guide-b-after-hours-emergency-travel-authorizations" %})

@@ -45,7 +45,7 @@ organization, including:
 
 Find us on Slack:
 
-- {% slack_channel "18f-design" %} — Our homebase for chapter conversation and news
+- {% slack_channel "18f-design" %} — Our home base for chapter conversation and news
 - {% slack_channel "design" %} (TTS-wide)
 - {% slack_channel "content-design" %}
 - {% slack_channel "service-design" %}
@@ -305,7 +305,7 @@ levels of access. Here’s a quick reference to who can see what, when:
 
 - Only viewable by members: Slack DMs, Slack private groups, Email
 - TTS only: open Slack channels
-- TTS plus invited guests: Slack channels labelled XXX-otheragencyhere or
+- TTS plus invited guests: Slack channels labelled `XXX-otheragencyhere` or
   XXX-partners
 - GSA only: Google Drive- you can share files outside GSA, but exercise caution!
 - Across the government: mailing lists

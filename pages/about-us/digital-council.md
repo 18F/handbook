@@ -5,6 +5,7 @@ questions:
   - tts-digital-council@gsa.gov
 redirect_from:
   - /digital-council/
+cSpell: ignore Huie
 ---
 
 The Technology Transformation Service (TTS) Digital Council, formerly the

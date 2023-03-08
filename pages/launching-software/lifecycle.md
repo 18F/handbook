@@ -1,5 +1,6 @@
 ---
 title: Lifecycle of a Launch
+cSpell: ignore OmniGraffle,codecov
 ---
 
 ## ATOs
@@ -236,7 +237,7 @@ pre-existing security authorization, if all of the following conditions are met:
 
 For systems where _all_ of the information in the system is already publicly
 available and is non-confidential, the last step can be skipped once you have
-begun your ATO assesment with GSA IT.
+begun your ATO assessment with GSA IT.
 
 ## System Security Plan
 

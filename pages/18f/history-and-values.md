@@ -5,6 +5,7 @@ questions:
 redirect_from:
   - /18f-history-and-values/
 outdated: true
+cSpell: ignore Schneier,perma
 ---
 
 18F stands on the shoulders of giants! These teams paved the way for our
@@ -13,7 +14,7 @@ Management Lab (focused on user experience, user research, and human-centered
 design in government), the Sunlight Foundation, Code for America, the
 [Office of Products and Programs](https://www.gsa.gov/portal/content/124174)
 (our sister org, which has been around for a decade and runs things like
-USA.gov), the U.S. CTO’s office, and the Presidential Innovation Fellowship.
+USA.gov), the U.S. CTO's office, and the Presidential Innovation Fellowship.
 
 The hypothesis was simple: the U.S. government could attract talented
 technologists to the civil service by enticing them with meaty problems and an

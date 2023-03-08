@@ -2,6 +2,7 @@
 title: Leading projects at 18F
 redirect_from:
   - /leading-projects/
+cSpell: ignore evals
 ---
 
 Each team has a project lead who coordinates and represents the project, both to

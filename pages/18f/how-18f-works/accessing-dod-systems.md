@@ -27,7 +27,7 @@ to gain access to the partner's network and systems.
 
 This form will need to be e-signed by both you and your supervisor using either
 a DOD CAC (preferred), PIV provided by GSA, or as a last resort with
-[Docusign]({% page "/digital-signatures/" %}), but you will need to ensure
+[DocuSign]({% page "/digital-signatures/" %}), but you will need to ensure
 fields #21 and #22 remain editable for DOD to edit by assigning someone to
 update the fields.
 

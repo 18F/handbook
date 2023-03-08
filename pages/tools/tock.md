@@ -26,7 +26,7 @@ redirect_from:
 - **Extended Out of Office - #1810:** Intended for if you are Out of Office for
   3 weeks or longer continuously, or will be using extensive donated or
   unaccrued leave, such as using Paid Parental Leave part-time each week for 5
-  or 6 months. Intended expecially to capture:
+  or 6 months. Intended especially to capture:
   - Paid Parental Leave,
   - Medical or disability leave,
   - Extended jury leave, or
@@ -42,7 +42,7 @@ redirect_from:
 - **18F Engagement Management - project ID varies:** This code is used for
   non-primary project team members for any support given to the project,
   including staffing the project, providing feedback to their staff regarding
-  their project, conducting post-mortems, meeting to share information and
+  their project, conducting postmortems, meeting to share information and
   lessons learned from other projects, etc.
 - **18F Administrative & Supervisory - #1814:** This tracks the work supervisors
   do supporting their direct reports AND time individuals spend on mandated
@@ -80,7 +80,7 @@ redirect_from:
   - Writing interview guides or questions, and
   - Writing specialized experience.
 
-  New employee onboarding activies during the first two weeks should also be
+  New employee onboarding activities during the first two weeks should also be
   billed here. Those include:
 
   - Getting set up with laptops and accounts,
@@ -240,7 +240,7 @@ for. We have a legal obligation to bill for them. They include:
   - Time writing about your project on the blog
   - Time onboarding to a project, which includes reading documentation and
     learning about the agency
-  - Time offboarding from a project. This includes post-mortems, writing
+  - Time offboarding from a project. This includes postmortems, writing
     documentation, and organizing your working files so that other people could
     pick it up later and continue your work
   - Business development and IAA work (for continuing projects only)
