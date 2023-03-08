@@ -4,6 +4,7 @@ questions:
   - tts-oa
 redirect_from:
   - /management-reviews-of-procurement-actions/
+cSpell: ignore FedBizOpps,Praske
 ---
 
 STANDARD OPERATING PROCEDURE: TC-18-CS1-001

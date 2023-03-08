@@ -12,6 +12,7 @@ tag:
   - guide
 redirect_from:
   - /fas-speaker-guide/
+cSpell: ignore Simms
 ---
 
 _This guide was created with content from the GSA's Office of Strategic
