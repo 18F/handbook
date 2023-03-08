@@ -1,6 +1,7 @@
 ---
 title: Contributing to the Handbook
 permalink: /contributing/
+cSpell: ignore Ooph,tada
 ---
 
 So you want to contribute to the Handbook? Great! We're glad you're here. This
