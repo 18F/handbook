@@ -18,7 +18,7 @@ accounts and apps.
 
 This is your account for signing into systems administered by GSA, including
 your email, calendar, and Google Drive. Your ENT account name is in the form
-FirstnameMiddleinitialLastname (Ex: JohnASmith). For guidance on secure
+`FirstnameMiddleinitialLastname` (Ex: `JohnASmith`). For guidance on secure
 passwords, reference this [page]({% page "/password-requirements" %}).
 
 When you login with ENT while not connected to a GSA wireless network, you will
