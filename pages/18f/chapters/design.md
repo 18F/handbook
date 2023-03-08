@@ -45,7 +45,7 @@ organization, including:
 
 Find us on Slack:
 
-- {% slack_channel "18f-design" %} — Our homebase for chapter conversation and news
+- {% slack_channel "18f-design" %} — Our home base for chapter conversation and news
 - {% slack_channel "design" %} (TTS-wide)
 - {% slack_channel "content-design" %}
 - {% slack_channel "service-design" %}
