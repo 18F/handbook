@@ -5,7 +5,7 @@ questions:
   - g-diversity
 redirect_from:
   - /deaf-hoh/
-cSpell: ignore Koudry
+cSpell: ignore Koudry,Mulvaney
 ---
 
 Tools, services, points of contact, and tips for navigating the resources
@@ -48,7 +48,7 @@ To access captioning services:
   - **Start and End time (include timezone):**
   - **Names of the speakers / panelist / participants** that are going to
     present on the event:
-  - **Prepartion materials** (acronyms, agenda, PowerPoint, documents) anything
+  - **Preparation materials** (acronyms, agenda, PowerPoint, documents) anything
     that will help the Writer/Captioner to prepare for the call: i.
   - _Optional information to provide:_ What platform the event will be on and
     URL of the event.
