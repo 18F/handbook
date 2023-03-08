@@ -5,6 +5,7 @@ questions:
   - g-diversity
 redirect_from:
   - /deaf-hoh/
+cSpell: ignore Koudry
 ---
 
 Tools, services, points of contact, and tips for navigating the resources
