@@ -155,6 +155,7 @@
         "SFMTA",
         "signup",
         "skillset",
+        "skillsets",
         "Skillsoft",
         "Slackbot",
         "SLDP",
@@ -196,6 +197,7 @@
         "Whiteboarding",
         "wireframes",
         "womxn",
+        "workshopping",
         "XKCD"
     ],
     "ignoreWords": [],

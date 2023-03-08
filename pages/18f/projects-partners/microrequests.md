@@ -4,6 +4,7 @@ questions:
   - microrequests
 redirect_from:
   - /microrequests/
+cSpell: ignore helpwanted
 ---
 
 ## What is a microrequest?
