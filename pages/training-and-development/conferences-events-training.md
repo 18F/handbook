@@ -129,7 +129,7 @@ will need to complete for your request.
    - This
      [OLU Job Aid](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf)
      has instructions on how to Create, Submit, PDF, and Verify an SF-182.
-2. Your supervisor’s name should auto-populate. Not seeing your supervisor's name? You can add an additional supervisor for approval by scrolling to the bottom of the SF-182 approval status selection. The SF-182 only needs one approval to be completed. Email TTS-Events@gsa.gov if you need assistance.
+2. Your supervisor’s name should auto-populate. (Not seeing your supervisor's name? You can add an additional supervisor for approval by scrolling to the bottom of the SF-182 approval status selection. The SF-182 only needs one approval to be completed. Email TTS-Events@gsa.gov if you need assistance.)
 3. After submitting the SF-182 for approval, you will receive an email
    notification when the SF-182 is approved.
 4. Once your SF-182 is approved, save a PDF copy by following the 'Create A PDF'
