@@ -56,7 +56,7 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 [Login Deputy Director Detail](https://docs.google.com/document/d/14eiXe_uTNS34TLo6ba-psqJf6YhX21ny473qNJo2Xg0/edit#)- Open Tuesday, March 7th through Tuesday, March 14th 
 
-[Benefits Studio IT Specialist (Service Designer) Reassignment](https://docs.google.com/document/d/1AtCurRVrml1Bn2aqfJJg79ifIVTqazxEquJoP_6H_yc/edit?usp=sharing)-Open Monday, March 13th through Tuesday March, 21st. 
+[Benefits Studio IT Specialist (Service Designer) Reassignment](https://docs.google.com/document/d/1AtCurRVrml1Bn2aqfJJg79ifIVTqazxEquJoP_6H_yc/edit?usp=sharing)-Open Monday, March 13th through Tuesday, March, 21st 
 
 ## Opportunities with partners
 
