@@ -52,8 +52,6 @@ person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
 ### Internal only opportunities
 
-[Tribal Nations, American Indians and Alaska Natives (AI/AN) Project Support Detail](https://docs.google.com/document/d/1f1O3k36ZcaR-KSdfeGs01NaYZOa09lAx2tr7RKEDILw/edit)- Open Friday, March 3rd through Friday, March 17th 
-
 [Benefits Studio IT Specialist (Service Designer) Reassignment](https://docs.google.com/document/d/1AtCurRVrml1Bn2aqfJJg79ifIVTqazxEquJoP_6H_yc/edit?usp=sharing)- Open Monday, March 13th through Tuesday, March 21st 
 
 ## Opportunities with partners
