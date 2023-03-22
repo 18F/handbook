@@ -23,11 +23,6 @@ module.exports = function (config) {
 
   config.addPassthroughCopy({ "js/publish/*.js": "assets/js" });
 
-  // Copy Netlify config straight through
-  config.addPassthroughCopy({
-    "config/netlify.yml": "admin/config.yml",
-  });
-
   // Copy USWDS init JS so we can load it in HEAD to prevent banner flashing
   config.addPassthroughCopy({
     "./node_modules/@uswds/uswds/dist/js/uswds-init.js":

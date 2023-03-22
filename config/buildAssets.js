@@ -37,7 +37,7 @@ async function createAssetPaths() {
 const main = async () => {
   esbuild
     .build({
-      entryPoints: ["styles/styles.scss", "js/app.js", "js/admin.js"],
+      entryPoints: ["styles/styles.scss", "js/app.js"],
       entryNames: "[dir]/[name]-[hash]",
       outdir: "_site/assets",
       format: "iife",
