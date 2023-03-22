@@ -186,7 +186,7 @@ skills. If so, some options you might want to look at include:
 
 - Billable projects — Cloud.gov and Login.gov often can use some extra help
   across a broad range of skill sets. Check their staffing issues.
-- {% slack_channel "microrequests" %} may have a small (less than 12 hours,
+- {% slack_channel "18f-helpwanted" %} may have a small (less than 12 hours,
   usually) project that needs some engineering help
 - Non-billable projects — talk with your supervisor about pitching in on an
   internal project like Tock
