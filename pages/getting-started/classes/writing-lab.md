@@ -75,11 +75,11 @@ ask for guidance on getting somebody assigned to your project.
 ### How do I ask for help?
 
 If your request is billable, you can post your request in
-[#microrequests](https://app.slack.com/client/T025AQGAN/CNFHBCXDW). If you do
-not have a budget for this work, please post in
-[`#helpwanted`](https://app.slack.com/client/T025AQGAN/C018QJ2L44X). If you are
-not sure, you can post in #microrequests and someone will point you in the right
-direction.
+{% slack_channel "microrequests" %}. If you do not have a budget for this work,
+please post in {% slack_channel "tts-helpwanted" %}, or
+{% slack_channel "18f-helpwanted" %} for work on 18F products. If you are not
+sure, you can post in {% slack_channel "microrequests" %} and someone will point
+you in the right direction.
 
 ### What should I do if my issue isn't picked up?
 
