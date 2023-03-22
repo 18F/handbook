@@ -17,9 +17,11 @@ than this will be handled on a case-by-case basis and may be handed off to the
 
 ## Is your request billable?
 
-If so, direct your request to #microrequests channel. If your tasks is
-non-billable, post it in `#helpwanted`. If you are unsure, post in #microrequests
-and a channel manager will let you know.
+If so, direct your request to {% slack_channel "microrequests" %} channel. If
+your tasks is non-billable, post it in {% slack_channel "18f-helpwanted" %} or
+{% slack_channel "tts-helpwanted" %} for support from outside of 18F. If you are
+unsure, post in {% slack_channel "microrequests" %} and a channel manager will
+let you know.
 
 ## What capabilities can be extended through the microrequest process?
 
@@ -31,13 +33,13 @@ and a channel manager will let you know.
   fixes, training, pairing, and more
 - Design tasks such as scoping, ideating, structuring, creating, styling, and/or
   refining design deliverables.
-- Something else or not sure? Ask in #microrequests and we’ll do our best to
-  find help or direct you to the right place.
+- Something else or not sure? Ask in {% slack_channel "microrequests" %} and
+  we’ll do our best to find help or direct you to the right place.
 
 ## What is the process for making a microrequest?
 
-Describe your need in the #microrequests channel, where one of our channel
-managers will help to scope it and will then submit a
+Describe your need in the {% slack_channel "microrequests" %} channel, where one
+of our channel managers will help to scope it and will then submit a
 [staffing request](https://github.com/18F/staffing/issues). Please do not
 request specific people when making your requests. The staffing leads will work
 to identify the right people to help you.
@@ -70,10 +72,11 @@ should provide the Tock line to use.
 
 18F has individual agreements with TTS Solutions, Login, PIF, TTS Front Office
 and CoE. The necessary tock line and approver (if applicable) is documented in
-the #microrequests channel topic . The agreements covers the costs associated
-with the 18F labor, but the requests must still adhere to the definitions above.
-That is, microrequests will be fulfilled when they don’t impact 18F’s ability to
-deliver on other partner projects to which people are staffed.
+the {% slack_channel "microrequests" %} channel topic . The agreements covers
+the costs associated with the 18F labor, but the requests must still adhere to
+the definitions above. That is, microrequests will be fulfilled when they don’t
+impact 18F’s ability to deliver on other partner projects to which people are
+staffed.
 
 If you’re working on a microrequest, remember that microrequests that are
 related to billable projects or that fall within the TTS sibling org agreement
