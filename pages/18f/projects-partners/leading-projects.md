@@ -63,7 +63,7 @@ Missteps on projects will happen. Teams do not have a crystal ball into partner
 expectations or communication preferences. This is a good time to bring in a
 facilitator from outside the project to help the team reflect on what is and
 isn’t going well, and then help the team come up with alternative methods in the
-future. Try {% slack_channel "helpwanted" %} to ask for a facilitator.
+future. Try {% slack_channel "18f-helpwanted" %} to ask for a facilitator.
 
 ### Manage work so it is equitably distributed
 

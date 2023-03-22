@@ -54,7 +54,7 @@ Find us on Slack:
 - {% slack_channel "g-content" %}
 - {% slack_channel "g-research" %}
 - {% slack_channel "microrequests" %}
-- {% slack_channel "helpwanted" %}
+- {% slack_channel "18f-helpwanted" %}
 - {% slack_channel "dev-frontend" %}
 - {% slack_channel "18f-methods" %}
 
