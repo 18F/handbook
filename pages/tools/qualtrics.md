@@ -2,6 +2,7 @@
 title: Qualtrics
 redirect_from:
   - /qualtrics/
+cSpell: ignore insite
 ---
 
 Qualtrics is GSA’s enterprise survey management tool and is the only approved

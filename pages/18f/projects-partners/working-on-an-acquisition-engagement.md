@@ -10,6 +10,7 @@ questions:
   - acquisition
 redirect_from:
   - /working-on-an-acquisition-engagement/
+cSpell: ignore FedBizOpps
 ---
 
 So you’ve been staffed to a procurement project. Here are some common questions
@@ -70,7 +71,7 @@ services to the people they serve. In order for our work to outlast our
 engagements, we focus not only on creating digital solutions, but also on
 building our partners’ capabilities in the practices we believe lead to better
 outcomes—practices like iterative human-centered design and collaborative and
-open workstyles.
+open work styles.
 
 However, no matter how well-versed our partners become in these practices, the
 reality is that most government agencies do not have the in-house resources to

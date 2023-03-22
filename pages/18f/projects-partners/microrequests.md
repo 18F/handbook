@@ -18,7 +18,7 @@ than this will be handled on a case-by-case basis and may be handed off to the
 ## Is your request billable?
 
 If so, direct your request to #microrequests channel. If your tasks is
-non-billable, post it in #helpwanted. If you are unsure, post in #microrequests
+non-billable, post it in `#helpwanted`. If you are unsure, post in #microrequests
 and a channel manager will let you know.
 
 ## What capabilities can be extended through the microrequest process?

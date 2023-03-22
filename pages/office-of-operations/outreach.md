@@ -2,6 +2,7 @@
 title: TTS Outreach
 redirect_from:
   - /outreach/
+cSpell: ignore Vanamali,Dahianna,Sigritz
 ---
 
 TTS Outreach is responsible for the TTS brand with audiences both internal and

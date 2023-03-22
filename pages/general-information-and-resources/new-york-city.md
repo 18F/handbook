@@ -2,6 +2,7 @@
 title: New York City
 redirect_from:
   - /new-york-city/
+cSpell: ignore Brookfield
 ---
 
 <div class="table-wrapper">
@@ -159,7 +160,7 @@ Slack.
 TTS folx in the office usually range from casual t-shirts to business casual
 (jeans and a collared shirts, or blouse). Suits would not be out of place, but
 are not universal (and pretty rare for TTS folks when we come into the office).
-The office can be a little cold so cardigans, blazers, or sportscoats (sweaters
+The office can be a little cold so cardigans, blazers, or sportcoats (sweaters
 and hoodies are pretty common, too). On your first day, folks from other parts
 of GSA will mostly be dressed business casual. Your first step onboarding
 includes being sworn in as a civil servant, which in the New York office likely

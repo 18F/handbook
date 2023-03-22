@@ -2,6 +2,7 @@
 title: Code of conduct
 redirect_from:
   - /code-of-conduct/
+cSpell: ignore neuro
 ---
 
 ## Introduction

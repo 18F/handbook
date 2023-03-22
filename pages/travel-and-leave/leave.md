@@ -155,7 +155,7 @@ Before taking leave, be sure to:
   covered.
   - Notify your Engagement Manager, Account Manager, and project lead, if
     applicable.
-- Set up an email autoresponder as appropriate. This should include both when
+- Set up an email auto-responder as appropriate. This should include both when
   you’ll be back and a point of contact/team email for while you’re out.
   - For example:
     `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email [email address] and your request will be directed to the appropriate party.`
@@ -193,7 +193,7 @@ restrictions do not apply.
 
 ### Notifying GSA of international travel (for security clearance holders)
 
-If you are travelling internationally and hold a security clearance, you are
+If you are traveling internationally and hold a security clearance, you are
 required to notify GSA. Follow the
 [guidance on international travel for clearance holders](https://insite.gsa.gov/services-and-offices/staff-offices/office-of-mission-assurance/divisions-program-offices/personnel-security-division/foreign-travel-information-page)
 that is on InSite. This notification is optional if you do not hold a clearance.

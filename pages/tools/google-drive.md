@@ -29,7 +29,7 @@ to use our Google Drive.
   attention right away.
 - You can create and share whole folders; new files in a folder auto-inherit the
   sharing settings.
-- Most business units have a team folder in Drive to faciliate collaboration.
+- Most business units have a team folder in Drive to facilitate collaboration.
 - You can't publish files to the web or share them with the public, even just to
   view; only GSA or specific users.
 - If another agency employs Google Docs, documents can be shared directly with

@@ -69,3 +69,21 @@ jobs:
         with:
           node-version: 18
       - run: npm run test:prefixed-links
+
+  check_spelling:
+    needs: [build]
+    name: "Check Spelling"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        with:
+          key: ${{ needs.build.outputs.cache_key }}
+          path: .
+      - uses: actions/setup-node@v3
+        name: Setup node
+        with:
+          node-version: 18
+      - name: Install cSpell
+        run: npm install -g cspell
+      - name: Run cSpell
+        run: cspell --config ./cSpell.json "pages/**/*.md" --no-progress

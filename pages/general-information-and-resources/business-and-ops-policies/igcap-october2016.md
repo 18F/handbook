@@ -15,7 +15,7 @@ a Corrective Action Plan (CAP). This provides the IG with 18F's plan to correct
 any issues the IG highlighted in their report.
 
 18F submitted the first deliverables of the CAP on February 28, 2017. There are
-additional deliverables due througout 2017, and those items will be added as
+additional deliverables due throughout 2017, and those items will be added as
 they are completed.
 
 ## Corrective Action Plan Deliverables

@@ -81,7 +81,7 @@ days (240 days total), provided that:
   federal policy and bargaining unit (union) contracts around temporary
   promotions.
 
-Details may exceed 240 days if documented in an IAA or MOU’s period of
+Details may exceed 240 days if documented in an IAA or MOU's period of
 performance.
 
 ### Security Verification

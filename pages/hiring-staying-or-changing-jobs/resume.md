@@ -6,6 +6,7 @@ questions:
   - joinTTS@gsa.gov
 redirect_from:
   - /resume/
+cSpell: ignore Awesomeboss,Grandboss,Minne,minnewebcon,csmap,PSEWEB,gummi,amandaesque,Lutefisk
 ---
 
 This page provides an overview with examples of how to write a federal

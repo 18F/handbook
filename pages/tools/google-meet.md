@@ -47,7 +47,7 @@ editing is restricted. Here's how:
 - Use the
   [Google Meet Grid View](https://chrome.google.com/webstore/detail/google-meet-grid-view/ecmogldeoigldjmgieekjifmhaboipmc/related)
   extension to be able to see a large number of participants at once
-  - Note this is a GSA-pakaged version of
+  - Note this is a GSA-packaged version of
     [the open source extension](https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension)
 
 ### Fix audio issues

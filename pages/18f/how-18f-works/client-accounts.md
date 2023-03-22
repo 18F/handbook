@@ -5,6 +5,7 @@ questions:
   - legalstuff
 redirect_from:
   - /client-accounts/
+cSpell: ignore minimis
 ---
 
 _This control document outlines how 18F conducts business._

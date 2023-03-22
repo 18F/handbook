@@ -3,6 +3,7 @@ title: Inclusion Bot
 questions:
   - g-diversity
   - g-accessibility
+cSpell: ignore Rottenberg
 ---
 
 An inclusive culture is built one interaction at a time, and language is the

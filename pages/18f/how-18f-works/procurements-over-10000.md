@@ -5,6 +5,7 @@ tags:
   - purchases
 redirect_from:
   - /procurements-over-10000/
+cSpell: ignore FedBizOpps,ebuy
 ---
 
 Buying something over $10,000 means that the Office of Acquisition (OA) needs to

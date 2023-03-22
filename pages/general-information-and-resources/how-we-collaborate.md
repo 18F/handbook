@@ -2,6 +2,7 @@
 title: How we collaborate
 redirect_from:
   - /how-we-collaborate/
+cSpell: ignore facemute
 ---
 
 We [work with partners]({% page "/how-we-relate-to-partners/" %}) and use

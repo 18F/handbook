@@ -94,7 +94,7 @@ Nevertheless, a permanent supervisory cohort also presents unique opportunities
 for DEIA goals. First, if we are intentional about evaluating and measuring
 supervisors' commitment to DEIA, we are more likely to embed DEIA goals across
 the entire organization. Second, by investing in training for a permanent
-supervisory cohort, we can level up TTS's commitment to currently undersupported
+supervisory cohort, we can level up TTS's commitment to currently under-supported
 efforts (e.g., reasonable accommodations or sponsorship). Third, by reducing the
 _churn_ associated with supervisory roles, there is greater opportunity to
 clarify career progression opportunities, which benefits all TTS employees but

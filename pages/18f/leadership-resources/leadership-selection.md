@@ -92,7 +92,7 @@ selecting 18F supervisors and team leads.
    already have question banks for most roles, so look there first.
 
 - Talent is putting together a Supervisory Interview Guide that all should be
-  used for all Supevisory roles. That will be finalized soon.
+  used for all Supervisory roles. That will be finalized soon.
 
 ### What you have now
 

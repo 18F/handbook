@@ -4,6 +4,7 @@ outdated: true
 redirect_to: /office-of-solutions/tech-portfolio/
 redirect_from:
   - /intro-to-tts-tech-portfolio/
+cSpell: ignore contributable
 ---
 
 This page provides an overview of the TTS Tech Portfolio team (formally known as
@@ -78,7 +79,7 @@ something but not Person B. You alone, for example, can't decide if a friend of
 yours, especially a friend outside of government, can help on a project (this
 includes things like contributing code and reviewing a Google Doc) if that
 project itself is not already contributable by the public at large. There are
-multiple laws and regs that interact with each other around this space, but the
+multiple laws and regulations that interact with each other around this space, but the
 bottom line is that a democratic government cannot make capricious decisions
 around who gets in.
 

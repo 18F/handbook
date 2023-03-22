@@ -19,7 +19,7 @@ enforcement tool from HR or others.
 
 ## Principles
 
-The Handook should always aim to be:
+The Handbook should always aim to be:
 
 - **Open**: To build trust among TTS staff members, with the public, and to make
   the information as easy-to-access as possible, content should be open to all.

@@ -11,6 +11,7 @@ redirect_from:
 sidebar:
   kind: travel
   current: FAQ
+cSpell: ignore Trav,DeLeve,Brydges,Nico,Papafil,Mahan,Rostami
 ---
 
 ## Questions about booking travel
@@ -317,8 +318,8 @@ flagged. If this applies to you,
 
 #### Additional step if you are extending travel for personal reasons
 
-[Deleting hotel expenses](#deleting-expenses) which autopopulate on your
-authorization is relatively straighforward, but
+[Deleting hotel expenses](#deleting-expenses) which auto-populate on your
+authorization is relatively straightforward, but
 [an additional step is required](#how-can-i-remove-extra-days-at-personal-expense-from-my-authorization-or-voucher)
 to remove M&IE. In some cases, Concur may not allow you to do this on the
 authorization. If that's the case, proceed as normal and return to this step
@@ -341,7 +342,7 @@ justification is required if you intend to incur the following expenses:
   common carrier transit or a government car.
 - **Mileage:** You must [add this in as an expense](#adding-expenses) on the
   "Expenses and Receipts" page and then
-  [justify the mileage claim as advantageous to the govenment](#how-should-i-claim-local-transportation-expenses)
+  [justify the mileage claim as advantageous to the government](#how-should-i-claim-local-transportation-expenses)
   (considering both cost and time) compared to common carrier transit,
   government car, and rental car. Mileage from your home to the airport (plus
   associated parking fees or round-trip travel in case of a drop-off) need only
@@ -387,10 +388,10 @@ correction.
 
 \*For vouchers, your travel will be approved within 3-5 business days.
 
-6. Once you have been approved by the TTS travel team, you should recieve a
+6. Once you have been approved by the TTS travel team, you should receive a
    notification from Concur. Please note that in most cases, **government
    contract airfare does not ticket until 72 hours before departure**, so you
-   may not recieve official confirmation of your itinerary until then. Don't
+   may not receive official confirmation of your itinerary until then. Don't
    worry about this, the TTS travel team is not aware of any situations where
    approved travelers have not been issued tickets :)
 
@@ -439,7 +440,7 @@ authorizing official._
 
 Your authorizing official must be a supervisor or director at GSA.
 
-If your travel is **nonbillable**, and coming from your team's budget, your
+If your travel is **non-billable**, and coming from your team's budget, your
 authorizing official would be your supervisor or director. If expenses will be
 paid out of another team's budget (list of budgets available in cell C5 of
 [this sheet](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)),
@@ -475,7 +476,7 @@ weekends or leave is possible as long as the following conditions are met:
 - It is not possible to reschedule one of the meetings or events to avoid having
   days in between.
 - Considering both the travel time and overall cost, it is advantageous to the
-  government to pay for the hotel and meals for the time in betwen rather than
+  government to pay for the hotel and meals for the time in between rather than
   the round trip travel cost of having the employee return home.
 - One or both
   [authorizing officials](#who-is-my-authorizing-official-and-what-is-my-budget)
@@ -522,7 +523,7 @@ from your authorization in Concur if you haven't already.
 
 Alternatively, you may book your official travel and have it approved as normal.
 Once your travel has been approved by the travel team in Concur, you may then
-call AdTrav at (877) 472-6716 and request to be rebooked on a different flight
+call AdTrav at (877) 472-6716 and request to be re-booked on a different flight
 for personal travel. In the case of most government contract flights, there is
 no additional charge. However, if there is an additional cost compared to your
 original itinerary, AdTrav will request you provide a personal credit or debit
@@ -583,7 +584,7 @@ a voucher from your authorization that you got approved prior to traveling.
   name, look at the departure date column.
 
 Once you've selected your authorization and continue, you'll be taken to the
-**Document Information** page. This should all be autopopulated, so unless some
+**Document Information** page. This should all be auto-populated, so unless some
 of the details of your trip changed, no further action is required here and you
 may continue on to **Create Document** and start
 [adding your expenses](#how-to-add-edit-or-delete-expenses). More guidance on
@@ -599,7 +600,7 @@ dates or locations fall outside what was originally approved, you'll need to
 by going to the **Authorizations** tab, selecting the amended authorization
 corresponding to your trip, and going in to **Open Document**.
 
-However, in some cases, Concur will generate an amendement in error. If you
+However, in some cases, Concur will generate an amendment in error. If you
 suspect this is the case, head to the **Authorizations** tab, select the amended
 authorization corresponding to your trip, and **Delete Document**
 
@@ -792,7 +793,7 @@ supervisor approving the amount of the reimbursement you intend to claim and
 send it to tts-travelauths@gsa.gov. Then, create a
 [miscellaneous voucher](#how-do-i-create-a-local-or-miscellaneous-voucher) in
 [Concur](https://travel.gsa.gov) and [attach the receipt](#attaching-receipts)
-you recieved after purchasing the insurance.
+you received after purchasing the insurance.
 
 #### How should I claim local transportation expenses?
 
@@ -823,7 +824,7 @@ showing a map of your itinerary with the calculated distance.
 
 ### Issues with reimbursement
 
-#### I recieved a bill for an outstanding balance on my travel card. Should I pay it?
+#### I received a bill for an outstanding balance on my travel card. Should I pay it?
 
 A: First, verify that your most recent voucher was paid to the travel card
 account. Go to the **Vouchers** tab of Concur, then click on the voucher number
@@ -872,7 +873,7 @@ can simply **Edit Voucher** instead of amending.
 
 **Note:** Vouchers should NOT be amended in the case of revising the payment
 method ([IBA to CASH](#positive-balance-on-travel-card) or
-[vice versa](#i-recieved-a-bill-for-an-outstanding-balance-on-my-travel-card-should-i-pay-it),
+[vice versa](#i-received-a-bill-for-an-outstanding-balance-on-my-travel-card-should-i-pay-it),
 or reducing a claim on an already-approved expense. If you were over-reimbursed
 for something, you will need to mail a check for that amount, made out to GSA to
 the following address:

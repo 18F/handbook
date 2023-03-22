@@ -4,6 +4,7 @@ questions:
   - dev
 redirect_from:
   - /engineering/
+cSpell: ignore QUEAAJ,amymok,alexsoble
 ---
 
 18F Engineering is responsible for delivering high quality, robust, open source
@@ -78,7 +79,7 @@ contributors form the closest relationship with, and they meet with their
 reports for regular 1-on-1s. They also run regular cohort team meetings for
 their engineers to build community and support outside the context of project
 work. Supervisors act as advocates for their engineers, passing questions and
-concerns up the leadership chain as necessar and communicating upcoming changes
+concerns up the leadership chain as necessary and communicating upcoming changes
 to their cohort.
 
 Supervisors are selected through nominations and interviews according to team

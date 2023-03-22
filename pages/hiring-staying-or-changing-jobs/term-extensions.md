@@ -18,7 +18,7 @@ the navigator icon, choose `Navigator`, then `Workforce Administration`, then
 ## What's the process?
 
 Term renewals are not automatic. They require a lot of thought and deliberation
-&ndash; and a fair bit of bureacratic process, too.
+&ndash; and a fair bit of bureaucratic process, too.
 
 1. 6-7 months before an employee's term ends, TTS PeopleOps will reach out to
    the Supervisor of the employee and the Director of that office with a list of

@@ -18,7 +18,7 @@ primary:
         url: about-us/code-of-conduct/
         internal: true
       - text: Org chart
-        url: https://docs.google.com/presentation/d/1otRbhoGRN4LfDnWpN6zZ0ymjPpTBW3t79pIiuBREkCY/edit
+        url: https://docs.google.com/presentation/d/1jc8KtufZtrgjbgPXAi_JSajvMWrGLg5h4HCvO6aC5mQ/edit
         internal: false
       - text: Digital Council
         url: about-us/digital-council/
@@ -36,10 +36,10 @@ primary:
       - text: Welcome
         url: getting-started/welcome-letter/
         internal: true
-      - text: Getting started at TTS
+      - text: Onboarding overview
         url: getting-started/
         internal: true
-      - text: TTS classes for onboarding
+      - text: TTS onboarding classes
         url: getting-started/classes/
         internal: true
       - text: Logging in &amp; networks
@@ -107,6 +107,9 @@ primary:
         internal: true
       - text: Out of office expectations
         url: travel-and-leave/leave/#leave-checklist
+        internal: true
+      - text: Overtime, comp time, and credit hours
+        url: travel-and-leave/overtime/
         internal: true
       - text: Paid parental leave
         url: travel-and-leave/leave/#paid-parental-leave
@@ -189,7 +192,7 @@ primary:
       - text: Promotions
         url: hiring-staying-or-changing-jobs/promotions/
         internal: true
-      - text: Leaving TTS
+      - text: Leaving TTS & offboarding
         url: hiring-staying-or-changing-jobs/leaving-tts/
         internal: true
       - text: Hiring authorities
@@ -278,9 +281,6 @@ primary:
           - text: Benefits links and resources
             url: benefits-links/
             internal: true
-          - text: Covid leave guidance
-            url: https://docs.google.com/document/d/1kiIowld8JIY-ORa1Udaj8EosoHjJXF64IekusOsGtdw/edit?usp=sharing
-            internal: false
           - text: Daily check-in
             url: daily-checkin/
             internal: true
@@ -292,9 +292,6 @@ primary:
             internal: true
           - text: Employment verification
             url: employment-verification/
-            internal: true
-          - text: Overtime, comp time, and credit hours
-            url: travel-and-leave/overtime/
             internal: true
           - text: Purchase requests
             url: purchase-requests/
@@ -318,6 +315,9 @@ primary:
           - text: Within grade increases (opm.gov)
             url: https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/within-grade-increases/
             internal: false
+          - text: Work schedules
+            url: general-information-and-resources/employee-resources-policies/work-schedules/
+            internal: true
       - text: Launching software
         children:
           - text: Lifecycle of a launch (ATOs, etc.)
