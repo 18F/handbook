@@ -1,6 +1,25 @@
 ---
 date: git Last Modified
 ---
+{% if redirect_to %}
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting&hellip;</title>
+    <link rel="canonical" href="{% link redirect_to %}" />
+    <script>
+      location = "{% link redirect_to %}";
+    </script>
+    <meta http-equiv="refresh" content="0; url={% link redirect_to %}" />
+    <meta name="robots" content="noindex" />
+  </head>
+  <body>
+    <h1>Redirecting&hellip;</h1>
+    <a href="{% link redirect_to %}">Click here if you are not redirected.</a>
+  </body>
+</html>
+{% else %}
 <!DOCTYPE html>
 
 <html lang="en">
@@ -62,3 +81,4 @@ date: git Last Modified
     {% include "scripts.html" %}
   </body>
 </html>
+{% endif %}
