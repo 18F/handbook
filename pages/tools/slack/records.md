@@ -44,6 +44,15 @@ they have been reviewed in the past. Various legal actions (for example, a
 Freedom of Information Act (FOIA) request) or security operations approved by
 the TTS Tech Portfolio Director have required others to view the exports.
 
+When Slack or other records are released under FOIA, GSA will disclose employee
+names unless disclosure would clearly violate the employee’s personal privacy. 
+This would include situations where the agency has a concrete basis to believe 
+that disclosure will result in harassment of the employee. GSA will redact 
+personal information like home address and emergency contact information.
+
+For more information, please consult 
+[GSA Order 2231.1](https://www.gsa.gov/reference/gsa-privacy-program/privacy-instructional-letters-and-directives).
+
 ## Exporting channel contents
 
 There is not an easy way to export the contents of a single channel, for
