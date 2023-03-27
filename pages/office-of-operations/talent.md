@@ -102,9 +102,8 @@ To see what positions we're hiring for, take a look at our
 External candidates should apply to open positions
 [here](https://join.tts.gsa.gov/).
 
-Internal candidates can find opportunities via #tts-jobs in Slack or in the
-Handbook on the [Announcements
-page]({% page "/hiring-staying-or-changing-jobs/ttsjobs/#announcements" %}).
+Internal candidates can find opportunities via {% slack_channel "tts-jobs" %} in
+Slack.
 
 ## Stay connected to what Talent is working on
 

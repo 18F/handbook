@@ -20,71 +20,23 @@ tags:
 redirect_from:
   - /ttsjobs/
 ---
-This page serves as a central listing for:
 
-* TTS Internal competitions (e.g. directors, supervisors) and developmental
-  opportunities (e.g. details, leads) within TTS
-* Hiring actions using the Excepted Service version of the Merit Promotion
-  Process
-* Links to USAJobs Announcements for hiring actions using the Competitive
-  Service (Career) Merit Promotion Process
-* Links to Excepted Service job announcements posted on the TTS Join site
-* Links to external technology career opportunities with federal, state, and
-  local government agencies
+Interested in joining our team, or transitioning to a new role?
 
-If you’d like to be notified when new opportunities are listed on this page,
-please join the {% slack_channel "tts-jobs" %} (for TTS opportunities) and
-{% slack_channel "wg-govcareer" %} (for opportunities with other federal
-agencies) Slack channels.
+## Prospective candidates
+TTS has a recruitment website, [JoinTTS](https://join.tts.gsa.gov/), that lists current and upcoming roles that are open to the public. You can also view upcoming information sessions as well as [sign-up for job alerts](https://join.tts.gsa.gov/newsletter/).
 
-If you know an awesome person for a TTS role or just know a great person that
-you'd like to recommend in general, please check out the \[referring a
-person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
+## Current employees
+Join the Slack channel {% slack_channel "tts-jobs" %} to be notified in real-time about TTS job opportunities. This includes roles that are open to the public as well as roles that are only open internally to TTS.
 
-## Announcements
+### Weekly newsletter
+Talent sends out a weekly TTS-wide email with all open roles. This goes out on Tuesday’s. And, roles can open up at any time of the week: if you want to know as soon as a position goes live, please join {% slack_channel "tts-jobs" %}.
 
-### Opportunities open to the public
+### Other federal agencies
+If you are interested in roles at other federal agencies, join {% slack_channel "wg-govcareer" %}. You are also encouraged to share federal opportunities that you find: there are intriguing roles across the government, and many TTS alumni have stayed within the federal digital family!
 
-{% assign jobs = jobs | openJobs %} {% if jobs.length > 0 %}
-{% for post in jobs %}{% include "job-posting.md" post:post %}
-{% endfor %}{% else %}We will post new opportunities as they become available.
-{% endif %}
+### Referrals
+If you know an awesome person for a specific TTS role or just know a great person that you'd like to recommend in general, please check out the [referring a person]({% page "/office-of-operations/talent/#referring-a-person" %}) process.
 
-### Internal only opportunities
-
-We will post new opportunities as they become available.
-
-## Opportunities with partners
-
-**United States Digital Service (USDS)**
-
-For any TTS staff interested in learning what it’s like to transition from TTS
-to USDS or just what it's like to work at USDS in general, a few of the TTS
-alums have offered to make themselves available for some informational
-discussions. If you’re interested in learning more, simply fill out this
-[USDS Informational Meeting Request form](https://docs.google.com/forms/d/e/1FAIpQLSfzbkhF6ahHv8-mu3BOpl6l7qg_kVyHuGUpDMcA-cPW60BfoQ/viewform?usp=sf_link)
-and someone from USDS will reach out to get something set up.
-
-Be sure to stay informed of current job postings relevant to technology
-transformation in TTS and with other agencies by joining the
-{% slack_channel "tts-jobs" %} Slack channel. If you want to be notified about
-opportunities with other federal agencies please join the
-{% slack_channel "wg-govcareer" %} Slack channel. We encourage TTS staff to post
-external federal career opportunities on the {% slack_channel "wg-govcareer" %}
-Slack channel to help others be aware of permanent, career opportunities. TTS
-staff can post opportunities advertised by our federal partners to help them
-attract the engineering, product management, and leadership talent they may
-require to further facilitate their technical transformation.
-
-**Various Federal Agencies**
-
-- - -
-
-### Still have questions?
-
-**Have questions about an announcement listed?** Please reach out to the Hiring
-PoC listed on the announcement
-
-**General questions** Please reach out to TTS Talent
-{% slack_channel "tts-jobs" "on Slack" %} or
-[email](mailto:tts-talentteam@gsa.gov) for information regarding hiring.
+## Questions?
+Have questions about a role? Please reach out to the point of contact listed on the announcement.
