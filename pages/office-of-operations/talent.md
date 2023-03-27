@@ -115,33 +115,7 @@ those below:
   announcements.
 - Email: We send a Weekly Snapshot email every Tuesday to all of TTS, sharing
   the open internal, external and upcoming positions that we are hiring for.
-- Talent Team Show & Tell Presentations: We host an hour-long presentation each
-  quarter showcasing some of the initiatives we have been working on and diving
-  a little more deeply into Talent topics of interest. We generally also have
-  time for Q&A at the end of the presentation. These presentations are recorded.
-  You can access previous recordings below.
 
-## Talent Team Show & Tell recordings
-
-- **[October 22, 2020 recording](https://drive.google.com/file/d/1P3kX4guHfD_9_aLkUeT0_S0lyzBfjoaD/view)
-  and
-  [transcript](https://drive.google.com/file/d/1Ct3BiHG6cbofG86DmCj3k705vbC7iQmc/view?usp=sharing)** -
-  Agenda topics: Referrals & information sessions, Hiring Manager guide, Job
-  Boards and Strategic Outreach and Ethnicity/Race & Gender Data
-- **[March 11, 2021 recording](https://gsa.enterprise.slack.com/files/U01JDKCRW12/F01QT31M7CN/zoom_0.mp4)
-  and
-  [transcript](https://drive.google.com/file/d/1KFiZwI99ZB6CJp7z2ZepwO_zhOyeNUDv/view?usp=sharing)** -
-  Agenda topics: Partnering for Results (highlighting PIF's DE&I efforts) ,
-  Diversity-Focused Events & Job Boards, Info Sessions, Internal Competitions
-  and Candidate Experience Surveys
-- **[June 28, 2021 recording](https://drive.google.com/file/d/18oA2v4_OlWbafLqUF_qzzh4SxMQgQRqH/view)
-  and
-  [transcript](https://drive.google.com/file/d/1Ct3BiHG6cbofG86DmCj3k705vbC7iQmc/view?usp=sharing)** -
-  Agenda topics: SES Hiring Process, Diversity- Focused Events & Job Boards,
-  Talent Team Hiring and General Info Sessions
-- **[December 16, 2021 recording](https://docs.google.com/document/d/1vvWR44ZeizAuX22O6z4saqFwejuem43p_Y9kkDVlXAw/edit)** -
-  Agenda topics: New Team Members, FY21 DEI Job Board and Event Retro, JoinTTS
-  site update, Kudos, Future Info, Show & Tell with Omar
 
 ## How to get in touch
 
