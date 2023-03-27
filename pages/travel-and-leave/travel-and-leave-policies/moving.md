@@ -31,7 +31,7 @@ or update GSA systems.
 ## Moving
 
 If you plan to permanently move or relocate for longer than 120 days, email
-[TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) as soon as possible, and
+[TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) as soon as you know your future address, and
 copy your supervisor on the email. Please provide the following information:
 
 - The city, county, state, ZIP code that you are moving to.
