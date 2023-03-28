@@ -127,7 +127,7 @@ will need to complete for your request.
    [Online University (OLU)](https://gsaolu.gsa.gov/), and fill-in the required
    fields with the most relevant responses corresponding to your request type.
    - This
-     [OLU Job Aid](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf)
+     [OLU Job Aid](https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf)
      has instructions on how to Create, Submit, PDF, and Verify an SF-182.
 2. Your supervisor’s name should auto-populate. 
    - ***NOTE:*** Not seeing your supervisor's name? You can add an additional supervisor (the SF-182 only needs one approval to be completed) to the approval queue by following this process:
@@ -140,7 +140,7 @@ will need to complete for your request.
    notification when the SF-182 is approved.
 4. Once your SF-182 is approved, save a PDF copy by following the 'Create A PDF'
    instructions on page 5 of the
-   [OLU Job Aid](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf).
+   [OLU Job Aid](https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf).
 5. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov) with your SF-182 PDF
    attached.
 6. The Training & Events Lead (Keith Wilson) will provide a final review within
