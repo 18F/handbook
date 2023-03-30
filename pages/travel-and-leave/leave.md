@@ -9,8 +9,6 @@ tags:
   - funeral
   - death
   - bereavement
-  - religion
-  - religious
   - jury
   - duty
   - court
@@ -709,33 +707,7 @@ OPM Fact Sheets:
 ## Religious observance
 
 You can request an adjustment to your work schedule for religious observances,
-instead of taking leave. Document your request to your supervisor, via email, in
-advance of the time you’ll need to miss, along with the schedule of the time you
-will work outside of normal hours to compensate.
-
-### Religious comp time in HR Links
-
-You will need to document the extra hours you’re working in HR Links, and then
-enter a leave request for the dates when you use the hours earned.
-
-#### Entering the religious comp time hours you are working outside of your normal schedule
-
-1. Go to the **Employee Time Requests** tile
-1. Select **Additional Time Requests**
-1. Select **Request Comp Time**
-1. Under the **Additional Time Type** dropdown, select **Religions Comp Earned**
-1. Enter in the date(s) and hour(s) when you will be working extra time.
-1. Click **Submit**
-
-#### Requesting leave in order to use the hours that you’ve banked
-
-Follow the typical steps for [Entering a leave request in HR
-Links]({% page "/travel-and-leave/leave/#entering-a-leave-request" %}). Under
-the search for Absence Type, select `047 - Religious Comp Used`.
-
-OPM Fact Sheet:
-
-- [Adjustment of Work Schedules for Religious Observances](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/)
+instead of taking leave. Refer to the [Overtime, Comp Time, and Credit Hours page]({% page "/travel-and-leave/overtime/" %}) for step-by-step instructions.
 
 ## Time tracking
 
