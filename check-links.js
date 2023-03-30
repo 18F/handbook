@@ -41,9 +41,17 @@ const getDom = async (file) => {
       .attr("content")
       .match(/url=(\S+)/i);
 
+    // If the redirect path is to an HTTP endpoint, we don't need to load the
+    // redirected DOM because it's external.
+    if (realFile.startsWith("http") || realFile.startsWith("//")) {
+      return dom;
+    }
+
     const realFilePath = path.join(
       SITE_ROOT,
-      realFile.replace(process.env.BASEURL, ""),
+      // Strip off any URL hashes and remove the base URL portion to get down
+      // to just the target file.
+      realFile.replace(/\#.*$/, "").replace(process.env.BASEURL, ""),
       path.basename(file)
     );
 
