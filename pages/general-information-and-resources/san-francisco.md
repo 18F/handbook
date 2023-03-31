@@ -399,11 +399,10 @@ McAllister and Leavenworth.
 
 To request bike parking access, print and fill out
 [this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view),
-and return it to [James](mailto:james.eneliko@gsa.gov).
+and return to [James E.](mailto:james.eneliko@gsa.gov), either by email or by returning the form to the building office in the basement level.
 
 If you have any questions about this, contact the
 {% slack_channel "SF Slack Channel" %}.
-
 
 ### Helpful contacts
 
