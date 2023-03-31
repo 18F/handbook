@@ -101,22 +101,9 @@ direction to the Ferry Building and the piers overlooking the Bay.
 
 ### Biking
 
-There is a developing [bikeshare program](https://www.bayareabikeshare.com) in
-the city of San Francisco.
+If you're visiting: San Francisco has a [bikeshare program called Bay Wheels](https://www.lyft.com/bikes/bay-wheels).
 
-Bike parking is next to the loading dock, entered from the far corner at
-McAllister and Leavenworth. Before you can park your bike, though, you need to
-print and fill out
-[this form](https://drive.google.com/a/gsa.gov/file/d/0BxUQGw0LW4R9RTl5ZWl3YzF1RzQ/view),
-and then activate your credential. This means you need to return to the
-credentialing location where you first initiated the process for your card.
-(This is probably the federal building at 450 Golden Gate). There are drop-in
-hours all day on Monday from 9 a.m. to 4 p.m. You can also make an appointment.
-The card also requires you to come up with a six-digit PIN, so have that ready
-to go.
-
-If you have any questions about this, contact the
-{% slack_channel "SF Slack Channel" %}.
+If you have your own bike: the SF office offers [bike parking](#bike-parking).
 
 ### Public transit
 
@@ -404,6 +391,18 @@ You can receive basic first aid, screenings, and flu shots. The phone number for
 the health unit is 415-556-2766.
 
 The Health Unit also includes an all-gender bathroom.
+
+### Bike parking
+
+Bike parking is next to the loading dock, entered from the far corner at
+McAllister and Leavenworth.
+
+To request bike parking access: Fill out
+[the bike access request form](https://docs.google.com/document/d/18N-RSYzyQ2s9orhgsmIce2aOSKvayI8f433oMmI1Dw4/)
+and return to [James E.](mailto:james.eneliko@gsa.gov), either by email or by printing and returning the form to the building office in the basement level.
+
+If you have any questions about this, contact the
+{% slack_channel "SF Slack Channel" %}.
 
 ### Helpful contacts
 
