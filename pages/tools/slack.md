@@ -6,11 +6,7 @@ questions:
   - admins-slack
 ---
 
-To get started, **sign in at [gsa-tts.slack.com](https://gsa-tts.slack.com)**.
-See the
-[official documentation](https://slack.com/help/articles/218080037-Getting-started-for-new-members)
-for how to use Slack generally, and the following sub-pages for information
-about Slack at TTS:
+Slack is a cloud-based communication tool, several offices at TTS use heavily to build community, share knowledge, and manage projects.
 
 - [Getting started](getting-started/)
 - [Guidelines](guidelines/)
