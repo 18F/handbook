@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Withee,Ojiaku,Slogeris,Luetger,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline
+cSpell: ignore Withee,Ojiaku,Slogeris,Luetger,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
 ---
 
 <style type="text/css">
@@ -154,7 +154,8 @@ Guild meeting times can also be found on the
           We develop and support the practice of consulting at TTS.<br /> {% slack_channel "g-consulting" %}
         </td>
         <td>
-          Matt Cloyd - 18F
+          Matt Cloyd - 18F<br />
+	  Jessica Dussault - 18F
         </td>
       </tr>
       <tr>
