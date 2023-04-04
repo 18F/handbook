@@ -154,7 +154,8 @@ Guild meeting times can also be found on the
           We develop and support the practice of consulting at TTS.<br /> {% slack_channel "g-consulting" %}
         </td>
         <td>
-          Matt Cloyd - 18F
+          Matt Cloyd - 18F<br />
+	  Jessica Dussault - 18F
         </td>
       </tr>
       <tr>
