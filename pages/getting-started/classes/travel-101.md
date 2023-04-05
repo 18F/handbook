@@ -45,12 +45,14 @@ have access to OLU to complete the required IT security trainings._
 
 Once you are [set up in Concur]({% page "/first-time-travel-get-in-concur/" %})
 and your [travel card]({% page "/first-time-travel-travel-card/" %}) is on its
-way, there are three main parts of the travel process to be aware of. First, travel
-is planned and booked in Concur and approved there. Timing will vary, but you
-might expect to wait a few days or a week for approval. Second, after things are
-approved, you actually travel. Finally, once you have traveled, you
-file a matching voucher in Concur for reimbursement. Again, timing will vary,
-but it might take another few days or week to approve the voucher.
+way, there are three main parts of the travel process to be aware of.
+First, you will book your travel and submit a plan to be approved in Concur.
+Your supervisor and the TTS travel team will review and approve that plan.
+Timing will vary, but you might expect to wait a few days or a week for
+approval. Second, after things are approved you actually travel. Finally,
+after traveling you file a matching voucher in Concur for reimbursement.
+Again, timing will vary, but it might take another few days or a week to
+approve the voucher.
 
 1. [Booking flights/rail, hotels, and rental
    cars]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
