@@ -447,9 +447,6 @@ primary:
                   - text: Acquisition engagement glossary
                     url: 18f/projects-partners/working-on-an-acquisition-engagement/#acquisition-glossary
                     internal: true
-              - text: Microrequests (labs)
-                url: microrequests/
-                internal: true
           - text: 18F chapters
             children:
               - text: Account management
