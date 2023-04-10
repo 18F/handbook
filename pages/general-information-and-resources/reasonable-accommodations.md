@@ -1,5 +1,7 @@
 ---
 title: Reasonable Accommodations
+cSpell: ignore LRAC
+
 ---
 
 A reasonable accommodation (RA) is a modification or adjustment to a job, a work environment, or a hiring process, based on a disability or medical condition.  
