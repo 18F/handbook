@@ -84,7 +84,7 @@ You’ll complete overtime and comp time requests after you travel because you m
 
 Refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours.
 
-Note: travel comp time does not follow the salary cap rules that are outlined in the beginning of this document. Anyone can request religious comp time, regardless of their salary and what type of work schedule they are on.
+Note: travel comp time does not follow the salary cap rules that are outlined in the beginning of this document. Anyone can request travel comp time, regardless of their salary and what type of work schedule they are on.
 
 
 ## Entering the overtime, comp time, and/or credit hours you will be working into HRLinks

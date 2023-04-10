@@ -707,7 +707,7 @@ OPM Fact Sheets:
 ## Religious observance
 
 You can request an adjustment to your work schedule for religious observances,
-instead of taking leave. Refer to the [Overtime, Comp Time, and Credit Hours page]({% page "/travel-and-leave/overtime/" %}) for step-by-step instructions.
+instead of taking leave. Refer to the [Overtime, Comp Time, and Credit Hours page]({% page "/travel-and-leave/overtime/#religious-comp-time" %}) for step-by-step instructions.
 
 ## Time tracking
 
