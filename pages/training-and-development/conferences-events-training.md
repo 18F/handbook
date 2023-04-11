@@ -179,7 +179,7 @@ for your colleagues to read and learn from!
 
 ## Buying books
 
-YYou can also use your training budget to buy books for self-guided study. You
+You can also use your training budget to buy books for self-guided study. You
 may want to first check your local library system to see what books, newspapers,
 subscriptions, and other resources are available there. Approval for books uses
 a similar process as approval for trainings, but many of the forms are not
