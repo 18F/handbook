@@ -45,7 +45,8 @@ organization, including:
 
 Find us on Slack:
 
-- {% slack_channel "18f-design" %} — Our home base for chapter conversation and news
+- {% slack_channel "18f-design" %} — Our home base for chapter conversation and
+  news
 - {% slack_channel "design" %} (TTS-wide)
 - {% slack_channel "content-design" %}
 - {% slack_channel "service-design" %}
@@ -53,7 +54,7 @@ Find us on Slack:
 - {% slack_channel "product-design" %}
 - {% slack_channel "g-content" %}
 - {% slack_channel "g-research" %}
-- {% slack_channel "18f-helpwanted" %}
+- {% slack_channel "18f-help-wanted" %}
 - {% slack_channel "dev-frontend" %}
 - {% slack_channel "18f-methods" %}
 
@@ -71,8 +72,8 @@ You might not have much assigned work during your first two weeks here. That’s
 okay and expected. If you’ve gotten all the government onboarding items done and
 a project _still_ hasn’t landed, the design team has a list of internal projects
 that aren’t funded but that will help us all work better together. Talk to your
-supervisor to get more information about these internal
-projects and how you can get involved.
+supervisor to get more information about these internal projects and how you can
+get involved.
 
 ## Who we are
 
@@ -85,10 +86,15 @@ non-profits, consultancies, corporations, and academia.
 
 As per the
 [org chart](https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit?usp=sharing),
-18F Design is itself composed of product design, content strategy, service design, and user experience teams. Members of the Design team are active participants in the content and research
+18F Design is itself composed of product design, content strategy, service
+design, and user experience teams. Members of the Design team are active
+participants in the content and research
 [guilds]({% page "/working-groups-and-guilds-101" %}).
 
-Before starting at 18F, you will have been assigned a supervisor. Supervisors meet with you regularly and carry out most managerial responsibilities for their disciplines. They lead staffing, hiring, training, and project troubleshooting for their discipline. More detail on
+Before starting at 18F, you will have been assigned a supervisor. Supervisors
+meet with you regularly and carry out most managerial responsibilities for their
+disciplines. They lead staffing, hiring, training, and project troubleshooting
+for their discipline. More detail on
 [Design team roles and responsibilities](https://docs.google.com/document/d/1XqgwiUItzRZu4I8KcpQlkCCd5iXM_EbTwsUzXwy-L-w/edit#heading=h.bc6vwqoy0xk4)
 is provided internally.
 
@@ -128,30 +134,31 @@ initiatives. As you’d guess, everyone’s weeks look a little different. That
 said, there are recurring weekly meetings and commitments we all have on our
 calendars.
 
-- **Wednesdays:** Every other week for 30-45 minutes at 2pm ET (11am PT)
-  design team huddle. The whole team meets to discuss project status, policy
-  updates, and general design-specific news. Our huddles typically follow the
-  same format: We start with an intro question for everyone to answer, welcome new teammates, and get chapter and organizational updates. The rest of
-  the huddle features a presentation or conversation about a topic of current
-  interest to the team. Past topics have included: project share-outs, an overview of the Paperwork Reduction Act, and discussion around common challenges.
+- **Wednesdays:** Every other week for 30-45 minutes at 2pm ET (11am PT) design
+  team huddle. The whole team meets to discuss project status, policy updates,
+  and general design-specific news. Our huddles typically follow the same
+  format: We start with an intro question for everyone to answer, welcome new
+  teammates, and get chapter and organizational updates. The rest of the huddle
+  features a presentation or conversation about a topic of current interest to
+  the team. Past topics have included: project share-outs, an overview of the
+  Paperwork Reduction Act, and discussion around common challenges.
 - **Once a week/Every two weeks:** Meet with your discipline team.
-- **Once a week/Every two weeks:** Meet with your supervisor. You’ll have a short
-  check-in with your supervisor at a time that’s convenient for both of you.
-  The purpose of this meeting is both administrative and personal. It’s how the
-  team leadership keeps on top of project timelines and activities to coordinate
-  resourcing. It’s also a time to talk through any project concerns, figure out
-  how to wrangle the federal bureaucracy, and talk about how to make 18F work
-  better for you.
-- **Once a week/Every two weeks:** Meet with your critique group. Crit groups discuss creative
-  questions and share work. We re-form the groups periodically so we have
-  opportunities to learn from the whole group.
+- **Once a week/Every two weeks:** Meet with your supervisor. You’ll have a
+  short check-in with your supervisor at a time that’s convenient for both of
+  you. The purpose of this meeting is both administrative and personal. It’s how
+  the team leadership keeps on top of project timelines and activities to
+  coordinate resourcing. It’s also a time to talk through any project concerns,
+  figure out how to wrangle the federal bureaucracy, and talk about how to make
+  18F work better for you.
+- **Once a week/Every two weeks:** Meet with your critique group. Crit groups
+  discuss creative questions and share work. We re-form the groups periodically
+  so we have opportunities to learn from the whole group.
 
 ### Tools
 
 Here are some common tools we use, how we use them, and how you can get access
 to them. If you can’t find the information you need in the chart below, get in
-touch with your supervisor; they’ll be able to point you in the right
-direction.
+touch with your supervisor; they’ll be able to point you in the right direction.
 
 And one more thing: before you start using any new tool that asks for access to
 files/browser data, see the [Software]({{base.baseurl}}/software/) page and
@@ -163,8 +170,10 @@ Unless otherwise specified, **see
 [Software]({% page "/general-information-and-resources/software/#software-already-approved-in-gear" %})
 to get a license** for any of these.
 
-- **Figma** You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
-- **Sketch** You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
+- **Figma** You'll need to email the 18F design tool owner and request to join
+  our account. Ask your supervisor who's currently in this role.
+- **Sketch** You'll need to email the 18F design tool owner and request to join
+  our account. Ask your supervisor who's currently in this role.
 - **OmniGraffle:**
   [Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
 - [**Adobe Creative Cloud**]({% page "/adobe/" %})
@@ -182,8 +191,9 @@ Trello]({% page "/trello" %}) page.
 #### Research
 
 - Please read [Doing Research at TTS]({% page "/research-guidelines" %}) for
-  more information on the tools and techniques. 
-- The [18F UX Guide](https://ux-guide.18f.gov/) provides additional guidance on how we conduct research.
+  more information on the tools and techniques.
+- The [18F UX Guide](https://ux-guide.18f.gov/) provides additional guidance on
+  how we conduct research.
 - **Analytics:** We recommend leveraging the
   [Digital Analytics Program](https://digital.gov/services/dap/) whenever
   possible. We augment DAP with site-specific Google analytics tracking. Ask
