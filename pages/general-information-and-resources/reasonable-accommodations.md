@@ -10,7 +10,7 @@ These modifications enable people with disabilities/medical conditions to have e
 
 *This page provides guidance on how RA requests are processed at TTS. If you are applying to a role and are not yet a TTS employee, please follow the [applicant accommodations instructions](https://join.tts.gsa.gov/hiring-process/#:~:text=method%20of%20communication.-,Accommodations,-We%20want%20to) listed on JoinTTS.*
 
-## Who is involved in the RA process?
+## Who is involved in the reasonable accommodation process?
 
 There are three key people involved in the RA process:
 - The requester (or a representative acting on the requester’s behalf)
@@ -22,7 +22,7 @@ There are three key people involved in the RA process:
 
 If you have a minor need that is expected to last less than 6 months, you do not need to go through the full RA process listed below. Your supervisor can approve your short-term request and should document their approval. 
 
-## Submitting an RA request
+## Submitting a reasonable accommodation request
 
 An RA can be a verbal or written request. The request does not have to follow a specific format. 
 
@@ -34,13 +34,13 @@ Employees can also have a family member, friend, healthcare professional, or ano
 
 Note: If an employee makes a verbal request, their supervisor and/or the LRAC will send written confirmation that they received the request.
 
-## Decision Makers (DM) for RA requests
+## Decision Makers (DM) for reasonable accommodation requests
 
 The requester’s first line supervisor will be the decision maker (DM) for the RA request. 
 
 In the event their direct supervisor is on extended leave, their second line supervisor can step in as the DM.
 
-## How RAs are reviewed
+## How reasonable accommodations are reviewed
 
 When the DM reviews a request, they focus on the requested change, not on a particular disability or medical condition. 
 
@@ -58,7 +58,7 @@ Any supervisor who is involved in the RA process is required to keep **all types
 
 Any request for supporting medical documents will come from the LRAC, and the employee should submit the documents directly to the LRAC. Supervisors do not see or review your medical documents. For visible disabilities, medical documentation is typically *not* required. 
 
-## Timeline on RA requests
+## Timeline on reasonable accommodation requests
 
 The DM or LRAC will acknowledge all RA requests within three calendar days of receipt, and the DM will begin the interactive process within five calendar days of receipt. 
 
