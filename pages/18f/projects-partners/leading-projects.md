@@ -187,21 +187,24 @@ most common types of 18F project endings are some combination of the following:
     professionals across agencies who work on related problems
   - Recommend government or technical trainings, or recording materials from
     Digital.gov’s Communities of Practice
-- In the case of [projects in distress, review alternative solutions: pivot,
+  - In the case of [projects in distress, review alternative solutions: pivot,
   pause or stop the
   engagement]({% page "/18f/projects-partners/projects-in-distress/" %})
-- Conduct, document, and post a Project Reflection at the end of the project (or
-  every 3-4 months for longer projects). Request a facilitator from outside the
-  project in {% slack_channel "workshop-facilitation" %} or
-  {% slack_channel "microrequests" %} so everyone on the project team can fully
-  participate.
-- Use the
-  [project reflection for performance evals template](https://docs.google.com/document/d/1ko28PDLcEa_VB3ulMKbEjLzi88u8K8WJqXsBryrBV-U/edit?usp=sharing)
-  to collaborate on drafting examples of evaluation criteria. In some cases, an
-  example may apply to the whole team. In other cases, team members can help
-  each other identify things they each did.
-- Share re-usable or example tools, presentations, docs, etc. via the
-  [Project Resource Library submission form](https://airtable.com/shrg8FScJQSJlXwtv).
+- **Document and share learnings**
+  - Conduct, document, and post a Project Reflection at the end of the project (or
+    every 3-4 months for longer projects). Reference the [facilitation guide](https://docs.google.com/document/d/1lB8w_U2SR3X4U78KTOWril_JOINaF98NQwQoR7oYVeo/edit), [conversation guide](https://docs.google.com/document/d/1bsaRrm9Mjnk87UOsHDyTsfK2yVbsnLLywvfFuVXL5HE/edit#), and [summary template](https://docs.google.com/document/d/1R10zQ5hpHYtSA3utxydte-Xk4ktdjUWnlMOrZp3pSwA/edit) to get started. 
+  - Request a facilitator from outside the
+    project in {% slack_channel "18f-help-wanted" %} so everyone on the project team can fully
+    participate.
+  - Post the reflection summary to {% slack_channel "project-reflections" %}
+  - Upload re-usable or example tools, presentations, docs, and other resources to the [Project Resource Library](https://airtable.com/appkBrEBVTMd9M5VC?) through the
+    [submission form](https://airtable.com/shrg8FScJQSJlXwtv).
+  - As an optional step, use the
+    [project reflection for performance evals template](https://docs.google.com/document/d/1ko28PDLcEa_VB3ulMKbEjLzi88u8K8WJqXsBryrBV-U/edit?usp=sharing)
+    to collaborate on drafting individual performance language. In some cases, an
+    example may apply to the whole team. In other cases, team members can help
+    each other identify things they each did.
+
 
 ## Why you might want to lead a project
 
