@@ -70,7 +70,7 @@ GSA travel card]({% page "/first-time-travel-travel-card" %}).
    [here]({% page "/training-and-development/olu/#help-with-olu" %}) if you need
    help.
 3. Complete the
-   [CGE Access Request Form](https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request),
+   [CGE Access Request Form][cgeform],
    minus the EFT enrollment form. Either an electronic or ink signature is fine.
    Don't forget to get your supervisor's signature as well! \*_Not sure about a
    particular field? Get help by reading the_
@@ -108,6 +108,14 @@ That of your functional supervisor.
 
 #### Where can I find my Travel Vendor ID once it's been assigned?
 
-Y﻿our Travel Vendor ID is a number in the format "E000XXXXX" that is called
+Your Travel Vendor ID is a number in the format "E000XXXXX" that is called
 "Employee ID" in your Concur profile. It is also called "Traveler ID" on Concur
 authorizations.
+
+#### How can I get Travel Approver access?
+
+To be able to approve in Concur, fill out the [CGE Access Request Form][cgeform]:
+1. For "Type of Access Request", select "Revise Current User"
+2. For User Roles, select both "Traveler" and "Travel Approver".
+
+[cgeform]: https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request
