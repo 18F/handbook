@@ -303,6 +303,9 @@ primary:
               - text: Procurements over $10,000
                 url: procurements-over-10000/
                 internal: true
+          - text: Reasonable Accommodations
+            url: general-information-and-resources/reasonable-accommodations/
+            internal: true
           - text: Resources for deaf and hard of hearing individuals
             url: deaf-hoh/
             internal: true
