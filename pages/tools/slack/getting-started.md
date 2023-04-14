@@ -6,6 +6,13 @@ questions:
 
 _[Back to Slack page](../)_
 
+## Logging into slack
+1. Go to https://gsa-tts.slack.com/ in your browser.
+2. Click the green button that says "Sign in with @gsa.gov email"
+3. If you're not logged in to Google, you'll be asked to enter in your google username. Enter in your @gsa.gov email.
+4. Enter in your ENT credentials into the SecureAuth Login Screens
+5. You'll be directed to the {% slack_channel "welcome-to-tts" "Welcome-to-TTS" %} Slack channel.
+
 ## Profile
 
 **[Fill in your profile](https://gsa-tts.slack.com/account/profile).** A
