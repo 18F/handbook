@@ -122,10 +122,8 @@ for more comprehensive details.
 
 ### Cloud.gov
 
-- cloud.gov is not currently using Tock to record regular work. An exception is
-  billable work performed for 18F.  More specific Tock instructions for Cloud
-  team members can be found
-  [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
+- Because cloud.gov staff sometimes bill their time against customers' support packages, the team must Tock their time weekly. Time not billed against a particular customer's support hours should be billed against Line **1858 - Solutions / cloud.gov / Non-billable**. Team members with AWS should bill their AWS hours for each week (e.g. 36 or 44 hours); team members not on AWS should bill 40 hours. You do not need to log time off in Tock.
+- More specific Tock instructions for cloud.gov team members can be found [here](https://docs.google.com/document/d/16wGnM2vD9y5nrD3Jhufjc-G1r1cs3lkX2Ny-opYk9do/edit#heading=h.2uuhlgoi43ro).
 
 ### Centers of Excellence
 
