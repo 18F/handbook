@@ -103,7 +103,7 @@ GSA has a [list of approved software](https://ea.gsa.gov/#!/itstandards) and an 
 An RA can extend beyond technical considerations. Below are common types of non-technology based accommodations.
 
 ### Assistive staff
-Assistive staff includes, but is not limited to, [American Sign Language interpreters]({% page "/general-information-and-resources/employee-resources-policies/deaf-hoh/#asl-interpreters" %})and/or readers. If current staff can provide an effective accommodation, the DM will consider that option. If not, the DM will request the assistance of TTS OA for procuring the necessary services.
+Assistive staff includes, but is not limited to, [American Sign Language interpreters]({% page "/general-information-and-resources/employee-resources-policies/deaf-hoh/#asl-interpreters" %}) and/or readers. If current staff can provide an effective accommodation, the DM will consider that option. If not, the DM will request the assistance of TTS OA for procuring the necessary services.
 
 Other common types of non-technology based accommodations include: 
 - Modification of [work schedules]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/" %})
