@@ -7,7 +7,7 @@ current_step: 1
 sidebar:
   kind: travel
   current: Travel 101
-cSpell: ignore Djemila
+cSpell: ignore Djemila,Lathann,Newland
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
