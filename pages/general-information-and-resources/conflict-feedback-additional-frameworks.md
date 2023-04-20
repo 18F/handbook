@@ -26,7 +26,7 @@ Coaching communicates what “good” looks like, to help the recipient learn an
 | _Saying nothing and quietly fuming when feeling surprised by new tasks._    | “Hey, I work best when I have as much project context as possible. When we are working together and project change requests come in, can you please loop me in, even if they don’t impact my work? I’d really appreciate it.”  |
 
 ### Evaluation 
-Evaluation helps someone change specific actions or behaviors, and understand the impact of their actions. Sometimes, we don’t see all of the impacts of our actions, and we need others to gently point out when we have (usually unintentionally) misstepped. 
+Evaluation helps someone change specific actions or behaviors, and understand the impact of their actions. Sometimes, we don’t see all of the impacts of our actions, and we need others to gently point out when we (usually unintentionally) misstep. 
 
 Susan Scott calls this “[taking responsibility for our emotional wake](https://learningforward.org/wp-content/uploads/2009/08/scott304.pdf)” when we mess up. The key to giving good evaluative feedback is to focus on the actions, not the person, and to assume good intent.
 | Less like...      | More like... |
