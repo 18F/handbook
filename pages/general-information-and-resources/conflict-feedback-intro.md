@@ -1,6 +1,6 @@
 ---
 title: Healthy conflict and constructive feedback introduction
-cSpell: 
+cSpell: ignore neurotypes
 
 ---
 
