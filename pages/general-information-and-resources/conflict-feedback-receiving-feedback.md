@@ -1,6 +1,6 @@
 ---
 title: Receiving feedback
-cSpell: 
+cSpell: Ignore misperceptions
 
 ---
 
