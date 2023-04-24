@@ -6,15 +6,9 @@ redirect_from:
   - /sketch/
 ---
 
-You can get started with a trial version [immediately](https://www.sketch.com/).
-Upgrade to the full version whenever you get the license. Visit
-{% slack_channel "sketch" %} on Slack for help and sharing tips.
-
-[Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b){.usa-button}
+You can get started with a trial version [immediately](https://www.sketch.com/). In order to upgrade to the full version, you’ll need to request a license by emailing the 18F design tool owner. Ask your supervisor who's currently in this role. You will receive an invite to join the TTS Workspace for Sketch via email. You can sign into your account using your GSA email login credentials (**do not sign in with SSO**). Visit {% slack_channel "sketch" %} on Slack for help and sharing tips.
 
 ## Plugins
-
-[**List**](https://docs.google.com/spreadsheets/d/1NDA19R_j3WpueXNCedY1gAdL-mDhUyL7kWBhpIQrK7g/edit#gid=0)
 
 One thing that's different about using Sketch at GSA is that Sketch plugins are
 not impossible to obtain, but might be more time-consuming than time-saving.
