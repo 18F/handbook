@@ -191,7 +191,7 @@ Trello]({% page "/trello" %}) page.
   possible. We augment DAP with site-specific Google analytics tracking. Ask
   your supervisor or post in {% slack_channel "analytics" %} to ask to chat with
   someone to learn more.
-- **Surveys:** Internal to 18F, we often use [Google Forms]({% page "/tools/google-drive/#google-form-tips-2" %}). However, government
+- **Surveys:** Internal to 18F, we often use [Google Forms]({% page "/tools/google-drive/#google-form-tips" %}). However, government
   employees outside 18F often can't access Google Forms on their work computers.
   So when addressing our agency partners, we often need to use other options,
   such as [Touchpoints](https://touchpoints.digital.gov/) — being careful, of
