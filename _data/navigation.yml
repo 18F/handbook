@@ -582,6 +582,9 @@ primary:
           - text: Citrix (Workspace)
             url: virtual-desktop/
             internal: true
+          - text: Zscaler Client Connector (ZCC)
+            url: https://insite.gsa.gov/employee-resources/information-technology/it-security-and-privacy/it-security/zscaler-client-connector-zcc?term=
+            internal: true
       - text: Other tools
         children:
           - text: GSA internal tools
@@ -602,15 +605,15 @@ primary:
           - text: Eventbrite
             url: tools/eventbrite/
             internal: true
+          - text: Figma
+            url: tools/figma/
+            internal: true
           - text: GitHub (code repos and versioning)
             url: github/
             internal: true
           - text: Infrastructure (cloud.gov, AWS, etc.)
             url: https://before-you-ship.18f.gov/infrastructure/
             internal: false
-          - text: InVision (simple prototyping)
-            url: invision/
-            internal: true
           - text: Mural (collaborative whiteboard tool)
             url: tools/mural/
             internal: true
