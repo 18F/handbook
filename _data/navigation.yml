@@ -293,6 +293,9 @@ primary:
           - text: Employment verification
             url: employment-verification/
             internal: true
+          - text: Onboarding Buddy Guide
+            url: https://docs.google.com/document/d/1rO4TRcqYM-j70cHC1y8Vabfwp9TWwp5WFF7BraSUxLk/edit
+            internal: false
           - text: Purchase requests
             url: purchase-requests/
             internal: true
