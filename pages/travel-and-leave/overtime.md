@@ -12,7 +12,7 @@ hours.
 
 There are several factors which affect how you could be compensated for working
 extra hours. One is your salary: if your salary is at - or close to - the
-maximum GS salary ($176,300 in FY22). Another factor is whether you are an
+maximum GS salary ($183,500 in FY23). Another factor is whether you are an
 [exempt or non-exempt employee](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fs17a_overview.pdf).
 
 You should obtain supervisor approval prior to working extra hours. And, your
@@ -29,7 +29,7 @@ Overtime and comp time can be approved by your supervisor no matter what type of
 you have.
 
 Overtime is when you are paid for extra hours that you work, whereas comp time
-is when you receive hours of leave instead of pay.
+is when you receive hours of leave instead of pay. To determine the maximum number of comp time hours that you can accrue per pay period, please use the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0).
 
 You should use your accrued comp time before using Annual Leave. However, if the
 end of the leave year is approaching, your supervisor can approve your Annual
@@ -92,7 +92,7 @@ Note: travel comp time does not follow the salary cap rules that are outlined in
 Entering your hours is a two step process.
 
 ### Step 1 - Submit a time request in HRLinks
-You need to enter your overtime, comp time, or credit hours into HRLinks. Your supervisor will be notified to approve the hours.
+You need to enter your overtime, comp time, or credit hours into HRLinks. To determine the maximum number of comp time hours that you can accrue per pay period, please use the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0). Your supervisor will be notified to approve the hours requested.
 
 - Click on the **Employee Time Requests** tile
 - Select **Additional Time Requests**
