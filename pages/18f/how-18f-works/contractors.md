@@ -63,6 +63,7 @@ and select the equipment that is needed.
 ## See also
 
 - TTS-specific materials:
+  - [Ethics + Contractors in the Workplace slide deck](https://docs.google.com/presentation/d/1X74B0ZX0yrFxY1ywmC4_EvcZiEQi_97uZ1FUcJPcBUU/edit#slide=id.gf0514cfed4_7_0); [video recording of March 2022 training](https://drive.google.com/file/d/1qNkbmo1G4fbdirF6N26kakrWRV0I9z-n/view?ts=622a73da)
   - [Contracting Officer's Representative (COR) Playbook](https://docs.google.com/document/d/14xOFvIGwlG0Gbd52o1D4AyJ52RqzHpX91nfEYJKu5qQ/edit)
   - [BizOps' onboarding checklist](https://docs.google.com/spreadsheets/d/1w0WSTUT0l7q19mAI6c2QCIpCFs0Cei4eukaiiRBTbRA/edit#gid=710529923)
   - [Office of Acquisitions' onboarding and offboarding checklist](https://docs.google.com/spreadsheets/d/1-RHrM2K-oupQ-wdQp5dhU6M1UtbiM2fj9kY3fGikQSg/edit#gid=0)
