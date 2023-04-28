@@ -82,10 +82,12 @@ Supervisors can request that their direct reports submit one.
       Google Docs to avoid losing it if HRLinks crashes due to inactivity. If
       you want to draft your self-assessment directly in HRLinks, make sure to
       frequently click the "Save" button to preserve your work.
+    - If you need to make adjustments, you can ["stop sharing" the self-assessment](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.ftv2w8inxo6) with your Supervisor as long as their Mid-Year has not been completed.
   - No action required by supervisor
 
 - HR Links in-depth guide (with screenshots):
 
+  - [Create a Mid Year Self-Assessment](https://corporateapps.gsa.gov/files/Mid-Year-Self-Assessment-Employee.pdf)
   - [Employee (Section 3, Topic 3.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
 
 - Additional resource guide:
