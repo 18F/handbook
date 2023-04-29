@@ -63,7 +63,7 @@ Missteps on projects will happen. Teams do not have a crystal ball into partner
 expectations or communication preferences. This is a good time to bring in a
 facilitator from outside the project to help the team reflect on what is and
 isn’t going well, and then help the team come up with alternative methods in the
-future. Try {% slack_channel "18f-helpwanted" %} to ask for a facilitator.
+future. Try {% slack_channel "18f-help-wanted" %} to ask for a facilitator.
 
 ### Manage work so it is equitably distributed
 
@@ -104,8 +104,9 @@ happening.
 - Identify stakeholder accessibility needs for project work (in collaboration
   tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time,
-    consider budgeting time to make them accessible (use
-    {% slack_channel "microrequests" %} if the team doesn't have this ability)
+    consider budgeting time to make them accessible (talk to your account
+    manager or use {% slack_channel "18f-help-wanted" %} if the team doesn't
+    have this ability)
 - Ensure sprint planning, review, and other recurring meetings are scheduled
 - Facilitate identification of project management tracking tools
 - Facilitate identification of how administrative tasks will be rotated
@@ -193,8 +194,8 @@ most common types of 18F project endings are some combination of the following:
 - Conduct, document, and post a Project Reflection at the end of the project (or
   every 3-4 months for longer projects). Request a facilitator from outside the
   project in {% slack_channel "workshop-facilitation" %} or
-  {% slack_channel "microrequests" %} so everyone on the project team can fully
-  participate.
+  {% slack_channel "18f-help-wanted" %} so everyone on the project team can
+  fully participate.
 - Use the
   [project reflection for performance evals template](https://docs.google.com/document/d/1ko28PDLcEa_VB3ulMKbEjLzi88u8K8WJqXsBryrBV-U/edit?usp=sharing)
   to collaborate on drafting examples of evaluation criteria. In some cases, an
@@ -300,7 +301,7 @@ conversations, client management skills, and strategic direction.
   [guides](https://18f.gsa.gov/guides/).
 - If you need support in a specific skill set, help with deliverables, or would
   like to have someone facilitate a session, get help by using
-  {% slack_channel "microrequests" %}.
+  {% slack_channel "18f-help-wanted" %}.
 - If your project is part of a portfolio, the portfolio director and your
   colleagues in the portfolio can be a great resource.
 - If you need advice or coaching, look to the chapters
