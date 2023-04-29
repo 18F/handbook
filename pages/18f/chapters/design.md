@@ -157,20 +157,21 @@ And one more thing: before you start using any new tool that asks for access to
 files/browser data, see the [Software]({{base.baseurl}}/software/) page and
 assure the tool is approved.
 
-#### Drawing lines on a screen
+#### Website Prototyping
 
 Unless otherwise specified, **see
 [Software]({% page "/general-information-and-resources/software/#software-already-approved-in-gear" %})
 to get a license** for any of these.
 
-- **Figma** You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
-- **Sketch** You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
-- **OmniGraffle:**
+- [**Figma**]({% page "/tools/figma/" %}): You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
+- [**Sketch**]({% page "/tools/sketch/" %}): You'll need to email the 18F design tool owner and request to join our account. Ask your supervisor who's currently in this role.
+- [**OmniGraffle**](https://www.omnigroup.com/omnigraffle):
   [Request a license](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b)
-- [**Adobe Creative Cloud**]({% page "/adobe/" %})
+- [**Adobe Creative Cloud**]({% page "/adobe/" %}): Submit a [Software Request](https://gsa.servicenowservices.com/sp/?id=sc_cat_item&sys_id=1bfdfdca78d3a400ce3ddff91a64940b) through the GSA IT Help Desk.
 - [**Microsoft Visio**](https://products.office.com/en-us/visio/flowchart-software) -
   Visio isn't available for Mac, but you can [request it get added to your
   Citrix VDI instance]({% page "/tools/virtual-desktop/#software" %}).
+- [**U.S. Web Design System (USWDS) Assets**](https://designsystem.digital.gov/documentation/getting-started-for-designers/): Download design kits containing the most common USWDS UI components for Figma, Sketch, or Adobe XD.
 
 #### Project management
 
@@ -189,7 +190,7 @@ Trello]({% page "/trello" %}) page.
   possible. We augment DAP with site-specific Google analytics tracking. Ask
   your supervisor or post in {% slack_channel "analytics" %} to ask to chat with
   someone to learn more.
-- **Surveys:** Internal to 18F, we often use Google Forms. However, government
+- **Surveys:** Internal to 18F, we often use [Google Forms]({% page "/tools/google-drive/#google-form-tips" %}). However, government
   employees outside 18F often can't access Google Forms on their work computers.
   So when addressing our agency partners, we often need to use other options,
   such as [Touchpoints](https://touchpoints.digital.gov/) — being careful, of
@@ -199,12 +200,12 @@ Trello]({% page "/trello" %}) page.
 
 #### Workshops / virtual workspaces
 
-- **Mural:** Research analysis and workshops. Check out the [Handbook Mural
+- [**Mural**](https://mural.co/): Research analysis and workshops. Check out the [Handbook Mural
   page]({% page "/tools/mural/" %}) for more information. Access is immediate.
 
 #### Word processing
 
-- **Google Drive / Docs / Slides:** This is our primary tool for documents of
+- [**Google Drive / Docs / Slides**]({% page "/tools/google-drive/" %}): This is our primary tool for documents of
   various sorts.
 - [**Microsoft Office**]({% page "/office/" %})
 
