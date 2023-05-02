@@ -5,7 +5,7 @@ cSpell: ignore
 
 ---
 
-{% include "step-indicator.html" steps: healthy-contflict.steps current_step:current_step  %}
+{% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
 
 ## ACE: appreciation, coaching, evaluation
 Everyone needs appreciation, coaching, and evaluative feedback to learn and improve. 

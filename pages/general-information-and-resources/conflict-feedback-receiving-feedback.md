@@ -5,7 +5,7 @@ cSpell: Ignore misperceptions
 
 ---
 
-{% include "step-indicator.html" steps: healthy-contflict.steps current_step:current_step  %}
+{% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
 
 While _giving_ negative feedback may feel hard and scary, it can be just as difficult to receive feedback.
 

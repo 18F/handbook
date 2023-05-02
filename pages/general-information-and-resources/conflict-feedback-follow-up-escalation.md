@@ -5,7 +5,7 @@ cSpell: ignore
 
 ---
 
-{% include "step-indicator.html" steps: healthy-contflict.steps current_step:current_step  %}
+{% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
 
 You've given feedback and nothing has changed. What do you do next?
 
