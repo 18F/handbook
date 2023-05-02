@@ -1,8 +1,10 @@
 ---
 title: Healthy conflict and constructive feedback introduction
 cSpell: ignore neurotypes
-
+current_step: 1
 ---
+
+{% include "step-indicator.html" steps: healthy-contflict.steps current_step:current_step  %}
 
 Feedback matters. Research shows how feedback is crucial to accomplishing [organizational and team](https://tomgeraghty.co.uk/index.php/resilience-engineering-and-psychological-safety/#:~:text=Psychological%20safety%20is%20cited%20as%20the%20key%20factor%20in%20team%20performance) goals. In TTS, we recognize feedback as essential to living our [values of inclusion, integrity, and impact]({% page "/about-us/tts-history/#our-values" %}). 
 

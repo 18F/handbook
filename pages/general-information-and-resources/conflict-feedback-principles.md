@@ -1,9 +1,12 @@
 ---
 title: Feedback principles
-
+current_step: 2
 cSpell: ignore 
 
 ---
+
+{% include "step-indicator.html" steps: healthy-contflict.steps current_step:current_step  %}
+
 We expect everyone at TTS to give and receive feedback [directly](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/#:~:text=simple%20but%20transformative%3A-,Clear%20is%20kind.%20Unclear%20is%20unkind.,-I%20first%20heard), kindly, and professionally. And, people are generally most receptive to feedback if they know what kind of feedback to expect and what their role will be in receiving, processing, and acting on it.
 
 The principles below are meant to be foundations, not limitations. Each person will still bring their unique style, language, and approach to interpersonal relationships.
