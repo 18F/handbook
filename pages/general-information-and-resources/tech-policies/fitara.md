@@ -14,7 +14,7 @@ agency._
 
 ## What is FITARA
 
-The [Federal IT Acquisition Reform Act](https://management.cio.gov/), or FITARA,
+The [Federal IT Acquisition Reform Act](https://www.cio.gov/policies-and-priorities/FITARA/), or FITARA,
 is U.S. legislation enacted on December 19, 2014 that puts federal agency CIOs
 in control of IT investments. What does that mean? It means that the CIO (Chief
 Information Officer) and CTO (Chief Technology Officer) need to give documented
