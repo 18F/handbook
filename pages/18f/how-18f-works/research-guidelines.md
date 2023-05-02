@@ -303,4 +303,4 @@ Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
 
 ## Join the research guild!
 
-[Learn more about the research guild here]({% page "training-and-development/working-groups-and-guilds-101/#current-guilds" %})
+[Learn more about the research guild here]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds" %})
