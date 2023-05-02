@@ -231,7 +231,7 @@ From GSA's Office of General Counsel (OGC):
 > #### Notification
 >
 > When an employee becomes aware of the need to be recused from a particular
-> matter, the employee should notify the person responsible for his or her
+> matter, the employee should notify the person responsible for their
 > assignments, and may choose to document the recusal in writing. Notification
 > permits a supervisor to minimize any disruption of the agency's mission by
 > arranging assignments accordingly.
