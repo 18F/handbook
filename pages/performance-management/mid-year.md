@@ -36,11 +36,11 @@ See [dates](../dates/#mid-year-performance-review-important-dates).
 ## Union requirements for mid year performance reviews
 
 - **AFGE Union members:** a rating is required for each critical element of the
-  performance plan and you must also inform the employee whether his/her overall
+  performance plan and you must also inform the employee whether their overall
   performance to date remains consistent with the summary rating received on the
   last annual rating of record.
 - **NFFE Union members:** a rating is NOT required for each critical element but
-  you must inform the employee whether his/her overall performance to date
+  you must inform the employee whether their overall performance to date
   remains consistent with the summary rating received on the last annual rating
   of record. It is recommended that manager comments are documented in the GSA
   Elements Summary section in HR Links.
