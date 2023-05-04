@@ -38,7 +38,7 @@ See [dates](../dates/#mid-year-performance-review-important-dates).
 - **AFGE Union members:** a rating is required for each critical element of the
   performance plan and you must also inform the employee whether their overall
   performance to date remains consistent with the summary rating received on the
-  last annual rating of record.
+  last annual rating of record. Also, employees must be given the opportunity to provide feedback on proposed changes to their performance plans.
 - **NFFE Union members:** a rating is NOT required for each critical element but
   you must inform the employee whether their overall performance to date
   remains consistent with the summary rating received on the last annual rating
