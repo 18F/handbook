@@ -10,7 +10,7 @@ questions:
   - co-transit-subsidy@gsa.gov
 redirect_from:
   - /transit-benefit/
-cSpell: ignore Sabbers
+cSpell: ignore Sabbers,approvable
 ---
 
 This page outlines how to sign up for and how to cancel the transit benefit.
@@ -23,11 +23,7 @@ below.
 
 ## Enrolling in transit benefit
 
-The
-[GSA FY20 Guide to Registration](https://www.transportation.gov/transerve/participants/gsa-fy20-guide-registration)
-has instructions and images that can help walk you through the TranServe
-registration process. The step-by-step guidance below has information that is
-specific to TTS employees:
+The step-by-step guidance below is specific to TTS employees:
 
 Use `T-TECH TRANSFORMATION SERVICE` as your organizational code. Make sure to
 select the **Transit Coordinator in the Region in which you reside** - this
