@@ -303,5 +303,4 @@ Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
 
 ## Join the research guild!
 
-The Guild meets once a week to discuss the theory and practice of asking
-questions.
+[Learn more about the research guild here]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds" %})
