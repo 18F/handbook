@@ -34,7 +34,7 @@
     "chokidar-cli": "^3.0.0",
     "eleventy-plugin-svg-sprite": "^2.4.0",
     "esbuild": "^0.17.18",
-    "esbuild-sass-plugin": "^2.4.4",
+    "esbuild-sass-plugin": "^2.9.0",
     "html-validate": "^7.15.1",
     "js-yaml": "^4.1.0",
     "markdown-it": "^13.0.1",
