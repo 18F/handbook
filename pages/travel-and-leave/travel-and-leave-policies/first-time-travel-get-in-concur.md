@@ -33,8 +33,8 @@ which can take up to a week. If immediate travel is required,
 [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) can assist until your account is
 active.
 
-1. To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor
-   ID”**. Use the
+### 1. Get a travel vendor ID
+To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor ID”**. Use the
    [Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx)
    to request a new vendor ID. Please note that you'll need to be on the VPN to
    access this site. (Note: The "travel vendor ID" will show up as "Employee ID"
@@ -55,27 +55,32 @@ an issue with your internet._
   If this occurs, continue submitting until you receive a successful
   confirmation message.
 
-In case the travel finance team is unable to locate your payroll banking
+If the travel finance team is unable to locate your payroll banking
 information, they may request that you complete [the EFT
 form]({% download "downloads/EFT_Enrollment_Form.pdf" %}) and will provide
 instructions on how you can send this information to them securely.
 
 While you wait for the ID number to be generated and sent to you via email
-(which can take up to 1 business day), you may get started on [applying for the
+(which can take up to 1 business day), you can get started on [applying for the
 GSA travel card]({% page "/first-time-travel-travel-card" %}).
 
-2. Ensure you have completed the mandatory security and privacy training
+### 2. Check that you have completed required training 
+Ensure you have completed the mandatory security and privacy training
    required of all GSA staff, assigned to you in OLU (https://gsaolu.gsa.gov).
    Follow the instructions
    [here]({% page "/training-and-development/olu/#help-with-olu" %}) if you need
    help.
-3. Complete the
+
+### 3. Complete the CGE Access Request Form
+Complete the
    [CGE Access Request Form][cgeform],
    minus the EFT enrollment form. Either an electronic or ink signature is fine.
    Don't forget to get your supervisor's signature as well! \*_Not sure about a
    particular field? Get help by reading the_
    _[FAQ below](#frequently-asked-questions)_
-4. Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
+
+### 4. Email the form to TTS Travel
+Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
    _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only
    email it to tts-travel@gsa.gov. Your account will be set up before
    [the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/),
