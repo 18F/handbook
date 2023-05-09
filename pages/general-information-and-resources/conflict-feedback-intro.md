@@ -1,5 +1,5 @@
 ---
-title: Healthy conflict and constructive feedback introduction
+title: Healthy conflict and constructive feedback
 cSpell: ignore neurotypes
 current_step: 1
 ---
