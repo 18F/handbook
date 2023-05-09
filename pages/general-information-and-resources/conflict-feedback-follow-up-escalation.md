@@ -1,9 +1,12 @@
 ---
 title: Following up and escalation
-
+current_step: 3
 cSpell: ignore 
 
 ---
+
+{% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
+
 You've given feedback and nothing has changed. What do you do next?
 
 ## Follow up on the feedback
