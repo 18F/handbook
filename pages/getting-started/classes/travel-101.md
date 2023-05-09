@@ -7,7 +7,7 @@ current_step: 1
 sidebar:
   kind: travel
   current: Travel 101
-cSpell: ignore Djemila
+cSpell: ignore Djemila,Lathann,Newland
 ---
 
 {% include "step-indicator.html" steps: travel-steps.steps current_step:current_step  %}
@@ -119,6 +119,7 @@ questions to them through the above-mentioned channels and not through
 individual emails or Slack DMs.
 
 - Djemila McCray (primary, People Operations)
+- Lathann Newland (primary, People Operations)
 - Steven Williams (backup, People Operations)
 
 \*_Please direct technical questions about Concur to the Business Applications

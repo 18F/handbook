@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Withee,Ojiaku,Slogeris,Luetger,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
+cSpell: ignore Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
 ---
 
 <style type="text/css">
@@ -193,12 +193,12 @@ Guild meeting times can also be found on the
       <tr>
         <th id="design-research">Research</th>
         <td class="col-description">
-          We envision a world where government agencies use research to shape their decision making processes. <br />
+          We support design research in TTS through learning, community building, and advocating for best practices. <br />
           {% slack_channel "g-research" %}
         </td>
         <td>
           Becky Slogeris - PIF<br />
-          Dave Luetger - 18F <br />
+          Michelle Polyak - USDC <br />
           Megan Moser - CoE
         </td>
       </tr>

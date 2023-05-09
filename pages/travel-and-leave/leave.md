@@ -122,9 +122,15 @@ You’ll receive emails after submitting the request, and after it is approved.
 
 You’ll receive an email after you cancel/edit a request.
 
-Note: Canceling a request can create an error in HR Links, if the dates of the
-canceled request overlap with another leave request. If you run into issues
-after you’ve canceled a request, reach out to {% slack_channel "people-ops" %}.
+Note: Canceling a request can create an error in HR Links, if the dates of the canceled request overlap with another leave request. If you see an error that says `The Start and End Dates of your absence are overlapping with an existing absence. Please modify your Start/or End Date.` :
+1. Go to the **Employee Time Requests** tile
+2. Click **Absence Requests**
+3. Click **View/Edit** on the Canceled request
+4. Update the Canceled request: you can change the dates, hours, and leave type.
+5. Hit **Submit**
+6. It will go to your supervisor as a new, approvable request.
+
+If you run into issues, reach out to {% slack_channel "people-ops" %}.
 
 ### HR Links tips
 
