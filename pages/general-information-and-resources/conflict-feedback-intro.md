@@ -16,7 +16,7 @@ Feedback takes practice; learning best practices for giving (and receiving!) fee
 
 Each of us has a unique set of identities. When giving feedback, we are sharing the world as we see it; we are affected not only by what we _think_ we observed and heard, but also by previous impressions and interactions.
 
-The principles below ask us to clarify why and how we are giving feedback. They also ask us to listen to the receiver. This is crucial: it’s a chance to learn how someone is experiencing the world, and how they are experiencing us.
+The principles in this guide ask us to clarify why and how we are giving feedback. They also ask us to listen to the receiver. This is crucial: it’s a chance to learn how someone is experiencing the world, and how they are experiencing us.
 
 Listening is especially critical when we are giving feedback to someone with less power in the organization, and/or who has less societal power and opportunity. Working through the principles below can reduce the chance that our messages are rooted in bias or gut reactions.
 
