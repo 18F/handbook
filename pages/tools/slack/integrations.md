@@ -19,8 +19,7 @@ We have a few different Slack Apps and bots you'll see in Slack:
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot):
   We automate responses to frequently asked questions with a Slackbot. You can
   update or customize responses
-  [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [request
-  new emoji]({% page "/tools/slack/guidelines#custom-emoji" %}). **Do not
+  [here](https://gsa-tts.slack.com/customize/slackbot). **Do not
   include private or sensitive information in Slackbot automatic responses.**
 - [TTS Inspector](https://github.com/18F/tts-tech-portfolio/tree/main/inspector):
   Our auditing bot
