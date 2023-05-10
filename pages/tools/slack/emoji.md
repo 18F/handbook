@@ -17,8 +17,7 @@ Before requesting emoji featuring TTS members' faces, family, pets, etc., please
 **request consent** from those featured. Emoji reviewers are required to check
 that consent was obtained.
 
-All emoji must be 128KB or smaller with a caveat: sometimes Slack may reject
-gifs even if smaller.
+Square images under 128KB and with transparent backgrounds work best. Images can be in JPG, PNG, or GIF format.
 
 Per
 [GSA Directive](https://www.gsa.gov/cdnstatic/Directives/CC044995_Directive_CIO%2021602B%20CHGE%204,%20GSA%20Electronic%20Messaging%20and%20Related%20Services.pdf), new emoji must be reviewed before use. 
