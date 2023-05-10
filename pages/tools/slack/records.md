@@ -16,7 +16,7 @@ comfortable appearing on the news. This includes:
 - Any audio or video transmitted using a
   [Slack Call](https://slack.com/help/articles/115003498363-Slack-calls--the-basics)
 - Channel names
-- [Custom emoji]({% page "/tools/slack/guidelines/#custom-emoji" %})
+- Custom emoji
 - [Emoji reactions](https://slack.com/help/articles/206870317-Use-emoji-reactions)
 
 ## Records policy
