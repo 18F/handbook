@@ -5,10 +5,11 @@ redirect_from:
 questions:
   - admins-slack
 ---
+This guide explains how and why we use Slack and how to make the most of your Slack experience at TTS. Slack is a communication tool TTS uses to build community, share knowledge, and manage projects.
 
-Slack is a cloud-based communication tool several offices at TTS use heavily to build community, share knowledge, and manage projects.
+Using Slack for the first time can feel like visiting a new city: there is a lot to see, digest and experience. The pages below will help you get acquainted. 
 
-If you'd like to learn about Slack generally, see [Slack's Getting Started Page](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users) or check out the pages below to learn more about how TTS uses Slack.
+Let’s get started!
 
 - [Getting started](getting-started/)
 - [Guidelines](guidelines/)
