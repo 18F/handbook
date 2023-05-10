@@ -32,6 +32,14 @@ No, and that’s okay! Each team develops norms and culture around how they use 
 
 Slack is also used for “water cooler” chat and social discussions; you can review the list of [non-project Slack channels](https://docs.google.com/document/d/1HAcC0qU756AzeZ38iZOlosN98Xeppr2sJ9LXLOx0UbM/edit). 
 
+## Is Slack content a federal record?
+
+Yes. Everything written in Slack is potentially a federal [record]({% page "/tools/slack/records" %}), just like our emails, documents, spreadsheets, video recordings, etc. The public (including media) can request copies via the Freedom of Information Act (FOIA). Assume everything you share and do in Slack could be made public and attributed back to you.
+
+Treat Slack like the public forum it is — refrain from writing something in Slack that you wouldn't feel comfortable appearing on the news. This includes file uploads, video and audio, channel names, custom emoji, and emoji reactions.
+
+Do not post any [sensitive information]({% page "/sensitive-information/" %}).** See the [list of alternatives]({% page "/general-information-and-resources/sensitive-information/#tools" %}).
+
 ## How do I set up my profile?
 
 Once you are logged into Slack, please [complete your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile). This allows you to share who you are, what team you belong to, your pronouns, and your contact information. 
@@ -59,64 +67,3 @@ Once you are logged into Slack, please [complete your Slack profile](https://sla
 11. **Personal ReadMe** - You can link to a [personal README](https://docs.google.com/document/u/0/d/1U5Eq3AD7XIP72I0GKr-mMm017s485KLyRfEaSB5yL5A/edit), which is a way to tell your coworkers how they can best communicate with you, work with you, give you feedback, and support you. _Optional_. Ex. [TTS ReadME index](https://docs.google.com/document/d/1U5Eq3AD7XIP72I0GKr-mMm017s485KLyRfEaSB5yL5A/edit)
 
 After you have edited your profile, save it and then review it. If anything changes, you can go back and edit it again. 
-
-
-## Usage
-
-Slack is used by all TTS staff. Some things you'll want to remember, especially
-if you're new to Slack:
-
-- **Abide by the [TTS Code of Conduct]({% page "/code-of-conduct" %}).** This
-  includes use of avatars, emoji, files, and links. If you see anyone violating
-  our Code of Conduct, see the reporting section.
-- **[Assume everything you share/do in Slack will be made public, and attributed back to you.](../records/)**
-- **Do not post any [sensitive
-  information]({% page "/sensitive-information/" %}).** See the [list of
-  alternatives]({% page "/general-information-and-resources/sensitive-information/#tools" %}).
-
-## Channel names
-
-Here's what various prefixes and suffixes mean:
-
-| prefix/suffix | description                                                                                                                                                                                                                                 |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `admins-`     | Administrators for various tools. {% slack_channel "admins-slack" %}, for example, is used to [request invites to Slack](../user-management/), expunge a particularly offensive/off-topic message, change the name of a channel, and so on. |
-| `-partner`    | Channels that include [partners]({% page "/tools/slack/external-collaboration/#working-with-partners-on-slack" %}) from other agencies.                                                                                                     |
-| `-public`     | [Channels that include members of the public.]({% page "/tools/slack/external-collaboration/#collaborating-with-the-public-on-slack" %})                                                                                                    |
-| `-shared`     | Channels that are linked with another Slack org.                                                                                                                                                                                            |
-| `wg-`         | [Working groups]({% page "/training-and-development/working-groups-and-guilds-101/#working-groups-in-tts" %})                                                                                                                               |
-| `g-`          | [Guilds]({% page "/training-and-development/working-groups-and-guilds-101/#guilds-in-tts" %})                                                                                                                                               |
-| `c-`          | [18F Collectives]({% page "/training-and-development/working-groups-and-guilds-101/#collectives-in-18f" %})                                                                                                                                 |
-
-Feel free to join any of these channels even if you are not actively part of the
-group and are just interested.
-
-## @channel and @here
-
-In general, the larger a channel is, the more careful you should be about using
-[broadcast notifications](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace).
-Regardless, please use these sparingly. See also:
-[groups](../guidelines/#groups).
-
-## Alumni
-
-- **Keep the conversation visible within #alumni and don't DM staff.** For
-  direct communication, use methods available to the general public, such as
-  email.
-- **If you would like documents or materials, you can either use publicly
-  available methods to request that we publish them publicly, or you can
-  [file a FOIA request](https://www.gsa.gov/reference/freedom-of-information-act-foia)
-  for GSA to release them.** Don't request materials that aren't already public
-  to be sent to you — even if they were non-sensitive or documents that you
-  personally authored while you were here.
-- **Don't share job postings.** This is especially true for your own employer,
-  but applies to postings generally. We don't want our #alumni channel to be
-  providing advantages to any particular company due to someone's access to it.
-  You can use email or other publicly accessible methods to share job postings.
-
-## Security
-
-GSA's Slack Enterprise Grid is authorized at the
-[Moderate](https://atos.open-control.org/categorization/#selecting-the-overall-impact-level)
-level via a
-[FedRAMP authorization](https://marketplace.fedramp.gov/#/product/slack?sort=productName&productNameSearch=slack).
