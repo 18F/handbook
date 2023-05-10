@@ -228,6 +228,9 @@ primary:
           - text: DEIA resources
             url: general-information-and-resources/deia-resources/
             internal: true
+          - text: Healthy conflict and constructive feedback
+            url: general-information-and-resources/conflict-feedback-intro/
+            internal: true
           - text: Inclusive behaviors
             url: general-information-and-resources/inclusive-behaviors/
             internal: true
