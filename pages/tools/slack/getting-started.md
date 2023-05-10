@@ -2,6 +2,7 @@
 title: Getting started with Slack
 questions:
   - admins-slack
+cSpell: ignore Technolo,Teck
 ---
 
 _[Back to Slack page](../)_
@@ -52,7 +53,7 @@ Once you are logged into Slack, please [complete your Slack profile](https://sla
 
 4. **Pronouns**: How you should be referred to in the third person. _Recommended_. Ex. she/her/hers. Sharing your own pronouns is a way to make sure everyone feels included and acknowledges gender diversity across TTS. Your pronouns are optional but strongly encouraged. They're not required because we want to ensure people who might change their pronouns don’t feel pressure to have an answer at all times.
 
-5. **Name Pronunciatio**n: How your name is pronounced, in the form of phonetic spellings or an audio recording. _Recommended_. Ex. Teck-Nah-Low-Gee | Ty-Gur 
+5. **Name Pronunciation**: How your name is pronounced, in the form of phonetic spellings or an audio recording. _Recommended_. Ex. Teck-Nah-Low-Gee | Ty-Gur 
 
 6. **Time Zone**: Slack displays your local time in your profile. _Automatic_.
 
