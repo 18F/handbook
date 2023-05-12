@@ -34,7 +34,7 @@ have one as soon as possible.
 
 _Est. time: 60 minutes_
 
-1. Head over to GSA's [OLU](https://gsaolu.gsa.gov).
+1. Head over to GSA's [OLU](https://gsa.csod.com/client/gsa/default.aspx).
 2. Click on the Home button, and then choose "Learning" from the dropdown.
 3. Below, look for a "Find Learning" search box.
 4. Search for "travel training".
