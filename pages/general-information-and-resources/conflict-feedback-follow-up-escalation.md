@@ -4,7 +4,28 @@ current_step: 3
 cSpell: ignore 
 
 ---
-
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-4 margin-bottom-4 tablet:margin-bottom-0">
+    <nav aria-label="Side navigation,">
+  <ul class="usa-sidenav">
+    <li class="usa-sidenav__item">
+      <a href="/general-information-and-resources/conflict-feedback-intro" >Intro</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="{{ '/general-information-and-resources/conflict-feedback-principles' | url }}">Principles</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="'javascript:void(0);'" class="usa-current">Following up and escalation</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="{{ '/general-information-and-resources/conflict-feedback-additional-frameworks' | url }}">Additional Feedback Frameworks</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="{{ '/general-information-and-resources/conflict-feedback-receiving-feedback' | url }}">Receiving Feedback</a>
+    </li>
+  </ul>
+</nav>
+</div>
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
 
 You've given feedback and nothing has changed. What do you do next?

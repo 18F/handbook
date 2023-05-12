@@ -4,8 +4,32 @@ current_step: 4
 cSpell: ignore 
 
 ---
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-4 margin-bottom-4 tablet:margin-bottom-0">
+    <nav aria-label="Side navigation,">
+  <ul class="usa-sidenav">
+    <li class="usa-sidenav__item">
+      <a href="/general-information-and-resources/conflict-feedback-intro" >Intro</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="{{ '/general-information-and-resources/conflict-feedback-principles' | url }}">Principles</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="{{ '/general-information-and-resources/conflict-feedback-follow-up-escalation' | url }}">Following up and escalation</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="'javascript:void(0);'" class="usa-current">Additional Feedback Frameworks</a>
+    </li>
+    <li class="usa-sidenav__item">
+      <a href="{{ '/general-information-and-resources/conflict-feedback-receiving-feedback' | url }}">Receiving Feedback</a>
+    </li>
+  </ul>
+</nav>
+</div>
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
+
+
 
 ## ACE: appreciation, coaching, evaluation
 Everyone needs appreciation, coaching, and evaluative feedback to learn and improve. 
@@ -30,7 +54,7 @@ Coaching communicates what “good” looks like, to help the recipient learn an
 ### Evaluation 
 Evaluation helps someone change specific actions or behaviors, and understand the impact of their actions. Sometimes, we don’t see all of the impacts of our actions, and we need others to gently point out when we (usually unintentionally) misstep. 
 
-Susan Scott calls this “[taking responsibility for our emotional wake](https://learningforward.org/wp-content/uploads/2009/08/scott304.pdf)” when we mess up. The key to giving good evaluative feedback is to focus on the actions, not the person, and to assume good intent.
+Susan Scott calls this “[taking responsibility for our emotcdional wake](https://learningforward.org/wp-content/uploads/2009/08/scott304.pdf)” when we mess up. The key to giving good evaluative feedback is to focus on the actions, not the person, and to assume good intent.
 | Less like...      | More like... |
 | ----------- | ----------- |
 | “You took credit for the team’s work during the demo.”    | “When you gave the demo at the final presentation, you didn’t mention the specific contributions of others on the team and it felt like you were taking credit for others’ work. I know you probably just overlooked it, but it hurt feelings and damaged trust on our team.”  |
