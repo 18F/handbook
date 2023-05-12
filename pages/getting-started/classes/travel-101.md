@@ -46,42 +46,34 @@ have access to OLU to complete the required IT security trainings._
 Once you are [set up in Concur]({% page "/first-time-travel-get-in-concur/" %})
 and your [travel card]({% page "/first-time-travel-travel-card/" %}) is on its
 way, there are three main parts of the travel process to be aware of.
-First, you will book your travel and submit a plan to be approved in Concur.
-Your supervisor and the TTS travel team will review and approve that plan.
-Timing will vary, but you might expect to wait a few days or a week for
-approval. Second, after things are approved you actually travel. Finally,
-after traveling you file a matching voucher in Concur for reimbursement.
-Again, timing will vary, but it might take another few days or a week to
-approve the voucher.
 
-1. [Booking flights/rail, hotels, and rental
-   cars]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %})
-   in [Concur](https://travel.gsa.gov) or via AdTrav at (877) 472-6716,
-   [completing trip
-   information]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#completing-trip-information" %})
-   and [stamping and
-   submitting]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %})
-   in [Concur](https://travel.gsa.gov), and [securing approval either via
-   email]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %})
-   from your [authorizing
-   official]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#who-is-my-authorizing-official-and-what-is-my-budget" %}),
-   or through the [event request
-   process]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering" %})
-2. [What to keep in mind while on official
-   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}),
-   including which receipts to keep, and when to use the GSA travel card
-3. [Getting reimbursed for official
-   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %})
-   (plus [local
-   travel]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
-   or [non-travel related
-   reimbursements]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %})
-   such as [professional liability
-   insurance]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-can-i-get-reimbursed-for-professional-liability-insurance" %})
-   for supervisors)
+### 1. Book your travel and submit a plan for approval
 
-There are also a few specialized guides to be aware of for the following
-situations:
+- You can [book flights, rail trips, hotels, and rental cars][travel-guide-2] in
+  [Concur](https://travel.gsa.gov) or by calling AdTrav at (877) 472-6716.
+- [Complete your trip information][completing-trip-information], and continue
+  [stamping to submit][stamp-and-submit] to the travel team for approval.
+- Get approval via [email][authorizing-official] from your [authorizing
+  official][who-is-my-ao] or through the [event request process][event-request].
+
+The approval timeline will vary, but the whole process typically takes between a
+few days to a week.
+
+### 2. Actually travel
+
+Keep [travel card policies and reimbursement rules][travel-guide-3] as you
+travel, so you'll know the right times to use your GSA travel card and which
+receipts you need to keep with you.
+
+### 3. File your voucher and get reimbursed
+
+Now it's time to [get reimbursed for your travel][travel-guide-4] by filing your
+voucher. You can also get reimbursed for other things via this method, such as
+[local travel][local-travel] or, for supervisors, [professional liability
+insurance][professional-liability-insurance].
+
+**For unusual travel situations, there are a few additional guides to be aware
+of:**
 
 - [Re-booking and changing official travel
   plans]({% page "/travel-guide-a-amended-authorizations/" %})
@@ -133,3 +125,15 @@ Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions
 about the [travel card
 application]({% page "/first-time-travel-travel-card/" %}) should be routed to
 ronnail.rawls@gsa.gov._
+
+<!-- prettier-ignore -->
+[travel-guide-2]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/" %}
+[travel-guide-3]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/" %}
+[travel-guide-4]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-3-reimbursement/" %}
+[completing-trip-information]:{% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#completing-trip-information" %}
+[stamp-and-submit]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-stamp-and-submit-for-travel-team-approval" %}
+[authorizing-official]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-to-secure-authorizing-official-approval" %}
+[who-is-my-ao]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#who-is-my-authorizing-official-and-what-is-my-budget" %}
+[event-request]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering" %}
+[local-travel]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-create-a-local-or-miscellaneous-voucher" %}
+[professional-liability-insurance]: {% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-can-i-get-reimbursed-for-professional-liability-insurance" %}
