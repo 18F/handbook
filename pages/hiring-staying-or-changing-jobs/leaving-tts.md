@@ -154,9 +154,6 @@ hours of the person ending their work at GSA.
   offboarding employee.
   - For offboarding interns, use
     [this survey](https://goo.gl/forms/XOy7QO4zcnz6LyLh1).
-- Conduct an exit interview based on the responses to the questionnaire.
-  - Documentation will be kept anonymous, but content may be used in aggregate
-    to highlight trends.
 - Complete the
   [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing)
   with the employee.

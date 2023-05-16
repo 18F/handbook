@@ -68,3 +68,20 @@ Once you are logged into Slack, please [complete your Slack profile](https://sla
 11. **Personal ReadMe** - You can link to a [personal README](https://docs.google.com/document/u/0/d/1U5Eq3AD7XIP72I0GKr-mMm017s485KLyRfEaSB5yL5A/edit), which is a way to tell your coworkers how they can best communicate with you, work with you, give you feedback, and support you. _Optional_. Ex. [TTS ReadME index](https://docs.google.com/document/d/1U5Eq3AD7XIP72I0GKr-mMm017s485KLyRfEaSB5yL5A/edit)
 
 After you have edited your profile, save it and then review it. If anything changes, you can go back and edit it again. 
+
+## How do I make sure I’m using Slack in line with TTS values? 
+
+Here are a few suggestions for making sure our Slack community stays an awesome, valuable and inclusive place to be.
+- As stated in our [Code of Conduct]({% page "/about-us/code-of-conduct/" %}), TTS is committed to building a safe, welcoming, harassment-free culture for everyone. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the communities we serve. This is true on Slack, just like our other types of interactions. 
+- Discuss Slack team expectations with your supervisor. 
+- It is difficult to convey tone through text. If you have constructive feedback for someone, it might be more appropriate to share privately and via a live, synchronous method like a Meet, Zoom, or phone call. 
+- Be mindful of “pile-ons.” It is easy for multiple people to quickly type responses in Slack. If you see a thread that is escalating, it is a signal that a Zoom or Meet conversation may be more appropriate. 
+- Share your challenges and helpful resources you come across with your team/new colleagues.
+- Refrain from posting anything that would [make our systems vulnerable]({% page "/sensitive-information/" %}) or would impact the privacy of others. 
+- Flag inappropriate messages. Just like our in-person interactions, there are a variety of ways to address issues: you can have a conversation directly with the person; you can discuss with a supervisor, team lead, or project lead; you can reach out to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl).
+- Ask questions in the relevant [channels]({% page "/tools/slack/guidelines/" %}), and engage when people respond to you. If someone you pinged directly hasn’t responded within a few days, you may want to try contacting them using a  different type of communication (email, Gchat, put time on their calendar).
+- If you are unsure or unclear about any of the recommendations above, please reach out to your supervisor for assistance. 
+
+### Inclusion Bot
+
+Inclusion Bot is integrated into Slack and passively listens for words or phrases that have racist, sexist, ableist, or otherwise exclusionary or discriminatory histories or backgrounds. When it hears those words, it privately lets the writer know and offers some suggested alternatives. You can read the [Inclusion Bot Handbook page]({% page "/general-information-and-resources/inclusion-bot/" %}) for more information.

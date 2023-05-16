@@ -5,6 +5,8 @@ questions:
 cSpell: 
 ---
 
+_[Back to Slack page](../)_
+
 ## Custom emoji
 
 Emoji are an important part of our communication within Slack. You are welcome
