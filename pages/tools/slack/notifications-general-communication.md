@@ -2,8 +2,6 @@
 title: Slack communication and notification best practices
 questions:
   - admins-slack
-redirect_from:
-  - /tools/slack/rules/
 ---
 
 _[Back to Slack page](../)_
