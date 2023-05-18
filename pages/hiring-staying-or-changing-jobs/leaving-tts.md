@@ -166,10 +166,22 @@ You are under no obligation to send out a farewell email, but if you do, please
 use bcc: for any distribution lists you're sending it to. This allows people to
 respond to you directly without creating additional email noise for coworkers.
 
-### Slack
+### Using Slack as an alumni
 
 As you leave, you’re encouraged to join
-{% slack_channel "alumni" "the alumni channel" %} on Slack.
+{% slack_channel "alumni" "the alumni channel" %} on Slack. Once you have left TTS:
+- Keep conversations and questions visible within #alumni and don't DM staff. For
+  direct communication, use methods available to the general public, such as
+  email.
+- If you would like documents or materials, you can either use publicly
+  available methods to request that we publish them publicly, or you can
+  [file a FOIA request](https://www.gsa.gov/reference/freedom-of-information-act-foia)
+  for GSA to release them. Don't request materials that aren't already public
+  to be sent to you — even if they were non-sensitive or documents that you
+  personally authored while you were here.
+- Don't share job postings (unless it is for a role at a government agency). Our #alumni channel should not
+  provide advantages to any particular company due to someone's access to it. You can use email or other publicly accessible methods to share job postings.
+
 
 ### Writing a post on your personal blog
 
