@@ -29,14 +29,19 @@ Threading has several advantages: it keeps a conversation grouped together; folk
 
 Like other systems, you can use bold, italics, bullets, link breaks, etc. to break up content. 
 
-## What are some notification best practices for Slack?
-
 ### @here and @channel notifications
 There are 2 methods for sending an alert notification to all of the people in a Slack channel: @channel and @here. You can [read more about these 2 types of notifications](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace). We recommend using these alerts **very** sparingly, and consider only using them in Slack channels for your specific team/projects (and set team guidelines on when to use).
 
-### How do I get alerted that someone has sent me a message in Slack?
+## Do you have any tips on how not to get overwhelmed by Slack?
 
-You can [set up notification preferences](https://youtu.be/wuyWwzazef8) and decide what messages will trigger notifications for you.
+Slack can be overwhelming for both new and existing employees! Remember that you don’t have to be a part of every conversation, and you can join and leave public channels as much as you want. Though you may get invited to channels, you don’t have to stay. Of course, check with your supervisor before leaving a channel designed specifically for your team. If you leave a private channel, you will need to be added by a current channel member in order to return.
 
-### Why would I need to manage my notifications?
-You are able to [pause notifications](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) as needed to help you concentrate, and even set a notification schedule for routine times you'd prefer not to be notified.
+### How can I set a staus that lets others know that I'm not working?
+Set Slack boundaries when you aren't working or you when need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. 
+
+You can [set a notifcation schedule](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb#set-a-notification-schedule) so Slack automatically shows that you aren't online before/after certain times. 
+
+### How can I manage my notifications?
+You can [set up notification preferences](https://youtu.be/wuyWwzazef8) and decide what messages will trigger notifications for you. You are able to [pause notifications](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) as needed to help you concentrate.
+
+You can also set your phone to Do Not Disturb mode or turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at different times, there's no expectation for people to respond when they're not working.
