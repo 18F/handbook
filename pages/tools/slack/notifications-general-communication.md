@@ -27,14 +27,19 @@ We encourage the use of [threads](https://slack.com/help/articles/115000769927-U
 
 Threading has several advantages: it keeps a conversation grouped together; folks who post in the thread are notified each time a new message is added; and there are no further notifications in the main channel, after the initial post (unless you choose that option).  
 
-Like other systems, you can use bold, italics, bullets, link breaks, etc. to break up content. 
+### Sharing a lot of information at once
+Use [posts](https://slack.com/help/articles/203950418-Use-posts-in-Slack) to share large chunks of text.
 
 ### @here and @channel notifications
 There are 2 methods for sending an alert notification to all of the people in a Slack channel: @channel and @here. You can [read more about these 2 types of notifications](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace). We recommend using these alerts **very** sparingly, and consider only using them in Slack channels for your specific team/projects (and set team guidelines on when to use).
 
 ## Do you have any tips on how not to get overwhelmed by Slack?
 
-Slack can be overwhelming for both new and existing employees! Remember that you don’t have to be a part of every conversation, and you can join and leave public channels as much as you want. Though you may get invited to channels, you don’t have to stay. Of course, check with your supervisor before leaving a channel designed specifically for your team. If you leave a private channel, you will need to be added by a current channel member in order to return.
+Slack can be overwhelming for both new and existing employees! 
+
+Remember that you don’t have to be a part of every conversation, and you can join and leave public channels as much as you want. Though you may get invited to channels, you don’t have to stay. Of course, check with your supervisor before leaving a channel designed specifically for your team. If you leave a private channel, you will need to be added by a current channel member in order to return.
+
+Slack has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for its name in Slack.
 
 ### How can I set a status that lets others know that I'm not working?
 Set Slack boundaries when you aren't working or you when need to be heads-down by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. 
@@ -44,4 +49,4 @@ You can [set a notification schedule](https://slack.com/help/articles/214908388-
 ### How can I manage my notifications?
 You can [set up notification preferences](https://youtu.be/wuyWwzazef8) and decide what messages will trigger notifications for you. You are able to [pause notifications](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) as needed to help you concentrate.
 
-You can also set your phone to Do Not Disturb mode or turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at different times, there's no expectation for people to respond when they're not working.
+You can also turn off notifications for the Slack app on your phone. Don't worry — though we have different schedules and may message each other at different times, there's no expectation for people to respond when they're not working.
