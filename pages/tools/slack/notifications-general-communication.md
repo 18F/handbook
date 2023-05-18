@@ -29,10 +29,10 @@ Threading has several advantages: it keeps a conversation grouped together; folk
 
 Like other systems, you can use bold, italics, bullets, link breaks, etc. to break up content. 
 
+## What are some notification best practices for Slack?
+
 ### @here and @channel notifications
 There are 2 methods for sending an alert notification to all of the people in a Slack channel: @channel and @here. You can [read more about these 2 types of notifications](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace). We recommend using these alerts **very** sparingly, and consider only using them in Slack channels for your specific team/projects (and set team guidelines on when to use).
-
-## What are some notification best practices for Slack?
 
 ### How do I get alerted that someone has sent me a message in Slack?
 
