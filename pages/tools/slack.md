@@ -12,8 +12,9 @@ Using Slack for the first time can feel like visiting a new city: there is a lot
 Let’s get started!
 
 - [Getting started](getting-started/)
-- [Channels: usage and best practices](guidelines/)
-- [Emoji: usage and best practices](emoji/)
+- [Channel best practices](guidelines/)
+- [Emoji best practices](emoji/)
+- [Communication and notification best practices](notifications-general-communication/)
 - [User management](user-management/)
 - [Integrations (apps, bots)](integrations/)
 - [External collaboration](external-collaboration/)
