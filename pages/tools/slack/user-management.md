@@ -1,5 +1,5 @@
 ---
-title: Slack user management
+title: Slack user management, administration and security
 redirect_from:
   - /slack-admin/
 questions:
@@ -81,3 +81,8 @@ by clicking the "Import" button from the Workflow Builder.
 
 Reach out to {% slack_channel "tts-tech-portfolio" %} for Collaborator access to
 the Custom Emoji Request workflow.
+
+## Security
+
+GSA's Slack Enterprise Grid is authorized at the [Moderate](https://atos.open-control.org/categorization/#selecting-the-overall-impact-level) level via a [FedRAMP authorization](https://marketplace.fedramp.gov/#/product/slack?sort=productName&productNameSearch=slack).
+

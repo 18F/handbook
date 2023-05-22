@@ -55,8 +55,3 @@ Here's what various prefixes and suffixes mean:
 
 Feel free to join any of these channels even if you are not actively part of the
 group and are just interested.
-
-## Do you have any tips on how not to get overwhelmed with all the Slack channels available?
-Slack can be overwhelming for both new and existing employees! Remember that you don’t have to be a part of every conversation, and you can join and leave public channels as much as you want. 
-
-Though you may get invited to channels, you don’t have to stay. Of course, check with your supervisor before leaving a channel designed specifically for your team. 
