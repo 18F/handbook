@@ -29,7 +29,7 @@ Hiring managers who want to bring in an external detailee should first submit a 
 Once the hiring manager has gotten approval from the Internal Hiring Committee, they email [PeopleOps](mailto:TTS-PeopleOps@gsa.gov), 
 [Finance](mailto:18F-Finance-CS@gsa.gov) and [Agreements](mailto:tts.agreements@gsa.gov) that they will be posting the detail.
 
-The Agreements Team coordinates internal agency agreements (IAAs) that allow an office to bring in personnel from other agencies. The IAA process for external details requires approval from multiple offices within GSA and the sending agency. Please see the timetable below for more information.
+The Agreements Team coordinates interagency agreements (IAAs) that allow an office to bring in personnel from other agencies. The IAA process for external details requires approval from multiple offices within GSA and the sending agency. Please see the timetable below for more information.
 
 The IAA is between agencies, not between staff and the receiving agency.
 Employees can refer to
@@ -111,7 +111,7 @@ Non-reimbursable details to external agencies are done on a case-by-case basis
 and must be reviewed by GSA’s Office of General Counsel for compliance with the
 [Antideficiency Act](https://www.gao.gov/legal/appropriations-law-decisions/resources).
 
-The Agreements Team coordinates detail interangecy agreements (IAAs). The IAA is between agencies, not between staff and the receiving agency.
+The Agreements Team coordinates detail interagency agreements (IAAs). The IAA is between agencies, not between staff and the receiving agency.
 Employees can refer to
 [GSA Order HRM 9334.2 Detail of Employees](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view)
 for more information. Most agencies use the standard
@@ -126,7 +126,7 @@ for specific detail requirements).
 Details last for 120 days. The detail can be extended for another 120 days (240
 days total), provided that:
 
-- The detailee, detailee superivsor, TTS supervisor, and Business Unit Director agree.
+- The detailee, detailee supervisor, TTS supervisor, and Business Unit Director agree.
 - The employee was detailed at the same GS level they currently occupy. If the
   detailee has gone up in GS level, their detail must end at 120 days, due to
   federal policy and bargaining unit (union) contracts around temporary
