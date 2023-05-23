@@ -24,39 +24,14 @@ agencies. A USAJobs account is required.
 
 ## Bringing in an External Detailee
 
-Hiring Managers who want to post an external detail must get approval from their
-supervisor, Business Unit Director, and Assistant Commissioner (AC). Once the
-detail is approved, they should notify
-[TTS People Ops](mailto:TTS-PeopleOps@gsa.gov) and
-[Finance](mailto:18F-Finance-CS@gsa.gov) that they will be posting the detail.
+Hiring managers who want to bring in an external detailee should first submit a request through the [Internal hiring request form](https://forms.gle/hD2XkzivybBQzNWE6).
 
-Under limited circumstances, TTS may bring on a detailee from another Federal
-agency on a non-reimbursable basis, meaning that the home agency will continue
-to pay the detailee’s salary. If you intend to enter into a non-reimbursable
-detail with another agency or GSA office, you will likely need to consult with
-both GSA's and the partner’s Offices of General Counsel (OGC) to verify a
-non-reimbursable detail is allowable on a case-by-case basis. Please notify the
-[TTS Agreements team](mailto:tts.agreements@gsa.gov) and the
-[TTS People Ops team](mailto:TTS-PeopleOps@gsa.gov) as soon as possible if you
-intend to enter into a non-reimbursable detail arrangement with another agency.
-Additional justification may be required or it may be determined that the
-arrangement must be reimbursable.
+Once the hiring manager has gotten approval from the Internal Hiring Committee, they email [PeopleOps](mailto:TTS-PeopleOps@gsa.gov), 
+[Finance](mailto:18F-Finance-CS@gsa.gov) and [Agreements](mailto:tts.agreements@gsa.gov) that they will be posting the detail.
 
-Reimbursable details are done on a case-by-case basis, typically via Interagency
-Agreement (IAA), where the agency sending the detailee will be reimbursed by the
-agency receiving the detailee. Please confirm your office has the budget to pay
-for a reimbursable detailee with your appropriate budget or finance point of
-contact. Detail IAAs are reviewed by GSA OHRM, fiscal OGC, and personnel OGC.
-Please notify the [TTS Agreements team](mailto:tts.agreements@gsa.gov) and the
-[TTS People Ops team](mailto:TTS-PeopleOps@gsa.gov) as soon as possible if you
-intend to enter into a reimbursable detail arrangement with another agency or
-office.
+The Agreements Team coordinates internal agency agreements (IAAs) that allow an office to bring in personnel from other agencies. The IAA process for external details requires approval from multiple offices within GSA and the sending agency. Please see the timetable below for more information.
 
-If a TTS office plans to pay the detailee’s salary, then they must have a vacant
-position number available, and they will not be able to permanently fill the
-position while it is occupied by a detailee.
-
-The agreement is between agencies, not between staff and the receiving agency.
+The IAA is between agencies, not between staff and the receiving agency.
 Employees can refer to
 [GSA Order HRM 9334.2 Detail of Employees](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view)
 for more information. Most agencies use the standard
@@ -68,14 +43,14 @@ same information will need to be captured within the documentation (see
 [HRM 9334.2](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view)
 for specific detail requirements).
 
-The Agreements Team coordinates detail IAAs, looping in TTS People Ops and the
-Hiring Manager.
+Please note: if a TTS office is paying the detailee’s salary, then they must have a vacant
+position number available, and they will not be able to permanently fill the
+position while it is occupied by a detailee.
 
 Details typically last for 120 days. The detail can be extended for another 120
 days (240 days total), provided that:
 
-- The detailee, the TTS supervisor, the Business Unit Director, and the AC
-  agree, as well as the employee’s permanent supervisor.
+- The detailee, the TTS supervisor, and the employee’s permanent supervisor all agree.
 - The employee was detailed at the same GS level they currently occupy. If the
   detailee has gone up in GS level, their detail must end at 120 days, due to
   federal policy and bargaining unit (union) contracts around temporary
@@ -86,11 +61,11 @@ performance.
 
 ### Security Verification
 
-All Federal employees working at GSA must have a security clearance. For those
+All federal employees working at GSA must have a security clearance. For those
 employees detailing into TTS from outside of GSA, their security status must be
 verified with the GSA Security Office.
 
-It is the responsibility of the TTS employee supervising the detailee to ensure
+It is the responsibility of the TTS supervisor to ensure
 this is complete. People Ops provides step-by-step instructions on how to
 complete the security process. This process should be completed at the same time
 as the detail agreement process. For more information, visit the
@@ -103,9 +78,9 @@ or shorter, depending on complications and the sending agency’s speed._
 
 | ACTION                                                        | OWNER                             | TIME                                                                                   |
 | ------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------- |
-| AC approves request                                           | Detailee's supervisor             | 1 business day                                                                         |
-| Supervisor notifies People Ops & Finance of request           | Supervisor                        | 1 business day                                                                         |
-| People Ops obtains TTS Front Office approval                  | People Ops Point of Contact (PoC) | 5 business days                                                                        |
+| Supervisor submits internal hiring request                    | Detailee's supervisor             | 1 business day                                                                         |
+| Internal hiring committee reviews request                     | Internal hiring committee         | Requests are reviewed weekly                                                           |
+| Supervisor notifies Agreements, Finance, PeopleOps of request |  Supervisor                        | 1 business day                                                                         |
 | Supervisor connects Agreements PoC to Agency PoC              | Supervisor                        | 1 business day                                                                         |
 | Agreements PoC reaches out to Sending Agency PoC              | Agreements PoC                    | 2 business days                                                                        |
 | Agency completes documents and returns to Agreements PoC      | Agency PoC                        | 3 weeks                                                                                |
@@ -124,7 +99,7 @@ _Average time to process detail: 2.5-3 months_
 ## Going on an External Detail
 
 TTS employees who want to go on detail to another agency must get approval from
-their supervisor, Business Unit Director, and Assistant Commissioner (AC). Once
+their supervisor and Business Unit Director. Once
 the detail is approved, the employee should email
 [TTS People Ops](mailto:TTS-PeopleOps@gsa.gov) and
 [Finance](mailto:18F-Finance-CS@gsa.gov) to notify them of the request.
@@ -136,7 +111,7 @@ Non-reimbursable details to external agencies are done on a case-by-case basis
 and must be reviewed by GSA’s Office of General Counsel for compliance with the
 [Antideficiency Act](https://www.gao.gov/legal/appropriations-law-decisions/resources).
 
-The agreement is between agencies, not between staff and the receiving agency.
+The Agreements Team coordinates detail interangecy agreements (IAAs). The IAA is between agencies, not between staff and the receiving agency.
 Employees can refer to
 [GSA Order HRM 9334.2 Detail of Employees](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view)
 for more information. Most agencies use the standard
@@ -148,14 +123,10 @@ same information will need to be captured within the documentation (see
 [HRM 9334.2](https://drive.google.com/a/gsa.gov/file/d/1pCfXxK3vnPZOKaXxlyOC9EozXLRvHw4L/view)
 for specific detail requirements).
 
-The Agreements Team coordinates detail IAA’s, looping in TTS People Ops and the
-employee.
-
 Details last for 120 days. The detail can be extended for another 120 days (240
 days total), provided that:
 
-- The detailee, the TTS supervisor, the Business Unit Director, and the AC
-  agree, as well as the employee’s permanent supervisor.
+- The detailee, detailee superivsor, TTS supervisor, and Business Unit Director agree.
 - The employee was detailed at the same GS level they currently occupy. If the
   detailee has gone up in GS level, their detail must end at 120 days, due to
   federal policy and bargaining unit (union) contracts around temporary
@@ -168,13 +139,12 @@ or shorter, depending on complications and the receiving agency’s speed._
 
 | ACTION                                                                         | OWNER                             | TIME                                                                                   |
 | ------------------------------------------------------------------------------ | --------------------------------- | -------------------------------------------------------------------------------------- |
-| Employee informs supervisor                                                    | Employee                          | 1 business day                                                                         |
-| Supervisor & AC approve request                                                | Supervisor                        | 1 business day                                                                         |
-| Supervisor notifies People Ops of request                                      | Supervisor                        | 1 business day                                                                         |
-| People Ops obtains TTS Front Office approval                                   | People Ops Point of Contact (PoC) | 5 business days                                                                        |
-| Employee connects Agreements PoC to Agency PoC                                 | Employee                          | 1 business day                                                                         |
-| Agency PoC sends forms (completed on their end) for Agreements PoC to complete | Agency PoC                        | 3 weeks                                                                                |
-| Agreements PoC completes forms                                                 | Agreements PoC                    | 1.5 weeks                                                                              |
+| Employee discusses with supervisor                                            | Employee                          | 1 business day                                                                 |
+| Supervisor & Business Unit Director approve request                           | Supervisor                        | 1 business day                                                                 |
+| Supervisor notifies Agreements, Finance, and PeopleOps of request             | Supervisor                        | 1 business day                                                                         |
+| Employee connects Agreements PoC to Agency PoC                                | Employee                          | 1 business day                                                                         |
+| Agency PoC sends forms (completed on their end) for Agreements to complete    | Agency PoC                        | 3 weeks                                                                                |
+| Agreements PoC completes forms                                                | Agreements PoC                    | 1.5 weeks                                                                              |
 | Edits sent back to agency. Agency returns updated forms                        | Agency                            | 2 weeks                                                                                |
 | Documents sent to GSA HR for approval; HR completes review                     | GSA HR                            | 5 business days                                                                        |
 | Documents sent to GSA OGC for review; OGC completes review                     | GSA OGC                           | 5 business days                                                                        |
