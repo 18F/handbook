@@ -23,7 +23,7 @@ you to make your flight and hotel reservations via AdTrav by calling (877)
    filling out
    [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing)
    and sending it to:
-   [kc-vendor.number.requests@gsa.gov](mailto:kc-vendor.number.requests@gsa.gov).
+   [ext-vendor.help@gsa.gov](mailto:ext-vendor.help@gsa.gov).
 
    _Note if you haven't started and don't have your GSA email address yet_:
 
