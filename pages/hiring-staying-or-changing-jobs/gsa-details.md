@@ -23,23 +23,22 @@ can view the
 at any time and can subscribe to receive weekly emails about new and existing
 opportunities by going to the
 [GSA InSite Email Updates Subscriber Page](https://public.govdelivery.com/accounts/USGSAIN/subscriber/topics).
-Review GSA InSite for
+Review InSite for
 [more information about the GSA Opportunity Network](https://insite.gsa.gov/employee-resources/training-and-development/opportunity-network).
 
 ## Applying to a GSA Detail
 
 Interested employees are encouraged to discuss the detail with their supervisor
-prior to submitting an application. Supervisor, Business Unit Directors, and
-Assistant Commissioners (AC) will need to sign-off on any detail.
+prior to submitting an application.
 
 Typically, TTS employees go on reimbursable details: this means that the other
 office will pay the employee’s salary. The Open Opportunities listing will
 indicate whether or not the detail is reimbursable.
 
 Once an employee has been selected for a detail and received approval from their
-supervisor, Business Unit Director, and AC, they should email
-[TTS People Operations](mailto:TTS-PeopleOps@gsa.gov) and
-[Finance](mailto:18F-Finance-CS@gsa.gov) with the following information:
+supervisor, the supervisor should email
+[PeopleOps](mailto:TTS-PeopleOps@gsa.gov) and
+[Agreements](mailto:tts.agreements@gsa.gov) with the following information:
 
 - Employee Name
 - Office Symbol the employee is being detailed to.
@@ -49,24 +48,15 @@ supervisor, Business Unit Director, and AC, they should email
 - The Position Description number. If it is a detail without a PD, use “Detail
   to Unclassified Duties” and provide a list of duties that the employee will be
   expected to perform.
-- Effective date and length of the detail (for example: 120 days)
+- Desired start date and length of the detail (for example: 120 days)
+
+**Please note**: it can take 4-6 weeks to process a detail, if an interagency agreement (IAA) is needed.
 
 ## Posting a Detail within GSA
 
-Hiring Managers who want to post a detail to the GSA Opportunity Network must
-get approval from their supervisor, Business Unit Director, and AC. Once the
-detail is approved, they should notify
-[TTS People Operations](mailto:TTS-PeopleOps@gsa.gov) and
-[Finance](mailto:18F-Finance-CS@gsa.gov) that they will be posting the detail
-within GSA.
+Hiring managers who want to post a detail to the GSA Opportunity Network should first submit a request through the [Internal Hiring form](https://forms.gle/hD2XkzivybBQzNWE6).
 
-Typically, TTS offers non-reimbursable details: this means that the office the
-detailee comes from will continue to pay their employee’s salary. If a TTS
-office plans to pay the detailee’s salary, then they must have a vacant position
-number available, and they will not be able to permanently fill the position
-while it is occupied by a detailee.
-
-To post a detail opportunity, Hiring Managers complete the
+Once the hiring manager has gotten approval from the Internal Hiring Committee, the hiring manager completes the
 [GSA Opportunity Network form](https://insite.gsa.gov/topics/training-and-development/opportunity-network/post-an-opportunity).
 
 - If the detail opportunity has a Position Description (PD) associated with it,
@@ -75,15 +65,15 @@ To post a detail opportunity, Hiring Managers complete the
 - If the opportunity does not have a PD, the Hiring Manager should create a list
   of duties, and will select “unclassified set of duties” on the Opportunity
   Network form. Employees at any GS level will be able to apply.
-- Talent can answer any questions about PDs.
+- [PeopleOps](mailto:TTS-PeopleOps@gsa.gov) can answer any questions about PDs.
 
 After the Opportunity Network form is submitted, GSA OHRM will review the
 information within 3 days. Once approved, the detail opportunity will be posted
-immediately. Email [Talent](mailto:jointts@gsa.gov) so they can share the
+immediately. Email [PeopleOps](mailto:TTS-PeopleOps@gsa.gov) so they can share the
 announcement with TTS employees.
 
-The Hiring Manager will receive applications as they are submitted via the
-Opportunity Network, and the announcement is posted until the Hiring Manager
+The hiring manager will receive applications as they are submitted via the
+Opportunity Network, and the announcement is posted until the hiring manager
 requests its removal.
 
 ### Selection
@@ -91,18 +81,17 @@ requests its removal.
 The Project Network reviews all applicants for program criteria, such as
 supervisory permission to apply, grade level if the position is posted to
 specific grade, and location criteria. They do not screen or interview
-applicants: it is the Hiring Manager’s responsibility to conduct an interview
-process. Best interviewing practices are available in the
-[Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit#).
+applicants: it is the hiring manager’s responsibility to conduct an interview
+process.
 
 Once the Hiring Manager chooses a candidate, they will need to work with the
 employee’s current supervisor to determine the employee’s availability and start
 date.
 
-Once the employee’s current supervisor agrees to the detail, and a start date is
+Once the employee’s current supervisor agrees to the detail and a start date is
 selected, the Hiring Manager should email
-[TTS People Operations](mailto:TTS-PeopleOps@gsa.gov) and
-[Finance](mailto:18F-Finance-CS@gsa.gov) with the following information:
+[PeopleOps](mailto:TTS-PeopleOps@gsa.gov), 
+[Finance](mailto:18F-Finance-CS@gsa.gov), and [Agreements](mailto:tts.agreements@gsa.gov) with the following information:
 
 - Employee Name
 - Office Symbol the employee is being detailed to.
@@ -112,17 +101,14 @@ selected, the Hiring Manager should email
 - The Position Description number. If it is a detail without a PD, use “Detail
   to Unclassified Duties” and provide a list of duties that the selected
   employee will be expected to perform.
-- Effective date and length of the detail (for example: 120 days)
+- Desired start date and length of the detail (for example: 120 days)
 
-TTS People Ops will submit the personnel action to HR and the employee will
-begin their detail on the effective date.
+PeopleOps will ensure that the selectee's home GSA office completes the personnel action.
 
 Details last for 120 days. The detail can be extended for another 120 days (240
 days total), provided that:
 
-- The detailee, the TTS supervisor, the Business Unit Director, and the AC
-  agree, as well as the employee’s permanent supervisor.
-- The employee was detailed at the same GS level they currently occupy. If the
-  detailee has gone up in GS level, their detail must end at 120 days, due to
-  federal policy and bargaining unit (union) contracts around temporary
-  promotions.
+- The detailee and the detail supervisor agree, as well as the employee’s permanent supervisor.
+- The employee was detailed at the same GS level they currently occupy. If it was a temporary promotion to a higher GS level, the detail must end at 120 days.
+
+**Please note**: it can take 4-6 weeks to process a detail, if an interagency agreement (IAA) is needed.
