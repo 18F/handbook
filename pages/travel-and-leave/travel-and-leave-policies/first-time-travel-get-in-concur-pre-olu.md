@@ -24,15 +24,14 @@ you to make your flight and hotel reservations via AdTrav by calling (877)
    [the EFT form](https://drive.google.com/a/gsa.gov/file/d/0B0Kck5dqF_Ebb0FFZ29RR0JmVVk/view?usp=sharing)
    and sending it to:
    [kc-vendor.number.requests@gsa.gov](mailto:kc-vendor.number.requests@gsa.gov).
+   
+   The EFT form is needed so that the reimbursement for your hotels, meals, and other expenses can be reimbursed (GSA only pays for your flight or Amtrak tickets upfront).
 
-   _Note if you haven't started and don't have your GSA email address yet_:
+   **_Note, if you haven't yet started working at GSA and don't have your GSA email address_:**
 
 Your access to the EFT form linked above may be restricted, so you should have
 received it as an attachment in your welcome email-- feel free to reach out to
-[tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) if you never got it. The EFT
-form is needed so that the reimbursement for your hotels, meals, and other
-expenses can be reimbursed (GSA only pays for your flight or Amtrak tickets
-upfront).
+[tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) if you never got it. Email the filled out EFT to [ext-vendor.help@gsa.gov](mailto:ext-vendor.help@gsa.gov).
 
 2. Once you receive your travel vendor ID (should be in the format _E000xxxxx_),
    forward it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), along with
