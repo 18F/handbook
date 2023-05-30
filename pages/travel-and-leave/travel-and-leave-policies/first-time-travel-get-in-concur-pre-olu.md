@@ -27,8 +27,7 @@ you to make your flight and hotel reservations via AdTrav by calling (877)
    
    The EFT form is needed so that the reimbursement for your hotels, meals, and other expenses can be reimbursed (GSA only pays for your flight or Amtrak tickets upfront).
 
-   _Note if you haven't yet started working at GSA and don't have your GSA email address_:
-
+   **_Note, if you haven't yet started working at GSA and don't have your GSA email address_:**
 Your access to the EFT form linked above may be restricted, so you should have
 received it as an attachment in your welcome email-- feel free to reach out to
 [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) if you never got it. Email the filled out EFT to [ext-vendor.help@gsa.gov](mailto:ext-vendor.help@gsa.gov).
