@@ -11,7 +11,7 @@ cSpell: ignore Heppner,Buren,chitown
       <tr>
         <td class="col-key"><strong>Location</strong></td>
         <td class="col-value">
-        230 S. Dearborn St., 33rd floor SW<br />
+        230 S. Dearborn St., 35th floor SW<br />
         Chicago, IL 60604
         </td>
       </tr>
@@ -35,7 +35,7 @@ cSpell: ignore Heppner,Buren,chitown
         </td>
         <td class="col-value">
            230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="https://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
-       TTS' office is in the south side of the 33rd floor, in an unlabeled space directly across from the mail counter. The keycode is pinned in #chitown.
+       TTS uses space on the 35th floor. The keycode is pinned in #chitown.
         </td>
       </tr>
       <tr>
@@ -142,9 +142,6 @@ In Chicago, you can book rooms using
 
 If the room that you want isn't coming up, that means it's probably been booked
 already. Feel free to [ping Ethan]() if you have any difficulties.
-
-**Recommended rooms:** 3380: room used for All-Hands on the NE corner of floor
-33; it seats up to ten people.
 
 ### Connect to the Wi-Fi
 
