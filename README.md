@@ -21,7 +21,7 @@ To run the site locally:
    npm install
    npm run dev
    ```
-3. Open http://localhost:8080
+3. Open http://localhost:8081
 
 ## Contributing
 
