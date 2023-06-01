@@ -120,4 +120,3 @@ web_modules/
 _site
 public
 node_modules
-_data/assetPaths.json

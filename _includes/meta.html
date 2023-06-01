@@ -28,13 +28,13 @@ to modify some of the meta-data for the site, this is the place to do it.
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{site.host}}{{ page.filePathStem }}">
   <meta property="og:url" content="{{site.host}}{{ page.filePathStem }}">
-  <script async="" src="{{ assetPaths['uswds.js'] }} "></script>
+  <script async src="{% link "/assets/js/uswds-init.js" %}"></script>
   <!-- CSS
     ================================================== -->
-  <link rel="preload" as="style" href="{{ assetPaths['styles.css'] }}">
+  <link rel="preload" as="style" href="{% link "/assets/styles/styles.css" %}">
   <link
     rel="stylesheet"
-    href="{{ assetPaths['styles.css'] }}"
+    href="{% link "/assets/styles/styles.css" %}"
     type="text/css"
   >
 </head>

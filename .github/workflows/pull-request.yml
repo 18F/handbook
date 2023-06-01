@@ -19,13 +19,15 @@ jobs:
         with:
           path: .
           key: ${{ steps.cache_key.outputs.cache_key }}
-      - if: steps.cache.outputs.hit != true
+      - if: steps.cache.outputs.cache-hit != true
         uses: actions/setup-node@v3
         with:
           node-version: 18
-      - if: steps.cache.outputs.hit != true
+      - if: steps.cache.outputs.cache-hit != true
         run: npm install
-      - if: steps.cache.outputs.hit != true
+      - if: steps.cache.outputs.cache-hit != true
+        env:
+          ELEVENTY_ENV: production
         run: npm run build
 
   validate_html:
