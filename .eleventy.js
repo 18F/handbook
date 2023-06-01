@@ -15,7 +15,7 @@ const {
   usaCurrentShortcode,
 } = require("./config/shortcodes");
 const { headingLinks } = require("./config/headingLinks");
-const postbuild = require("./config/postbuild");
+const privateLinks = require("./config/privateLinks");
 
 module.exports = function (config) {
   // Set pathPrefix for site
@@ -36,6 +36,7 @@ module.exports = function (config) {
 
   // Add plugins
   config.addPlugin(EleventyRenderPlugin);
+  config.addPlugin(privateLinks);
 
   //// SVG Sprite Plugin for USWDS USWDS icons
   config.addPlugin(svgSprite, {
@@ -105,10 +106,6 @@ module.exports = function (config) {
   config.addLiquidShortcode("link", (link) =>
     link.startsWith("http") ? link : path.join(pathPrefix, link)
   );
-
-  config.on("eleventy.after", async () => {
-    await postbuild();
-  });
 
   return {
     // Control which files Eleventy will process
