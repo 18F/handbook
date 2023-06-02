@@ -18,7 +18,7 @@ cSpell: ignore Heppner,Buren,chitown
       <tr>
         <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
-        <a href="https://gsa-tts.slack.com/team/U01J1L5569L">Ethan Heppner</a>
+        <a href="jckfieldoffice@gsa.gov">Dave Lamb</a>
         </td>
       </tr>
       <tr>
@@ -34,7 +34,7 @@ cSpell: ignore Heppner,Buren,chitown
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="https://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building. The Regional Administrator is Brad Hansher.<br /><br />
+           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="https://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building.<br /><br />
        TTS uses space on the 35th floor. The keycode is pinned in #chitown.
         </td>
       </tr>
@@ -105,6 +105,10 @@ During business hours (9 a.m. to 4:30 p.m.), pass through security as a normal
 visitor. If arriving outside business hours, arrange for a TTS team member
 inside the office to escort you.
 
+### Who else from TTS usually works out of the Chicago office?
+
+Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Portfolio) working from the Hub on the 35th floor Wednesdays.
+
 ### Get my fingerprints taken and badge made?
 
 Fingerprints and badge can be done at the security office on the second floor
@@ -121,15 +125,6 @@ To set up turnstile access on your badge, visit room 200. You'll need to know
 your PIN. If you don't know your PIN, or your badge is not activated, you'll
 need to make an appointment at the badging office in room 212.
 
-### Attend onboarding?
-
-GSA onboarding is typically done on alternating Mondays at 1:00 p.m. in Room
-3722, in the NW corner of the 37th floor. TTS onboarding varies by division--
-you should receive an email confirming the times that you will meet with your
-team. To allow yourself enough time to get set up on the GSA network, please
-arrive at 8 a.m. on the second day of your first week, and Ethan Heppner (TTS
-Chicago's office operations coordinator) will help walk you through.
-
 ### Access the building after hours?
 
 After-hours access between 6 p.m. and 7 a.m. is allowed with a GSA badge. Log
@@ -140,9 +135,6 @@ your name with security, and use the handicap-accessible south entrance.
 In Chicago, you can book rooms using
 [BookIt](https://bookit.gsa.gov/mobile/menuAction.do?pageForward=home).
 
-If the room that you want isn't coming up, that means it's probably been booked
-already. Feel free to [ping Ethan]() if you have any difficulties.
-
 ### Connect to the Wi-Fi
 
 See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
@@ -151,7 +143,7 @@ See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
 
 ### Bathrooms
 
-Bathrooms are just down the hall from the TTS office.
+Bathrooms are just down the hall, on the west side of the elevator bank.
 
 ### Mail
 
@@ -173,21 +165,7 @@ Refer to
 [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#)
 for more details.
 
-### Law department offices
-
-37th floor.
-
 ## Amenities
-
-### Transit subsidy
-
-All GSA employees are eligible for transit subsidies which cover the cost of
-your Metro travel.
-
-See the [Transit Benefit]({% page "/transit-benefit" %}) page for information on
-enrollment and deactivation. This
-[page on InSite](https://insite.gsa.gov/portal/content/500219) has additional
-information.
 
 ### Bike parking
 
@@ -215,14 +193,6 @@ you can access by paying a yearly fee. Email
 
 Recycling, including battery recycling, is available on the 2nd floor of our
 building
-
-## Food and coffee
-
-[Here](https://www.google.com/maps/search/food/@41.8786227,-87.6303783,17.92z)
-is a Google Map with a lot of options.
-
-Dollop and Intelligentsia are the current fan favorites for coffee. If you like
-darker roasts, Lavazza may be up your alley.
 
 ## How do people dress?
 
