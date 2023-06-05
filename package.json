@@ -33,7 +33,7 @@
     "cheerio": "^1.0.0-rc.12",
     "chokidar-cli": "^3.0.0",
     "eleventy-plugin-svg-sprite": "^2.4.0",
-    "esbuild": "^0.17.18",
+    "esbuild": "^0.17.19",
     "esbuild-sass-plugin": "^2.9.0",
     "html-validate": "^7.16.0",
     "js-yaml": "^4.1.0",
