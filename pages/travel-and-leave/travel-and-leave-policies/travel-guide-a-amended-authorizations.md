@@ -9,7 +9,7 @@ questions:
 redirect_from:
   - /travel-guide-a-amended-authorizations/
 sidebar:
-  kind: travel
+  navigation: travel
   current: 3. Travel
 ---
 

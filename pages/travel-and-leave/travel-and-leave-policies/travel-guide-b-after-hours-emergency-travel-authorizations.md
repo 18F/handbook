@@ -9,7 +9,7 @@ questions:
 redirect_from:
   - /travel-guide-b-after-hours-emergency-travel-authorizations/
 sidebar:
-  kind: travel
+  navigation: travel
   current: 3. Travel
 ---
 

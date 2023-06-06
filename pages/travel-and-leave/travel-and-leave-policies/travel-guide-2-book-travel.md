@@ -13,7 +13,7 @@ step_indicator:
   current_step: 2
   hide_steps: false
 sidebar:
-  kind: travel
+  navigation: travel
   current: 2. Book travel
 ---
 

@@ -2,7 +2,9 @@
 title: Following up and escalation
 current_step: 3
 cSpell: ignore 
-
+sidebar:
+  navigation: healthy-conflict
+  current: Following up and escalation
 ---
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}

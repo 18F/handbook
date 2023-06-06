@@ -13,7 +13,7 @@ step_indicator:
   current_step: 4
   hide_steps: false
 sidebar:
-  kind: Travel
+  navigation: travel
   current: 4. Get reimbursed
 ---
 

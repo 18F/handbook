@@ -10,7 +10,7 @@ step_indicator:
   substep: 1b
   hide_steps: true
 sidebar:
-  kind: travel
+  navigation: travel
   current: 1. First time setup
 cSpell: ignore substep, Ronnail
 ---

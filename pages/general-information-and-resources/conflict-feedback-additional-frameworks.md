@@ -2,7 +2,9 @@
 title: Additional feedback frameworks
 current_step: 4
 cSpell: ignore 
-
+sidebar:
+  navigation: healthy-conflict
+  current: Additional feedback frameworks
 ---
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}

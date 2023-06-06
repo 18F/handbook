@@ -5,7 +5,7 @@ redirect_from:
   - /travel-101/
 current_step: 1
 sidebar:
-  kind: travel
+  navigation: travel
   current: Travel 101
 cSpell: ignore Djemila,Lathann,Newland
 ---

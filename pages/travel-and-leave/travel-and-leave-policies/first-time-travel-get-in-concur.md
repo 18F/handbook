@@ -13,7 +13,7 @@ step_indicator:
   substep: 1a
   hide_steps: true
 sidebar:
-  kind: travel
+  navigation: travel
   current: 1. First time setup
 cSpell: ignore substep
 ---
@@ -34,11 +34,13 @@ which can take up to a week. If immediate travel is required,
 active.
 
 ### 1. Get a travel vendor ID
-To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor ID”**. Use the
-   [Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx)
-   to request a new vendor ID. Please note that you'll need to be on the VPN to
-   access this site. (Note: The "travel vendor ID" will show up as "Employee ID"
-   in your Concur profile once it's been issued.)
+
+To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor
+ID”**. Use the
+[Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx)
+to request a new vendor ID. Please note that you'll need to be on the VPN to
+access this site. (Note: The "travel vendor ID" will show up as "Employee ID" in
+your Concur profile once it's been issued.)
 
 **Vendor Request Instructions**
 
@@ -55,8 +57,8 @@ an issue with your internet._
   If this occurs, continue submitting until you receive a successful
   confirmation message.
 
-If the travel finance team is unable to locate your payroll banking
-information, they may request that you complete [the EFT
+If the travel finance team is unable to locate your payroll banking information,
+they may request that you complete [the EFT
 form]({% download "downloads/EFT_Enrollment_Form.pdf" %}) and will provide
 instructions on how you can send this information to them securely.
 
@@ -64,27 +66,27 @@ While you wait for the ID number to be generated and sent to you via email
 (which can take up to 1 business day), you can get started on [applying for the
 GSA travel card]({% page "/first-time-travel-travel-card" %}).
 
-### 2. Check that you have completed required training 
-Ensure you have completed the mandatory security and privacy training
-   required of all GSA staff, assigned to you in OLU (https://gsaolu.gsa.gov).
-   Follow the instructions
-   [here]({% page "/training-and-development/olu/#help-with-olu" %}) if you need
-   help.
+### 2. Check that you have completed required training
+
+Ensure you have completed the mandatory security and privacy training required
+of all GSA staff, assigned to you in OLU (https://gsaolu.gsa.gov). Follow the
+instructions [here]({% page "/training-and-development/olu/#help-with-olu" %})
+if you need help.
 
 ### 3. Complete the CGE Access Request Form
-Complete the
-   [CGE Access Request Form][cgeform],
-   minus the EFT enrollment form. Either an electronic or ink signature is fine.
-   Don't forget to get your supervisor's signature as well! \*_Not sure about a
-   particular field? Get help by reading the_
-   _[FAQ below](#frequently-asked-questions)_
+
+Complete the [CGE Access Request Form][cgeform], minus the EFT enrollment form.
+Either an electronic or ink signature is fine. Don't forget to get your
+supervisor's signature as well! \*_Not sure about a particular field? Get help
+by reading the_ _[FAQ below](#frequently-asked-questions)_
 
 ### 4. Email the form to TTS Travel
-Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
-   _Do not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only
-   email it to tts-travel@gsa.gov. Your account will be set up before
-   [the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/),
-   which you can also book any time if you have questions.
+
+Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do
+not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email
+it to tts-travel@gsa.gov. Your account will be set up before
+[the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/),
+which you can also book any time if you have questions.
 
 [Next Step: First-Time Travel - Get a Travel
 Card]({% page "/first-time-travel-travel-card" %})
@@ -119,8 +121,11 @@ authorizations.
 
 #### How can I get Travel Approver access?
 
-To be able to approve in Concur, fill out the [CGE Access Request Form][cgeform]:
+To be able to approve in Concur, fill out the [CGE Access Request
+Form][cgeform]:
+
 1. For "Type of Access Request", select "Revise Current User"
 2. For User Roles, select both "Traveler" and "Travel Approver".
 
-[cgeform]: https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request
+[cgeform]:
+  https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request

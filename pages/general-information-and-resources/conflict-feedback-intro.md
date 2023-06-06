@@ -2,6 +2,9 @@
 title: Healthy conflict and constructive feedback
 cSpell: ignore neurotypes
 current_step: 1
+sidebar:
+  navigation: healthy-conflict
+  current: Intro
 ---
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}

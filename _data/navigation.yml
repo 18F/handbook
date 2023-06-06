@@ -667,3 +667,15 @@ travel:
     url: travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/
   - text: Approval email templates
     url: travel-and-leave/travel-and-leave-policies/travel-guide-email-templates/
+
+healthy-conflict:
+  - text: Intro
+    url: general-information-and-resources/conflict-feedback-intro/
+  - text: Principles
+    url: general-information-and-resources/conflict-feedback-principles/
+  - text: Following up and escalation
+    url: general-information-and-resources/conflict-feedback-follow-up-escalation/
+  - text: Additional feedback frameworks
+    url: general-information-and-resources/conflict-feedback-additional-frameworks/
+  - text: Receiving feedback
+    url: general-information-and-resources/conflict-feedback-receiving-feedback/

@@ -2,7 +2,9 @@
 title: Feedback principles
 current_step: 2
 cSpell: ignore 
-
+sidebar:
+  navigation: healthy-conflict
+  current: Principles
 ---
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}

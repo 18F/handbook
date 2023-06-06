@@ -2,7 +2,9 @@
 title: Receiving feedback
 current_step: 5
 cSpell: Ignore misperceptions
-
+sidebar:
+  navigation: healthy-conflict
+  current: Receiving feedback
 ---
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}

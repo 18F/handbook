@@ -9,7 +9,7 @@ questions:
 redirect_from:
   - /first-time-travel-get-in-concur-pre-olu/
 sidebar:
-  kind: travel
+  navigation: travel
   current: 1. First time setup
 ---
 
@@ -85,8 +85,8 @@ with rates under the government maximum (also known as the per diem rate).
 ### What happens if my flight gets cancelled?
 
 The easiest option is to have your airline reschedule you. If that's not
-possible or timely, you may also call Ad-Trav at _(877) 472-6716_ to be re-booked
-on any airline.
+possible or timely, you may also call Ad-Trav at _(877) 472-6716_ to be
+re-booked on any airline.
 
 If you are traveling to orientation and are worried that you will miss it
 because of delays or cancellations, please email the
