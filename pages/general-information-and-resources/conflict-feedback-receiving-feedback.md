@@ -2,30 +2,11 @@
 title: Receiving feedback
 current_step: 5
 cSpell: Ignore misperceptions
-
+sidebar:
+  navigation: healthy-conflict
+  current: Receiving feedback
 ---
-<div class="grid-row grid-gap">
-  <div class="tablet:grid-col-4 margin-bottom-4 tablet:margin-bottom-0">
-    <nav aria-label="Side navigation,">
-  <ul class="usa-sidenav">
-    <li class="usa-sidenav__item">
-      <a href="/general-information-and-resources/conflict-feedback-intro" >Intro</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-principles' | url }}">Principles</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-follow-up-escalation' | url }}">Following up and escalation</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-additional-frameworks' | url }}">Additional Feedback Frameworks</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="'javascript:void(0);'" class="usa-current">Receiving Feedback</a>
-    </li>
-  </ul>
-</nav>
-</div>
+
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
 
 While _giving_ negative feedback may feel hard and scary, it can be just as difficult to receive feedback.

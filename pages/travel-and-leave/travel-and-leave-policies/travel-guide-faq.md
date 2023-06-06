@@ -9,7 +9,7 @@ questions:
 redirect_from:
   - /travel-guide-faq/
 sidebar:
-  kind: travel
+  navigation: travel
   current: FAQ
 cSpell: ignore Trav,DeLeve,Brydges,Nico,Papafil,Mahan,Rostami
 ---

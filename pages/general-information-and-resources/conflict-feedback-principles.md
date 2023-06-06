@@ -2,30 +2,11 @@
 title: Feedback principles
 current_step: 2
 cSpell: ignore 
-
+sidebar:
+  navigation: healthy-conflict
+  current: Principles
 ---
-<div class="grid-row grid-gap">
-  <div class="tablet:grid-col-4 margin-bottom-4 tablet:margin-bottom-0">
-    <nav aria-label="Side navigation,">
-  <ul class="usa-sidenav">
-    <li class="usa-sidenav__item">
-      <a href="/general-information-and-resources/conflict-feedback-intro" >Intro</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="'javascript:void(0);'" class="usa-current">Principles</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-follow-up-escalation' | url }}">Following up and escalation</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-additional-frameworks' | url }}">Additional Feedback Frameworks</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-receiving-feedback' | url }}">Receiving Feedback</a>
-    </li>
-  </ul>
-</nav>
-</div>
+
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
 
 We expect everyone at TTS to give and receive feedback [directly](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/#:~:text=simple%20but%20transformative%3A-,Clear%20is%20kind.%20Unclear%20is%20unkind.,-I%20first%20heard), kindly, and professionally. And, people are generally most receptive to feedback if they know what kind of feedback to expect and what their role will be in receiving, processing, and acting on it.

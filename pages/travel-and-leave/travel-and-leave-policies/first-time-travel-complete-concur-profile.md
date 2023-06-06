@@ -13,7 +13,7 @@ step_indicator:
   substep: 1c
   hide_steps: true
 sidebar:
-  kind: travel
+  navigation: travel
   current: 1. First time setup
 cSpell: ignore substep
 ---

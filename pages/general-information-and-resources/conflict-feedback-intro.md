@@ -2,32 +2,12 @@
 title: Healthy conflict and constructive feedback
 cSpell: ignore neurotypes
 current_step: 1
+sidebar:
+  navigation: healthy-conflict
+  current: Intro
 ---
-<div class="grid-row grid-gap">
-  <div class="tablet:grid-col-4 margin-bottom-4 tablet:margin-bottom-0">
-    <nav aria-label="Side navigation,">
-  <ul class="usa-sidenav">
-    <li class="usa-sidenav__item">
-      <a href="javascript:void(0);" class="usa-current">Intro</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-principles' | url }}">Principles</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-follow-up-escalation' | url }}">Following up and escalation</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-additional-frameworks' | url }}">Additional Feedback Frameworks</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-receiving-feedback' | url }}">Receiving Feedback</a>
-    </li>
-  </ul>
-</nav>
-</div>
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
-
 
 Feedback matters. Research shows how feedback is crucial to accomplishing [organizational and team](https://tomgeraghty.co.uk/index.php/resilience-engineering-and-psychological-safety/#:~:text=Psychological%20safety%20is%20cited%20as%20the%20key%20factor%20in%20team%20performance) goals. In TTS, we recognize feedback as essential to living our [values of inclusion, integrity, and impact]({% page "/about-us/tts-history/#our-values" %}). 
 

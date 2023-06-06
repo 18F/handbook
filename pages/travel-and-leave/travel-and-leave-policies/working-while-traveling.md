@@ -8,7 +8,7 @@ tags:
 redirect_from:
   - /working-while-traveling/
 sidebar:
-  kind: travel
+  navigation: travel
   current: 3. Travel
 ---
 

@@ -2,34 +2,12 @@
 title: Additional feedback frameworks
 current_step: 4
 cSpell: ignore 
-
+sidebar:
+  navigation: healthy-conflict
+  current: Additional feedback frameworks
 ---
-<div class="grid-row grid-gap">
-  <div class="tablet:grid-col-4 margin-bottom-4 tablet:margin-bottom-0">
-    <nav aria-label="Side navigation,">
-  <ul class="usa-sidenav">
-    <li class="usa-sidenav__item">
-      <a href="/general-information-and-resources/conflict-feedback-intro" >Intro</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-principles' | url }}">Principles</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-follow-up-escalation' | url }}">Following up and escalation</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="'javascript:void(0);'" class="usa-current">Additional Feedback Frameworks</a>
-    </li>
-    <li class="usa-sidenav__item">
-      <a href="{{ '/general-information-and-resources/conflict-feedback-receiving-feedback' | url }}">Receiving Feedback</a>
-    </li>
-  </ul>
-</nav>
-</div>
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
-
-
 
 ## ACE: appreciation, coaching, evaluation
 Everyone needs appreciation, coaching, and evaluative feedback to learn and improve. 
