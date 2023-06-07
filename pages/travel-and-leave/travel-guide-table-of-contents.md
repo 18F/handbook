@@ -5,12 +5,21 @@ questions:
   - tts-travel@gsa.gov
   - text: Book office hours
     url: https://sites.google.com/a/gsa.gov/tts-office-hours/
-travel_advisory: true
 redirect_from:
   - /travel-guide-table-of-contents/
 sidebar:
   navigation: travel
 ---
+
+<!-- prettier-ignore-start -->
+{% capture travel_content %}
+  {% renderTemplate 'liquid' %}
+    On July 13, 2021, GSA published <a href="{% page "/july-13-travel-guidance/" %}">updated travel guidance</a> for all employees.
+  {% endrenderTemplate %}
+{% endcapture %}
+
+{% include "alert.html" level:"info" heading:"Updated Travel Guidance for GSA Employees (07/13/2021)" content:travel_content %}
+<!-- prettier-ignore-end -->
 
 - [Travel 101]({% page "/travel-101/" %})
 - 1. First Time Travel Guide
