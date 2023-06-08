@@ -299,16 +299,6 @@ primary:
           - text: Onboarding Buddy Guide
             url: https://docs.google.com/document/d/1rO4TRcqYM-j70cHC1y8Vabfwp9TWwp5WFF7BraSUxLk/edit
             internal: false
-          - text: Purchase requests
-            url: purchase-requests/
-            internal: true
-            children:
-              - text: Software under $10,000
-                url: software/
-                internal: true
-              - text: Procurements over $10,000
-                url: procurements-over-10000/
-                internal: true
           - text: Reasonable Accommodations
             url: general-information-and-resources/reasonable-accommodations/
             internal: true
@@ -326,6 +316,19 @@ primary:
             internal: false
           - text: Work schedules
             url: general-information-and-resources/employee-resources-policies/work-schedules/
+            internal: true
+      - text: Purchasing
+        blurb: |
+          How to request purchases for you or your team
+        children:
+          - text: Requesting a micropurchase (under $10,000)
+            url: purchase-requests/
+            internal: true
+          - text: Software (SaaS) and services (under $10,000)
+            url: software/
+            internal: true
+          - text: Requesting a procurement (over $10,000)
+            url: procurements-over-10000/
             internal: true
       - text: Launching software
         children:
