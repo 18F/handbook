@@ -62,13 +62,7 @@ path to the other page. For example:
 {% raw %}{% page "updating-the-handbook/components" %}{% endraw %}
 ```
 
-Produces:
-
-```
-{% page "updating-the-handbook/components" %}
-```
-
-This resulting URL is suitable for use in links, like so:
+This shortcode will produce a URL that is suitable for use in links, like so:
 
 ```
 {% raw %}[Handbook components]
