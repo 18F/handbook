@@ -100,7 +100,7 @@ cSpell: ignore Technica
 
 - **CO** - Contracting Officer. A part of acquisitions.
 
-- **COTS** - Commercial Off The Shelf software, as opposed to custom-built software
+- **COTS** - Commercial Off The Shelf, as opposed to a custom-built product
 
 - **CMS** - Content Management System. Software for creating, managing, and
   publishing content.
