@@ -317,8 +317,8 @@ primary:
           - text: Work schedules
             url: general-information-and-resources/employee-resources-policies/work-schedules/
             internal: true
-       - text: Purchasing
-         blurb: |
+      - text: Purchasing
+        blurb: |
           How to request purchases for you or your team
         children:
           - text: Requesting a micropurchase (under $10,000)
@@ -330,7 +330,7 @@ primary:
           - text: Requesting a procurement (over $10,000)
             url: procurements-over-10000/
             internal: true
-       - text: Launching software
+      - text: Launching software
         children:
           - text: Lifecycle of a launch (ATOs, etc.)
             url: launching-software/lifecycle/
