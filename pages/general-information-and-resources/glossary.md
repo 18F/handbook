@@ -100,6 +100,8 @@ cSpell: ignore Technica
 
 - **CO** - Contracting Officer. A part of acquisitions.
 
+- **COTS** - Commercial Off The Shelf software, as opposed to custom-built software
+
 - **CMS** - Content Management System. Software for creating, managing, and
   publishing content.
 
@@ -165,10 +167,16 @@ cSpell: ignore Technica
   - BookIT
   - Logging on to `gsa-wireless`
 
+- **FAR** - [Federal Acquisition Regulation](https://www.acquisition.gov/browse/index/far)
+  which governs how the government can buy things.
+
 - **FAS** - The
   [Federal Acquisition Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service)
   is a GSA office dedicated to helping federal agencies buy products and
   services. TTS is part of FAS.
+
+- **FedRAMP** - [Federal Risk and Authorization Management Program](https://www.fedramp.gov/),
+  a security process for government software.
 
 - **FISMA** - Federal Information Security Management Act, a framework of
   various levels of information security.
