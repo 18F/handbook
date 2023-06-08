@@ -324,7 +324,7 @@ primary:
           - text: Requesting a micropurchase (under $10,000)
             url: purchase-requests/
             internal: true
-          - text: Software (Saas) and services (under $10,000)
+          - text: Software (SaaS) and services (under $10,000)
             url: software/
             internal: true
           - text: Requesting a procurement (over $10,000)
