@@ -9,9 +9,9 @@ questions:
 
 Everyone – inside and outside TTS – can submit contributions to the Handbook. If
 there's something missing, a piece of information is outdated, or something is
-broken, you're allowed and encouraged to fix it! This guide is meant to help you
+broken, you're allowed and encouraged to submit a fix! This guide is meant to help you
 get started and provide documentation for the Handbook's various components and
-utilities designed to make editing easier.
+utilities that make editing easier.
 
 {% include "alert.html" content: "There is no dedicated staff for Handbook maintenance. Maintenance is done by TTS staff who are interested and have time to help." %}
 
@@ -19,24 +19,22 @@ utilities designed to make editing easier.
 
 Before you make your contribution, there are a few things to remember:
 
-- This handbook website and repository are public
+- This Handbook website and repository are public. Use links to internal Google Docs, Sheets, etc. for
+  anything that shouldn't be publicly visible.
 - We're careful about publishing
   [information collected during research](https://handbook.tts.gsa.gov/research-guidelines/);
   [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit)
   and ask {% slack_channel "g-research" "the research guild" %} for guidance
-  first
-- Try to avoid "click here" links. If necessary, be sure to follow the
+  first.
+- Avoid "click here" links. Follow the
   [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
-- TTS-wide information should be public by default and link to Google Docs for
-  anything that shouldn't be publicly visible.
 - We follow the structure outlined in the
   [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/)
 
 There is also some information that should **not** be included in the Handbook:
 
-- TTS staff should not include information that shouldn't be public. We already
-  get training on this, but here are a few reminders about things we shouldn't
-  include here:
+- We receive training on this, but here are a few reminders about things we shouldn't
+  include in the Handbook:
 
   - [Sensitive information](https://handbook.tts.gsa.gov/sensitive-information/)
   - Comments that can be easily interpreted as
@@ -46,11 +44,11 @@ There is also some information that should **not** be included in the Handbook:
   - Information that can easily go out of date and is already published
     somewhere else in a useful format. This includes:
 
-    - People's phone numbers, even if public information (such as their GSA work
+    - People's email addresses and phone numbers, even if public information (such as their GSA work
       number). Link to the public
       [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory)
       or the access-controlled 18F contact spreadsheet instead of including
-      phone numbers in the handbook
+      phone numbers in the Handbook
     - Information that is already well-covered on GSA InSite - link there
       instead of reproducing it
     - Specific TTS org chart info (such as lists of names of supervisors and
@@ -128,7 +126,7 @@ Handbook.
 
 For long or important chunks of writing, consider asking the
 [18F Writing Lab](https://github.com/18F/writing-lab) to review and edit before
-you propose significant changes to the handbook.
+you propose significant changes to the Handbook.
 
 The Handbook has a variety of utilities available to make updates easier and
 help keep everything consistent across pages. There are two primary kinds of
