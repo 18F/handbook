@@ -37,7 +37,7 @@ Once you become more acquainted with Slack, you may decide to create channels la
 ## Can I join other channels of interest?
 Yes! You can review the list of [non-project Slack channels](https://docs.google.com/document/d/1HAcC0qU756AzeZ38iZOlosN98Xeppr2sJ9LXLOx0UbM/edit) to join.  
 
-Additionally, you may notice that certain channels may have a prefix or suffix listed. Here's what the various prefixes and suffixes mean:
+Additionally, you may notice that certain channels may have a prefix or suffix listed.
 
 ## Channel names
 
