@@ -13,19 +13,19 @@ Slack is a tool and chat messaging application that enables people to collaborat
 
 Slack is used at TTS as a means of daily communication and coordination. It allows us to join [channels](https://slack.com/features/channels#slack-channels) — specific workspaces that bring the relevant people and information together —  and directly message people or smaller groups. 
 
-You can also use a call feature within Slack, called “[Huddles](https://slack.com/help/articles/4402059015315-Use-huddles-in-Slack).”
+You can also use a call feature within Slack called “[Huddles](https://slack.com/help/articles/4402059015315-Use-huddles-in-Slack).”
 
 ## How do I access Slack?
-1. Go to https://gsa-tts.slack.com/ in your browser.
-2. Click the green button that says "Sign in with @gsa.gov email"
-3. If you're not logged in to Google, you'll be asked to enter in your google username. Enter in your @gsa.gov email.
-4. Enter in your ENT credentials into the SecureAuth Login Screens
+1. Go to [https://gsa-tts.slack.com/](https://gsa-tts.slack.com/) in your browser.
+2. Click the green button that says `Sign in with @gsa.gov email`.
+3. If you're not logged in to Google, you'll be asked to enter in your Google username. Enter in your @gsa.gov email.
+4. Enter in your ENT credentials into the SecureAuth Login Screens.
 5. You'll be directed to the {% slack_channel "welcome-to-tts" "Welcome-to-TTS" %} Slack channel.
 
 Mac users can download the [desktop version](https://itunes.apple.com/us/app/slack/id803453959?mt=12). There is a [mobile app](https://slack.com/blog/productivity/simpler-more-organized-slack-mobile-app) available through the Apple or Google store that you can download to your work iPhone or Android.
 
 ## Do all TTS employees have access to Slack?
-Yes! All new hires are given full Slack access.
+Yes! New hires are given full Slack access.
 
 ## Do all TTS teams use Slack the exact same way?
 
