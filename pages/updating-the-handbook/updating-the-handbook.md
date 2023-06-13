@@ -29,7 +29,7 @@ Before you make your contribution, there are a few things to remember:
 - Avoid "click here" links. Follow the
   [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
 - We follow the structure outlined in the
-  [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/)
+  [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/).
 
 There is also some information that should **not** be included in the Handbook:
 
@@ -44,19 +44,16 @@ There is also some information that should **not** be included in the Handbook:
   - Information that can easily go out of date and is already published
     somewhere else in a useful format. This includes:
 
-    - People's email addresses and phone numbers, even if public information (such as their GSA work
-      number). Link to the public
-      [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory)
-      or the access-controlled 18F contact spreadsheet instead of including
-      phone numbers in the Handbook
+    - People's email addresses and phone numbers, even if it is public information. We typically link to group/team email addresses or Slack channels. There is also a public-facing
+      [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) that you can link to.
     - Information that is already well-covered on GSA InSite - link there
-      instead of reproducing it
+      instead of reproducing it.
     - Specific TTS org chart info (such as lists of names of supervisors and
       facilitators). Link to the
-      [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the internal
-      [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the internal
-      [Office of Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/)
-      instead
+      [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the 
+      [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the 
+      [Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/)
+      instead.
 
 ## Choosing a development environment
 
@@ -123,10 +120,6 @@ and start writing! If you need help, feel free to reach out in
 {% slack_channel "tts-handbook" %}. When you're happy with your changes, open a
 pull request so someone else can review them and get them merged into the
 Handbook.
-
-For long or important chunks of writing, consider asking the
-[18F Writing Lab](https://github.com/18F/writing-lab) to review and edit before
-you propose significant changes to the Handbook.
 
 The Handbook has a variety of utilities available to make updates easier and
 help keep everything consistent across pages. There are two primary kinds of
