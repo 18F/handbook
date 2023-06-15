@@ -73,9 +73,13 @@ decision between the different potential actions.
 2. The **Director of Account Management** can be an escalation path for teams or
    for partners, and can provide the support teams may need to have difficult
    conversations with partners.
-3. The **Deputy** and **Executive Director** can provide another layer of top
+3. The **Chief of Delivery** can help sort through tricky situations and clarify
+   expectations around what is normal or out of the ordinary for 18F engagements
+   and deliverables.
+5. The **Deputy** and **Executive Director** can provide another layer of top
    cover. This is especially useful when executive level stakeholders are
-   dissatisfied.
+   dissatisfied. Work with the Chief of Delivery to discuss pulling in this kind
+   of support.
 
 ### Staffing changes
 
