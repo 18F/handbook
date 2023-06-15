@@ -449,7 +449,7 @@ you will need a supervisor or director from that team to approve.
 If your travel is **billable** you will need to get approval from the director
 of the team who oversees the type of project you are working on:
 
-- 18F: Cristina Brydges will be the POC until the SES Detailee is selected.
+- 18F: Joe Krzystan
 - 10x: Nico Papafil
 - cloud.gov: Ashley Mahan until a new cloud.gov director is selected
 - login.gov: Dan Lopez
