@@ -1,5 +1,6 @@
 const Image = require("@11ty/eleventy-img");
 const path = require("path");
+const baseurl = require("../baseurl");
 
 // Given an image path, copies the file to the assets/images directory so it is
 // available on the web. Returns the text for an <img> element that has the
@@ -31,7 +32,7 @@ module.exports = async (imagePath, cssClass, altText) => {
   // unexpected, hard-to-debug ways that do not break the build.
   const attributes = {
     // We need to honor BASEURL to support cloud.gov Pages preview builds.
-    src: `${process.env.BASEURL ?? ""}/${url}`,
+    src: `${baseurl}/${url}`,
     class: cssClass ?? false,
     alt: altText ?? false,
     loading: "lazy",
