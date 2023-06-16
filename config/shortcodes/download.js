@@ -18,5 +18,5 @@ module.exports = async (downloadPath) => {
 
   // The resulting URL should include the base URL, if any. This is necessary
   // for cloud.gov Pages previews to work correctly.
-  return `${baseurl}/assets/downloads/${filename}`;
+  return path.join(baseurl, `/assets/downloads/${filename}`);
 };

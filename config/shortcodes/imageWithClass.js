@@ -32,7 +32,7 @@ module.exports = async (imagePath, cssClass, altText) => {
   // unexpected, hard-to-debug ways that do not break the build.
   const attributes = {
     // We need to honor BASEURL to support cloud.gov Pages preview builds.
-    src: `${baseurl}/${url}`,
+    src: path.join(baseurl, url),
     class: cssClass ?? false,
     alt: altText ?? false,
     loading: "lazy",
