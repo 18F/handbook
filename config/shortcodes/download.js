@@ -1,5 +1,6 @@
 const fs = require("fs/promises");
 const path = require("path");
+const baseurl = require("../baseurl");
 
 // Given a path to a file that should be downloadable, copy that path into the
 // output's assets directory so it'll be available. Return the resulting URL
@@ -17,5 +18,5 @@ module.exports = async (downloadPath) => {
 
   // The resulting URL should include the base URL, if any. This is necessary
   // for cloud.gov Pages previews to work correctly.
-  return `${process.env.BASEURL ?? ""}/assets/downloads/${filename}`;
+  return path.join(baseurl, `/assets/downloads/${filename}`);
 };

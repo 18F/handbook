@@ -31,10 +31,10 @@ To get approval for a custom emoji:
    the image. {% slack_channel "transient" %} is a good place for this (as well
    as to test other Slack features). Using a link to the image somewhere else on
    the web often makes it difficult if not impossible for our Slack admins. Confirm that any gif is under 128KB. 
-2. Open {% slack_channel "emoji-showcase" %} in Slack
+2. Open {% slack_channel "emoji-showcase" %} in Slack.
 3. Click on the Shortcuts button to the left of the message field (blue
-   lightning bolt icon), select "Request new emoji"
-4. Fill out the form, which asks for the "shortcode" name you'd like for the new emoji (in the format :name-here:) and direct URL of the image within Slack, and click submit
+   lightning bolt icon), select "Request new emoji".
+4. Fill out the form, which asks for the "shortcode" name you'd like for the new emoji (in the format :name-here:) and direct URL of the image within Slack, and click Submit.
 
 {% image "_img/request-new-emoji-form.png" "Request new emoji form" %}
 
@@ -47,7 +47,7 @@ If you'd like to help review emoji, reach out to
 
 ## Frequently used emoji
 
-Emojis can contain a lot of community-specific or media-reference meaning, so please don't hesitate
+Emoji can contain a lot of community-specific or media-reference meaning, so please don't hesitate
 to ask someone what they meant by an emoji. 
 
 We encourage you to use emoji as accents in your messages and to type the original word, too. For example, instead of saying:

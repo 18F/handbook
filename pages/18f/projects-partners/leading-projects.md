@@ -198,6 +198,7 @@ most common types of 18F project endings are some combination of the following:
     project in {% slack_channel "18f-help-wanted" %} so everyone on the project team can fully
     participate.
   - Post the reflection summary to {% slack_channel "project-reflections" %}
+  - Link the completed project reflection to the project record in the 18F dashboard using [this form](https://airtable.com/shrDVLEqUpLYGnvKS).
   - Upload re-usable or example tools, presentations, docs, and other resources to the [Project Resource Library](https://airtable.com/appkBrEBVTMd9M5VC?) through the
     [submission form](https://airtable.com/shrg8FScJQSJlXwtv).
   - As an optional step, use the
@@ -324,12 +325,12 @@ conversations, client management skills, and strategic direction.
 
 | Issue type:                                                                                                         | First point of contact:                                                                          | You may also want to inform:                                | Next step if needed:                                                                |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **Pre-flight issues, agreements, timelines, scope**                                                                 | AM (working with agreements team)                                                                | Director of Account Management                              | Chief of Projects                                                                   |
-| **Team dynamics/team performance**                                                                                  | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Supervisor                                                  | Chapter Director, Director of Account Management, Chief of Projects                 |
-| **Changes to project timeline (including stopping the project early)**                                              | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Director of Account Management & Staffing Leads             | Supervisor, Chapter Director, Chief of Projects                                     |
-| **Partner dissatisfaction**                                                                                         | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Supervisor, Director of Account Management                  | Chapter Director, Chief of Projects, 18F Director if needed, TTS Director if needed |
-| **Staffing misalignment**                                                                                           | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Chapter Director, Supervisor, Staffing Leads                | Chief of Projects, Chief of Practices                                               |
-| **Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor** | Team can try to resolve themselves, but can escalate immediately if they’d like                  | Project Lead, Account Manager, Chapter Director, Supervisor | Chief of Projects, Chief of Practices, 18F Director if needed                       |
+| **Pre-flight issues, agreements, timelines, scope**                                                                 | AM (working with agreements team)                                                                | Director of Account Management                              | Chief of Delivery                                                                   |
+| **Team dynamics/team performance**                                                                                  | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Supervisor                                                  | Chapter Director, Director of Account Management, Chief of Delivery                 |
+| **Changes to project timeline (including stopping the project early)**                                              | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Director of Account Management & Staffing Leads             | Supervisor, Chapter Director, Chief of Delivery                                     |
+| **Partner dissatisfaction**                                                                                         | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Supervisor, Director of Account Management                  | Chapter Director, Chief of Delivery, 18F Director if needed, TTS Director if needed |
+| **Staffing misalignment**                                                                                           | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Chapter Director, Supervisor, Staffing Leads                | Chief of Delivery                                                                   |
+| **Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor** | Team can try to resolve themselves, but can escalate immediately if they’d like                  | Project Lead, Account Manager, Chapter Director, Supervisor | Chief of Delivery, 18F Director if needed                                           |
 
 ### What if a project lead is struggling to fulfill the role?
 
@@ -373,6 +374,6 @@ If the above channels aren’t an option, set up time to speak with one of the
 following folks, each of whom can help you strategize about how to improve the
 situation:
 
-- Portfolio director related to the project or your Chapter director
+- Your Chapter director
 - Chief of Staff
 - Director of Account Management chapter

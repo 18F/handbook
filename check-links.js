@@ -1,6 +1,7 @@
-const cheerio = require("cheerio");
 const fs = require("fs/promises");
 const path = require("path");
+const baseurl = require("./config/baseurl");
+const cheerio = require("cheerio");
 
 const SITE_ROOT = path.join(__dirname, "_site");
 
@@ -51,7 +52,7 @@ const getDom = async (file) => {
       SITE_ROOT,
       // Strip off any URL hashes and remove the base URL portion to get down
       // to just the target file.
-      realFile.replace(/\#.*$/, "").replace(process.env.BASEURL, ""),
+      realFile.replace(/\#.*$/, "").replace(baseurl, ""),
       path.basename(file)
     );
 
@@ -103,7 +104,7 @@ const run = async () => {
 
         // if(/^\/(images|))
 
-        pathComponents.push(url.pathname.replace(process.env.BASEURL, ""));
+        pathComponents.push(url.pathname.replace(baseurl, ""));
 
         // If the link does not include a file path, append index.html
         if (!/\.[a-z]+/i.test(url.pathname)) {

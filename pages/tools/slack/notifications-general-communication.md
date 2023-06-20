@@ -42,7 +42,7 @@ Remember that you don’t have to be a part of every conversation, and you can j
 Slack has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for its name in Slack.
 
 ### How can I set a status that lets others know that I'm not working?
-Set Slack boundaries when you aren't working or you when need to be heads-down by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. 
+Set Slack boundaries when you aren't working or when you need to be heads-down by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. 
 
 You can [set a notification schedule](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb#set-a-notification-schedule) so Slack automatically shows that you aren't online before/after certain times. 
 

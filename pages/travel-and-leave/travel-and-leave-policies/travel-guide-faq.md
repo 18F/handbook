@@ -831,9 +831,8 @@ account. Go to the **Vouchers** tab of Concur, then click on the voucher number
 you want to view and choose **View Summary**. In the voucher view, navigate down
 to the **Totals and travel advances** section and verify the amount on the **Pay
 to Charge Card** line. This amount should match with a payment made to the
-travel card in your travel card statement. [Links + Instructions for viewing
-online statements
-here]({% page "/travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card/#4-receive-and-activate-your-card-in-7-10-business-days" %})
+travel card in your travel card statement.
+[More information about logging into and managing your travel card account.](https://insite.gsa.gov/employee-resources/acquisition-purchases-and-payments/gsa-travel-card/us-bank-account-management)
 If it does, and there is still a remaining balance, it is likely that you used
 the travel card to pay for something that was either claimed as **CASH** on the
 voucher, or not claimed at all.
