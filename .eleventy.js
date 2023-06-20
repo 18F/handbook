@@ -5,6 +5,7 @@ const markdownItAttrs = require("markdown-it-attrs");
 const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { headingLinks } = require("./config/headingLinks");
+const baseurl = require("./config/baseurl");
 
 const HandbookPlugin = require("./config/HandbookPlugin.js");
 
@@ -59,7 +60,7 @@ module.exports = function (config) {
     templateFormats: ["md", "html", "njk"],
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "liquid",
-    pathPrefix: process.env.BASEURL ?? "/",
+    pathPrefix: baseurl,
 
     dir: {
       input: "pages",
