@@ -122,19 +122,30 @@ on the map). Our office spaces are located in the range of G120s and G130s.
 
 ## How do I...
 
-### Enter the building for the first time?
+### Enter the building for the first time
 
-Enter through the main building entrance on F Street, tell the security guard
-you're here and provide them with a photo ID. (Note that pocket knives with
-blades longer than 2½" are prohibited.) Later on in the day (or soon after) you
-will have the opportunity to pick up your official GSA ID Badge.
+**If you are a new employee or don't have a GSA ID badge / PIV card**
 
-### Enter the building if I'm based in another office?
+Enter through the main building entrance on F Street and show the security guard
+your photo ID. They will guide you to the nearby badging office. Later on in the day (or soon
+after) you will have the opportunity to pick up your official GSA ID badge / PIV card, which
+will let you come and go through the turnstiles without checking in with security.
+
+**If you already have a GSA ID badge / PIV card**
+
+Enter through the main building entrance on F Street and show the security guard
+your PIV card. Explain that you're an employee and that you need your PIV card set up
+with the building. They will guide you to complete the process so you can come and go
+through the turnstiles without checking in with security.
+
+(Note that pocket knives with blades longer than 2½" are prohibited.)
+
+### Enter the building if I'm based in another office
 
 Your badge should get you in. If you're having trouble, call one of the points
 of contact listed above, or ask in {% slack_channel "dc" %}.
 
-### Get my fingerprints and badge?
+### Get my fingerprints and badge
 
 Fingerprinting and the photo for your badge take place in room 1217. Badge
 pickup is in the same room 1217. After pickup, you'll need to get it activated
@@ -147,18 +158,18 @@ building, but the room is just beyond that door.
 The location of onboarding differs based on how many people are coming into GSA.
 You will find out the exact location once you arrive at orientation.
 
-### Mail something to the office?
+### Mail something to the office
 
 Send mail to:
 
 > (you can add "ATTN: Name" at top if desired) <br> General Services
 > Administration <br> 1800 F ST NW <br> Rm 3100 <br> Washington, DC 20405-0001
 
-### Access the building after hours?
+### Access the building after hours
 
 Go to the F Street entrance, where 24/7 access is available.
 
-### Book rooms for meetings?
+### Book rooms for meetings
 
 Use [BookIt](https://bookit.gsa.gov) to reserve rooms. The TTS space is in the
 G100 wing.
@@ -172,7 +183,7 @@ Avoid booking rooms:
 - x3xx rooms---they're really far away from TTS and aren't easily accessible
 - x0xx rooms---they're not as up-to-date as other wings
 
-### Receive visitors?
+### Receive visitors
 
 If you're expecting a small group of US citizens (fewer than 15 or so), no
 advance action is required on your part. Let your guest(s) know to bring ID;
@@ -182,7 +193,7 @@ You'll have to escort visitors from security.
 If you're expecting a large group, or if the group includes non-US citizens, you
 should give security advance notice.
 
-### Reserve parking for government business?
+### Reserve parking for government business
 
 In order to reserve parking for a meeting with a government colleague, email
 [Tenant Support](mailto:1800Ftenantsupport@gsa.gov) with the driver's name,
@@ -192,7 +203,7 @@ Spots are located in the East Courtyard. Access the East Courtyard of the
 building via on E Street: it's the first right turn into the building, between
 Which Wich and Greenberry's.
 
-### Register for building badge swipe access as a non-GSA federal employee?
+### Register for building badge swipe access as a non-GSA federal employee
 
 Federal employees who work for agencies other than GSA can register their PIV
 cards to open doors and turnstiles at 1800 F by visiting the GSA security
@@ -201,12 +212,12 @@ hours are Monday--Thursday from 7:00am--3:30pm. This is particularly useful for
 biking as it will allow your PIV card to open the courtyard doors from the
 parking lot.
 
-### Request a basement locker?
+### Request a basement locker
 
 Fitness center users and bicyclists who want to request a locker in the basement
 wing 3 should email [Tenant Support](mailto:1800Ftenantsupport@gsa.gov).
 
-### Access a printer?
+### Access a printer
 
 Refer to
 [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#heading=h.ovrvnlkhtpwh)
@@ -214,7 +225,7 @@ or on
 [GSA's instructions on InSite](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/equipment-and-hardware/install-a-network-printer)
 for other regions for more details.
 
-### Get on the wireless?
+### Get on the wireless
 
 The guest wireless network in the building is GSA Guest. The password changes
 monthly. To obtain the current password, type "GSA Wireless" or "guest wifi"
