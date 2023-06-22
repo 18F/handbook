@@ -682,3 +682,17 @@ healthy-conflict:
     url: general-information-and-resources/conflict-feedback-additional-frameworks/
   - text: Receiving feedback
     url: general-information-and-resources/conflict-feedback-receiving-feedback/
+
+updating-the-handbook:
+  - text: Intro
+    url: updating-the-handbook/
+  - text: Editing in GitHub
+    url: updating-the-handbook/edit-in-github/
+  - text: Editing locally
+    url: updating-the-handbook/edit-locally/
+  - text: Front matter
+    url: updating-the-handbook/frontmatter/
+  - text: Shortcodes
+    url: updating-the-handbook/shortcodes/
+  - text: Components
+    url: updating-the-handbook/components/

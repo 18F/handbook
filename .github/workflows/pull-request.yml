@@ -86,6 +86,4 @@ jobs:
         with:
           node-version: 18
       - name: Install cSpell
-        run: npm install -g cspell
-      - name: Run cSpell
-        run: cspell --config ./cSpell.json "pages/**/*.md" --no-progress
+        run: npm run test:spelling
