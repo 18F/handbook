@@ -256,15 +256,17 @@ primary:
             internal: true
       - text: TTS platforms
         children:
-          - text: Cloud.gov
+          - text: cloud.gov
             url: https://cloud.gov/
             internal: false
+          - text: cloud.gov Pages
+            url: tools/pages/
+            internal: true
           - text: Login.gov
             url: https://login.gov/
             internal: false
-          - text: Federalist (publishing platform)
-            url: federalist/
-            internal: true
+          - text: Updating the Handbook
+            url: updating-the-handbook/
       - text: Tech
         children:
           - text: FITARA
