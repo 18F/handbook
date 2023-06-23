@@ -54,23 +54,40 @@ module.exports = (eleventyConfig) => {
       ) {
         // Load the content into a DOM
         const dom = new JSDOM(content);
+        const document = dom.window.document;
         let processed = false;
 
         // Find all the links
-        const links = dom.window.document.querySelectorAll("a[href]");
+        const links = document.querySelectorAll("a[href]");
 
         for (const link of links) {
           const url = link.getAttribute("href");
 
-          // For any links that aren't public, add a title and the private-link
-          // CSS class.
+          // For any links that aren't public, add text to identify them as
+          // private for people using screen readers and add a lock icon for
+          // sighted users.
           if (privateUrlSlugs.some((slug) => url.indexOf(slug) >= 0)) {
+            // Preserve the existing link content, which could be a single text
+            // node or a more complex set of nodes.
+            const linkContent = [...link.childNodes];
+
+            // Create a screenreader-only text node
+            const srText = document.createElement("span");
+            srText.innerHTML = "TTS-only, ";
+            srText.setAttribute("class", "usa-sr-only");
+
+            // ...and an icon, which is hidden from screenreaders
+            const sightedIcon = document.createElement("svg");
+            sightedIcon.setAttribute("class", "usa-icon");
+            sightedIcon.setAttribute("aria-hidden", "true");
+            sightedIcon.setAttribute("role", "img");
+            sightedIcon.innerHTML = `<use xlink:href="#svg-lock_outline"></use>`;
+
+            // Then rebuild the link content with the new text, the original
+            // contents, and the icon.
+            link.replaceChildren(srText, ...linkContent, sightedIcon);
+
             processed = true;
-            link.setAttribute("title", "This link is private to TTS");
-            link.setAttribute(
-              "class",
-              [link.getAttribute("class"), "private-link"].join(" ")
-            );
           }
         }
 
