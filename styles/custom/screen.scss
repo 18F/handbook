@@ -34,12 +34,6 @@ a.button span.slack {
   }
 }
 
-a.private-link::after {
-  content: "🔒";
-  font-size: 0.75em;
-  text-decoration: none;
-}
-
 /* Travel Guide Image Toggles */
 a.travel-image-link {
   display: block;
