@@ -181,7 +181,7 @@ You can look at the file at `_data/healthy-conflict.yml` for an example of how
 to do it.
 
 Then, when including the step indicator component, you also must tell it which
-step the current page represnts. This is the **_number_** of the current step in
+step the current page represents. This is the **_number_** of the current step in
 the list, not its text, so it will be 1, 2, 3, etc. If you put your steps into a
 file called `my-new-steps.yml`, you would put it all together like this, on the
 first page of your steps:
