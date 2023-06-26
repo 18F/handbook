@@ -11,7 +11,7 @@ redirect_from:
 sidebar:
   navigation: travel
   current: FAQ
-cSpell: ignore Trav,DeLeve,Brydges,Nico,Papafil,Mahan,Rostami
+cSpell: ignore Trav,DeLeve,Brydges,Nico,Papafil,Mahan,Rostami,Krzystan
 ---
 
 ## Questions about booking travel
