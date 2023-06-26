@@ -16,10 +16,10 @@ optional:
     {% capture status %}current{% endcapture %}
     {% capture classes %} usa-step-indicator__segment--current{% endcapture %}
     {% elsif index < currentstepindex %}
-    {% capture status %}compeleted{% endcapture %}
+    {% capture status %}completed{% endcapture %}
     {% capture classes %} usa-step-indicator__segment--complete{% endcapture %}
     {% else %}
-    {% capture status %}not compeleted{% endcapture %}
+    {% capture status %}not completed{% endcapture %}
     {% capture classes %}{% endcapture %}
     {% endif%}
 <li
