@@ -1,5 +1,6 @@
 ---
 title: Psychological Safety 
+cSpell: ignore Edmondson,Mortensen,Geraghty,DEIB
 ---
 
 _Psychological safety describes “...a team climate characterized by interpersonal trust and mutual respect in which people are comfortable being themselves. For knowledge work to flourish, the workplace must be one where people feel able to share their knowledge! This means sharing concerns, questions, mistakes, and half-formed ideas.”
@@ -59,5 +60,5 @@ Conflict is recognized as inevitable, and [healthy conflict]({% page "/general-i
 ## Resources 
 - [The Importance of Psychological Safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (video) by Amy Edmondson
 - [What Psychological Safety Looks Like in a Hybrid Workplace](https://hbr.org/2021/04/what-psychological-safety-looks-like-in-a-hybrid-workplace) by Amy C. Edmondson and Mark Mortensen
-- [Psychological Safety Blog](https://psychsafety.co.uk/blog/) by Tom Geraghty.
+- [Psychological Safety Blog](https://psychsafety.co.uk/blog/) by Tom Geraghty
 
