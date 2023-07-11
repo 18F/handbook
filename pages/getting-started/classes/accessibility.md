@@ -4,7 +4,7 @@ questions:
   - g-accessibility
 redirect_from:
   - /accessibility/
-cSpell: ignore Annan,Zaragoza
+cSpell: ignore Matis,Nakai
 ---
 
 The federal government is accountable for making all of its products 508
