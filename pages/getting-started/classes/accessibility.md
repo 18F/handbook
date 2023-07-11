@@ -15,7 +15,7 @@ and that they’re logically easy to follow.
 
 ## Leadership
 
-Pia Zaragoza, PIF/CISA and Claire Annan, 18F lead the
+Mike Matis (CoE) and Jason Nakai (18F) lead the
 [accessibility guild](https://github.com/18F/accessibility).
 
 ## Communication
