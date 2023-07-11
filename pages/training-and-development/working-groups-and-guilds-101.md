@@ -144,8 +144,8 @@ Guild meeting times can also be found on the
           {% slack_channel "g-accessibility" %}
         </td>
         <td>
-          Jia Gu - 18F<br>
-          Justen Proctor - OA
+          Mike Matis - CoE<br>
+          Jason Nakai - 18F
         </td>
       </tr>
       <tr>
