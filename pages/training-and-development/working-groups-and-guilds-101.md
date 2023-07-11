@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
+cSpell: ignore Matis,Nakai,Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
 ---
 
 <style type="text/css">
