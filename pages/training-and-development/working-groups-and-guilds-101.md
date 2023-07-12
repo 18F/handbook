@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
+cSpell: ignore Matis,Nakai,Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
 ---
 
 <style type="text/css">
@@ -144,8 +144,8 @@ Guild meeting times can also be found on the
           {% slack_channel "g-accessibility" %}
         </td>
         <td>
-          Jia Gu - 18F<br>
-          Justen Proctor - OA
+          Mike Matis - CoE<br>
+          Jason Nakai - 18F
         </td>
       </tr>
       <tr>
