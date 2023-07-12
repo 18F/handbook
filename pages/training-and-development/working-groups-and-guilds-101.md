@@ -187,7 +187,7 @@ Guild meeting times can also be found on the
           <a href="https://github.com/18F/development-guide">Eng Guide repo</a> &bull; {% slack_channel "dev" %}
         </td>
         <td>
-          Kimball Bighorse - 18F<br />
+          Samira Sadat - USDC, Vote.gov<br />
           Drew Bollinger - cloud.gov Pages
         </td>
       </tr>
