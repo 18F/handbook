@@ -3,9 +3,16 @@ title: Psychological Safety
 cSpell: ignore Edmondson,Mortensen,Geraghty,DEIB
 ---
 
-_Psychological safety describes “...a team climate characterized by interpersonal trust and mutual respect in which people are comfortable being themselves. For knowledge work to flourish, the workplace must be one where people feel able to share their knowledge! This means sharing concerns, questions, mistakes, and half-formed ideas.”
-— Amy Edmondson, 1999_
+At TTS, [our values]({% page "/tts-history/" %}) are inclusion, integrity, and impact.
 
+This page covers a key organizational trait that TTS needs in order to live our values: psychological safety.
+
+## What psychological safety is
+
+Researcher and professor Amy C. Edmondson created the foundational definition of psychological safety:
+
+_“...a team climate characterized by interpersonal trust and mutual respect in which people are comfortable being themselves. For knowledge work to   flourish, the workplace must be one where people feel able to share their knowledge! This means sharing concerns, questions, mistakes, and half-formed ideas.”_ - [Psychological Safety and Learning Behavior in Work Teams](https://journals.sagepub.com/doi/abs/10.2307/2666999)
+ 
 ## What psychological safety looks like
 When there is a high level of psychological safety in an organization, there is a shared belief across teams and the organization that people are free to speak up and take risks without fear of embarrassment, retribution or retaliation.
 
@@ -58,7 +65,7 @@ Psychological safety is not an artificially harmonious environment. In a psychol
 Conflict is recognized as inevitable, and [healthy conflict]({% page "/general-information-and-resources/conflict-feedback-intro/" %}) is a path towards growth and improvement.
 
 ## Resources 
-- [The Importance of Psychological Safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (video) by Amy Edmondson
+- [The Importance of Psychological Safety](https://www.youtube.com/watch?v=eP6guvRt0U0) (video) by Amy C. Edmondson
 - [What Psychological Safety Looks Like in a Hybrid Workplace](https://hbr.org/2021/04/what-psychological-safety-looks-like-in-a-hybrid-workplace) by Amy C. Edmondson and Mark Mortensen
 - [Psychological Safety Blog](https://psychsafety.co.uk/blog/) by Tom Geraghty
 
