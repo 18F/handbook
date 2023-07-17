@@ -11,7 +11,7 @@ This page covers a key organizational trait that TTS needs in order to live our 
 
 Researcher and professor Amy C. Edmondson created the foundational definition of psychological safety:
 
-_“...a team climate characterized by interpersonal trust and mutual respect in which people are comfortable being themselves. For knowledge work to   flourish, the workplace must be one where people feel able to share their knowledge! This means sharing concerns, questions, mistakes, and half-      formed ideas.”_ - [Psychological Safety and Learning Behavior in Work Teams](https://journals.sagepub.com/doi/abs/10.2307/2666999)
+_“...a team climate characterized by interpersonal trust and mutual respect in which people are comfortable being themselves. For knowledge work to   flourish, the workplace must be one where people feel able to share their knowledge! This means sharing concerns, questions, mistakes, and half-formed ideas.”_ - [Psychological Safety and Learning Behavior in Work Teams](https://journals.sagepub.com/doi/abs/10.2307/2666999)
  
 ## What psychological safety looks like
 When there is a high level of psychological safety in an organization, there is a shared belief across teams and the organization that people are free to speak up and take risks without fear of embarrassment, retribution or retaliation.
