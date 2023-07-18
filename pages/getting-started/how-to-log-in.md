@@ -51,7 +51,7 @@ following prompt if their password is due to expire within 14 days. I
 
 You can change the password that you use to log into your Mac or reset the
 password by following
-[ServiceNow KB0024344](https://gsa.servicenowservices.com/sp/?id=kb_article&sys_id=bd3133f7db78d300a54d72131f961906).
+[ServiceNow KB0024344](https://gsa.servicenowservices.com/sp/?sys_kb_id=361130c11b2829109fffa93be54bcba8&id=kb_article_view&sysparm_rank=1&sysparm_tsqueryId=220b62411b04fd90164442ecac4bcb7d).
 
 Users must follow security requirements:
 
