@@ -13,7 +13,9 @@ redirect_from:
 cSpell: ignore Sabbers,approvable
 ---
 
-This page outlines how to sign up for and how to cancel the transit benefit.
+This page outlines how to sign up for and how to cancel the transit benefit. 
+
+_**Currently, the Transit Benefits system is down. There is not an alternative registration option available. When the system is back online, PeopleOps will share an update.**_
 
 ## Eligibility
 
