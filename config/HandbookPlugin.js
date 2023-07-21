@@ -1,4 +1,5 @@
 const assets = require("./plugins/assets");
+const filters = require("./filters");
 const privateLinks = require("./plugins/privateLinks");
 const shortCodes = require("./shortcodes");
 
@@ -9,6 +10,9 @@ module.exports = function HandbookPlugin(eleventyConfig) {
 
   // Marking-up private links
   eleventyConfig.addPlugin(privateLinks);
+
+  // Filters
+  eleventyConfig.addPlugin(filters);
 
   // Shortcodes
   eleventyConfig.addPlugin(shortCodes);

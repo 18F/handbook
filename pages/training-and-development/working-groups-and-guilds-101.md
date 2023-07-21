@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
+cSpell: ignore Matis,Nakai,Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
 ---
 
 <style type="text/css">
@@ -144,8 +144,8 @@ Guild meeting times can also be found on the
           {% slack_channel "g-accessibility" %}
         </td>
         <td>
-          Jia Gu - 18F<br>
-          Justen Proctor - OA
+          Mike Matis - CoE<br>
+          Jason Nakai - 18F
         </td>
       </tr>
       <tr>
@@ -161,10 +161,11 @@ Guild meeting times can also be found on the
       <tr>
         <th class="col-grouplet" id="content">Content</th>
         <td class="col-description">
-          We promote concise, elegant, user-centered content.<br />
+          We promote user-centered, sustainable content.<br />
           <a href="https://content-guide.18f.gov/">18F Content Guide</a> &bull; {% slack_channel "g-content" %}
         </td>
         <td>
+	Allison Press - 18F <br />
           Michelle Rago - 18F
         </td>
       </tr>
@@ -186,7 +187,7 @@ Guild meeting times can also be found on the
           <a href="https://github.com/18F/development-guide">Eng Guide repo</a> &bull; {% slack_channel "dev" %}
         </td>
         <td>
-          Kimball Bighorse - 18F<br />
+          Samira Sadat - USDC, Vote.gov<br />
           Drew Bollinger - cloud.gov Pages
         </td>
       </tr>
@@ -233,7 +234,7 @@ Typically guilds follow a lightweight leadership selection process:
 1. The guild asks for nominations via email and Slack posting. Guilds can choose
    to allow self-nomination only, or accept nominations by other people with
    confirmation of interest by the nominee. Nominees should have the verbal
-   approval of their supervisor. Written nominations totalling no more than 400
+   approval of their supervisor. Written nominations of no more than 400
    words are recommended; guilds choose nomination questions.
 1. A panel of one-three people made up of guild leadership, other guild members
    and/or leadership from other guilds conduct brief (no more than 30 minute)

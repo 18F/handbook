@@ -1,11 +1,11 @@
 ---
-title: Federalist
+title: cloud.gov Pages
 redirect_from:
   - /federalist/
   - /pages/tools/federalist/
 ---
 
-We use [cloud.gov's Pages](https://cloud.gov/pages/) to build websites.
+We use [cloud.gov Pages](https://cloud.gov/pages/) to build websites.
 
 ## Documentation
 
@@ -24,9 +24,10 @@ We use [cloud.gov's Pages](https://cloud.gov/pages/) to build websites.
 
 ## Rules
 
-- TTS teams can use Federalist for internal or TTS-specific projects without
-  cost. However, if the site is part of a project you're doing for another
-  agency, it must be included in and paid for by the agreement with that agency.
+- TTS teams can use cloud.gov Pages for internal or TTS-specific projects
+  without cost. However, if the site is part of a project you're doing for
+  another agency, it must be included in and paid for by the agreement with that
+  agency.
 
 - For 18F staff only - The Outreach team is responsible for 18F's web presence.
   If you are looking to create an 18F microsite (`xyz.18f.gov`), such as a guide

@@ -96,7 +96,7 @@ If you are interested in becoming a mentor, there is a list of
 GSA has a partnership with the Department of Treasury's Executive Institute
 (TEI) which offers employees at the GS-14, 15, and SES grade levels access to
 the
-[TEI training programs](https://insite.gsa.gov/topics/training-and-development/leadership-resources/treasury-executive-institute-tei)
+[TEI training programs](https://home.tei.treasury.gov/)
 both online and in the classroom to help develop and grow managerial skills.
 Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov).
 

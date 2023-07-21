@@ -98,7 +98,7 @@ better buyers and managers of custom software development teams**.
   from prospective vendors, and prepares to work with a vendor after an award
   has been made. This period includes the review of materials submitted to an
   agency by vendors in response to a solicitation, and may also include oral
-  interviews wth prospective vendors.
+  interviews with prospective vendors.
 - **Solicitation**: The formal process for posting an opportunity for vendors to
   work with an agency. These opportunities are typically posted to sites like
   [FedBizOpps](https://www.fbo.gov/) where vendors can find them and respond.
