@@ -24,7 +24,7 @@
     "@uswds/uswds": "^3.2.0",
     "autoprefixer": "^10.4.2",
     "eleventy-plugin-svg-sprite": "^2.4.0",
-    "esbuild": "^0.18.13",
+    "esbuild": "^0.18.16",
     "esbuild-sass-plugin": "^2.10.0",
     "glob": "^8.1.0",
     "js-yaml": "^4.1.0",
