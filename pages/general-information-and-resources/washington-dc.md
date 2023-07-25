@@ -19,7 +19,6 @@ cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten
       <tr>
         <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
-          <a href="https://gsa-tts.slack.com/team/U01JME2KB41">Leah Gitter</a><br />
           <a href="mailto:1800ftenantsupport@gsa.gov">GSA Tenant Support</a>
         </td>
       </tr>
