@@ -120,9 +120,7 @@ can help you find working group meeting times.
 ## Guilds in TTS
 
 Guilds seek to implement long-term, positive change within TTS. They offer
-training and promotion of best practices in their subject area.
-
-Guilds are typically long-running and are sponsored.
+training and promotion of best practices in their subject area. Guilds are typically long-running.
 
 Guild Slack channels have a `g-` before the name. Like working groups, you do
 not need permission to participate: just jump right in.
