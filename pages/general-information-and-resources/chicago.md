@@ -62,7 +62,7 @@ downtown-- it's only a 25 minute ride down the CTA Orange Line. The
 way in, though we recommend getting on at **Adams/Wabash** on your way out
 (unless you want to get a tour of the entire Chicago loop). While the Orange
 Line doesn't run 24/7 like the Blue, it does have regular service between 4:30
-a.m. and 1 a.m., covering pretty much any reasonable flight departure/arrival
+a.m. and 1 a.m., covering most reasonable flight departure/arrival
 times.
 
 ## Getting around
@@ -103,8 +103,7 @@ buys a 24-hour pass with unlimited 3-hour rides.
 ### Enter the building for the first time (or if I don't have a GSA badge)?
 
 During business hours (9 a.m. to 4:30 p.m.), pass through security as a normal
-visitor. If arriving outside business hours, arrange for a TTS team member
-inside the office to escort you.
+visitor. If arriving outside business hours, arrange for a TTS team member who has after-hours access to escort you.
 
 ### Get my fingerprints taken and badge made?
 
@@ -117,9 +116,9 @@ Your GSA ID grants you access to the building at any time between 7 a.m. and 6
 p.m. The gates are located by the elevator banks on the south side of the
 building.
 
-To set up turnstile access on your badge, visit room 200. You'll need to know
+To set up turnstile access on your badge, make an appointment using the calendar [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUYtMlFDQlRoTG10fGRlZmF1bHR8NWY2YTg2MTQzZWIwMmVhNjFiZGI3YTEwNmZmOWM1NjU). You'll need to know
 your PIN. If you don't know your PIN, or your badge is not activated, you'll
-need to make an appointment at the badging office in room 212.
+need to [make an appointment online](https://portal.usaccess.gsa.gov/scheduler/select-agency?v=20803) for the badging office in room 212.
 
 ### Access the building after hours?
 
@@ -136,7 +135,7 @@ See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
 
 ### Who else from TTS usually works out of the Chicago office?
 
-Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Portfolio) working from the Hub on the 35th floor Wednesdays.
+Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Portfolio) working from the Hub on the 35th floor Wednesdays. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
 
 ## Where are the...?
 
@@ -148,7 +147,7 @@ Bathrooms are just down the hall, on the west side of the elevator bank.
 
 If you need pens, paper, and other office supplies, you can get them at CSS in room 3523, on the interior side of the southwest hallway on the 35th floor, just past the door.
 
-CSS is also the place to go for mail. You can have packages addressed to [Your name] 35th floor CSS, 230 S Dearborn, Chicago IL, 60604. Incoming mail is delivered to and outgoing mail is collected from the office twice daily.
+CSS is also the place to go for mail. You can have packages addressed to [Your name] (GSA), 35th floor CSS, 230 S Dearborn, Chicago IL, 60604. Incoming mail is delivered to and outgoing mail is collected from the office twice daily.
 
 ### Lockers
 
@@ -159,10 +158,14 @@ Day-use lockers are also available in a few areas. You can find some of these on
 ### Printers
 
 Refer to
-[our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#)
+[our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#bookmark=id.jfhi8panutyk)
 for more details.
 
 ## Amenities
+
+### Recycling
+
+Recycling and secure shredding bins can be found near the printer on the northwest side of the 35th floor.
 
 ### Bike parking
 
@@ -170,12 +173,11 @@ Bike parking is available [in the basement of JCK (on the SM level)](https://dri
 
 ### Health Center
 
-There is a health center on the 3rd floor.
+There is a health center (Federal Occupational Health) near the southeast corner of the 3rd floor.
 
-### Recycling
+### Other amenities
 
-Recycling, including battery recycling, is available on the 2nd floor of our
-building
+A more comprehensive guide of Chicago office amenities and policies can be found in [a slideshow on this Insite page](https://insite.gsa.gov/locations/region-5/about-us/r5-rob-welcome-to-the-jck?check_logged_in=1).
 
 ## How do people dress?
 
@@ -186,3 +188,7 @@ yourself rather than following someone’s particular rules of formality.
 
 We share our Chicago office space with other GSA folks who trend to dress
 business casual.
+
+## Who can I contact if I have questions about the office space?
+
+TTS no longer has formal operations support for the Chicago office. However, [jckfieldoffice@gsa.gov]([jckfieldoffice@gsa.gov]) should be able to answer most of your building-related questions. [Janie Burmeister](janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.
