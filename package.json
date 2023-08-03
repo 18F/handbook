@@ -40,7 +40,7 @@
     "cspell": "^6.31.2",
     "eslint": "^8.45.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-prettier": "^8.9.0",
     "eslint-plugin-import": "^2.27.5",
     "html-validate": "^7.16.0",
     "prettier": "^2.8.8"
