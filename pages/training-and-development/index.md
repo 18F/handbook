@@ -74,7 +74,7 @@ services through the Treasury Executive Institute.
 
 To learn more about the GSA coaching program offerings and how to get connected
 with a coach, visit the
-[GSA coaching services page](https://insite.gsa.gov/topics/training-and-development/developmental-services/coaching-services/how-do-i-get-a-coach).
+[GSA coaching services page](https://insite.gsa.gov/employee-resources/training-and-development/developmental-services/organizational-development/coaching-services).
 
 ### Mentoring
 
