@@ -446,10 +446,9 @@ paid out of another team's budget (list of budgets available in cell C5 of
 [this sheet](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)),
 you will need a supervisor or director from that team to approve.
 
-If your travel is **billable** you will need to get approval from the director
-of the team who oversees the type of project you are working on:
+If your travel is **billable**, you will need to have the Account Manager of the project or Director of the team overseeing the project verify the budget prior to submitting the request.  When verifying with an Account Manager, the travel requestor's 1st line Supervisor should be the official approver in Concur. This list provides **approvers** for billable travel:
 
-- 18F: Joe Krzystan
+- 18F: 1st Line Supervisor (verify with the project's Account Manager first) 
 - 10x: Nico Papafil
 - cloud.gov: Ashley Mahan until a new cloud.gov director is selected
 - login.gov: Dan Lopez

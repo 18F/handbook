@@ -24,7 +24,7 @@
     "@uswds/uswds": "^3.2.0",
     "autoprefixer": "^10.4.2",
     "eleventy-plugin-svg-sprite": "^2.4.0",
-    "esbuild": "^0.18.16",
+    "esbuild": "^0.18.17",
     "esbuild-sass-plugin": "^2.10.0",
     "glob": "^8.1.0",
     "js-yaml": "^4.1.0",
@@ -38,10 +38,10 @@
   "devDependencies": {
     "cheerio": "^1.0.0-rc.12",
     "cspell": "^6.31.2",
-    "eslint": "^8.45.0",
+    "eslint": "^8.46.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-import": "^2.27.5",
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-import": "^2.28.0",
     "html-validate": "^7.16.0",
     "prettier": "^2.8.8"
   },
