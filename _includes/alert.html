@@ -7,6 +7,6 @@ content: markdown body of the alert
 <div class="usa-alert usa-alert--{{ level | default: 'info' }}">
   <div class="usa-alert__body">
     {% if heading %}<h3 class="usa-alert__heading">{{ heading | escape }}</h3>{% endif %}
-    {% if content %}<div class="usa-alert__text">{{ content | default: '' }}</div>{% endif %}
+    {% if content %}<div class="usa-alert__text">{{ content | default: '' | render }}</div>{% endif %}
   </div>
 </div>
