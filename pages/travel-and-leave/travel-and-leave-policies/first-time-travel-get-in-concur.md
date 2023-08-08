@@ -52,6 +52,7 @@ an issue with your internet._
 - For Point of Contact / POC fields, enter the contact information for your
   supervisor.
 - For "Service Division", select "FAS" since TTS is under FAS.
+- For banking details, add your personal banking information. This is how you will be reimbursed for travel. Some folks have been able to go the next page by entering just their bank name, routing number, and account number.
 - Once you complete the form and submit, you might see an error like
   `Application error occurred while saving the information to the database: Error getting next Request ID from database - Connect Timeout expired.`
   If this occurs, continue submitting until you receive a successful
