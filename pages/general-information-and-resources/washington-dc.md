@@ -167,6 +167,7 @@ Send mail to:
 ### Access the building after hours
 
 Go to the F Street entrance, where 24/7 access is available.
+Please note that the building closes at 6 pm, a GSA badge is required for after hours access and no visitors are permitted.
 
 ### Book rooms for meetings
 
