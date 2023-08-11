@@ -28,7 +28,7 @@ To run the site locally:
 3. From the repo directory, run:
    ```sh
    npm install
-   npm run dev
+   npm start
    ```
 4. Open http://localhost:8080
 
