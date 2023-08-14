@@ -116,7 +116,7 @@ to start. It’s a short read with all of the basics about issues.
 is a video that includes a lot of the GitHub basics you could want. It’s about a
 30 minute video that shows you how to manage and publish website content. **This
 is particularly useful if you are contributing to
-[Federalist](https://federalist.18f.gov/) sites.**
+[cloud.gov Pages](https://cloud.gov/pages/) sites.**
 
 Pull requests are important for editing content and making changes in GitHub.
 [Github Docs - About pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
