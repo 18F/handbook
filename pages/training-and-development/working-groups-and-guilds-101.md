@@ -196,9 +196,8 @@ Guild meeting times can also be found on the
           {% slack_channel "g-research" %}
         </td>
         <td>
-          Becky Slogeris - PIF<br />
           Michelle Polyak - USDC <br />
-          Megan Moser - CoE
+          Amanda Kennedy - 18F
         </td>
       </tr>
       <tr>
