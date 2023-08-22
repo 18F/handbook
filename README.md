@@ -24,13 +24,12 @@ can keep the handbook, new hire messages, and checklists up to date.
 To run the site locally:
 
 1. Clone this repo
-2. Run `npm install`
-3. From the repo directory, run:
+2. From the repo directory, run:
    ```sh
    npm install
    npm start
    ```
-4. Open http://localhost:8080
+3. Open http://localhost:8080
 
 ## Contributing
 
