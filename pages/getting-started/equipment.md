@@ -171,7 +171,7 @@ activating your iPhone.
   - You can learn more about using your phone for two-factor authentication in
     our [Slack]({% page "/tools/slack" %}), [GitHub]({% page "/github" %}), and
     [Gmail]({% page "/gmail" %}) guides. For two-factor authentication with
-    these applications, you can use SMS, [Authy](https://www.authy.com/), or
+    these applications, you can use SMS, or
     [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
 - **Only use Apple's default Mail app to access your GSA email.** You must
