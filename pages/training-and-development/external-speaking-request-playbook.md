@@ -245,6 +245,12 @@ As your speaking engagement is moving through the approval process, take some ti
    <td></td>
    <td></td>
   </tr>  
+  <tr>
+   <td><a href="https://docs.google.com/presentation/d/1hcMLKckygjW13pYMLvz9CEa0STTGpI4oDneJLs0IH68/edit#slide=id.g137f58abcf2_1_0">U.S. Digital Corps template</a></td>
+   <td></td>
+   <td></td>
+   <td></td>
+  </tr>  
 </table>
 
 - Is your presentation accessible? Do you verbally describe the images on your
