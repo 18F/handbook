@@ -26,18 +26,29 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const run = async (cmd) => {
-              const out = [];
+            const crypto = require("crypto");
+            const { promises: fs } = require("fs");
+            const path = require("path");
 
-              await exec.exec(cmd, [], {
-                listeners: {
-                  stdout: (data) => {
-                    out.push(data.toString());
-                  },
-                },
-              });
+            const walk = async (dir) => {
+              const entries = await fs.readdir(dir);
+              let ret = [];
+              for await (const entry of entries) {
+                const fullpath = path.join(dir, entry);
+                const info = await fs.stat(fullpath);
+                if (info.isDirectory()) {
+                  ret = [...ret, ...(await walk(fullpath))];
+                } else {
+                  ret = [...ret, fullpath];
+                }
+              }
+              return ret;
+            };
 
-              return out.join("");
+            const md5 = (plaintext) => {
+              const hash = crypto.createHash("md5");
+              hash.update(plaintext);
+              return hash.digest().toString("hex");
             };
 
             const sleep = async (ms) =>
@@ -48,12 +59,14 @@ jobs:
               });
 
             (async () => {
-              const hashData = await run("find _site -type f -exec md5sum {} +");
-              const hashes = hashData
-                .split("\n")
-                .filter(v =>v.trim().length > 0)
-                .map((line) => line.split("  "))
-                .map(([hash, url]) => [hash, url.replace(/^_site\//, "")]);
+              const siteFiles = await walk("_site");
+              const hashes = await Promise.all(
+                siteFiles.map(async (filePath) => {
+                  const file = await fs.readFile(filePath);
+                  const hash = md5(file);
+                  return [hash, filePath.replace(/$_site\//, "")];
+                })
+              );
 
               const mismatch = [];
 
@@ -61,7 +74,7 @@ jobs:
               for await (const [expectedHash, path] of hashes) {
                 const url = `https://handbook.tts.gsa.gov/${path}`;
 
-                if(process.env.CI === "true") {
+                if (process.env.CI === "true") {
                   console.log(`[${on} of ${hashes.length}]: ${url}`);
                 } else {
                   process.stdout.clearLine();
@@ -70,9 +83,9 @@ jobs:
                 }
                 on += 1;
 
-                const remoteHash = (
-                  await run(`curl -sL ${url} | md5sum | cut -d ' ' -f 1`)
-                ).trim();
+                const remoteText = await fetch(url).then((response) => response.text());
+                const remoteHash = md5(remoteText);
+
                 if (expectedHash !== remoteHash) {
                   mismatch.push({ expectedHash, remoteHash, url });
                 }
