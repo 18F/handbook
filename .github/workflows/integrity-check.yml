@@ -26,17 +26,17 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const cpExec = require("child_process").exec;
+            const run = async (cmd) => {
+              const out = [];
 
-            const exec = async (cmd) =>
-              new Promise((resolve, reject) => {
-                cpExec(cmd, (err, stdout) => {
-                  if (err) {
-                    return reject(new Error(err));
-                  }
-                  return resolve(stdout);
-                });
+              await exec.exec(cmd, {
+                stdout: (data) => {
+                  out.push(data.toString());
+                },
               });
+
+              return out.join("");
+            };
 
             const sleep = async (ms) =>
               new Promise((resolve) => {
@@ -46,7 +46,7 @@ jobs:
               });
 
             (async () => {
-              const hashData = await exec("find _site -type f -exec md5sum {} +");
+              const hashData = await run("find _site -type f -exec md5sum {} +");
               const hashes = hashData
                 .trim()
                 .split("\n")
@@ -65,7 +65,7 @@ jobs:
                 on += 1;
 
                 const remoteHash = (
-                  await exec(`curl -sL ${url} | md5sum | cut -d ' ' -f 1`)
+                  await run(`curl -sL ${url} | md5sum | cut -d ' ' -f 1`)
                 ).trim();
                 if (expectedHash !== remoteHash) {
                   mismatch.push({ expectedHash, remoteHash, url });
