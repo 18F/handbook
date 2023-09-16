@@ -1,0 +1,85 @@
+name: regular integrity check
+
+on: [pull_request]
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: install dependencies
+        run: npm ci
+
+      - name: build site
+        env:
+          ELEVENTY_ENV: production
+        run: npm run build
+
+      - name: check integrity
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const cpExec = require("child_process").exec;
+
+            const exec = async (cmd) =>
+              new Promise((resolve, reject) => {
+                cpExec(cmd, (err, stdout) => {
+                  if (err) {
+                    return reject(new Error(err));
+                  }
+                  return resolve(stdout);
+                });
+              });
+
+            const sleep = async (ms) =>
+              new Promise((resolve) => {
+                setTimeout(() => {
+                  resolve();
+                }, ms);
+              });
+
+            (async () => {
+              const hashData = await exec("find _site -type f -exec md5sum {} +");
+              const hashes = hashData
+                .trim()
+                .split("\n")
+                .map((line) => line.split("  "))
+                .map((item) => [item[0], item[1].replace(/^_site\//, "")]);
+
+              const mismatch = [];
+
+              let on = 1;
+              for await (const [expectedHash, path] of hashes) {
+                const url = `https://handbook.tts.gsa.gov/${path}`;
+
+                process.stdout.clearLine();
+                process.stdout.cursorTo(0);
+                process.stdout.write(`[${on} of ${hashes.length}]: ${url}`);
+                on += 1;
+
+                const remoteHash = (
+                  await exec(`curl -sL ${url} | md5sum | cut -d ' ' -f 1`)
+                ).trim();
+                if (expectedHash !== remoteHash) {
+                  mismatch.push({ expectedHash, remoteHash, url });
+                }
+                await sleep(500);
+              }
+
+              if (mismatch.length > 0) {
+                mismatch.forEach(({ expectedHash, remoteHash, url }) => {
+                  console.log(`UNEXPECTED HASH ON ${url}`);
+                  console.log(`   EXPECTED: ${expectedHash}`);
+                  console.log(`   RECEIVED: ${remoteHash}`);
+                  console.log("".padStart(13 + expectedHash.length, "-"));
+                });
+                process.exit(400);
+              }
+            })();
