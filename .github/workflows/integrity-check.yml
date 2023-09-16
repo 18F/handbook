@@ -61,7 +61,7 @@ jobs:
               for await (const [expectedHash, path] of hashes) {
                 const url = `https://handbook.tts.gsa.gov/${path}`;
 
-                if(process.env.CLI === "true") {
+                if(process.env.CI === "true") {
                   console.log(`[${on} of ${hashes.length}]: ${url}`);
                 } else {
                   process.stdout.clearLine();
