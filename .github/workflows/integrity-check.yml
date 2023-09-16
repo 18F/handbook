@@ -61,9 +61,13 @@ jobs:
               for await (const [expectedHash, path] of hashes) {
                 const url = `https://handbook.tts.gsa.gov/${path}`;
 
-                process.stdout.clearLine();
-                process.stdout.cursorTo(0);
-                process.stdout.write(`[${on} of ${hashes.length}]: ${url}`);
+                if(process.env.CLI === "true") {
+                  console.log(`[${on} of ${hashes.length}]: ${url}`);
+                } else {
+                  process.stdout.clearLine();
+                  process.stdout.cursorTo(0);
+                  process.stdout.write(`[${on} of ${hashes.length}]: ${url}`);
+                }
                 on += 1;
 
                 const remoteHash = (
