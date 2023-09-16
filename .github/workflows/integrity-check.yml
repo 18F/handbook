@@ -48,8 +48,8 @@ jobs:
             (async () => {
               const hashData = await run("find _site -type f -exec md5sum {} +");
               const hashes = hashData
-                .trim()
                 .split("\n")
+                .filter(v =>v.trim().length > 0)
                 .map((line) => line.split("  "))
                 .map((item) => [item[0], item[1].replace(/^_site\//, "")]);
 
