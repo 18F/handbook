@@ -30,8 +30,10 @@ jobs:
               const out = [];
 
               await exec.exec(cmd, [], {
-                stdout: (data) => {
-                  out.push(data.toString());
+                listeners: {
+                  stdout: (data) => {
+                    out.push(data.toString());
+                  },
                 },
               });
 
@@ -51,7 +53,7 @@ jobs:
                 .split("\n")
                 .filter(v =>v.trim().length > 0)
                 .map((line) => line.split("  "))
-                .map((item) => [item[0], item[1].replace(/^_site\//, "")]);
+                .map(([hash, url]) => [hash, url.replace(/^_site\//, "")]);
 
               const mismatch = [];
 
