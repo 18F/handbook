@@ -54,8 +54,7 @@ The invite-only affinity groups are:
 
 - **Latinx** — A space for people who identify as Latinx, Hispanic, Chicanx,
   Boricua, Cubano, etc.
-- **Asian and Pacific Islanders** — A place for Asian and Pacific Islander TTS
-  staff members to hang out and talk.
+- **Asian, Native Hawaiian, and Pacific Islanders** — A place for Asian, Native Hawaiian, and Pacific Islander TTS staff members to hang out and talk. Open to any member of the Asian diaspora.
 - **Working While Black** — A space for Black TTS staff members.
 - **Shalom Jews** — A space for TTS employees that consider themselves Jewish,
   Jew-ish, Jew-curious, culturally Jewish, or anything else!
