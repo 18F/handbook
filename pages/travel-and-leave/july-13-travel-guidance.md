@@ -21,6 +21,4 @@ requests meet that threshold. Of note:
 All travel for conferences, related events and training do not meet this
 requirement and are not authorized. Additional details regarding the new travel
 threshold are included in
-[this guidance](<https://insite.gsa.gov/cdnstatic/Updated%20Travel%20guidance%20%20(July%202021).pdf>).
-
-Source: [https://insite.gsa.gov/employee-resources/travel-and-events]()
+[this guidance](https://insite.gsa.gov/employee-resources/travel-and-events).
