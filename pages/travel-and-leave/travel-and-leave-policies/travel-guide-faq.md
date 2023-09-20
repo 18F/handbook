@@ -576,8 +576,11 @@ which automatically calculates most airfare and per diems.
 
 #### How do I create a "Voucher from authorization"?
 
-After selecting **Voucher from authorization**, you will be led through creating
-a voucher from your authorization that you got approved prior to traveling.
+Visit Concur at [travel.gsa.gov](https://travel.gsa.gov). Click "Vouchers" in
+the top bar and then "New Voucher" in the next-to-top bar. In the field
+Document Type, select "Voucher From Authorization" and click Next. You will be
+led through creating a voucher from your authorization that you got approved
+prior to traveling.
 
 - Under Document Search, you’ll see a list of your “open” authorizations (i.e.
   your authorizations that don’t have vouchers yet).
