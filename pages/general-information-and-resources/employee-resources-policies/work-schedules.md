@@ -131,7 +131,7 @@ For example: you typically work 10 hours on Thursdays. December 25th falls on a 
 Your schedule choice is subject to supervisor agreement and approval. Our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl) can help provide clarity, as needed.
 
 ## Entering your new schedule in HR Links
-Once you have supervisor agreement, you’ll need to [create a new base schedule in HR Links](https://corporateapps.gsa.gov/files/Create-a-Base-Schedule-Employees.pdf). It will be sent to your supervisor for approval.
+Once you have supervisor agreement, you’ll need to [create a new base schedule in HR Links](https://corporateapps.gsa.gov/files/HR-Links-Create-a-Base-Schedule-Employees.pdf). It will be sent to your supervisor for approval.
 
 ## OPM Fact Sheets
 - [Work Schedules](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/)
