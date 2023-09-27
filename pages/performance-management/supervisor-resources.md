@@ -32,17 +32,17 @@ reviews.
 
 ## Performance review training sessions
 
-The resources below are still applicable to the FY22 performance management
-closeout and FY23 performance plan establishment process.
+The resources below are still applicable to the current fiscal year performance management
+closeout and new fiscal year performance plan establishment process.
 
-- [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
+- [End-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
 - [Career progression
   framework]({% page "/career-progression-framework/overview/" %})
   - [CPF Overview Video](https://drive.google.com/file/d/1octLMWua6MVO4aJKdyvKVEo4uHayhHOe/view?usp=sharing)
-- FY22 performance plan framework
+- Performance plan framework
   - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
-  - [Diagram of the FY22 Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
+  - [Diagram of the Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
 - [Performance rating level definitions & examples](https://docs.google.com/document/d/1a5fEmORdBkA6MBVeB7BzvXCHRXg1XLfDr4kngwczFAg/edit?usp=sharing)
 - Equitable Performance Reviews presentation
   - [On-demand Video](https://drive.google.com/file/d/1SX7Nkd3ZYvcYOdnydH8E50JJb-V1DclL/view?usp=sharing)
@@ -266,10 +266,10 @@ performance plans
 
 | Date             | Time            | Session                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| October 12, 2022 | 1-2:00 p.m. EST | [End of Year Close Out and Performance Planning with HR Links](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS91aS9sbXMtbGVhcm5pbmctZGV0YWlscy9hcHAvZXZlbnQvZmM5MDQ1NzItZTNmZS00ZWVlLWEwMmYtYTY5YjUyZTQzYzU5In0.ytvVHRR13he5hA8DCtITe9K-r5AgYOTiv7E5tlFVpp8/s/642947709/br/144733177607-l)                                                                                                        |
-| October 13, 2022 | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS9zYW1sZGVmYXVsdC5hc3B4P291aWQ9MSZyZXR1cm51cmw9JTI1MmZEZWVwTGluayUyNTJmUHJvY2Vzc1JlZGlyZWN0LmFzcHglMjUzZm1vZHVsZSUyNTNkbGF1bmNodHJhaW5pbmclMjUyNmxvJTI1M2QxZTU3ZTRlYy05ODIyLTRhODctYmZjZC1jODM3NzU3NDI4MTUifQ.YZRDTwsCL1r69R9o8UdjqhceB81EwIHtuFTb-mStWdo/s/642947709/br/144733177607-l) |
-| October 25, 2022 | 1-2:00 p.m. EST | [End of Year Close Out and Performance Planning with HR Links](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMTYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS91aS9sbXMtbGVhcm5pbmctZGV0YWlscy9hcHAvZXZlbnQvZmM5MDQ1NzItZTNmZS00ZWVlLWEwMmYtYTY5YjUyZTQzYzU5In0.Fw9OuCE5nA-w6bsDvL6_RIWKi66wzqmWOpoO12e239k/s/642947709/br/144733177607-l)                                                                                                        |
-| October 26, 2022 | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMTcsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS9zYW1sZGVmYXVsdC5hc3B4P291aWQ9MSZyZXR1cm51cmw9JTI1MmZEZWVwTGluayUyNTJmUHJvY2Vzc1JlZGlyZWN0LmFzcHglMjUzZm1vZHVsZSUyNTNkbGF1bmNodHJhaW5pbmclMjUyNmxvJTI1M2QxZTU3ZTRlYy05ODIyLTRhODctYmZjZC1jODM3NzU3NDI4MTUifQ.Gb6pRW-pQAtkowPXquFMfzJ7N3esTNV85DTfS0ce_bo/s/642947709/br/144733177607-l) |
+| TBD | 1-2:00 p.m. EST | [End of Year Close Out and Performance Planning with HR Links](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS91aS9sbXMtbGVhcm5pbmctZGV0YWlscy9hcHAvZXZlbnQvZmM5MDQ1NzItZTNmZS00ZWVlLWEwMmYtYTY5YjUyZTQzYzU5In0.ytvVHRR13he5hA8DCtITe9K-r5AgYOTiv7E5tlFVpp8/s/642947709/br/144733177607-l)                                                                                                        |
+| TBD | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS9zYW1sZGVmYXVsdC5hc3B4P291aWQ9MSZyZXR1cm51cmw9JTI1MmZEZWVwTGluayUyNTJmUHJvY2Vzc1JlZGlyZWN0LmFzcHglMjUzZm1vZHVsZSUyNTNkbGF1bmNodHJhaW5pbmclMjUyNmxvJTI1M2QxZTU3ZTRlYy05ODIyLTRhODctYmZjZC1jODM3NzU3NDI4MTUifQ.YZRDTwsCL1r69R9o8UdjqhceB81EwIHtuFTb-mStWdo/s/642947709/br/144733177607-l) |
+| TBD | 1-2:00 p.m. EST | [End of Year Close Out and Performance Planning with HR Links](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMTYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS91aS9sbXMtbGVhcm5pbmctZGV0YWlscy9hcHAvZXZlbnQvZmM5MDQ1NzItZTNmZS00ZWVlLWEwMmYtYTY5YjUyZTQzYzU5In0.Fw9OuCE5nA-w6bsDvL6_RIWKi66wzqmWOpoO12e239k/s/642947709/br/144733177607-l)                                                                                                        |
+| TBD | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMTcsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyNTU5NzEiLCJ1cmwiOiJodHRwczovL2dzYS5jc29kLmNvbS9zYW1sZGVmYXVsdC5hc3B4P291aWQ9MSZyZXR1cm51cmw9JTI1MmZEZWVwTGluayUyNTJmUHJvY2Vzc1JlZGlyZWN0LmFzcHglMjUzZm1vZHVsZSUyNTNkbGF1bmNodHJhaW5pbmclMjUyNmxvJTI1M2QxZTU3ZTRlYy05ODIyLTRhODctYmZjZC1jODM3NzU3NDI4MTUifQ.Gb6pRW-pQAtkowPXquFMfzJ7N3esTNV85DTfS0ce_bo/s/642947709/br/144733177607-l) |
 
 ### [HR Links Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems)
 
