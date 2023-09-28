@@ -28,17 +28,16 @@ page for the Performance Management Employee Checklist.
 
 ## Performance review training sessions
 
-The resources below are still applicable to the FY22 performance management
-closeout and FY23 performance plan establishment process.
+The resources below are still applicable to the current fiscal year performance management closeout and new fiscal year performance plan establishment process.
 
-- [FY21 end-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
+- [End-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
 - [Career progression
   framework]({% page "/career-progression-framework/overview" %})
   - [CPF Overview Video](https://drive.google.com/file/d/1octLMWua6MVO4aJKdyvKVEo4uHayhHOe/view?usp=sharing)
-- FY22 performance plan framework
+- Performance plan framework
   - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
-  - [Diagram of the FY22 Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
+  - [Diagram of the Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
 
 ## Guidance
 
