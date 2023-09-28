@@ -206,7 +206,8 @@ Guild meeting times can also be found on the
           {% slack_channel "g-security-compliance" %}
         </td>
         <td>
-          Sue Frederick - TTS
+          John Jediny - TTS - Technical Operations <br />
+          Paul Hirsch - TTS - DevTools
         </td>
       </tr>
     </tbody>
