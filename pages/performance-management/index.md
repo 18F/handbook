@@ -65,8 +65,8 @@ an employee entering a role.
 
 ### Who is eligible for the end of year performance bonus?
 
-Employees who occupy eligible positions as of September 30, 2022, and who
-receive an eligible rating of record, will receive an Individual Performance
+Employees who occupy eligible positions as of September 30, of the current fiscal year, and who
+receive an eligible rating of record, may receive an Individual Performance
 Award (IPA). “Ratings of Record (Annual)” should be completed in HR Links by
 November 14, or that employee may not receive their award timely.
 
@@ -89,15 +89,15 @@ met due to budget constraints, the percentage payouts for awards will be
 decreased proportionally. Summary ratings are not an average score —
 [they are assigned as defined on InSite](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-appraising).
 
-IPAs are targeted to be **paid out in December 2022**, as in previous years.
+IPAs are targeted to be **paid out in December**, as in previous years.
 However, the IPA payout date depends upon the status of the Continuing
-Resolution and FY22 funding.
+Resolution and fiscal year funding funding.
 
 ### Selecting award preference in HR Links
 
 If you are eligible for an end-of-year individual performance award (cash or
 time-off), **please make a selection no later than November 15th.** If you would
-like to keep the same selection type as FY21, no further action is needed.
+like to keep the same selection type as the previous fiscal year, no further action is needed.
 
 - **Monetary award:** This is the default option in HR Links. No action is
   needed in HR Links **unless you specified award time off for the prior review
