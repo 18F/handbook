@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Matis,Nakai,Withee,Ojiaku,Slogeris,Polyak,Moser,Bollinger,Kimball, Bighorse,Derosena,Rago,Cloyd,Justen,Magdaline,Dussault
+cSpell: ignore Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Magdaline,Matis,Nakai,Ojiaku,Polyak,Rago
 ---
 
 <style type="text/css">
@@ -287,7 +287,7 @@ Current 18F Collectives:
       </tr>
       <tr>
         <th class="col-grouplet">Tech Talks</th>
-        <td>Sarah Withee & Julia Allen</td>
+        <td>Julia Allen</td>
         <td>
           {% slack_channel "tech-talks" %}
         </td>
