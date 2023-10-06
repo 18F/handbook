@@ -35,7 +35,7 @@ code.
   TTS.
 - [GitHub for Beginners](https://www.youtube.com/watch?v=gLozuPQ34EQ) -
   Intended for beginners, this video class is led by Will Slack. Slides are
-  available [here (scroll down)](https://digital.gov/resources/an-introduction-github/) and course
+  available [here](https://digital.gov/resources/an-introduction-github#how-do-i-use-github) and course
   materials are
   [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
 - [How to use GitHub, the terminal, and the 18F site](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) -
