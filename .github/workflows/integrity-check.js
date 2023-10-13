@@ -31,7 +31,25 @@ const sleep = async (ms) =>
   });
 
 (async () => {
-  const siteFiles = await walk("_site");
+  const exclude = [
+    // esbuild results are either nondeterministic or the build environment on
+    // cgPages is not identical. Either way, the result is we can't compare the
+    // hashes of files that esbuild assembles, so exclude.
+    "assets/js/app.js",
+    "assets/styles/styles.css",
+
+    // The sitemap on full checkout will display a source file's last modified
+    // date from git. In cgPages, however, it's not a normal git clone so all of
+    // the last modified dates are the date of the most recent build. We could
+    // parse the dates out of the sitemap and compare what's left, but that's a
+    // lot of trouble for, like, no value.
+    "sitemap.xml",
+  ];
+
+  const siteFiles = await walk("_site").then((list) =>
+    list.filter((path) => !exclude.some((ex) => path.endsWith(ex)))
+  );
+
   const hashes = await Promise.all(
     siteFiles.map(async (filePath) => {
       const file = await fs.readFile(filePath);
