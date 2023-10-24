@@ -37,6 +37,7 @@ review cycles.
 | October 18, 2023     | Self-assessment submittal due date                                                         |
 | October 20, 2023     | Audit of Employee self-assessment completion                                               |
 | Oct 23 - Nov 6, 2023 | Supervisors hold 1:1 performance review meetings with their direct reports                 |
-| November 10, 2022    | TTS Internal ask due date to close out FY23 performance plans if not completed during 1:1s |
+| November 10, 2023    | TTS Internal ask due date to close out FY23 performance plans if not completed during 1:1s |
 | November 14, 2023    | Official GSA end of year close out due date for FY23 performance plans in HR Links         |
+| November 14, 2023    | Official GSA due date to establish FY24 performance plans in HR Links         |
 | December 10, 2023    | FY23 Performance Awards will be issued (Budget permitting)                                 |
