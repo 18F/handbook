@@ -213,6 +213,8 @@ you’ve worked for the government:
 - Between 3 and 15 years: 6 hours per pay period
 - 15+ years: 8 hours per pay period
 
+Your leave increases on the first full pay period following the anniversary.
+
 You can carry over a maximum of 240 annual leave hours, from one
 [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
 to the next. If you’ve [transferred to TTS from another federal
