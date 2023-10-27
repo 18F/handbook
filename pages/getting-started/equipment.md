@@ -179,6 +179,12 @@ activating your iPhone.
   in your Google account to use with your Mail app, instead of your normal email
   password.
 
+{% include "alert.html"
+   content: "The Gmail app for iPhone/iOS is not not permitted due
+             to lack of MDM management support. See
+             [GSA Mobile App ban list](https://sites.google.com/a/gsa.gov/mobileinfo/banned-mobile-apps)"
+%}
+
 ### Tips
 
 - **[You should tether to your laptop to the iPhone](https://support.apple.com/en-us/HT204023)**
