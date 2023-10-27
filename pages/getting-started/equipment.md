@@ -180,7 +180,7 @@ activating your iPhone.
   password.
 
 {% include "alert.html"
-   content: "The GMail app for iOS is not not permitted due
+   content: "The Gmail app for iPhone/iOS is not not permitted due
              to lack of MDM management support. See
              [GSA Mobile App ban list](https://sites.google.com/a/gsa.gov/mobileinfo/banned-mobile-apps)"
 %}
