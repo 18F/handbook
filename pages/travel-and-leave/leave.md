@@ -539,7 +539,7 @@ The Family and Medical Leave Act (FMLA) entitles you to take up to 12 weeks of
 _unpaid_ leave per 12 month period for the following:
 
 - The birth or care of a child
-- An adoption or foster care placement of a childe
+- An adoption or foster care placement of a child
 - The care of a spouse/son/daughter/parent with a serious health condition
 - Your serious health condition
 - Handling issues
