@@ -174,10 +174,14 @@ activating your iPhone.
     these applications, you can use SMS, or
     [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
-- **Only use Apple's default Mail app to access your GSA email.** You must
+- **Only use Apple's default Mail app to access your GSA email.[^ios-gmail]** You must
   [generate an App Password](https://support.google.com/accounts/answer/185833?hl=en)
   in your Google account to use with your Mail app, instead of your normal email
   password.
+
+[^ios-gmail] The GMail app for iOS is on the [GSA Mobile App ban list](https://sites.google.com/a/gsa.gov/mobileinfo/banned-mobile-apps)
+due to the inability to centrally manage the app at this time.
+
 
 ### Tips
 
