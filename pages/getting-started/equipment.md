@@ -179,13 +179,13 @@ activating your iPhone.
   in your Google account to use with your Mail app, instead of your normal email
   password.
 
-{%- capture ios_gmail_app -%}
-**Note:** The GMail app for iOS is not currently allowed and is listed on the
-[GSA Mobile App ban list](https://sites.google.com/a/gsa.gov/mobileinfo/banned-mobile-apps)
-due to the inability to centrally manage the app at this time.
-{%- endcapture %}
-
-{% include alert.html content=ios_gmail_app alert_class="usa-alert--info" %}
+{% include "alert.html"
+   content: "
+     **Note:** The GMail app for iOS is not currently allowed and is listed on the
+     [GSA Mobile App ban list](https://sites.google.com/a/gsa.gov/mobileinfo/banned-mobile-apps)
+     due to the inability to centrally manage the app at this time.
+   "
+%}
 
 ### Tips
 
