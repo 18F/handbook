@@ -191,8 +191,7 @@ submittal process.
   - [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.v9t4o16taxy8)
 
 - HR Links in-depth guide (with screenshots):
-  - [Submit an Evaluation (Supervisor)]([https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi](https://corporateapps.gsa.gov/files/Submit-an-Evaluation-Approval-Supervisor-2023.pdf))
-  - [Supervisor (Section 3, Topic 3.4)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
+  - [Submit an Evaluation (Supervisor)](https://corporateapps.gsa.gov/files/Submit-an-Evaluation-Approval-Supervisor-2023.pdf))
 
 ## Acknowledging an evaluation
 
