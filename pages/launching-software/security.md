@@ -233,7 +233,7 @@ We gave an introduction to ZAP talk as part of our engineering tech talks series
 Slides and additional information available
 [here](https://github.com/18F/tech-talks/tree/main/talk-materials/vuln-scanning).
 
-Using the the
+Using the
 [Quick Start](https://www.zaproxy.org/docs/desktop/addons/quick-start/) is a
 good way to get a basic idea of what ZAP does.
 

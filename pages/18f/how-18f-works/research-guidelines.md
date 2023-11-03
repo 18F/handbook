@@ -273,7 +273,7 @@ documents with PII, they always go into a locked file cabinet.
 
 A good rule is to check with your project lead before sharing information
 outside the immediate team. What has been approved by GSA may not be approved by
-partners. Check the the [Design chapter
+partners. Check the [Design chapter
 page]({% page "/design/#designing-in-the-open" %}) for detailed information
 about who can see what, when. The social media, collaboration, and security
 classes in GSA's Online University can also be helpful in managing access.
