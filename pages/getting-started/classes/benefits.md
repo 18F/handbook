@@ -432,11 +432,11 @@ To fill out your PSLF application and obtain employer verification:
 
     {% image "_img/pslf/pslf-upload-document.png" "Screenshot of DocuSign interface to upload a document with pop-up that says 'We found form fields for public-service-application-for-forgiveness.pdf.'" %}
 
-11. Under `Add Recipients to the Envelope`, add your
-    [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
+11. Under `Add Recipients to the Envelope`, add our
+    [PSLF point of contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl)
     as the recipient of the envelope
-12. On the recipient box for your
-    [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit),
+12. On the recipient box for our
+    [PSLF point of contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl),
     click `Customize -> Advanced Settings`
 
 {% image "_img/pslf/pslf-document-add-recipient-settings.png" "Screenshot of DocuSign interface to add a recipient to an envelope" %}
@@ -454,8 +454,8 @@ To fill out your PSLF application and obtain employer verification:
 
 15. Click "Next" at the bottom right corner of the screen.
 16. On the next page, a "Manage PDF form field data" pop-up form will appear.
-    Select the "Assign to:" option and then select the name of your
-    [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
+    Select the "Assign to:" option and then select the name of our
+    [PSLF point of contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl)
     from the drop-down menu. Then click the "Confirm" button in the pop-up.
 
 {% image "_img/pslf/pslf-document-manage-form-data.png" "Screenshot of DocuSign interface to manage PDF form field data with the 'Assign to' radio button selected and a drop-down menu appearing" %}
