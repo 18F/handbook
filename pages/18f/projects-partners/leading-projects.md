@@ -100,7 +100,7 @@ happening.
 - Facilitate creation of a
   [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing),
   including how decisions will be made and how the team will navigate
-  disagreement
+  disagreement. (Non-18F folks may be interested in our [charter template](./downloads/TEMPLATE_Team_charter.docx)).
 - Identify stakeholder accessibility needs for project work (in collaboration
   tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time,
@@ -112,7 +112,8 @@ happening.
 - Facilitate identification of how administrative tasks will be rotated
 - Create and maintain a
   [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing)
-  in the project’s Drive folder (Account Manager will establish project folder)
+  in the project’s Drive folder (Account Manager will establish project folder).
+  (Non-18F folks may be interested in our [README template](./downloads/TEMPLATE_Project_README.docx)).
 
 ### Ongoing
 
