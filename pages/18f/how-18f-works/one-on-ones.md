@@ -200,7 +200,7 @@ After all, if your partner is constantly coming to 1:1s with meaty topics that
 take all the time, that stuff’s probably well worth the time. And, you can
 always ask your partner for more time, and they’ll rarely say “no”.
 
-As for the the specifics of your agenda: much of the time you’ll have an idea of
+As for the specifics of your agenda: much of the time you’ll have an idea of
 what you need to discuss based on whatever’s going on for you and your partner.
 That said, here are a few ideas of things you might want to think about
 discussing:

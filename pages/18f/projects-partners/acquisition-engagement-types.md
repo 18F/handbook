@@ -61,7 +61,7 @@ Acquisition is staffed to the engagement along with the required 18F cross
 functional team. The acquisition lead on the 18F team will take the lead on
 engaging with the Contracting Officer on setting up the procurement, developing
 soliciting materials, helping to identify potential vendors, and will work
-closely with others in the cross functional team at various phases of the the
+closely with others in the cross functional team at various phases of the
 procurement. The designated 18F Team lead will still engage with the partner
 POC, if different than the CO, and will work in tandem.
 
