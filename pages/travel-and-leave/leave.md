@@ -156,7 +156,7 @@ If you run into issues, reach out to {% slack_channel "people-ops" %}.
 Before taking leave, be sure to:
 
 - [Submit a leave request through HR
-  Links]({% page "/travel-and-leave/leave/#submitting-leave-in-hr-links" %}).
+  Links]({% page "/travel-and-leave/leave/#entering-a-leave-request" %}).
   Discuss the dates with your supervisor, as needed.
 - Mark your out of office time on your calendar and any applicable team or
   project calendars.
