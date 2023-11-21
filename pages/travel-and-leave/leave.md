@@ -1,5 +1,5 @@
 ---
-title: Leave (HR Links)
+title: Leave + Timesheets (HR Links)
 tags:
   - hrlinks
   - hrlinks
@@ -18,15 +18,15 @@ tags:
   - parental
   - parent
   - parental leave
+  - timesheets
 redirect_from:
   - /leave/
 ---
 
-This page provides instructions for entering leave requests (also known as
-absence requests) in [HR Links](https://corporateapps.gsa.gov/hr-links/) and
-information on the various types of leave. The
+This page provides instructions for submitting timesheets and entering leave requests (also known as
+absence requests). It also provides information on the various types of leave. You can look at the
 [leave overview chart](https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit#gid=0)
-also provides a high level, visual comparison.
+for a high level, visual comparison.
 
 You can see your Annual, Award, and Sick Leave balances in HR Links and on your
 paystub in [Employee
@@ -41,7 +41,7 @@ corresponding type of leave.
 ## Your overall responsibilities
 
 You must report to work or have an approved leave request in HR Links, every
-scheduled work day.
+scheduled work day. You are also responsible for submitting your timesheet at the end of every pay period.
 
 You should submit leave requests at least three business days in advance, and
 make timely edits if your plans change.
@@ -89,15 +89,23 @@ approval responsibilities:
 1. [How do I create a delegation?](https://corporateapps.gsa.gov/files/Set-a-Delegation-Supervisor.pdf)
 1. [How does the other person ("the proxy") accept a delegation?](https://corporateapps.gsa.gov/files/Accept-a-Delegation-Proxy.pdf)
 
-## Submitting leave in HR Links
+## Submitting timesheets and leave in HR Links
 
 ### Logging into HR Links
 
 You'll need to log in to [HR Links](https://corporateapps.gsa.gov/hr-links/) in
-order to submit a leave request. HR Links can only be accessed via VPN ([Citrix
-Workspace]({% page "/tools/virtual-desktop" %}) and [Cisco
-AnyConnect]({% page "/anyconnect" %})) or on the wireless network at one of
-GSA’s offices.
+order to submit your timesheets and leave requests.
+
+### Submitting your timesheet
+
+1. Go to the **Employee Timesheet** tile
+1. A pop-up will appear that says `Would you like to apply your schedule?` Select **Yes**.
+1. On the right side of the screen, it will say `Timesheet Status:` _Needs Submission_ and `Payroll status:` _Not Ready_
+1. Click the **Submit** button located under _Payroll status_.
+1. A pop-up will appear that says `Attestation of Time`. Click **Yes, Submit**.
+1. A pop-up will briefly appear that says `Timesheet submitted successfully` and the `Timesheet Status` section will change to: _Needs Approval_.
+You’ve successfully submitted your timesheet.
+
 
 ### Entering a leave request
 
@@ -132,7 +140,7 @@ Note: Canceling a request can create an error in HR Links, if the dates of the c
 
 If you run into issues, reach out to {% slack_channel "people-ops" %}.
 
-### HR Links tips
+### HR Links leave tips
 
 - Partial day requests cannot be made in the middle of a multi-day request; more
   than one leave request will need to be submitted.
