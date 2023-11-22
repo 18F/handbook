@@ -33,7 +33,7 @@ paystub in [Employee
 Express]({% page "/getting-started/classes/gsa-internal-tools/#employee-express" %}).
 
 GSA’s
-[Time and Leave Administration policy](https://insite.gsa.gov/directives-library/-time-and-leave-administration-policy-60101a-hrm)
+[Time and Leave Administration policy](https://www.gsa.gov/directives/files?file=2023-06%2FCC046666_final_directive_HRM_60101B%2C_Time_and_Leave_Administration_Policy.pdf)
 establishes agency-wide policy, procedures, and requirements for all employees.
 Additional fact sheet links are provided throughout this page, with the
 corresponding type of leave.
@@ -106,6 +106,23 @@ order to submit your timesheets and leave requests.
 1. A pop-up will briefly appear that says `Timesheet submitted successfully` and the `Timesheet Status` section will change to: _Needs Approval_.
 You’ve successfully submitted your timesheet.
 
+#### When should I submit my timesheet?
+Timesheets are due at the end of each biweekly pay period. Confirm with your supervisor their exact timing expectations, as they also need time to review and approve your timesheet.
+
+#### What happens if I put in a leave request after I submit my timesheet?
+You will need to make manual adjustments to the timesheet and resubmit it.
+
+For example: 
+- You submit your timesheet on Thursday afternoon and it says that you worked all day on Friday. 
+- On Friday morning, you become sick and submit a Sick Leave request for 6 hours out of your 8 hour workday. 
+- You will need to go back to the timesheet and manually change your Regular Time from 8 hours to 2 hours. The [Create a Timesheet Job Aid](https://corporateapps.gsa.gov/files/Create-a-Timesheet-Employees.pdf) has information on how to manually adjust a timesheet on Page 15 (Step 20).
+- You’ll then hit **Submit** to re-submit the timesheet.
+
+#### What happens if I am on leave at the end of a pay period?
+Submit your timesheet prior to going on leave. If you are out of office for an unplanned emergency, your supervisor is able to submit your timesheet on your behalf.
+
+#### What happens if I enter something incorrectly?
+You can make adjustments and resubmit your timesheet. There is no limit on how many times you can resubmit your timesheet. However, you should make all adjustments by the deadline that is set with your supervisor. If something needs to be changed after the pay period has closed, discuss it with your supervisor. They will receive HR Links alerts to approve any changes you make to past timesheets/past leave requests.
 
 ### Entering a leave request
 
