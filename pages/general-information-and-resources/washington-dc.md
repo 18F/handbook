@@ -35,7 +35,7 @@ cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS is located on the ground floor, first wing.
+           TTS is located on the 6th floor, 4th wing (6400 rooms, in the infill). It is shared with other FAS colleagues (hi friends!).
         </td>
       </tr>
       <tr>
@@ -113,11 +113,11 @@ for the second hour to a full day.
 
 ### Once inside GSA
 
-TTS is located on the ground floor, in the wing one. When entering from the F
-Street entrance, go left once you pass through security. Walk down the hallway
-to the set of elevators or stairs. Take the elevators or stairs down to ground
-floor. Once you are on ground floor, be sure to head to the wing one (Red wing
-on the map). Our office spaces are located in the range of G120s and G130s.
+TTS is located on the 6th floor, in the 4th wing. When entering from the F
+Street entrance, go straight back once you pass through security. Walk down the 
+hallway towards the back lobby. Right before reaching the end of the hall, take 
+the elevators to your left to the 6th floor. Once exiting the elevator lobby, turn 
+right and make your first right towards 6400.
 
 ## How do I...
 
@@ -240,7 +240,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located at either end of the G100 wing. A
+Gendered bathrooms are located around the corner  6140 wing. A
 single-occupancy, wheelchair-accessible all-gender bathroom is located on the
 third floor in wing three (room 3355).
 
