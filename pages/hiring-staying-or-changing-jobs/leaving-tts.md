@@ -125,7 +125,7 @@ document.
 
 ### 6. Complete the clearance checklist
 
-Keith Wilson from ({% slack_channel "people-ops" "the PeopleOps team" %}) will
+Annabel Lombard from ({% slack_channel "people-ops" "the PeopleOps team" %}) will
 set time with you to complete the
 [GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist), which links to an optional [GSA Exit Survey](https://forms.gle/uhQdPiriwD7pLiQBA).
 
