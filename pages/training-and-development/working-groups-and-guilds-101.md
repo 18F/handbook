@@ -162,8 +162,9 @@ Guild meeting times can also be found on the
           <a href="https://content-guide.18f.gov/">18F Content Guide</a> &bull; {% slack_channel "g-content" %}
         </td>
         <td>
+	Laura Herring - Office for Regulatory and Oversight Systems <br />
 	Allison Press - 18F <br />
-          Michelle Rago - 18F
+          Amelia Wong - 18F
         </td>
       </tr>
       <tr>
