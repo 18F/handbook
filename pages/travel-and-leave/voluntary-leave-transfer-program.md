@@ -98,10 +98,9 @@ Once VLTP is approved, your supervisor can use the
 [VLTP email template](https://docs.google.com/document/d/1eKSbEvUUibZ0LDGqwS_3UO9iBMdYc5VfLN8aNttEQVs/edit)
 to draft an announcement.
 
-- Your supervisor will work with Outreach to send one initial email TTS-wide to
+- Your supervisor will work with Outreach to send an email TTS-wide to
   tts@gsa.gov. Please CC our
   [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
-- You and your supervisor should not send follow-up emails.
 
 ## Using Donated Hours
 
