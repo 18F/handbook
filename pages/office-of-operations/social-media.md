@@ -11,7 +11,7 @@ cSpell: ignore codedotgov
 _Learn how TTS uses social media._
 
 As GSA employees, we all need to follow the
-[GSA Social Media Policy](https://www.gsa.gov/directive/gsa-social-media-policy)
+[GSA Social Media Policy](https://www.gsa.gov/directives/files?file=2023-05%2FCC047328_final_Order_OSC_21062A%2C_GSA_Social_Media_Policy.pdf)
 when posting on social media; this policy includes guidance for both official
 TTS social media accounts and personal use of social media. If you'd like to
 engage in a discussion or comment thread in your professional capacity as a GSA
