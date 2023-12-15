@@ -8,7 +8,7 @@ redirect_from:
 
 TTS now has an Enterprise contract with [Airtable](https://airtable.com/). 
 
-Licenses that allow edit access are allocated on a per team basis. The license managers for each group are listed [here](https://docs.google.com/spreadsheets/d/1lbf8mkD4eJuKlRg5Uw2r1FHx3YCAiZp7P9qcoEG6rnk/edit#gid=0). If you are part of one of these teams, you can reach out to the listed point of contract in order to request one of the limited licenses.
+Licenses that allow edit access are allocated on a per team basis. The license managers for each group are listed [here](https://docs.google.com/spreadsheets/d/1lbf8mkD4eJuKlRg5Uw2r1FHx3YCAiZp7P9qcoEG6rnk/edit#gid=0). If you are part of one of these teams, you can reach out to the listed point of contact in order to request one of the limited licenses.
 
 If you are on another team that does not yet have an allocation of Airtable licenses but is interested in using it, hang in there! Additional licenses are coming soon, as long as your team has completed the survey (link to survey coming soon).
 
