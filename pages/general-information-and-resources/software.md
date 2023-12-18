@@ -136,7 +136,7 @@ review will also start during the Micropurchase request process.
 
 ## Links & policies
 
-- [Chrome extensions]([https://insite.gsa.gov/topics/information-technology/assistance-and-help-desks/service-catalog/it-service-catalog-google-chrome-extension-request?term=google%20extensions](https://insite.gsa.gov/employee-resources/information-technology/it-help-desk-and-assistance/service-catalog/google-chrome-extension-request))
+- [Chrome extensions](https://gsa.servicenowservices.com/sp?sys_kb_id=cec3a657dbe753042b02388d7c9619c9&id=kb_article_view&sysparm_rank=1&sysparm_tsqueryId=dba3837b1bc3351064abdb51ac4bcb67)
 - [GitHub integrations]({% page "/tools/github/#rules" %})
 - [Google Cloud / G Suite services, including APIs](https://docs.google.com/spreadsheets/d/1h0338doPlHIfslS7Huypzs7TlJTFVw_-98oPnum0Cvo/edit#gid=467863101)
 - [Slack integrations]({% page "/tools/slack/integrations/" %})
