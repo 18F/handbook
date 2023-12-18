@@ -99,7 +99,8 @@ order to submit your timesheets and leave requests.
 ### Submitting your timesheet
 
 1. Go to the **Employee Timesheet** tile
-1. A pop-up will appear that says `Would you like to apply your schedule?` Select **Yes**.
+1. A pop-up may appear that says `Would you like to apply your schedule?` Select **Yes**.
+*    If the pop-up doesn't appear, it is ok. Your base schedule was already applied, likely when you submitted a leave request.
 1. On the right side of the screen, it will say `Timesheet Status:` _Needs Submission_ and `Payroll status:` _Not Ready_
 1. Click the **Submit** button located under _Payroll status_.
 1. A pop-up will appear that says `Attestation of Time`. Click **Yes, Submit**.
