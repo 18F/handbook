@@ -36,18 +36,13 @@ books.]({% page "/conferences-events-training/" %})
 
 ### Online University (OLU) trainings
 
-The [Online University (OLU)](https://gsaolu.gsa.gov/) isn't just for mandatory
+GSA's [Online University (OLU)](https://gsaolu.gsa.gov/) isn't just for mandatory
 trainings. It also offers over 2,000 personal development courses including:
 project management, coaching skills, finance, giving feedback, professional
 effectiveness and makes available a large selection of online books covering a
 wide range of subjects.
 
-TTS also maintains a
-[curated list of free courses on OLU](https://docs.google.com/spreadsheets/d/1_IofrlGEDxOt54XWSrw9S0RlJOrlVcZjOJlcqxzMOOI/edit?usp=sharing)
-that are open to all TTS employees on a first-come, first-served basis. This
-list is updated weekly, and most of these trainings are virtual to make it
-accessible to everyone. If you need help or have OLU questions, contact
-[GSAOLUSupport@mail.eskillz.com](mailto:GSAOLUSupport@mail.eskillz.com).
+If you need technical assistance with the OLU platform, OLU offers [live chat support](https://gsa.eskillzlivesupport.com/support/home).
 
 ### Guilds, Communities of practice, and working groups
 
@@ -83,11 +78,10 @@ of topics. For an overview of the different types of current and upcoming
 programs offered, visit the
 [mentoring program page on InSite](https://insite.gsa.gov/topics/training-and-development/mentoring-program).
 There is also a
-[mentoring resource library](https://insite.gsa.gov/topics/training-and-development/mentoring-program/mentoring-resource-library)
-that includes some helpful mentorship guides, assessments, templates, and more.
+[mentoring resource library](https://insite.gsa.gov/employee-resources/training-and-development/mentoring-at-gsa/mentoring-resource-library)
+that includes mentorship guides, assessments, templates, and more.
 
-If you are interested in becoming a mentor, there is a list of
-[external organizations who are seeking mentors](https://docs.google.com/spreadsheets/d/1uJIsJh7n9tKAmziLxhP3roKhYidun6Zx4V8g1n-xjEs/edit).
+TTS also a list of [external organizations who are seeking mentors](https://docs.google.com/spreadsheets/d/1uJIsJh7n9tKAmziLxhP3roKhYidun6Zx4V8g1n-xjEs/edit).
 
 ## Leadership development
 
@@ -98,50 +92,18 @@ GSA has a partnership with the Department of Treasury's Executive Institute
 the
 [TEI training programs](https://home.tei.treasury.gov/)
 both online and in the classroom to help develop and grow managerial skills.
-Questions? Contact [TEIInquiries@gsa.gov](mailto:TEIInquiries@gsa.gov).
 
-### Skillsoft Leadership Development Program (SLDP)
+You can request access to TEI by emailing [TEI@treasury.gov](mailto:TEI@treasury.gov).
 
-The goal of the
-[Skillsoft Leadership Development Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/skillsoft-leadership-development-program)
-is to develop a new generation of GSA leaders by providing virtual training
-sessions that align with the
-[GSA Leadership Development Framework](https://insite.gsa.gov/cdnstatic/insite/GSA_Leadership_Development_Framework.pdf).
-The training is self-paced, allowing you to learn within your own schedule. You
-can enroll in these trainings by going into [OLU](https://gsaolu.gsa.gov/),
-scrolling down to the SLDP section and clicking on the training titles.
-Questions? Contact [Joshua.Dillon@gsa.gov](mailto:Joshua.Dillon@gsa.gov).
+### Skillsoft Leadership Development Program (VLDP)
+
+GSA’s [Virtual Leadership Development Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/virtual-leadership-development-program) (VLDP) is a self-paced program designed for you to enhance the learning and skills in OPM’s Executive Core Qualifications (ECQ’s) and a few other Fundamental Competencies. 
 
 ### Competitive Development Program (CDP)
 
-The
-[Competitive Development Program](https://insite.gsa.gov/topics/training-and-development/leadership-resources/competitive-development-program-cdp)
-is for current and future leaders and requires approval from your first and
-second-level supervisors. This program provides leadership development
-opportunities via recognized external programs that focus on leadership
-competencies. If you'd like to learn more, check out the
-[application process](https://docs.google.com/document/d/1WS3vaYPXtdaz36hCjrey3H0Ew0UNWIGm-J8w4JHynh4/edit)
-and the
-[list of available programs](https://docs.google.com/document/d/1BqDQbiu2_H8jvzEf6xxTFY5mH4qHcCeSPyT_ykmhHsI/edit).
-Questions? Contact: [cdp@gsa.gov](mailto:cdp@gsa.gov).
+The [Competitive Development Program](https://insite.gsa.gov/topics/training-and-development/leadership-resources/competitive-development-program-cdp) provides leadership development opportunities via select external training programs. The CDP is a competitive process that requires supervisor approval. Please note: the CDP is only open to full-time, permanent employees with at least 1 year of GSA service (by the application deadline).
 
 ## Other growth opportunities
-
-### Group trainings
-
-GSA also procures
-[trainings via blanket purchase agreement (BPA)](https://docs.google.com/spreadsheets/d/1ptc22YXW2u_Yk1Zg7eiFvnT2RYb6eV8CVPRn0Gp3GmI/edit#gid=1410148690).
-These courses _do_ require payment and a signed agreement. To learn more about
-this service and who to contact with questions,
-[contact the GSA Training Acquisition Branch](https://insite.gsa.gov/topics/training-and-development/developmental-services/training-acquisition-previously-u4p).
-
-### Virtual Lunch & Learn Series
-
-The
-[Virtual Lunch & Learn Series](https://insite.gsa.gov/employee-resources/training-and-development/continuous-learning/virtual-lunch-learn-series)
-is a monthly, one-hour virtual session open to GSA employees and is focused on
-work-life balance. Some of the topics include: gender equality, cross-culture
-communication, yoga at your workstation and more.
 
 ### GSA Opportunity Network
 
@@ -150,12 +112,9 @@ is a developmental program offering a variety of temporary opportunities to
 GSA's workforce. This includes part-time projects, full-time details, job
 shadowing, and temporary promotion opportunities in various parts of the agency
 that can provide you with the chance to stretch your skills and expand your
-network. Questions? Contact [Wendy.Cobb@gsa.gov](mailto:wendy.cobb@gsa.gov).
+network. 
 
 ## More resources
 
-- [Office of Human Resources Management (OHRM) Talent Development Catalog of Offerings & Services](https://docs.google.com/document/d/1iYLvZn2XLAmdF7FDvujjK9xCsGOtWTlb1RlWlNKPtxE/edit)
-- Join the GSA
-  [Training & Development Chatter group](https://gsa.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9t0000000H1uQ)
-  to stay up-to-date on all the training and development opportunities
+- [Office of Human Resources Management (OHRM) Talent Development Catalog of Offerings & Services](https://docs.google.com/document/d/1qM66FiM5tYTG6T49RVb48SrW5J3NaonkCn7RNP_jZA8/edit)
 - [Training & Development InSite page](https://insite.gsa.gov/employee-resources/training-and-development/)
