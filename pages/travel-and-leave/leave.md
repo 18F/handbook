@@ -99,7 +99,8 @@ order to submit your timesheets and leave requests.
 ### Submitting your timesheet
 
 1. Go to the **Employee Timesheet** tile
-1. A pop-up will appear that says `Would you like to apply your schedule?` Select **Yes**.
+1. A pop-up may appear that says `Would you like to apply your schedule?` Select **Yes**.
+*    If the pop-up doesn't appear, it is ok. Your base schedule was already applied, likely when you submitted a leave request.
 1. On the right side of the screen, it will say `Timesheet Status:` _Needs Submission_ and `Payroll status:` _Not Ready_
 1. Click the **Submit** button located under _Payroll status_.
 1. A pop-up will appear that says `Attestation of Time`. Click **Yes, Submit**.
@@ -660,10 +661,9 @@ request up to 104 advanced sick leave hours.
 #### Advanced sick leave approval
 
 To get approval for advanced sick leave, you will need to submit the following
-paperwork and get signatures from your supervisor and their supervisor. Your
-supervisors should keep signed copies for their records:
+paperwork to your supervisors and your [OHRM Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl). Your supervisors should keep signed copies for their records:
 
-1. [Advanced Sick Leave Request signature form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#)
+1. [Advanced Sick Leave Request form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#) with signatures 
 2. An original medical certification signed by the physician or practitioner
 3. A copy of your [timesheet report for the current and previous
    year]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %})
