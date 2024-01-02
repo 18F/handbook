@@ -195,7 +195,7 @@ question, enter the website where the book can be purchased.
 When you have submitted that form, you and your supervisor will receive an email
 with further instructions. In the case where the book is not being used for
 training, the only thing that needs to be done is an email from your supervisor
-approving the purchase. If the book is being used in a training, then there are
+approving the purchase. If the book is being used for training, then there are
 further tasks to be completed with form SF-182 as detailed in that initial
 response email.
 
