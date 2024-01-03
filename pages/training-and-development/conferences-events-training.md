@@ -163,7 +163,7 @@ You are responsible for cancelling all reservations (e.g. flight, hotel, rental
 car) if your event is not approved. Always **check the cancellation policy
 before booking** because you may be responsible for paying the cancellation
 fee(s). You can ask questions in {% slack_channel "travel" %} or during
-[travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+[travel office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg).
 
 ## Remote working guidance
 

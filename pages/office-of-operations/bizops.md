@@ -49,7 +49,7 @@ policy, regulations and bureaucratic requirements.
   - Contact: tts-events@gsa.gov; {% slack_channel "training-conferences" %}
 - [Travel]({% page "/travel-guide-table-of-contents/" %})
   - Contact: tts-travel@gsa.gov; {% slack_channel "travel" %};
-    [office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/)
+    [office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg)
 - Personnel Actions
   - moving within the org
   - [requesting a higher security clearance]({% page "/top-secret/" %})
