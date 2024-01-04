@@ -5,7 +5,7 @@ questions:
   - travel
   - tts-travel@gsa.gov
   - text: Book office hours
-    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+    url: https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg
 redirect_from:
   - /travel-guide-2-travel/
   - /travel-and-leave/travel-and-leave-policies/travel-guide-2-travel/
@@ -99,7 +99,7 @@ administrative work when submitting a voucher after returning from your trip.
 what you should be aware of when completing your voucher-- should you use the
 GSA travel card for meals and incidental expenses, keeping receipts for your
 personal use may be helpful. Feel free to book
-[travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/) for
+[travel office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg) for
 a walkthrough on what to keep in mind when paying for meals while traveling.
 
 ### Other necessary expenses

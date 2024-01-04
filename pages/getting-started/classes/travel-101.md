@@ -103,7 +103,7 @@ in Concur.
 in Concur, and answering most\* of the questions you might have along the way.
 You can reach them either via email at tts-travel@gsa.gov, in Slack in the
 #travel channel, or by booking
-[travel/purchase office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+[travel/purchase office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg).
 Note that the travel team won't be available to immediately assist with your
 inquiry, though the team endeavors to answer all questions that come through by
 their next office hours which are twice daily. Properly submitted authorizations

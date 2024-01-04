@@ -5,7 +5,7 @@ questions:
   - travel
   - tts-travel@gsa.gov
   - text: Book office hours
-    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+    url: https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg
 redirect_from:
   - /first-time-travel-get-in-concur/
 step_indicator:
@@ -86,7 +86,7 @@ by reading the_ _[FAQ below](#frequently-asked-questions)_
 Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do
 not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email
 it to tts-travel@gsa.gov. Your account will be set up before
-[the next travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/),
+[the next travel office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg),
 which you can also book any time if you have questions.
 
 [Next Step: First-Time Travel - Get a Travel

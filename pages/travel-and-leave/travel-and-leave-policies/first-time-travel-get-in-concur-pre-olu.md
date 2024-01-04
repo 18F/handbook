@@ -5,7 +5,7 @@ questions:
   - travel
   - tts-travel@gsa.gov
   - text: Book office hours
-    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+    url: https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg
 redirect_from:
   - /first-time-travel-get-in-concur-pre-olu/
 sidebar:
@@ -79,7 +79,7 @@ with rates under the government maximum (also known as the per diem rate).
    Once you get access, you can follow [these instructions for how to complete a
    voucher]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/" %}).
    Feel free to
-   [book travel office hours here](https://sites.google.com/a/gsa.gov/tts-office-hours/)
+   [book travel office hours here](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg)
    any time should you need any assistance.
 
 ### What happens if my flight gets cancelled?
