@@ -28,7 +28,7 @@ looking for guidelines around speaking at events (in either a personal or
 professional capacity), see
 [here]({% page "/office-of-operations/fas-speaker-guide/" %}).
 
-If you need help with conference and event requests, go to {% slack_channel "training-conferences" %} or grab time at [Conference/Training Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUtoczVQMkFlT2FSfGRlZmF1bHR8OTE5Y2UyMDBjYzlhMWY4NjkxNThkMmI5ZGI4ZWMzMmM).
+If you need help with conference and event requests, go to {% slack_channel "training-conferences" %} or grab time at [Conference/Training Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFVV1haNEdfUzFUfGRlZmF1bHR8MWRkYTgzOWQwNTYyMGU2YjNjNDA5ZDIyNTUzZDQxODE).
 
 Any media requests (like news or podcast interviews) are a separate process —
 please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov)
