@@ -15,8 +15,6 @@ cSpell: ignore Sabbers,approvable
 
 This page outlines how to sign up for and how to cancel the transit benefit. 
 
-_**Currently, the Transit Benefits system is down. There is not an alternative registration option available. When the system is back online, PeopleOps will share an update.**_
-
 ## Eligibility
 
 All GSA employees who take mass/public transit to work are eligible for transit
@@ -32,8 +30,7 @@ select the **Transit Coordinator in the Region in which you reside** - this
 information is listed in the online form.
 
 - Go to
-  [https://www.transportation.gov/transerve/participants/gsa](https://www.transportation.gov/transerve/participants/gsa)
-- Click on **Transit Benefit Program Application System**
+  [https://transitapp.ost.dot.gov/](https://transitapp.ost.dot.gov/)
 - Click on **Register**
 - Update your password information using the temporary password that's emailed
   to you
