@@ -65,6 +65,7 @@ information is listed in the online form.
         requesting elevation to "Supervisor" status
     - Transit Coordinator:
       - DC employees: **FAS-Transit Subsidy**
+      - Other regions: consult the [transit subsidy coordinators list](https://www.transportation.gov/sites/dot.gov/files/2023-04/GSA_Regional_Coordinators_Master_List_04_07_2023.pdf)
     - Point of Contact:
       - DC employees: **Central Office FAS Transit Subsidy**
       - Other regions: enter region code (Ex: Chicago employees enter **Region
