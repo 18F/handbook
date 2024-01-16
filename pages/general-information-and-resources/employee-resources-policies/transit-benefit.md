@@ -63,7 +63,7 @@ information is listed in the online form.
     - Transit Coordinator:
       - DC employees: **FAS-Transit Subsidy**
       - Other regions: consult the
-        [transit subsidy coordinators list](https://www.transportation.gov/transerve/participants/gsa-regional-coordinators-master-list))
+        [transit subsidy coordinators list](https://www.transportation.gov/transerve/participants/gsa-regional-coordinators-master-list)
     - Point of Contact:
       - DC employees: **Central Office FAS Transit Subsidy**
       - Other regions: enter region code (Ex: Chicago employees enter **Region
