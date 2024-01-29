@@ -204,6 +204,8 @@ cSpell: ignore Technica
   tool that can be used for finding projects, proposing fixes, having
   discussions, and more.
 
+- **GMT** - General Management Team.
+
 - **Grok** - To fully
   [understand](https://www.urbandictionary.com/define.php?term=grok) something.
 
@@ -249,6 +251,8 @@ cSpell: ignore Technica
 - **JAB** - Joint Authorization Board. The primary governing body for FedRAMP;
   can grant
   [provisional authorizations](https://www.fedramp.gov/jab-authorization/).
+
+- **LT** - Leadership Team.
 
 - **MVP** - Minimum Viable Product.
 
