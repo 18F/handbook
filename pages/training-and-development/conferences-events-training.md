@@ -28,6 +28,8 @@ looking for guidelines around speaking at events (in either a personal or
 professional capacity), see
 [here]({% page "/office-of-operations/fas-speaker-guide/" %}).
 
+If you need help with conference and event requests, go to {% slack_channel "training-conferences" %} or grab time at [Conference/Training Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFVV1haNEdfUzFUfGRlZmF1bHR8MWRkYTgzOWQwNTYyMGU2YjNjNDA5ZDIyNTUzZDQxODE).
+
 Any media requests (like news or podcast interviews) are a separate process —
 please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov)
 and CC [your team's Outreach
@@ -107,8 +109,7 @@ as early as possible.
   - Conference events that have a waived or discounted registration fee
   - Speaking events in your official capacity
   - Internal Management Meetings, regardless of cost
-  - Highly Attended Events
-    [FY18 GSA Highly Attended Events](https://docs.google.com/document/d/1Q1ZAWkXMte3jHFP0GH9EHzTjiTG3fYe-4WFehiWGbaM/edit)
+  - Highly Attended Events; a TTS-wide email will be sent to gather information about certain events that are expected to generate a lot of interest
 - Five to six weeks in advance for:
   - Group Conference Training/Attendance
 
@@ -143,7 +144,7 @@ will need to complete for your request.
    [OLU Job Aid](https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf).
 5. Email [tts-events@gsa.gov](mailto:tts-events@gsa.gov) with your SF-182 PDF
    attached.
-6. The Training & Events Lead (Keith Wilson) will provide a final review within
+6. The Training & Events Lead will provide a final review within
    2 business days of receiving the SF-182 and any other required information
    that's applicable.
 7. Within 2 business days of the Training & Events Lead's approval, a TTS
@@ -163,7 +164,7 @@ You are responsible for cancelling all reservations (e.g. flight, hotel, rental
 car) if your event is not approved. Always **check the cancellation policy
 before booking** because you may be responsible for paying the cancellation
 fee(s). You can ask questions in {% slack_channel "travel" %} or during
-[travel office hours](https://sites.google.com/a/gsa.gov/tts-office-hours/).
+[travel office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg).
 
 ## Remote working guidance
 
@@ -195,7 +196,7 @@ question, enter the website where the book can be purchased.
 When you have submitted that form, you and your supervisor will receive an email
 with further instructions. In the case where the book is not being used for
 training, the only thing that needs to be done is an email from your supervisor
-approving the purchase. If the book is being used in a training, then there are
+approving the purchase. If the book is being used for training purposes, then there are
 further tasks to be completed with form SF-182 as detailed in that initial
 response email.
 

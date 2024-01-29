@@ -5,7 +5,7 @@ questions:
   - travel
   - tts-travel@gsa.gov
   - text: Book office hours
-    url: https://sites.google.com/a/gsa.gov/tts-office-hours/
+    url: https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg
 redirect_from:
   - /travel-guide-1-book-travel/
   - /travel-and-leave/travel-and-leave-policies/travel-guide-1-book-travel/
