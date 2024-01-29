@@ -27,3 +27,16 @@ The [Mandatory Training InSite page](https://insite.gsa.gov/employee-resources/t
 ## Help with OLU
 
 For help with OLU once you've logged in, click on the **Need Help** tile on the OLU homepage.
+
+Contacting OLU support can be helpful for:
+
+- Getting access for new team members
+  - It is best to have the person's supervisor send the email, since the supervisor may be required to authorize OLU access for the new team member
+- Addressing issues with mandatory trainings not appearing
+
+### Sending an email
+
+After clicking **Need Help** on the homepage:
+
+1. Under the **SELECT SPECIFIC SUPPORT ROOM** heading, select **GSA Online University** from the dropdown for the support room
+1. On the next page, click on the **Email Support** button
