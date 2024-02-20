@@ -128,7 +128,7 @@ will need to complete for your request.
    [Online University (OLU)](https://gsaolu.gsa.gov/), and fill-in the required
    fields with the most relevant responses corresponding to your request type.
    - This
-     [OLU Job Aid](https://corporateapps.gsa.gov/files/GSA_JobAid_EndUser_SF182.pdf)
+     [OLU Job Aid](https://gsa.csod.com/common/ReadFile.aspx?SubPath=SFPrefInstructionAttachment&FileName=552_2024020804053769_PDF.pdf&originalFileName=SF-182+Job+Aid+for+End-User+updated+2-6-2024.pdf)
      has instructions on how to Create, Submit, PDF, and Verify an SF-182.
 2. Your supervisor’s name should auto-populate. 
    - ***NOTE:*** Not seeing your supervisor's name? You can add an additional supervisor (the SF-182 only needs one approval to be completed) to the approval queue by following this process:
