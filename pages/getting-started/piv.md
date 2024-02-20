@@ -88,9 +88,9 @@ with your name on them.
 
 GSA has a few different types of USB-C readers:
 
-- [Stanley Global "pigtail"](https://www.amazon.com/gp/product/B074TCZ1XG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1&pldnSite=1)
-- [ACS "butterfly"](https://www.amazon.com/ACR39U-NF-PocketMate-USB-C-Smart-Reader/dp/B06X9NTGYV/ref=sr_1_2?ie=UTF8&qid=1546874760&sr=8-2&keywords=ACR39U-NF+PocketMate)
-- [ACS "pigtail"](https://www.amazon.com/Smart-Card-Reader-ACS-ACR39U-I1/dp/B016IY2P7M)
+- Stanley Global "pigtail"
+- ACS "butterfly"
+- ACS "pigtail"
 
 Since the new Macs only have two USB-C ports, and you'll find one of them is
 taken up by power and the other taken up by the PIV reader, you'll probably end
