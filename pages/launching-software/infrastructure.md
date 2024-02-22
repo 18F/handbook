@@ -270,7 +270,7 @@ These are just the concepts necessary for initial on-boarding. AWS has an
 
 ### Common controls
 
-The [Tech Portfolio]({% page "/office-of-solutions/tech-portfolio/" %}) manages
+The [Tech Portfolio]({% page "/office-of-solutions/tech-operations/" %}) manages
 TTS AWS accounts in order to implement a baseline of security compliance
 controls for you so that there are fewer controls for you to implement.
 
