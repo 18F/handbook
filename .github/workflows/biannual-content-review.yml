@@ -1,0 +1,261 @@
+name: Biannual
+on:
+  schedule:
+    - cron: 0 0 1 */6 *
+
+jobs:
+  create_issue:
+    name: Create invoice issue for COR
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      # https://stackoverflow.com/a/60942437/358804
+      - name: Get dates
+        id: date
+        run: |
+          echo "::set-output name=current::$(date +'%m/%y')"
+          echo "::set-output name=due::$(date -d '+45 days' +'%m/%d/%y')"
+       - name: Create issue
+        uses: imjohnbo/issue-bot@v3
+        with:
+          assignees: @18F/handbook-owners, @18F/tts-tech-portfolio, @18F/guild-deia, @18F/digital-council,  @18F/people-ops, @18F/guild-content, @18F/team-talent, @18F/coes, @18F/outreach, @18F/solutions-handbook-owners            
+          #labels: ""
+          title: GSA TTS Bi-annual Content Review ${{ steps.date.outputs.current }} - due ${{ steps.date.outputs.due }}
+          body: |
+            ### Implementation steps
+
+            | content                                                                                                                                    | primary-reviewer | secondary-reviewer |
+            | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ------------------ |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/chapters/account-manager/                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/chapters/acqstack/                                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/chapters/design/                                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/chapters/engineering/                                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/chapters/product/                                                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/history-and-values/                                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/accessing-dod-systems/                                                               | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/agreements/                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/business-development/                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/changing-your-name/                                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/client-accounts/                                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/contractors/                                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/one-on-ones/                                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/procurements-over-10000/                                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/project-lifecycle/                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/staffing-projects/                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/how-18f-works/state-local-agreements/                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/leadership-resources/leadership-candidate-guide/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/leadership-resources/leadership-selection/                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/projects-partners/acquisition-engagement-types/                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/projects-partners/consulting-engineering-guide/                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/projects-partners/how-we-relate-to-partners/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/projects-partners/leading-projects/                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/projects-partners/project-teams/                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/projects-partners/projects-in-distress/                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/18f/projects-partners/working-on-an-acquisition-engagement/                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/404/                                                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/contributing/                                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/about-us/code-of-conduct/                                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/about-us/deia/                                                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/about-us/digital-council/                                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/about-us/org-chart/                                                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/about-us/tts-history/                                                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/about/                                                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/career-progression-framework/overview/                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/centers-of-excellence/                                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/business-and-ops-policies/billing_policy/                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/business-and-ops-policies/igcap-october2016/                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/business-and-ops-policies/top-secret/                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/chicago/                                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/collaboration-tools/                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/conflict-feedback-additional-frameworks/                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/conflict-feedback-follow-up-escalation/                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/conflict-feedback-intro/                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/conflict-feedback-principles/                                        | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/conflict-feedback-receiving-feedback/                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/deia-resources/                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/distributed/                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/benefits-links/                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/daily-checkin/                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/deaf-hoh/                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/employment-verification/                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/hosting-non-government-speakers/         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/transit-benefit/                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/work-schedules/                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/general-contacts/                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/glossary/                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/how-we-collaborate/                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/inclusion-bot/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/inclusive-behaviors/                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/new-york-city/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/psychological-safety/                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/purchase-requests/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/reasonable-accommodations/                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/san-francisco/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/sensitive-information/                                               | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/software/                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/bug-bounty/                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/fitara/                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/open-source/                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/password-requirements/                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/records-management/                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/responding-to-public-disclosure-vulnerabilities/       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/security-incidents/                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/general-information-and-resources/washington-dc/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/                                                                               | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/accessibility/                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/benefits/                                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/gsa-internal-tools/                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/intro-to-TTS-Tech-Portfolio/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/meetings-and-meeting-tools/                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/travel-101/                                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/classes/writing-lab/                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/equipment/                                                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/how-to-log-in/                                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/                                                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/piv/                                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/getting-started/welcome-letter/                                                                        | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/assignee-detail/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/external-details/                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/fair-and-equitable-hiring-practices/                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/gsa-details/                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/hiring-authorities/                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/hiring/                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/leaving-tts/                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/promotions/                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/resume/                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/term-extensions/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/ttsjobs/                                                               | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/                                                                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/launching-software/infrastructure/                                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/launching-software/laws/                                                                               | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/launching-software/lifecycle/                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/launching-software/privacy/                                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/launching-software/security/                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-acquisition/                                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-acquisition/management-reviews-of-procurement-actions/                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-acquisition/roles-and-responsibilities/                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-operations/bizops/                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-operations/blogging/                                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-operations/fas-speaker-guide/                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-operations/outreach/                                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-operations/social-media/                                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-operations/talent/                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-solutions/history/                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-solutions/                                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-solutions/innovation-portfolio/                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-solutions/org-chart/                                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-solutions/public-experience-portfolio/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/office-of-solutions/tech-portfolio/                                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/performance-management/dates/                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/performance-management/employee-resources/                                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/performance-management/end-of-year/hrlinks-steps/                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/performance-management/                                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/performance-management/mid-year/                                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/performance-management/mid-year/hrlinks-steps/                                                         | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/performance-management/supervisor-resources/                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/redirects/buddy-handbook/                                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/redirects/employee-assistance-program/                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/request-for-comments/001-supervisors/                                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/request-for-comments/003-tts-cybersecurity-advisor/                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/request-for-comments/004-bucket-hiring-approach/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/request-for-comments/                                                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-1/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-10/                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-11/                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-12/                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-2/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-3/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-4/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-5/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-6/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-7/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-8/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/supervisor-resources/new-supervisor-playbook/play-9/                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/adobe/                                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/airtable/                                                                                        | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/analytics/                                                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/anyconnect/                                                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/channels/                                                                                        | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/digital-signatures/                                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/docker-hub/                                                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/eventbrite/                                                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/figma/                                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/github/                                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/gmail/                                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/google-calendar/                                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/google-drive/                                                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/google-groups/                                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/google-meet/                                                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/invision/                                                                                        | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/mural/                                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/new-relic/                                                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/npm/                                                                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/office/                                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/pages/                                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/qualtrics/                                                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/sharedcalendars/                                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/sketch/                                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/                                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/emoji/                                                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/external-collaboration/                                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/getting-started/                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/guidelines/                                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/integrations/                                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/notifications-general-communication/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/records/                                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/slack/user-management/                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/smartsheet/                                                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/teams/                                                                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/text-editors/                                                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/tock/                                                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/trello/                                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/virtual-desktop/                                                                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/vmware-fusion/                                                                                   | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/vmware-horizon/                                                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/tools/zoom/                                                                                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/conferences-events-training/                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/conferences-events-training/tts-inclusive-event-pillars/                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/details-professional-development/                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/external-speaking-request-playbook/                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/idp/                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/                                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/intro-to-github/                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/olu/                                                                          | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/training-and-development/working-groups-and-guilds-101/                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/july-13-travel-guidance/                                                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/leave/                                                                                | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/overtime/                                                                             | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/first-time-travel-complete-concur-profile/                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur-pre-olu/                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/first-time-travel-get-in-concur/                            | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/first-time-travel-travel-card/                              | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/moving/                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/travel-guide-2-book-travel/                                 | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/travel-guide-3-travel/                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/travel-guide-4-reimbursement/                               | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/travel-guide-a-amended-authorizations/                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/travel-guide-b-after-hours-emergency-travel-authorizations/ | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/travel-guide-email-templates/                               | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/travel-guide-faq/                                           | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-and-leave-policies/working-while-traveling/                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/travel-guide-table-of-contents/                                                       | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/travel-and-leave/voluntary-leave-transfer-program/                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/updating-the-handbook/components/                                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/updating-the-handbook/edit-in-github/                                                                  | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/updating-the-handbook/edit-locally/                                                                    | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/updating-the-handbook/frontmatter/                                                                     | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/updating-the-handbook/shortcodes/                                                                      | \- [ ] Done      | \- [ ] Done        |
+            | \- [ ] https://handbook.tts.gsa.gov/updating-the-handbook/                                                                                 | \- [ ] Done      | \- [ ] Done        |
+                                
+            ### Acceptance Criteria
+            
+            - [ ] CODEOWNER updated
+            - [ ] CODEOWNER team(s) membership update
+            - [ ] Review Reviewers
+          pinned: false
+          close-previous: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
