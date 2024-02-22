@@ -82,7 +82,7 @@ When you travel in connection to TTS, the time you spend traveling may be regula
 
 You’ll complete overtime and comp time requests after you travel because you may encounter delays. Keep a copy of your travel itinerary to help you remember your trip.
 
-Refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours.
+Refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours. _This slidedeck is only open to GSA employees. Please contact your Timekeeper or an HR Specialist at your agency with questions._
 
 Note: travel comp time does not follow the salary cap rules that are outlined in the beginning of this document. Anyone can request travel comp time, regardless of their salary and what type of work schedule they are on.
 

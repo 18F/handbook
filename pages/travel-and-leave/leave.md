@@ -391,6 +391,8 @@ beginning on the first day of your federal employment, in which to use the
 leave. After that period, it is forfeited with no opportunity to carry over
 hours.
 
+DVL will not automatically appear in HR Links: reach out to your [Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to get started. 
+
 OPM Fact Sheet:
 
 - [Disabled Veteran Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/disabled-veteran-leave/)

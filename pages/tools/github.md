@@ -70,7 +70,7 @@ You may also want to take a look at
 ### 4. Join a GSA/TTS organization
 
 Have a current team member request an invitation to the
-[GSA or TTS Organization](#organizations) you need in the #github-admins
+[GSA or TTS Organization](#organizations) you need in the {% slack_channel "admins-github" %}
 channel.
 
 An admin will add you, after which you'll need to accept their invitation from

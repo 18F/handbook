@@ -308,11 +308,15 @@ conversations, client management skills, and strategic direction.
   {% slack_channel "18f-help-wanted" %}.
 - If your project is part of a portfolio, the portfolio director and your
   colleagues in the portfolio can be a great resource.
-- If you need advice or coaching, look to the chapters
-  ({% slack_channel "product" %}, {% slack_channel "design" %},
-  {% slack_channel "acquisition" %}, and {% slack_channel "dev" %} as well as
-  our [guilds and working groups]({% page "/working-groups-and-guilds-101/" %}).
-  Each of them have a corresponding Slack channel you can jump into any time.
+- If you need advice or coaching, try
+  - The {% slack_channel "18f-project-leads-only" %} channel!
+  - Or these chapters, each with a channel you can jump into any time:
+    - {% slack_channel "product" %}
+    - {% slack_channel "design" %}
+    - {% slack_channel "acquisition" %}
+    - {% slack_channel "dev" %}
+  - Finally, check the
+  [guilds and working groups]({% page "/working-groups-and-guilds-101/" %}).
 - The {% slack_channel "g-consulting" "Consulting Guild (#g-consulting)" %} may
   be able to pair you with another TTS consultant to provide support, including
   but not limited to observing meetings with the partner and providing feedback
