@@ -14,20 +14,20 @@ Information Security Officer (OCISO) and TTS.
 
 There are a few factors that will determine how long it takes a project to get
 an ATO. These map to
-[the checklist](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md),
+[the checklist](https://github.com/18F/tts-tech-operations/blob/main/.github/ISSUE_TEMPLATE/ato.md),
 so might be helpful to open that up in another window and follow along.
 
 - Everything in
-  [Phase 1](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-1-ato-sprint-prerequisites)
+  [Phase 1](https://github.com/18F/tts-tech-operations/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-1-ato-sprint-prerequisites)
   needs to be done before the project can enter the ATO Sprint. That
   responsibility is on the project team and the respective Infrastructure Lead.
   Completing Phase 1 could take 40 hours of work.
 - Your Infrastructure Lead conducts the documentation review of
-  [Phase 2](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-2-documentation-review).
+  [Phase 2](https://github.com/18F/tts-tech-operations/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-2-documentation-review).
   Projects are scheduled for
-  [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint)
+  [Phase 3](https://github.com/18F/tts-tech-operations/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint)
   by the Infrastructure Leads as a group.
-- [Phase 3](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint)
+- [Phase 3](https://github.com/18F/tts-tech-operations/blob/main/.github/ISSUE_TEMPLATE/ato.md#phase-3-ato-sprint)
   should take two weeks, assuming the previous Phases were done thoroughly.
 
 **The ATO Sprinting Team makes no _guarantees_ regarding the timeline of ATOs.**

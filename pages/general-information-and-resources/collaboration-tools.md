@@ -155,7 +155,7 @@ boards can be private or public.
 - **[Smartsheet]({% page "/tools/smartsheet/" %})**
 - **[ZenHub:](https://www.zenhub.com/)** Works within GitHub and provides
 higher-level scoping and linking (e.g., epics and dependencies). Unfortunately,
-[we cannot expand use at GSA](https://github.com/18F/tts-tech-portfolio/issues/1040).
+[we cannot expand use at GSA](https://github.com/18F/tts-tech-operations/issues/1040).
 </details>
 
 Here are some common barriers to using Trello with partners and some workarounds

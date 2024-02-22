@@ -21,7 +21,7 @@ We have a few different Slack Apps and bots you'll see in Slack:
   update or customize responses
   [here](https://gsa-tts.slack.com/customize/slackbot). **Do not
   include private or sensitive information in Slackbot automatic responses.**
-- [TTS Inspector](https://github.com/18F/tts-tech-portfolio/tree/main/inspector):
+- [TTS Inspector](https://github.com/18F/tts-tech-operations/tree/main/inspector):
   Our auditing bot
 
 Learn more about some of our unique channel customizations and auto-responses in

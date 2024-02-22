@@ -42,7 +42,7 @@ works inside the law, secures our systems, and spends money. We also:
 
 **Take a look at the following for more specifics:**
 
-- [Our Kanban board](https://trello.com/b/69OmMRy7/tech-portfolio-project-management-wip-mvp)
+- [Our Kanban board](https://trello.com/b/69OmMRy7/tech-operations-project-management-wip-mvp)
 - [Our roles](https://github.com/gsa-tts/tts-tech-operations/blob/main/how_we_work/roles.md#readme)
 
 ### Out of scope
@@ -91,8 +91,8 @@ These are the groups we interact with heavily:
   [Systems](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=1235102795),
   and
   [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0)
-- [More internal documentation](https://github.com/18F/tts-tech-portfolio/wiki/Documents-for-TTS-Tech-Porfolio)
-- [Read more about us](https://github.com/18F/tts-tech-portfolio/blob/main/README.md#readme)
+- [More internal documentation](https://github.com/18F/tts-tech-operations/wiki/Documents-for-TTS-Tech-Porfolio)
+- [Read more about us](https://github.com/18F/tts-tech-operations/blob/main/README.md#readme)
 
 ## Feedback?
 

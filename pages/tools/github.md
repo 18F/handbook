@@ -269,7 +269,7 @@ security tasks.
 
 ### Creating a new GitHub organization
 
-[Create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=github-org.md)
+[Create an issue](https://github.com/18F/tts-tech-operations/issues/new?template=github-org.md)
 and follow the steps.
 
 ## Actions

@@ -50,7 +50,7 @@ releasing the solicitation and when exercising option years on existing
 contracts. Note: For Non-[OA (Office of Acquisitions)]({% page "/oa/" %})
 acquisitions, when the acquisition plan and Statement of Work (SOW) have been
 finalized, please send an email to devops@gsa.gov. [The TTS Tech
-Portfolio]({% page "/tech-portfolio/" %}) will conduct their initial review of
+Portfolio]({% page "/tech-operations/" %}) will conduct their initial review of
 the acquisition and initiate the FITARA review with the CTO office.
 
 **Note:** There are some exceptions and blanket approvals, such as Dotgov

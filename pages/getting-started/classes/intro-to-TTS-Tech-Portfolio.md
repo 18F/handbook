@@ -37,7 +37,7 @@ and then complete this
 
 Rule #1 is if you don't see us doing something already, and you can't find
 express authorization to do it, please [ask the Tech
-Portfolio]({% page "/tech-portfolio/#questions" %}). We promise to get you an
+Portfolio]({% page "/tech-operations/#questions" %}). We promise to get you an
 answer quickly. If there is software that chapters need to accomplish their
 mission or don't know how to get, see the [Software]({% page "/software/" %})
 page.
