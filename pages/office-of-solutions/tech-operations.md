@@ -60,7 +60,6 @@ its current state:
 
 These are the groups we interact with heavily:
 
-- [**FAS Systems Governance Committee (FSGC)**](#fsgc)
 - **Supply Chain Risk Management group**
 - **GSA IT**
   - [**CTO**](https://tech.gsa.gov/team/)
