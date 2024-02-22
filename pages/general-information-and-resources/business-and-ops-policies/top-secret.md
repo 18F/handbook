@@ -40,7 +40,7 @@ is available on InSite.
 Find out your clearance status in
 [HRLinks]({% page "/travel-and-leave/leave/#logging-into-hr-links" %})
 
-1. On your HR Links homepage, select the tile named **Employee Personal Info**
+1. On your HR Links homepage, within the tile named **Employee Personal Info**, click the link **View/Update Personal Info**.
 2. Under the section **Security Clearance**, click the plus icon to view your
    security investigation(s) and the status of the associated clearance(s).
 
