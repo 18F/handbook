@@ -155,7 +155,7 @@ non-production use. Things to bear in mind about sandbox accounts:
 - No [sensitive information]({% page "/sensitive-information/" %}) can be stored
   in the sandbox accounts.
 - Creating resources that will cost more than $500 per month requires prior
-  agreement from the Tech Portfolio team.
+  agreement from the Tech Operations team.
 - All resources must be tagged with a `Project`. Resources without this tag can
   be deleted at any time.
 - Any website that is publicly routable for more than one day must have a

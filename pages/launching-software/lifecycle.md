@@ -122,7 +122,7 @@ Beyond the
 [**general information**](https://atos.open-control.org/overview/#re-authorization):
 
 If you're planning a change that you think may require re-authorization, please
-[open an issue in the TTS Tech Portfolio repository](https://github.com/18F/tts-tech-portfolio/issues/new?title=ATO+re-authorization+for+%3Cproject%3E?)
+[open an issue in the TTS Tech Operations repository](https://github.com/gsa-tts/tts-tech-operations/issues/new?title=ATO+re-authorization+for+%3Cproject%3E?)
 to explain your planned change, so they can evaluate it.
 
 If your systems needs re-authorization, follow the usual steps for getting an
@@ -142,9 +142,9 @@ follow the usual steps for getting an ATO, starting with
 
 ## ATO Checklist
 
-[Create your ATO checklist](https://github.com/18F/tts-tech-portfolio/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D){.usa-button}
+[Create your ATO checklist](https://github.com/gsa-tts/tts-tech-operations/issues/new?template=ato.md&title=ATO+for+%5Bsystem%5D+-+due+%5Bdate%5D){.usa-button}
 
-([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/ato.md#readme))
+([preview](https://github.com/gsa-tts/tts-tech-operations/blob/main/.github/ISSUE_TEMPLATE/ato.md#readme))
 
 The ATO checklist helps you track progress towards a successful launch
 throughout your project. It is a formatted issue on GitHub, and is the canonical

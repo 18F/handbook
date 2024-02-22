@@ -1,13 +1,13 @@
 ---
-title: Intro to TTS Tech Portfolio
+title: Intro to TTS Tech Operations
 outdated: true
-redirect_to: /office-of-solutions/tech-portfolio/
+redirect_to: /office-of-solutions/tech-operations/
 redirect_from:
-  - /intro-to-tts-tech-portfolio/
+  - /intro-to-tts-tech-operations/
 cSpell: ignore contributable
 ---
 
-This page provides an overview of the TTS Tech Portfolio team (formally known as
+This page provides an overview of the TTS Tech Operations team (formally known as
 the "Infrastructure" team).
 
 Our team helps other TTS teams with security, compliance, and technology best
@@ -18,7 +18,7 @@ and then complete this
 
 ### TL;DR
 
-- TTS Tech Portfolio is not just for engineers; it fundamentally shapes how we
+- TTS Tech Operations is not just for engineers; it fundamentally shapes how we
   work.
 - If you're an engineer of any kind, the most important part of your job in the
   government is security. Start here.
@@ -31,7 +31,7 @@ and then complete this
 2. How to secure your laptop
 3. What it means to work in the public
 
-## About TTS Tech Portfolio
+## About TTS Tech Operations
 
 ### Obeying the law
 
@@ -60,7 +60,7 @@ Take care when connecting applications to each other. While such connections can
 provide workflow conveniences, they also open us up to security violations.
 Often times this is an OAuth integration. Before connecting applications
 together, for example enabling a Slack-to-Google Docs plugin, please contact the
-Tech Portfolio.
+Tech Operations.
 
 ### The public interest
 
@@ -95,13 +95,13 @@ Anything involving money must trace back to approvals. You can find out all
 about purchase approvals on the [Purchase
 Requests]({% page "/purchase-requests/" %}) page.
 
-### TTS Tech Portfolio rules
+### TTS Tech Operations rules
 
 There are some things that you might have been used to doing outside of
 government that you cannot do now.
 
 You cannot use or deploy to whatever third party tool you want without [asking
-the Tech Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %})
+the Tech Operations]({% page "/office-of-solutions/tech-operations/#questions" %})
 or by submitting a [Google Apps
 Script]({% page "/google-drive/#google-apps-script" %}) .
 
@@ -125,7 +125,7 @@ The three rules of Infrastructure are:
 If that's the canonical and only source of that information, yes. If that
 information is stored elsewhere (like GitHub or Google Drive), no.
 
-### What do I ask TTS Ops vs TTS Tech Portfolio?
+### What do I ask TTS Ops vs TTS Tech Operations?
 
 TTS Ops focuses on what would normally be considered the "back office" financial
 matters, procurement, and space operations. Infrastructure focuses on our

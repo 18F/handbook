@@ -100,15 +100,15 @@ your open pull request will trigger the release check.
   see anyone violating our Code of Conduct, see the reporting section.
 - [**Do not store sensitive information in
   GitHub**]({% page "/general-information-and-resources/sensitive-information/#protecting-tts-systems" %}).
-- **Ask TTS Tech Portfolio before integrating a service with GitHub.** Many
+- **Ask TTS Tech Operations before integrating a service with GitHub.** Many
   websites offer the option to "Sign in with GitHub" and may further request
   permission to access your "personal user data." Providing this level of access
   can not only share your public or private email address, but it can also grant
   the ability to access TTS private repositories. For this reason, we ask that
   all organization members refrain from authorizing integrations and request any
-  desired integrations through an TTS Tech Portfolio issue.
+  desired integrations through an TTS Tech Operations issue.
 
-- **Ask TTS Tech Portfolio before creating private repositories.** We pay GitHub
+- **Ask TTS Tech Operations before creating private repositories.** We pay GitHub
   for the ability to create private repositories and need to bill clients for
   repositories created on their behalf. Before you do anything, drop into
   {% slack_channel "admins-github" %} and explain what you'd like to do and why.
@@ -118,8 +118,8 @@ your open pull request will trigger the release check.
 
 - **You do not need approval to create public repositories.**
 
-- **Ask TTS Tech Portfolio before deleting repositories.** As a government team,
-  we can’t delete repositories without TTS Tech Portfolio first reviewing them
+- **Ask TTS Tech Operations before deleting repositories.** As a government team,
+  we can’t delete repositories without TTS Tech Operations first reviewing them
   for information that they may need to retain (including issues, pull request
   comments, commit history, and other information). [Archiving](#archiving) is
   preferred in most cases. If you want to delete a repository, go to
@@ -238,7 +238,7 @@ transferred to the partner agency, forked back to
 [handoff to partner agencies](#handoff-to-partner-agencies) section for more
 information.
 
-Inactive repositories are automatically archived by the TTS Tech Portfolio with
+Inactive repositories are automatically archived by the TTS Tech Operations with
 [ghad](https://github.com/18F/ghad). A repository is considered "inactive" if
 there haven't been any new commits or comments on issues or pull requests in a
 while; or if the repository description includes the terms "deprecated," "not

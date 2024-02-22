@@ -130,7 +130,7 @@ boards can be private or public.
 <details markdown="block">
 <summary>Compliance and records considerations:</summary>
 
-- GSA Tech Portfolio is working on a FedRAMP application as of January 2020.
+- GSA Tech Operations is working on a FedRAMP application as of January 2020.
   Members of TTS can use it and will be notified if anything changes.
 - Trello boards should be considered records.
 </details>

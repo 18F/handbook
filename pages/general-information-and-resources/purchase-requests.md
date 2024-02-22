@@ -65,7 +65,7 @@ You will need to make a copy of this
 [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d),
 fill it out, and attach the link to the
 [micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
-Then, the TTS Tech Portfolio will review the documentation and work with the
+Then, the TTS Tech Operations will review the documentation and work with the
 OCIO to get FITARA approval. Once FITARA approval is obtained, the TTS Tech
 Portfolio will send the micropurchase request through the approval process. Once
 the purchase is approved, the purchase card holder will reach out to you to make

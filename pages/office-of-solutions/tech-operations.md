@@ -47,7 +47,7 @@ works inside the law, secures our systems, and spends money. We also:
 
 ### Out of scope
 
-The following are example tasks that the Tech Portfolio isn't responsible for in
+The following are example tasks that TTS Tech Operations isn't responsible for in
 its current state:
 
 - Purchasing office equipment for individuals (rather than the project the
