@@ -299,7 +299,7 @@ you're not sure if you're collecting PII or need help with policy guidance, you
 can ask on Slack in {% slack_channel "#g-research" %}. If you are not sure where
 the right place might be to store any given file, or what access permissions to
 grant, you can [ask the Tech
-Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
+Portfolio]({% page "/office-of-solutions/tech-operations/#questions" %}).
 
 ## Join the research guild!
 

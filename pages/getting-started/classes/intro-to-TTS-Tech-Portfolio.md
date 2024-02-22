@@ -135,4 +135,4 @@ about the specifics; we're always happy to direct you in the right direction.
 
 ---
 
-[Get in touch]({% page "/office-of-solutions/tech-portfolio/#questions" %})
+[Get in touch]({% page "/office-of-solutions/tech-operations/#questions" %})
