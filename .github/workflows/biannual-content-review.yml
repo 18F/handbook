@@ -1,11 +1,11 @@
-name: Biannual
+name: TTS Web Content Governance Policy
 on:
   schedule:
     - cron: 0 0 1 */6 *
 
 jobs:
   create_issue:
-    name: Create invoice issue for COR
+    name: [TTS Web Content Governance Policy](https://docs.google.com/presentation/d/1H5wO0KoWqYAKfrgmNoUDNA8vUjRzT3eyE4ctuy1G-pw/edit#slide=id.g1ee04787bec_0_315)
     runs-on: ubuntu-latest
     permissions:
       issues: write
