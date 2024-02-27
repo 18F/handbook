@@ -184,7 +184,7 @@ these.
 - Questions? Ask in the {% slack_channel "g-security-compliance" %} Slack
   channel
 - You can use this link to
-  <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;devops@gsa.gov">quickly
+  <a href="mailto:itservicedesk@gsa.gov?subject=Incident:&cc=gsa-ir@gsa.gov;tts-tech-operations@gsa.gov">quickly
   send an email to IT Service Desk, GSA IR Team & TTS Tech Portfolio</a> at the
   same time.
 - cloud.gov: [cloud.gov support team](mailto:cloud-gov-support@gsa.gov) or
