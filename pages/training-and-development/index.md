@@ -59,17 +59,20 @@ GSA InSite has compiled a list of
 which offers helpful information and resources for new supervisors including
 links to the mandatory trainings.
 
-### Coaching
+### Coaching (individual)
 
-GSA provides multiple, free coaching services for internal staff. Located
-throughout the agency, coaches in the federal coaching network have various
-roles and complete coaching work in addition to their main assignments.
-Employees who are at the GS-14 or above have the option of obtaining coaching
-services through the Treasury Executive Institute.
+GSA provides free coaching services to any federal employee. There are three avenues:
+- You can request a GSA coach. Located throughout the agency, GSA coaches hold various roles and offer coaching in addition to their main assignments. 
+- You can get paired with a coach at another agency via the Federal Coaching Network. 
+- Employees who are GS-14 or above can find a coach through the Treasury Executive Institute (TEI).
 
-To learn more about the GSA coaching program offerings and how to get connected
-with a coach, visit the
-[GSA coaching services page](https://insite.gsa.gov/employee-resources/training-and-development/developmental-services/organizational-development/coaching-services).
+To learn more about the GSA coaching program offerings and to get connected with a coach, visit the [GSA Coaching Services InSite page](https://insite.gsa.gov/employee-resources/training-and-development/developmental-services/organizational-development/coaching-services).
+
+### Coaching (team) and group facilitation
+
+GSA’s Organizational Development (OD) branch supports teams with customized tools and facilitated activities that help the team become more effective and cohesive. OD consultants can tailor their support to a variety of topics, including conflict resolution, communication, collaboration, change management, and more.
+
+To get started, reach out to our [Organizational Development Consultant](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.8wr7upp5rb5z).
 
 ### Mentoring
 
