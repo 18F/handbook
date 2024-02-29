@@ -8,14 +8,11 @@ redirect_from:
 ---
 # TTS Pages - Authority to Use (ATU) Process
 
-"TTS Pages" is [GSA's Implementation of the Cloud.gov FEDRAMP Package](https://marketplace.fedramp.gov/products/F1607067912). As such it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides TTS users with a fast and secure approach to getting a Web Presence for your projects/programs. 
+>This guide is intended for `Website Managers` to meet their requirements under the TTS Pages Authority to Operate (ATO)
 
-## Incident Response
-Follow [TTS Incident Response Plan](https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/security-incidents/)
+"TTS Pages" is GSA's Authority to Operate (ATO) using [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) for their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides TTS users with a fast and secure approach to getting a Web Presence for your projects/programs. This page defines the requirements for launching a new website at GSA using [Cloud.gov Pages](https://pages.cloud.gov)
 
-## Contingency Plan
-1. Sign up for [Cloud.gov Pages Status](https://cloudgov.statuspage.io/) notifications
-1. Follow [Cloud.gov Contingency Plan](https://cloud.gov/docs/ops/contingency-plan/)
+>Follow this link for more information about using [Cloud.gov Pages](tools/pages)
 
 ## Launching a New Static Website at TTS
 
@@ -23,14 +20,16 @@ Follow [TTS Incident Response Plan](https://handbook.tts.gsa.gov/general-informa
 
 >`Website Manager` is defined by the [GSA's Digital.gov Program](https://digital.gov/2023/03/24/who-is-your-website-manager/) 
 
-- [ ] Turn on [Github Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) for the Site's Repository and `Enable`:
-    - [ ] CodeQL
-    - [ ] Dependabot
+- [ ] Turn on all [Github Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) for the Site's Repository and `Enable`:
+    - [ ] [CodeQL](https://docs.github.com/en/code-security/code-scanning)
+    - [ ] [Dependabot](https://docs.github.com/en/code-security/dependabot/)
     - [ ] Secret Scanning
 - [ ] Designate (One) Github Team with `Admin` Access to the repository
 - [ ] Designate (One or More) Github Team(s) with `Write` Access to the repository
 - [ ] Submit a Pull Request to add the Github Repository for the Website to [GSA](https://github.com/GSA/.allstar/blob/main/allstar.yaml) or [GSA-TTS](https://github.com/GSA-TTS/.allstar/blob/main/allstar.yaml) .allstar Github Configuration Scanner)
-- [ ] Complete [Digital Lifecycle Program](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program?term=DLP) Self-Assessment for the Website
+- [ ] Create a [`SECURITY.md` file](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
+- [ ] Follow GSA's [Digital Lifecycle Program](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program?term=DLP) for the Website
+- [ ] Submit a new website request in [Touchpoints](https://touchpoints.app.cloud.gov/admin/websites/new)
 
 ## Authority to Use (ATU) Review
 Submit an [Authority to Use (ATU) Request](https://github.com/GSA-TTS/tts-pages/issues/new?)
@@ -50,7 +49,7 @@ Sites hosted on TTS Pages are required to have their URLs scanned in accordance 
 ## 	Reassessment 
 A Site’s ATU will have to be reassessed and an ATU reissued if the Site is found `NOT` to be in conformity with the requirements within this guide.
 
-Conditions/events that may require a reassessment and ATU reissuance include:
+Conditions/events that may require a reassessment of the ATU include:
 - New third party integrations not on the approved list are added.
 - The data types or information presented on the site changes.
 - A significant security incident occurs.
@@ -72,9 +71,16 @@ The Site Owners CAP must be approved by the TTS Pages system owner, the ISSM, an
 
 ## Site Disablement
 Site Owners who fail to respond to the CAP within the 30 day timeframe, or fail to provide an adequate CAP, or fail to comply with the provisions, timeline and duration of their CAP will have their site Disabled.
-- Disabling a site consists of unpublishing the site within the Cloud.gov Pages Platform which will result in a site being unreachable. 
+- Disabling a site consists of removing the site within the Cloud.gov Pages Platform which will result in a site being unreachable. 
 
 ## Site Removal
 Site Owners who fail to address deficiencies within 90 days of disablement will have their site removed from the TTS Pages ATO boundary and the site will be deleted. 
 - Deleting a site removes the published site from TTS Pages servers and from the dashboards of all site users. This will bring the entire site offline and make it inaccessible for users.
 - A Site Removal letter will be issued indicating that the site is no longer authorized to operate. 
+
+## Incident Response
+Follow [TTS Incident Response Plan](https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/security-incidents/)
+
+## Contingency Plan
+1. Sign up for [Cloud.gov Pages Status](https://cloudgov.statuspage.io/) notifications
+1. Follow [Cloud.gov Contingency Plan](https://cloud.gov/docs/ops/contingency-plan/)
