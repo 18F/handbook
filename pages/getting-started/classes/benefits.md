@@ -533,7 +533,7 @@ If you had been contributing to a 401k, 403b, or a similar plan at a previous em
 
 You can roll over money from eligible retirement plans to your TSP account. TSP offers a rollover concierge service and a self-service option. Visit the [TSP Move Money page](https://www.tsp.gov/tsp-basics/move-money-into-tsp/) for details.
 
-There are numerous free TSP webinars available: vist the [TSP Online Learning page](https://www.tsp.gov/online-learning/) to view descriptions and dates.
+There are numerous free TSP webinars available: visit the [TSP Online Learning page](https://www.tsp.gov/online-learning/) to view descriptions and dates.
 
 ## Training
 
