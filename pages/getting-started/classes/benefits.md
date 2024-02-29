@@ -517,12 +517,9 @@ document.
 Employees at TTS are eligible to participate in the
 [Thrift Savings Plan](https://www.tsp.gov/index.html) (TSP). For more
 information on TSP, please refer to the
-[TSP Insite page](https://insite.gsa.gov/topics/hr-pay-and-leave/benefits/thrift-savings-plan?term=tsp).
+[TSP Insite page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/benefits/thrift-savings-plan?term=tsp).
 
-To start, change, or stop your contributions, you'll need to fill out
-[Form TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf).
-
-You can also update TSP directly in [HR
+You will update TSP directly in [HR
 Links]({% page "/travel-and-leave/leave/#logging-into-hr-links" %}) by following
 this
 [visual guide](https://corporateapps.gsa.gov/corporateapps/files/Updating-TSP-Traditional-or-Roth.pdf)
@@ -532,24 +529,11 @@ or these steps:
 2. Click on the **TSP** tile/row to view and edit your contribution amounts
 3. Click **Save**
 
-If you ever move, you can update your address for TSP by emailing it to both the
-[Consolidated Processing Center](mailto:cpc.personnel@gsa.gov) and the
-[GSA Payroll Office](mailto:KC-Payroll.Finance@gsa.gov). Payroll will notify the
-TSP office of your new address.
+If you had been contributing to a 401k, 403b, or a similar plan at a previous employer this year, your total contribution for all similar plans cannot be higher than the [annual limit](https://www.tsp.gov/making-contributions/contribution-limits/).
 
-To transfer your previous retirement account into your TSP, you'll need to fill
-out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every
-account you want to roll over. If you need help, you can call them by dialing
-**1-877-968-3778**. Be sure to have your TSP account number and your SSN and
-mailing address handy.
+You can roll over money from eligible retirement plans to your TSP account. TSP offers a rollover concierge service and a self-service option. Visit the [TSP Move Money page](https://www.tsp.gov/tsp-basics/move-money-into-tsp/) for details.
 
-If you have been contributing to a 401k, 403b, or a similar plan at your
-previous employer, your total contribution for all similar plans cannot be
-higher than [the annual limit](https://www.tsp.gov/bulletins/20-8/).
-
-You may need to include a special additional statement with your tax return
-explaining you rolled over your IRA to the TSP. For guidance on this, see the
-[IRS interactive guide to "Do I Need to Report the Transfer or Rollover of an IRA or Retirement Plan on My Tax Return?"](https://www.irs.gov/help/ita/do-i-need-to-report-the-transfer-or-rollover-of-an-ira-or-retirement-plan-on-my-tax-return).
+There are numerous free TSP webinars available: visit the [TSP Online Learning page](https://www.tsp.gov/online-learning/) to view descriptions and dates.
 
 ## Training
 
