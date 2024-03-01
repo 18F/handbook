@@ -29,7 +29,7 @@ redirect_from:
 - [ ] Submit a Pull Request to add the Github Repository for the Website to [GSA](https://github.com/GSA/.allstar/blob/main/allstar.yaml) or [GSA-TTS](https://github.com/GSA-TTS/.allstar/blob/main/allstar.yaml) .allstar Github Configuration Scanner)
 - [ ] Create a [`SECURITY.md` file](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository)
 - [ ] Follow GSA's [Digital Lifecycle Program](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program?term=DLP) for the Website
-- [ ] Submit a new website request in [Touchpoints](https://touchpoints.app.cloud.gov/admin/websites/new)
+- [ ] Confirm your Website on [Touchpoint's Registry](https://touchpoints.app.cloud.gov/admin/websites) or Submit a new website request in [Touchpoints](https://touchpoints.app.cloud.gov/admin/websites/new)
 
 ## Authority to Use (ATU) Review
 Submit an [Authority to Use (ATU) Request](https://github.com/GSA-TTS/tts-pages/issues/new?)
@@ -38,8 +38,6 @@ Submit an [Authority to Use (ATU) Request](https://github.com/GSA-TTS/tts-pages/
 - [ ] Resolve any Web Scan findings provided by GSA Security Team
 
 Once the review is completed the Site Manager will be sent their ATU Approval package via Docusign. The Site Manager will be responsible for managing Security Findings over the lifecycle of the Website.
-
-POAMs and potentially a Correct Critical or High
 
 ## Maintaining Approved Sites 
 Sites hosted on TTS Pages are required to have their URLs scanned in accordance with CIO-IT Security-06-30: Managing Enterprise Cybersecurity Risk and GSA’s parameter for National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, control RA-5, Vulnerability Scanning. 
