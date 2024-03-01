@@ -286,12 +286,7 @@ post it in Slack.
 
 Carefully restricting access to personally identifiable information is a matter
 not just of people's right to respect but of their right to
-[privacy](https://methods.18f.gov/privacy/). For more information, please see
-the
-[Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf),
-or
-[this 30-minute overview of privacy as it relates to research](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4)
-narrated by the GSA Privacy Office.
+[privacy](https://methods.18f.gov/privacy/). 
 
 **Bottom line: If you have questions about sharing information, just ask.** See
 the page on [sensitive information]({% page "/sensitive-information/" %}). If
