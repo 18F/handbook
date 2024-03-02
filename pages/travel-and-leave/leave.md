@@ -321,7 +321,7 @@ If a family member has a serious health concern and you need to take more than
 use up to 12 weeks of sick leave to care for your family member. However, FMLA
 is also used for Paid Parental Leave (PPL). Any amount of FMLA taken is
 subtracted from the total available to you for the next 12 months. You need to
-be a federal employee for at least 12 months in order to be entitled to FMLA. We
+be a federal employee for at least 12 months in order to be entitled to FMLA (note: most veterans are immediately eligible for FMLA). We
 **highly recommend** you discuss FMLA, your unique leave needs, and potential
 leave options with our
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
@@ -481,7 +481,7 @@ Please note: you can only receive 12 workweeks of FMLA-related leave during any
 parental leave period, those hours would be subtracted from the 12 weeks.
 
 You also need to have been a federal employee for 12 months in order to access
-Paid Parental Leave. If you are a new federal employee, check out the
+Paid Parental Leave (note: most veterans are immediately eligible) . If you are a new federal employee, check out the
 [recommendations for those who have less than 1 year of federal service](https://docs.google.com/document/d/1I82lrWKkJX_t7DocCYkbZSLFpHLLP_HlwXWLgzzLFXk/edit#).
 
 You will need to sign an agreement, stating that you will return to work for at
@@ -597,8 +597,7 @@ options with our
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 You can take FMLA if you have been an employee of the federal government for at
-least 12 months. If you are a former member of the military and/or a military
-service academy, you can receive credit for your time.
+least 12 months (note: most veterans are immediately eligible).
 
 Department of Labor Resource:
 
