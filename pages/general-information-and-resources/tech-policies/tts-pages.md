@@ -12,7 +12,7 @@ redirect_from:
 
 "TTS Pages" is **GSA's internal "System"** with an Authority to Operate (ATO) of [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) for their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides TTS users with a fast and secure approach to getting a Web Presence for your projects/programs. This page defines the requirements for launching a new website at GSA using [Cloud.gov Pages](https://pages.cloud.gov)
 
->Follow this link for more information about using [Cloud.gov Pages](/tools/pages)
+>Follow this link for more information about using [Cloud.gov Pages](tools/pages)
 
 ## Launching a [Cloud.gov Pages](http://pages.cloud.gov) Website at GSA
 
@@ -26,7 +26,7 @@ redirect_from:
   - [ ] Secret Scanning
 - [ ] Designate (One) Github Team with `Admin` Access to the repository
 - [ ] Designate (One or More) Github Team(s) with `Write` Access to the repository
-- [ ] Submit a Pull Request to add your Repository to our Github Configuration Scanner "[.allstar](https://github.com/ossf/allstar)" to [GSA](https://github.com/GSA/.allstar/blob/main/allstar.yaml) or [GSA-TTS](https://github.com/GSA-TTS/.allstar/blob/main/allstar.yaml)
+- [ ] Submit a Pull Request to add your Repository to our Github Configuration Scanner to [GSA](https://github.com/GSA/.allstar/blob/main/allstar.yaml) or [GSA-TTS](https://github.com/GSA-TTS/.allstar/blob/main/allstar.yaml)
 - [ ] Create a [`SECURITY.md` file](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository) - [Example](https://github.com/GSA-TTS/.allstar/blob/main/SECURITY.md)
 - [ ] Follow GSA's [Digital Lifecycle Program](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program?term=DLP) for the Website
 - [ ] Confirm your Website is listed on https://touchpoints.digital.gov
