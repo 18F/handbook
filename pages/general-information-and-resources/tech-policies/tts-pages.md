@@ -10,15 +10,15 @@ redirect_from:
 
 >This guide is for **GSA Employees** operating a GSA Website using [Cloud.gov Pages](https://pages.cloud.gov).
 
-"TTS Pages" is **GSA's internal "System"** with an Authority to Operate (ATO) of [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) for their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides TTS users with a fast and secure approach to getting a Web Presence for your projects/programs. This page defines the requirements for launching a new website at GSA using [Cloud.gov Pages](https://pages.cloud.gov)
+"TTS Pages" is **GSA's internal "System"** with an Authority to Operate (ATO) of [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) for their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a Web Presence for your projects/programs. This page defines the requirements for launching a new website at GSA using [Cloud.gov Pages](https://pages.cloud.gov)
 
 >Follow this link for more information about using [Cloud.gov Pages](tools/pages)
 
 ## Launching a [Cloud.gov Pages](http://pages.cloud.gov) Website at GSA
 
-- Identify a Federal GSA Employee as the **Website Manager**
+- Identify a Federal GSA Employee as the **GSA Website Manager**
 
-> Note: GSA **Website Manager** is defined here [GSA's Digital.gov Program](https://digital.gov/2023/03/24/who-is-your-website-manager/) 
+> Note: **GSA Website Manager** is defined here [GSA's Digital.gov Program](https://digital.gov/2023/03/24/who-is-your-website-manager/) 
 
 - Turn on all [Github Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) for the Site's Repository and `Enable`:
   - [CodeQL](https://docs.github.com/en/code-security/code-scanning)
@@ -37,7 +37,7 @@ Submit an [Authority to Use (ATU) Request](https://github.com/GSA-TTS/tts-pages/
 
 - Resolve any Critical or High security findings from Security Scanners
 
-Once the ATU review is completed the **Site Manager** will be sent an ATU Approval package for signature. The Site Manager will be responsible for managing Security Findings over the lifecycle of the Website.
+Once the ATU review is completed the **GSA Website Manager** will be sent an ATU Approval package for signature. The **GSA Website Manager** will be responsible for managing Security Findings over the lifecycle of the Website.
 
 ## Maintaining Approved Sites 
 Sites hosted on TTS Pages are required to have their URLs scanned in accordance with CIO-IT Security-06-30: Managing Enterprise Cybersecurity Risk and GSA’s parameter for National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, control RA-5, Vulnerability Scanning. 
