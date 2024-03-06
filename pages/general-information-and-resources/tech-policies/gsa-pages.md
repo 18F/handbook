@@ -10,7 +10,7 @@ redirect_from:
 
 >This guide is for **GSA Employees** operating a GSA Website using [Cloud.gov Pages](https://pages.cloud.gov).
 
-"GSA Pages" is **GSA's internal "System"** with an Authority to Operate (ATO) of [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) for their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a Web Presence for your projects/programs. 
+"GSA Pages" is **GSA's internal "System"** with an Authority to Operate (ATO) of [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a Web Presence for your projects/programs. 
 
 >Follow this link for more information about [Cloud.gov Pages](tools/pages)
 
@@ -69,7 +69,7 @@ The **GSA Website Manager** must provide a CAP to the System owner within 30 day
 The **GSA Website Manager** CAP must be approved by the GSA Pages system owner, the ISSM, and IST Director.
 
 ## Site Disablement
-**GSA Website Manager**who fail to respond to the CAP within the 30 day timeframe, or fail to provide an adequate CAP, or fail to comply with the provisions, timeline and duration of their CAP will have their site Disabled.
+**GSA Website Manager** who fail to respond to the CAP within the 30 day timeframe, or fail to provide an adequate CAP, or fail to comply with the provisions, timeline and duration of their CAP will have their site Disabled.
 - Disabling a site consists of removing the site from the [Cloud.gov Pages Platform](https://pages.cloud.gov) which will result in a site being unreachable. 
 
 ## Site Removal
