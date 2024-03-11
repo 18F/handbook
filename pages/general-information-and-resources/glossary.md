@@ -81,6 +81,8 @@ cSpell: ignore Technica
   - Gather all of the information for search to work
   - Trigger emails being sent
 
+- **BD** - Business Development. The process of looking for clients or partners.
+
 - **BOC** - Budget Object Code. Used for accounting.
 
 - **BPR** - Business Process Reengineering. This is when an organization designs
@@ -235,6 +237,9 @@ cSpell: ignore Technica
   write code that defines IT infrastructure, like, definitions of servers needed
   by a project. The code can be read by a machine that then provisions the
   needed server.
+
+- **IG** or **OIG** - (Office of) Inspector General, the oversight division
+  within each federal agency, which verifies the agency is complying with laws.
 
 - **IGCE** - Independent Government Cost Estimate. Based upon SOW.
 
@@ -413,6 +418,9 @@ cSpell: ignore Technica
   build, buy, and share technology that allows them to better serve the public.
   This is the TTS Handbook, and you're probably reading it because you're an
   employee of TTS. TTS is part of FAS, which is part of GSA.
+
+- **USDS** - The [United States Digital Corps](https://digitalcorps.gsa.gov/) is
+  a two‑year fellowship program for early‑career technologists; a part of TTS.
 
 - **USDS** - The [United States Digital Service](https://www.usds.gov/) is a
   startup at The White House, using design and technology to deliver better
