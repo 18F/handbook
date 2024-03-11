@@ -6,7 +6,7 @@ questions:
 redirect_from:
   - /gsa-pages/
 ---
-# GSA Pages - Authority to Use (ATU) Process
+# Authority to Use (ATU) Process
 
 >This guide is for **GSA Employees** operating a GSA Website using [Cloud.gov Pages](https://pages.cloud.gov).
 
