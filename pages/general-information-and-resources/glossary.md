@@ -419,7 +419,7 @@ cSpell: ignore Technica
   This is the TTS Handbook, and you're probably reading it because you're an
   employee of TTS. TTS is part of FAS, which is part of GSA.
 
-- **USDS** - The [United States Digital Corps](https://digitalcorps.gsa.gov/) is
+- **USDC** - The [United States Digital Corps](https://digitalcorps.gsa.gov/) is
   a two‑year fellowship program for early‑career technologists; a part of TTS.
 
 - **USDS** - The [United States Digital Service](https://www.usds.gov/) is a
