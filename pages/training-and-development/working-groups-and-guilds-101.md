@@ -186,7 +186,7 @@ Guild meeting times can also be found on the
         </td>
         <td>
           Samira Sadat - USDC, Vote.gov<br />
-          Drew Bollinger - cloud.gov Pages
+          Caley Woods - 18F
         </td>
       </tr>
       <tr>
