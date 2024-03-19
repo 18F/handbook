@@ -286,7 +286,9 @@ post it in Slack.
 
 Carefully restricting access to personally identifiable information is a matter
 not just of people's right to respect but of their right to
-[privacy](https://methods.18f.gov/privacy/). 
+[privacy](https://methods.18f.gov/privacy/). For more information, please see
+[this 30-minute overview of privacy as it relates to research](https://gsa-tts.slack.com/archives/C03JK2KH8/p1536779475000100)
+narrated by the GSA Privacy Office.
 
 **Bottom line: If you have questions about sharing information, just ask.** See
 the page on [sensitive information]({% page "/sensitive-information/" %}). If
