@@ -30,9 +30,9 @@ expenses while on your trip.
 While new employees may travel without one, it is required that everyone at TTS
 have one as soon as possible.
 
-[Instructions for applying for a GSA Travel Card](https://insite.gsa.gov/employee-resources/acquisition-purchases-and-payments/gsa-travel-card/application-renewal-procedures)
+- [Instructions for applying for a GSA Travel Card](https://insite.gsa.gov/employee-resources/acquisition-purchases-and-payments/gsa-travel-card/application-renewal-procedures)
 
-[Visit the GSA SmartPay 3 travel card page for more information](https://smartpay.gsa.gov/content/travel).
+- [Visit the GSA SmartPay 3 travel card page for more information](https://smartpay.gsa.gov/content/travel).
 
-[Next Step: Complete Your Concur
+- [Next Step: Complete Your Concur
 Profile]({% page "/first-time-travel-complete-concur-profile" %})
