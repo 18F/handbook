@@ -251,8 +251,7 @@ a
 [Non-Standard Equipment Request](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=ed419ee8dbd2e7000dc9ff621f9619c6)
 via the GSA IT Service Desk.
 
-If you need to setup a printer while in the office, follow the instructions
-[here](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
+If you need to setup a printer while in the office, follow [the instructions](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
 
 ## Equipment to accommodate disability
 
