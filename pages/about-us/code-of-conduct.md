@@ -63,8 +63,8 @@ encounter behavior that runs contrary to this policy.
 
 ### Sexual and Non-Sexual Harassment
 
-The [GSA Policy](https://www.gsa.gov/directives/files?file=2023-08/CC047930_%20directive_ADM%202325.8A,%20GSA%20Policy%20Statement%20on%20Harassment.pdf)
-Statement on Sexual and Non-Sexual Harassment forbids:
+The [GSA Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08/CC047930_%20directive_ADM%202325.8A,%20GSA%20Policy%20Statement%20on%20Harassment.pdf)
+ forbids:
 
 - Sexual and non-sexual harassment and misconduct
 - Unwelcome verbal or written comment or physical conduct based on:
@@ -114,7 +114,7 @@ TTS:
 
 ## Reporting violations
 
-[GSA's Policy Statement on Sexual and Non-Sexual Harrassment](https://www.gsa.gov/directives/files?file=2023-08%2FCC047930_%20directive_ADM%202325.8A%2C%20GSA%20Policy%20Statement%20on%20Harassment.pdf) and GSA's [Anti-Harrassment Procedures in the Workplace](https://www.gsa.gov/directives/files?file=2023-12%2FCC044442_Order_HRM%209700.6%20CHGE%202%20Anti-Harassment%20Procedures%20in%20the%20Workplace%20%284%29.pdf) document processes for reporting violations. Depending on your complaint, you may have a 45-day
+GSA's [Policy Statement on Sexual and Non-Sexual Harrassment](https://www.gsa.gov/directives/files?file=2023-08%2FCC047930_%20directive_ADM%202325.8A%2C%20GSA%20Policy%20Statement%20on%20Harassment.pdf) and GSA's [Anti-Harrassment Procedures in the Workplace](https://www.gsa.gov/directives/files?file=2023-12%2FCC044442_Order_HRM%209700.6%20CHGE%202%20Anti-Harassment%20Procedures%20in%20the%20Workplace%20%284%29.pdf) describe processes for reporting violations. Depending on your complaint, you may have a 45-day
 window from the date of the incident to report it to the GSA. Please read the documents carefully.
 
 The behaviors listed in this section undermine the culture of inclusion and
