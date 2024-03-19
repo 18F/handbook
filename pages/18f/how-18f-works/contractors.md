@@ -50,7 +50,7 @@ determine if a GSA Access Card is required.
 
 Depending on the work they will perform, contractors may receive GSA provided
 computers or equipment. If the contractor needs access to applications that
-require VPN, they are required to use a [GSA provided
+require access to the GSA network, they are required to use a [GSA provided
 computer]({% page "/getting-started/equipment/#laptop" %}). If they can complete
 their work using VDI, they do not need a GSA provided computer and may use their
 company issued computer.
