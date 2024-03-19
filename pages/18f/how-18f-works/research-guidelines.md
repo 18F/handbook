@@ -301,5 +301,4 @@ Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
 ## Join the research guild!
 
 Learn more about the research guild in our [README.](https://docs.google.com/document/d/1kc73HuxXWxr4RIKG0aeHSW3VFK5SRD597vZNfX4_huM/edit#heading=h.wdpwcv6e5j47)
-
 [Learn more about guilds at TTS here.]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds" %})
