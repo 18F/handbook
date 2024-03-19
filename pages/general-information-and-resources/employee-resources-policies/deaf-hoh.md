@@ -264,9 +264,8 @@ Each program office is responsible for the cost of these services.
 ### Planning for accessible events
 
 GSA maintains a very useful InSite page on
-[hosting accessible meetings](https://insite.gsa.gov/employee-resources/information-technology/508-accessibility/hosting-accessible-meetings).
-It’s worth VPNing in for and includes actions to take before, during, and after
-your meeting.
+[hosting accessible meetings](https://insite.gsa.gov/employee-resources/information-technology/it-accessibility-section-508/hosting-accessible-meetings).
+It includes actions to take before, during, and after your meeting.
 
 ## Who to contact
 
