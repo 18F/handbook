@@ -55,7 +55,7 @@ code.
 
 ### Set up your account
 
-Follow the instructions [here]({% page "/github/" %})
+Follow the [instructions]({% page "/github/" %})
 
 ### Basics
 
