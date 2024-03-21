@@ -13,65 +13,52 @@ This page provides an overview with examples of how to write a federal
 government resume, which have content and formatting that differ from most
 private sector resumes.
 
-## How to write a Federal resume
+## How to write a federal resume
 
-_Written by [Amanda Costello](https://github.com/amandacostello), 18F content
-designer and gummi bear enthusiast, July 10, 2019._
+_Written by [Amanda Costello](https://github.com/amandacostello), 18F content designer and gummi bear enthusiast, July 2019. (Revised March 2024)_
 
-**Writing a US federal resume is hard.** When I started writing mine, all I
-wanted was a solid example. What needs to be there, in what order, and what
-would it look like with real information. This is that example. (**_Law and
-Order chimes_**)
+Writing a US federal resume is hard. When I started writing mine, all I wanted was a solid example. What needs to be included, in what order, and what would it look like with real information. This is that example. (_Law and Order chimes_)
 
-Below are excerpts from my federal resume, along with details and notes about
-how it’s written and formatted. I want more awesome folks from all backgrounds
-and experiences as colleagues. I don’t want the resume formatting or particulars
-to be a mystery; it’s already a very challenging piece of writing.
+It can be helpful to think about a federal resume like an academic CV, an overview of your whole career. Also, these are **long documents**. This is not the place for a 1-2 page resume. When I applied, my resume was 7 pages long; after 5 years at 18F, it’s close to 15 pages.
+
+Below are excerpts from my federal resume, along with details and notes about how it’s written and formatted. I want more awesome folks from all backgrounds and experiences as colleagues. I don’t want the resume formatting or particulars to be a mystery; it’s already a very challenging piece of writing.
 
 ### General things to keep in mind:
 
-1. This resume’s job is to connect the requirements of the job posting to your
-   experience using the **straightest possible line**. I printed out the job
-   posting and highlighted every key phrase of the requirements, qualifications,
-   and what kind of work this job would do. I then made that into a checklist to
-   make sure each one of those things could clearly be mapped to my resume.
-2. **Throw out your formatting.** I used CAPS for headers, italics for mission
-   statements, and bullet points. Expect that the bulk of your formatting will
-   be stripped out. No columns, no fanciness. Just write. Hard.
-3. **Speaking of writing: get your words going, and then get more words.** I had
-   to submit two writing samples, and that was where I could show off my content
-   strategy particulars. Remember the job of the resume content: clear, straight
-   lines between the requirements and your experience.
+1. This resume’s job is to connect the requirements of the job posting to your experience using the straightest possible line. I printed out the job posting and highlighted every key phrase of the requirements, qualifications, and what kind of work this job would do. I then made that into a checklist to make sure each one of those things could clearly be mapped to my resume.
+    1. Pay particular attention to the Specialized Experience section of a federal job posting. These items must be clearly represented on your resume to show you’ve done the work to be qualified. 
+    2. _**New in 2024!**_ Another tactic that’s been successful for me has been making the job posting’s Specialized Experience the headers for duties and responsibilities. Obviously you can’t do this until you’re looking at a specific job, but it can be a good way to organize your work for readability.
+2. Throw out your formatting. I used CAPS for headers, italics for mission statements, and bullet points. Expect that the bulk of your formatting will be stripped out. No columns, no fanciness. Just write. Hard.
+3. Speaking of writing: get your words going, and then get more words. I had to submit two writing samples, and that was where I could show off my content strategy particulars. Remember the job of the resume content: clear, straight lines between the requirements and your experience.
 
-> Explicit disclaimer: This resume format is what I chose to use in applying to
-> 18F in the US Federal Government’s General Services Administration. It is not
-> the only acceptable format, but is what worked well for me. I currently work
-> as a content designer at 18F, but put this together on my own time, using no
-> government resources to do so. Using this formatting is not a guarantee of
-> consideration. You still gotta do the work.
+_Explicit disclaimer: This resume format is what I chose to use in applying to 18F in the US Federal Government’s General Services Administration. It is not the only acceptable format, but is what worked well for me. I currently work as a content designer at 18F, but put this together on my own time, using no government resources to do so. Using this formatting is not a guarantee of consideration. You still gotta do the work._
 
-Want to chat more about this? I’m on Twitter:
-[@amandaesque](https://www.twitter.com/amandaesque)
+Want to chat more about this? Shoot me an email at
+amanda.costello@gsa.gov
 
-My comments below will all be in `code demo backticks`.
+My comments below will all be in text boxes
 
 ---
 
-### And now, the resume!
+### Resume formatting
 
-`Everything about this top material is standardized formatting. Go ahead and put your own info in just like this. `
+`Everything about this top material is standardized formatting. Go ahead and put your own info in just like this.`
 
-AMANDA COSTELLO  
-123 Lutefisk Street  
-You Betcha, MN 55555  
+AMANDA COSTELLO
+123 Lutefisk Street
+You Betcha, MN 55555
+
 Mobile: 555-555-5555
+Email: amanda.costello@gsa.gov
 
-Email:  
-Availability: April 1, 2020  
+Availability: April 1, 2024
+
 Job Type: Permanent, Telework Work Schedule: Full-Time
 
-Desired locations:  
+Desired locations:
+
 United States - MN
+Remote
 
 #### WORK EXPERIENCE
 
