@@ -7,7 +7,7 @@ redirect_from:
 
 We use [cloud.gov Pages](https://cloud.gov/pages/) to build websites.
 
-> If you are building or launching a **new** GSA Website [follow this guide](tts-pages/) 
+> If you are building or launching a **new** GSA Website [follow this guide]({% page "/gsa-pages/" %})
 
 ## Documentation
 
