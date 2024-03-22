@@ -10,13 +10,11 @@ redirect_from:
 
 {% include "alert.html" level:"warning" heading: "GSA Only" content: "This guide is for **GSA Employees or Contractors** operating a GSA Website" %}
 
-"GSA Pages" is a **GSA only Authority to Operate (ATO)** of [cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the source code and contents for the website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a web presence for your projects/programs. 
-
 {% include "low-system.html" %}
 
->Follow this link for more information about [cloud.gov Pages](tools/pages).
+"GSA Pages" is a **GSA only Authority to Operate (ATO)** of [cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the source code and contents for the website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a web presence for your projects/programs. 
 
-## Launching a [cloud.gov Pages](http://pages.cloud.gov) Website at GSA
+## Launching a [cloud.gov Pages](tools/pages) Website
 
 - Identify a Federal GSA Employee as the **GSA Website Manager**
 
