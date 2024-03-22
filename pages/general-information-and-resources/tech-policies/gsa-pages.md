@@ -76,7 +76,7 @@ The **GSA Website Manager** CAP must be approved by the GSA Pages system owner, 
 ## Site Removal
 **GSA Website Manager** who fail to address deficiencies within 90 days of disablement will have their site removed from the GSA Pages ATO boundary and the site will be deleted. 
 - Deleting a site removes the published site from the [cloud.gov Pages Platform](https://pages.cloud.gov) and from the dashboards of all site users. This will bring the entire site offline and make it inaccessible for users.
-- A Site Removal letter will be issued to **GSA Website Manager** indicating that the site is no longer authorized to operate. 
+- A Site Removal letter will be issued by the **GSA Pages System Owner** to **GSA Website Manager** indicating that the site is no longer authorized to operate. 
 
 ## Incident Response
 **In the event of a security incident:**
