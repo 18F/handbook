@@ -20,22 +20,22 @@ redirect_from:
 
 > Note: **GSA Website Manager** is defined here [GSA's Digital.gov Program](https://digital.gov/2023/03/24/who-is-your-website-manager/). 
 
-- Turn on all [Github Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) for the Site's Repository and `Enable`:
+- Turn on all [Github Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) for the website's repository and `Enable`:
   - [CodeQL](https://docs.github.com/en/code-security/code-scanning)
   - [Dependabot](https://docs.github.com/en/code-security/dependabot/)
   - [Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
-- Designate (One) Github Team with `Admin` Access to the repository
-- Designate (One or More) Github Team(s) with `Write` Access to the repository
-- Submit a Pull Request to add your Repository to our Github Configuration Scanner to [GSA](https://github.com/GSA/.allstar/blob/main/allstar.yaml) or [GSA-TTS](https://github.com/GSA-TTS/.allstar/blob/main/allstar.yaml)
+- Designate (One) Github Team with `Admin` access to the repository
+- Designate (One or More) Github Team(s) with `Write` access to the repository
+- Submit a pull request to add your repository to our Github configuration scanner to [GSA](https://github.com/GSA/.allstar/blob/main/allstar.yaml) or [GSA-TTS](https://github.com/GSA-TTS/.allstar/blob/main/allstar.yaml)
 - Create a [`SECURITY.md` file](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository) - [Example](https://github.com/GSA-TTS/.allstar/blob/main/SECURITY.md)
 - Follow GSA's [Digital Lifecycle Program](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program?term=DLP) for the Website
-- Confirm your Website is listed on [https://touchpoints.digital.gov](https://touchpoints.digital.gov)
-  - if not Submit a [new website request](https://touchpoints.app.cloud.gov/admin/websites/new)
+- Confirm your website is listed on [https://touchpoints.digital.gov](https://touchpoints.digital.gov)
+  - if not submit a [new website request](https://touchpoints.app.cloud.gov/admin/websites/new)
 
 ## Authority to Use (ATU) Review
 Submit an [Authority to Use (ATU) Request](https://github.com/GSA-TTS/gsa-pages/issues/new/choose)
 
-- Resolve any Critical or High security findings from Security Scanners
+- Resolve any Critical or High security findings from security scanners
 
 Once the ATU review is completed the **GSA Website Manager** will be sent an ATU Approval package for signature. The **GSA Website Manager** will be responsible for managing Security Findings over the lifecycle of the Website.
 
