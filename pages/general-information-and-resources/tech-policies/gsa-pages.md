@@ -10,13 +10,13 @@ redirect_from:
 
 {% include "alert.html" level:"warning" heading: "GSA Only" content: "This guide is for **GSA Employees or Contractors** operating a GSA Website" %}
 
-"GSA Pages" is a **GSA only Authority to Operate (ATO)** of [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a Web Presence for your projects/programs. 
+"GSA Pages" is a **GSA only Authority to Operate (ATO)** of [cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the source code and contents for the website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a web presence for your projects/programs. 
 
 {% include "low-system.html" %}
 
->Follow this link for more information about [Cloud.gov Pages](tools/pages).
+>Follow this link for more information about [cloud.gov Pages](tools/pages).
 
-## Launching a [Cloud.gov Pages](http://pages.cloud.gov) Website at GSA
+## Launching a [cloud.gov Pages](http://pages.cloud.gov) Website at GSA
 
 - Identify a Federal GSA Employee as the **GSA Website Manager**
 
@@ -60,7 +60,7 @@ Conditions/events that may require a reassessment of the ATU include:
 **GSA Website Manager** will be notified, the following is only in the event that the **GSA Website Manager** is none responsive.
 
 ## Failure to Maintain Site - Site Removal
-Sites that fail to maintain the ATU requirements will be issued a formal notice. The GSA Pages team may take steps to disable the site or remediate the vulnerabilities. **GSA Website Manager** who hit certain triggers of overdue POA&Ms and/or failure to maintain alignment to ATU requirements will be required to provide a **Corrective Action Plan (CAP)** detailing the steps that will be taken to address the deficiencies. 
+Sites that fail to maintain the ATU requirements will be issued a formal notice. The GSA Pages team may take steps to disable the site or remediate the vulnerabilities. **GSA Website Manager** who hit certain triggers of overdue **Plan of Actions & Milestones (POA&Ms)** and/or failure to maintain alignment to ATU requirements will be required to provide a **Corrective Action Plan (CAP)** detailing the steps that will be taken to address the deficiencies. 
 
 The CAP must be approved by the **GSA Website Manager**, System Owner, ISSM, and IST Director. Sites or **GSA Website Managers** who fail to respond to a CAP or complete approved actions will be removed from the ATO boundary, and will no longer be authorized. The removal process steps are further described below: 
 - **Detailed Finding Review (DFR)** - **GSA Website Managers** will be issued a DFR upon failing to address a deficiency within the site or alignment with the ATU requirements.
@@ -71,11 +71,11 @@ The **GSA Website Manager** CAP must be approved by the GSA Pages system owner, 
 
 ## Site Disablement
 **GSA Website Manager** who fail to respond to the CAP within the 30 day timeframe, or fail to provide an adequate CAP, or fail to comply with the provisions, timeline and duration of their CAP will have their site Disabled.
-- Disabling a site consists of removing the site from the [Cloud.gov Pages Platform](https://pages.cloud.gov) which will result in a site being unreachable. 
+- Disabling a site consists of removing the site from the [cloud.gov Pages Platform](https://pages.cloud.gov) which will result in a site being unreachable. 
 
 ## Site Removal
 **GSA Website Manager** who fail to address deficiencies within 90 days of disablement will have their site removed from the GSA Pages ATO boundary and the site will be deleted. 
-- Deleting a site removes the published site from the [Cloud.gov Pages Platform](https://pages.cloud.gov) and from the dashboards of all site users. This will bring the entire site offline and make it inaccessible for users.
+- Deleting a site removes the published site from the [cloud.gov Pages Platform](https://pages.cloud.gov) and from the dashboards of all site users. This will bring the entire site offline and make it inaccessible for users.
 - A Site Removal letter will be issued indicating that the site is no longer authorized to operate. 
 
 ## Incident Response
@@ -86,5 +86,5 @@ Follow [TTS Incident Response Plan](https://handbook.tts.gsa.gov/general-informa
 ## Contingency Plan
 **In the event of an outage:**
 
-1. Sign up for [Cloud.gov Pages Status](https://cloudgov.statuspage.io/) notifications
-1. Follow [Cloud.gov Contingency Plan](https://cloud.gov/docs/ops/contingency-plan/)
+1. Sign up for [cloud.gov Pages Status](https://cloudgov.statuspage.io/) notifications
+1. Follow [cloud.gov Contingency Plan](https://cloud.gov/docs/ops/contingency-plan/)
