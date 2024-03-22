@@ -57,7 +57,7 @@ Conditions/events that may require a reassessment of the ATU include:
 
 >This Determination is made by the GSA Pages System Owner `tts-tech-operations@gsa.gov`. Generally, this is done if security findings are not being addressed promptly.
 
-**GSA Website Manager** will be notified, the following is only in the event that the **GSA Website Manager** is none responsive.
+**GSA Pages System Owner** will proceed with the following actions, only in the event that the **GSA Website Manager** is none responsive.
 
 ## Failure to Maintain Site - Site Removal
 Sites that fail to maintain the ATU requirements will be issued a formal notice. The GSA Pages team may take steps to disable the site or remediate the vulnerabilities. **GSA Website Manager** who hit certain triggers of overdue **Plan of Actions & Milestones (POA&Ms)** and/or failure to maintain alignment to ATU requirements will be required to provide a **Corrective Action Plan (CAP)** detailing the steps that will be taken to address the deficiencies. 
