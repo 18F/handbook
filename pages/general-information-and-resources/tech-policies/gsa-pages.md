@@ -64,7 +64,7 @@ Sites that fail to maintain the ATU requirements will be issued a formal notice.
 
 The CAP must be approved by the **GSA Website Manager**, System Owner, ISSM, and IST Director. Sites or **GSA Website Managers** who fail to respond to a CAP or complete approved actions will be removed from the ATO boundary, and will no longer be authorized. The removal process steps are further described below: 
 - **Detailed Finding Review (DFR)** - **GSA Website Managers** will be issued a DFR upon failing to address a deficiency within the site or alignment with the ATU requirements.
-- **Corrective Action Plan** - **GSA Website Managers** who fail to adequately respond or address a DFR will be issued a CAP request. 
+- **Corrective Action Plan** - **GSA Website Managers'** who fail to adequately respond or address a DFR will be issued a CAP request. 
 The **GSA Website Manager** must provide a CAP to the System owner within 30 days of the CAP request. The CAP must detail how the team will address the deficiencies and the timeline for completion.
 
 The **GSA Website Manager** CAP must be approved by the GSA Pages system owner, the ISSM, and IST Director.
@@ -76,7 +76,7 @@ The **GSA Website Manager** CAP must be approved by the GSA Pages system owner, 
 ## Site Removal
 **GSA Website Manager** who fail to address deficiencies within 90 days of disablement will have their site removed from the GSA Pages ATO boundary and the site will be deleted. 
 - Deleting a site removes the published site from the [cloud.gov Pages Platform](https://pages.cloud.gov) and from the dashboards of all site users. This will bring the entire site offline and make it inaccessible for users.
-- A Site Removal letter will be issued indicating that the site is no longer authorized to operate. 
+- A Site Removal letter will be issued to **GSA Website Manager** indicating that the site is no longer authorized to operate. 
 
 ## Incident Response
 **In the event of a security incident:**
