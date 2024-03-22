@@ -8,17 +8,19 @@ redirect_from:
 ---
 # Authority to Use (ATU) Process
 
->This guide is for **GSA Employees** operating a GSA Website using [Cloud.gov Pages](https://pages.cloud.gov).
+{% include "alert.html" level:"warning" heading: "GSA Only" content: "This guide is for **GSA Employees or Contractors** operating a GSA Website" %}
 
 "GSA Pages" is a **GSA only Authority to Operate (ATO)** of [Cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [Cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the Source Code and Contents for the Website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a Web Presence for your projects/programs. 
 
->Follow this link for more information about [Cloud.gov Pages](tools/pages)
+{% include "low-system.html" %}
+
+>Follow this link for more information about [Cloud.gov Pages](tools/pages).
 
 ## Launching a [Cloud.gov Pages](http://pages.cloud.gov) Website at GSA
 
 - Identify a Federal GSA Employee as the **GSA Website Manager**
 
-> Note: **GSA Website Manager** is defined here [GSA's Digital.gov Program](https://digital.gov/2023/03/24/who-is-your-website-manager/) 
+> Note: **GSA Website Manager** is defined here [GSA's Digital.gov Program](https://digital.gov/2023/03/24/who-is-your-website-manager/). 
 
 - Turn on all [Github Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) for the Site's Repository and `Enable`:
   - [CodeQL](https://docs.github.com/en/code-security/code-scanning)
@@ -55,7 +57,7 @@ Conditions/events that may require a reassessment of the ATU include:
 
 >This Determination is made by the GSA Pages System Owner `tts-tech-operations@gsa.gov`. Generally, this is done if security findings are not being addressed promptly.
 
-**GSA Website Manager** will be notified, the following steps are only in the event that the **GSA Website Manager** is none responsive.
+**GSA Website Manager** will be notified, the following is only in the event that the **GSA Website Manager** is none responsive.
 
 ## Failure to Maintain Site - Site Removal
 Sites that fail to maintain the ATU requirements will be issued a formal notice. The GSA Pages team may take steps to disable the site or remediate the vulnerabilities. **GSA Website Manager** who hit certain triggers of overdue POA&Ms and/or failure to maintain alignment to ATU requirements will be required to provide a **Corrective Action Plan (CAP)** detailing the steps that will be taken to address the deficiencies. 
@@ -77,12 +79,12 @@ The **GSA Website Manager** CAP must be approved by the GSA Pages system owner, 
 - A Site Removal letter will be issued indicating that the site is no longer authorized to operate. 
 
 ## Incident Response
-> In the event of a security incident
+**In the event of a security incident:**
 
 Follow [TTS Incident Response Plan](https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/security-incidents/)
 
 ## Contingency Plan
-> In the event of an outage
+**In the event of an outage:**
 
 1. Sign up for [Cloud.gov Pages Status](https://cloudgov.statuspage.io/) notifications
 1. Follow [Cloud.gov Contingency Plan](https://cloud.gov/docs/ops/contingency-plan/)
