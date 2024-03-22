@@ -45,7 +45,7 @@ At TTS, collaboration is a part of our culture. Here are the collaboration tools
 
 ### Video conferencing tools
 - **Google Meet** and **Zoom** are the primary video conferencing tools used at TTS. [Google Meet]({% page "/tools/google-meet/" %}) is typically used for internal TTS/GSA meetings, while [Zoom]({% page "/tools/zoom/" %}) is often used for larger meetings (for example, GSA Town Halls or TTS All Hands) and meetings with our partners or other external stakeholders. Some teams also use [Slack](https://slack.com/help/articles/216771908-Make-calls-in-Slack) for quick conversations and/or meetings as well. 
-- In some cases, we may pre-record meeting sessions and/or provide post-event recordings to ensure our employees don’t miss out on important information. Click here to [view a video of a recorded meeting](https://drive.google.com/file/d/1k_ZxSnvCIxw80awsrfvjfFp-VVM7WscM/view?usp=share_link). *Please note: the host of the meeting is required to notify participants they are recording prior to starting the recording.*
+- In some cases, we may pre-record meeting sessions and/or provide post-event recordings to ensure our employees don’t miss out on important information. [View a video of a recorded meeting](https://drive.google.com/file/d/1k_ZxSnvCIxw80awsrfvjfFp-VVM7WscM/view?usp=share_link). *Please note: the host of the meeting is required to notify participants they are recording prior to starting the recording.*
 - Some types of meetings you might attend include: one-on-ones, [trainings]({% page "/training-and-development/" %}), virtual coffees, team meetings/daily stand-ups, TTS-wide meetings (Town Halls and All Hands), plus many more! 
 
 ### Collaboration tools

@@ -72,7 +72,7 @@ notes on the process for allocating 18F training funds.
 1. You will receive an automated email when your request has been fully approved
    and paid for or if additional information is needed to complete your
    registration. You can
-   [track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0)
+   [track the status of your request](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0)
    with the request number in the subject line of the automated email.
 
 _Important note about conference travel:_ If you are traveling to a conference
@@ -114,7 +114,7 @@ as early as possible.
   - Group Conference Training/Attendance
 
 You can
-[track the status of your request here](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0)
+[track the status of your request](https://docs.google.com/spreadsheets/d/1HqsdJ-pHZcg4n8vWwfOo8-sxAFfP1LtWxRVBWEbZnMA/edit#gid=0)
 with the request number in the subject line of the automated email.
 
 ## Additional steps that you may need to take
