@@ -1,5 +1,5 @@
 ---
-title: Resources for Deaf and Hard of Hearing individuals in TTS
+title: Working with Deaf and Hard of Hearing colleagues
 questions:
   - g-accessibility
   - g-diversity
