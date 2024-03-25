@@ -148,11 +148,13 @@ Guild meeting times can also be found on the
       <tr>
         <th class="col-grouplet" id="consulting">Consulting</th>
         <td class="col-description">
-          We develop and support the practice of consulting at TTS.<br /> {% slack_channel "g-consulting" %}
+          We develop and support the practice of consulting at TTS.<br />
+          <a href="https://forms.gle/WfDXRH6VobxSscbw9">2024 survey</a> &bull; {% slack_channel "g-consulting" %}
         </td>
         <td>
-          Matt Cloyd - 18F<br />
-	  Jessica Dussault - 18F
+    Janel Yamashiro - 18F<br />
+	  Jessica Dussault - 18F<br />
+    <em>Seeking a co-lead! <a href="https://gsa-tts.slack.com/archives/D02SFCEPEPP">DM Janel if interested!</a></em>
         </td>
       </tr>
       <tr>
