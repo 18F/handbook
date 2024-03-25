@@ -1,5 +1,5 @@
 ---
-title: Working with Deaf and Hard of Hearing colleagues
+title: Working effectively with your Deaf and Hard of Hearing colleagues
 questions:
   - g-accessibility
   - g-diversity
@@ -7,7 +7,7 @@ redirect_from:
   - /supporting-deaf-hoh-colleagues/
 ---
 
-Tips for effectively working with and supporting your Deaf and Hard of Hearing colleagues at TTS:
+Tips for effectively working with your Deaf and Hard of Hearing colleagues at TTS:
 
 * Recognize that it may be difficult or impossible for a Deaf colleague to multi-task during a meeting. Asking them to look at a document is asking them to shift attention away from interpreter or captions and reduces their ability to participate in the conversation.
 * Chatter on calls is hard to participate in and hard for interpreters to parse — make room for pauses.
