@@ -62,5 +62,4 @@ authorization]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide
 
 #### Having Trouble
 
-Check out the screen shots
-[here](https://docs.google.com/drawings/d/1eP5E7Tq1K4Iva7aNSHjLukJcZzD2Cdkf6LCoEDRzsFM/edit)
+Check out [the screen shots](https://docs.google.com/drawings/d/1eP5E7Tq1K4Iva7aNSHjLukJcZzD2Cdkf6LCoEDRzsFM/edit)
