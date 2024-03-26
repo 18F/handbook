@@ -16,4 +16,4 @@ Tips for working effectively & inclusively with your Deaf and Hard of Hearing co
 * On video calls, use the hand raise feature to minimize people speaking over each other, which is difficult for interpreters to relay.
 * Practice ASL. Signing and/or spelling shows you are making an effort.
 * Facial expressions, body language, and the chat are all non-verbal ways to add context and color to the meeting conversation — use them!
-* When working with Deaf and/or Hard of Hearing colleagues, don’t focus on *what* we are (Deaf), focus on *who* we are.
+* When working with Deaf and/or Hard of Hearing colleagues, don’t focus on *what* they are (Deaf), focus on *who* they are.
