@@ -278,27 +278,27 @@ Conference Name - City, State, Country`
 
 #### EDUCATION
 
+`You can add in particular awards or distinctions here too. I was not a particularly distinguished student. :) `
+
 University of Minnesota - Twin Cities Minneapolis, MN United States  
 Bachelor's Degree MM/YYYY  
 Major: English  
 Minor: Japanese
 
-`You can add in particular awards or distinctions here too. I was not a particularly distinguished student. :) `
-
 #### LANGUAGE SKILLS
+
+`This is totally optional. For each language you speak in addition to English, list the levels at which you speak, write, and read. More details: https://www.usajobs.gov/Help/how-to/account/profile/languages/ `
 
 Language: Japanese  
 Spoken Level: Novice  
 Written Level: Novice  
 Reading Level: Novice
 
-`This is totally optional. For each language you speak in addition to English, list the levels at which you speak, write, and read. More details: https://www.usajobs.gov/Help/how-to/account/profile/languages/ `
-
 #### REFERENCES
 
-Name: Super Awesomeboss  
+`While I listed references on my resume, it’s not required. The hiring and talent folks won’t cold call your references, they’ll ask you for permission later on in the process.`
+
+Name: Jeff Awesomeboss  
 Employer: University of Minnesota  
 Title: The Best Boss  
 Email: teamlead@awesomeboss.com
-
-`While I listed references on my resume, it’s not required. The hiring folks wouldn’t cold call your references, they’d ask you for their contact information later on in the process.`
