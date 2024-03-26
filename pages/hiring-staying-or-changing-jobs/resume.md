@@ -44,29 +44,30 @@ My comments below will all be in text boxes
 
 `Everything about this top material is standardized formatting. Go ahead and put your own info in just like this.`
 
-AMANDA COSTELLO
-123 Lutefisk Street
-You Betcha, MN 55555
-
-Mobile: 555-555-5555
-Email: amanda.costello@gsa.gov
-
-Availability: April 1, 2024
-
-Job Type: Permanent, Telework Work Schedule: Full-Time
-
-Desired locations:
-
-United States - MN
-Remote
-
+AMANDA COSTELLO  
+123 Lutefisk Street  
+You Betcha, MN 55555  
+  
+Mobile: 555-555-5555  
+Email: amanda.costello@gsa.gov  
+  
+Availability: April 1, 2024  
+  
+Job Type: Permanent, Telework Work Schedule: Full-Time  
+  
+Desired locations:  
+  
+United States - MN  
+Remote  
+  
 #### WORK EXPERIENCE
 
-`Below is an example of one job, and how I talked about it. I recommend listing as complete of a job history as you can for at least the last 7 years, more ideally the last 10 years. Here's a formatting example!`
+`Below is a formatting outline of a work experience entry, and then an example of one of my past jobs. I recommend listing as complete of a job history as you can for at least the last 7 years, more ideally the last 10 years.`
 
 Workplace name, Unit name if relevant - City, State, Country  
-Your job title - MM/YYYY to MM/YYYY - Hours per week: xx
-
+  
+Your job title - MM/YYYY to MM/YYYY - Hours per week: xx  
+  
 _Mission statement(s) of the workplace, or summary of the company’s work on a
 larger scale._
 
@@ -96,12 +97,13 @@ SELECTED WORK:
 
 - Another bulleted list, this time of URLs related to work I did.
 - They had quick little blurbs underneath about what they were, and what I did.
-- Photos won’t come through on this resume, so no screenshots or anything.
-
-`End of formatting example!`
+- Photos won’t come through on this resume, so no screenshots or anything.  
+  
+#### Work experience example from my 2018 resume
 
 University of Minnesota, College of Education and Human Development -
-Minneapolis, MN  
+Minneapolis, MN
+
 Lead Content Strategist - 07/2012 to Present - Hours per week: 40
 
 _The mission of the College of Education and Human Development is to contribute
@@ -231,6 +233,7 @@ SELECTED WORK:
 `Your volunteer work doesn’t count as experience for scoring, but is still good to include. I used a format similar to the work experience job entry above, though used the bulleted list format for duties and responsibilities, and shortened everything up.`
 
 MinneWebCon Annual Conference - Minneapolis, MN - www.minnewebcon.org  
+
 Conference Director - 10/2011 - 06/2015
 
 _MinneWebCon is a two-day web conference in Minneapolis that encourages
@@ -253,14 +256,12 @@ DUTIES AND RESPONSIBILITIES
 
 #### SELECTED SPEAKING AND PRESENTATIONS
 
-`I do a lot of presentations and workshops, and they’re a big part of who I am and how I share my work with the community. This is a shortened list to show you what examples look like, including upcoming talks. Like volunteer work, this does not count towards experience scoring, and is optional.`
+`I do a lot of presentations and workshops; they’re a big part of who I am and how I share my work with the community. This is a shortened list to show you what examples look like, including upcoming talks. Like volunteer work, this does not count towards experience scoring, and is optional.`
 
-`My resume listed about 15 sessions that I thought were particularly relevant to this job. I also had sections on selected publications and selected podcast guest appearances, because those are cool too!`
+`My resume listed about 15 sessions that I thought were relevant to this job. I also had sections on selected publications and selected podcast guest appearances, because those are cool too! The format I use is:`
 
-```
-“Title of the Presentation,” what kind of session - MM/YYYY
-Conference Name - City, State, Country
-```
+`"Title of the Presentation," what kind of session - MM/YYYY  
+Conference Name - City, State, Country`
 
 - “How Silos Learn: Working in the Idea Factory,” closing keynote address -
   08/2018 (scheduled)  
