@@ -65,7 +65,7 @@ The invite-only affinity groups are:
   non-hegemonic masculine folks).
 
 For an invitation to these groups, please see
-[this Slack post](https://app.slack.com/docs/T025AQGAN/F016UD0P6SC?origin_team=T025AQGAN&origin_channel=D011CRNGF71),
+[this Slack post](https://gsa.enterprise.slack.com/docs/T025AQGAN/F016UD0P6SC),
 which includes contact people for each invite-only group.
 
 ## Working groups in TTS
