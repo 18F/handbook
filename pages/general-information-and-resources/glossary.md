@@ -397,7 +397,7 @@ cSpell: ignore Technica
   part of Solutions: 10x, Artificial Intelligence Portfolio, Cloud.gov, Data &
   Analytics Portfolio, Federalist, Identity Program Management Office,
   Innovation Portfolio, Login.gov, Public Experience Portfolio (USAGov), Secure
-  Cloud Portfolio, Smarter IT Portfolio, and TTS Tech Portfolio.
+  Cloud Portfolio, Smarter IT Portfolio, and TTS Tech Operations.
 
 - **SOP** - Standard Operating Procedure. Step-by-step instructions to help
   employees carry out routine operations efficiently and uniformly while

@@ -42,7 +42,7 @@ published to {% slack_channel "emoji-showcase" %}.
 
 ### Reviewing custom emoji
 If you'd like to help review emoji, reach out to
-{% slack_channel "tts-tech-portfolio" %}.
+{% slack_channel "tts-tech-operations" %}.
 
 ## Frequently used emoji
 

@@ -135,7 +135,7 @@ See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
 
 ### Who else from TTS usually works out of the Chicago office?
 
-Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Portfolio) working from the Hub on the 35th floor Wednesdays. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
+Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Operations) working from the Hub on the 35th floor Wednesdays. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
 
 ## Where are the...?
 
