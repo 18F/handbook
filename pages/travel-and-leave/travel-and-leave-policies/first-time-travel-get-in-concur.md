@@ -70,8 +70,8 @@ GSA travel card]({% page "/first-time-travel-travel-card" %}).
 ### 2. Check that you have completed required training
 
 Ensure you have completed the mandatory security and privacy training required
-of all GSA staff, assigned to you in OLU (https://gsaolu.gsa.gov). Follow the
-instructions [here]({% page "/training-and-development/olu/#help-with-olu" %})
+of all GSA staff, assigned to you in OLU (https://gsaolu.gsa.gov). [Follow the
+[instructions]({% page "/training-and-development/olu/#help-with-olu" %})
 if you need help.
 
 ### 3. Complete the CGE Access Request Form

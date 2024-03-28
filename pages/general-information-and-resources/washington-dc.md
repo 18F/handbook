@@ -323,8 +323,7 @@ laptop screen.
 
 ### Transit subsidy
 
-See the instructions for
-[enrolling or cancelling your transit subsidy benefit](https://www.transportation.gov/transerve/participants/gsa).
+See the [Transit Subsidy Handbook page]({% page "/general-information-and-resources/washington-dc/#transit-subsidy" %}).
 
 ### Helpful contacts
 
