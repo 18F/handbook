@@ -73,7 +73,7 @@ Government issued device.
 
 Step 3 - If it is not located in the TTS Handbook or the GSA Self Service
 application, submit a service desk request to have it installed:
-[Start a Software request here](https://gsa.servicenowservices.com/nav_to.do?uri=%2Fsp%3Fid%3Dkb_article%26sys_id%3D18833608db0e3b040e1d368d7c9619fb).
+[Start a Software request](https://gsa.servicenowservices.com/nav_to.do?uri=%2Fsp%3Fid%3Dkb_article%26sys_id%3D18833608db0e3b040e1d368d7c9619fb).
 
 #### For Software-as-a-Service (SaaS)
 

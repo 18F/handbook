@@ -67,8 +67,7 @@ cSpell: ignore Technica
   something down temporarily for maintenance — go for it, not an incident.
 
 - **AWS** - Amazon Web Services. Some TTS services use AWS to host websites.
-  Read easy-to-understand descriptions of the different pieces
-  [here](https://www.expeditedssl.com/aws-in-plain-english).
+  Read [easy-to-understand descriptions of the different pieces](https://www.expeditedssl.com/aws-in-plain-english).
 
 - **AWS** - Alternative Work Schedule. Working eight, 10-hour days or working
   nine, nine-hour days in a pay period.

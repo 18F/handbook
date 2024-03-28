@@ -18,8 +18,7 @@ We have a few different Slack Apps and bots you'll see in Slack:
   `coffee me` to set up a virtual coffee/tea with a random coworker.
 - [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot):
   We automate responses to frequently asked questions with a Slackbot. You can
-  update or customize responses
-  [here](https://gsa-tts.slack.com/customize/slackbot). **Do not
+  [update or customize responses](https://gsa-tts.slack.com/customize/slackbot). **Do not
   include private or sensitive information in Slackbot automatic responses.**
 - [TTS Inspector](https://github.com/18F/tts-tech-operations/tree/main/inspector):
   Our auditing bot

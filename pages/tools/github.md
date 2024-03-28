@@ -7,7 +7,7 @@ questions:
   - dev
 redirect_from:
   - /github/
-cSpell: ignore cloudfoundry,karn,usagov,eregs,digitalgov,ghad,fedramp,Githug,bizops
+cSpell: ignore cloudfoundry,karn,usagov,eregs,digitalgov,ghad,fedramp,Githug,bizops,Zscaler,CISO
 ---
 
 GitHub is a closed-source platform for
@@ -58,6 +58,21 @@ Include the following:
   [karn](https://github.com/prydonius/karn). If you have both emails in your
   [GitHub settings](https://github.com/settings/emails), they will both be tied
   to your GitHub account anyway.
+- If you will be using `git ssh`, create a ticket in ServiceNow to be added to the TTS - SSH User Group. Follow these steps:
+  1. Go to [GSA IT Self Service Portal](gsa.servicenowservices.com)
+  2. Click on Service Catalog
+  3. Search for "generic"
+  4. Select "GSA Generic Request"
+  5. Fill in the information requested:
+      - Short Description: _Zscaler SSH Access >> Route to CISO.Firewall/Zscaler_
+      - Justification for request: _I need to interact with [Github/Gitlab/other] repositories using SSH as part of my core job responsibilities.
+         Issue: Post Zscaler installation, SSH functionality for remote commands (e.g. clone, fetch, pull) has been disrupted. This hinders my work,
+         and I require a solution or workaround to ensure continuity in my tasks._
+      - Additional comments:
+        ```
+        >>>> FORWARD TO CISO.Firewall <<<<
+        >>>> ATTN: ZSCALER <<<<
+        ```
 
 ### 3. Adjust notification settings
 

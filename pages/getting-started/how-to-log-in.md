@@ -37,17 +37,16 @@ by GSA, including your email, calendar, and Google Drive. Go to
 [reset.gsa.gov](https://reset.gsa.gov) to change your password.
 
 Locking and unlocking your workstation when you are connected to the network in
-the office or via VPN remotely is a required step to ensure the new ENT password
+the office or remotely is a required step to ensure the new ENT password
 is cached properly.
 
 Detailed ENT password reset instructions can be found
-[at ServiceNow KB0022142](https://gsa.servicenowservices.com/sp/?id=kb_article&sys_id=32d451afdbe3ea4458c2fd721f961903).
+[at ServiceNow KB0022142](https://gsa.servicenowservices.com/sp?sys_kb_id=5b0981db1b8c6d50566763dbe54bcbcc&id=kb_article_view&sysparm_rank=4&sysparm_tsqueryId=117ba05ddb094610835a4a391396194e).
 
 ## Change or reset your Macbook login password
 
 Users with expiring local passwords (not ENT passwords) will be prompted to
-change their password and must follow security requirements. Users may see the
-following prompt if their password is due to expire within 14 days. I
+change their password and must follow security requirements. Users may see the prompt if their password is due to expire within 14 days. 
 
 You can change the password that you use to log into your Mac or reset the
 password by following
@@ -77,17 +76,12 @@ You can check your account permissions
 
 [Instructions.]({% page "/virtual-desktop/" %})
 
-## Cisco AnyConnect login
-
-AnyConnect is utilized as a GSA VPN client so that you can use a variety of
-systems that require a VPN directly from your local computer. Go
-[here]({% page "/anyconnect" %}) for more information on configuring this tool.
 
 ## Connecting to GSA networks
 
 To learn how to connect to the GSA network on campus and remotely, take a look
 at the
-[GSA Network Connection Guide](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.6hzaqzho5cc3)
+[GSA Insite Telework Guide](https://insite.gsa.gov/employee-resources/information-technology/telework).
 
 ---
 

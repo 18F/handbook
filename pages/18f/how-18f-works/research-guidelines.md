@@ -287,10 +287,7 @@ post it in Slack.
 Carefully restricting access to personally identifiable information is a matter
 not just of people's right to respect but of their right to
 [privacy](https://methods.18f.gov/privacy/). For more information, please see
-the
-[Design research privacy impact assessment (PIA)](https://www.gsa.gov/cdnstatic/20200401_-_Design_Research_PIA_for%20posting.pdf),
-or
-[this 30-minute overview of privacy as it relates to research](https://gsa-tts.slack.com/files/U9KLLKS4W/FCSFWBZD3/researchguildprivacytalk091218.mp4)
+[this 30-minute overview of privacy as it relates to research](https://gsa-tts.slack.com/archives/C03JK2KH8/p1536779475000100)
 narrated by the GSA Privacy Office.
 
 **Bottom line: If you have questions about sharing information, just ask.** See
@@ -303,6 +300,5 @@ Portfolio]({% page "/office-of-solutions/tech-operations/#questions" %}).
 
 ## Join the research guild!
 
-Learn more about the research guild in our [README.](https://docs.google.com/document/d/1kc73HuxXWxr4RIKG0aeHSW3VFK5SRD597vZNfX4_huM/edit#heading=h.wdpwcv6e5j47)
-
-[Learn more about guilds at TTS here.]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds" %})
+- Learn more about the research guild in our [README.](https://docs.google.com/document/d/1kc73HuxXWxr4RIKG0aeHSW3VFK5SRD597vZNfX4_huM/edit#heading=h.wdpwcv6e5j47)
+- [Learn more about guilds at TTS.]({% page "/training-and-development/working-groups-and-guilds-101/#current-guilds" %})

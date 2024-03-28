@@ -80,9 +80,8 @@ end-of-year 1:1 performance review conversation.
 ### Acquisition Critical Element
 
 All CORs on active delegation must have the new Acquisition Critical Element on
-their Performance Plan. For guidance on adding this critical element to
-performance plans
-[click here](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
+their Performance Plan. Read [guidance](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view) on adding this critical element to
+performance plans.
 
 ## Training
 
