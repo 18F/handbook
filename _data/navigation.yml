@@ -307,8 +307,11 @@ primary:
           - text: Reasonable Accommodations
             url: general-information-and-resources/reasonable-accommodations/
             internal: true
-          - text: Resources for deaf and hard of hearing individuals
+          - text: Resources for Deaf and Hard of Hearing individuals
             url: deaf-hoh/
+            internal: true
+          - text: Working with your Deaf and Hard of Hearing colleagues
+            url: supporting-deaf-hoh-colleagues/
             internal: true
           - text: Moving and changing your address
             url: moving/
