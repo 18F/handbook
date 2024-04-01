@@ -38,7 +38,7 @@ If the software you are looking for is not one of the above, you will need to
 determine if it is already approved for use at GSA, or if there is a similar
 software product already approved that offers the same functionality.
 
-Please note: In the past, the Tech Portfolio team had a major role in procuring
+Please note: In the past, the Tech Operations team had a major role in procuring
 software for programs, but the team is no longer able to provide this service
 due to staff shortage.
 
@@ -49,8 +49,7 @@ to work with our Security team in “good faith and in a timely manner” will b
 critical to the approval process.
 
 Search the GSA IT Standards list in the
-[GSA Enterprise Architecture Analytics and Reporting (GEAR)](https://ea.gsa.gov/#!/itstandards)
-(requires VPN) to check if software is approved for use at GSA. You can also
+[GSA Enterprise Architecture Analytics and Reporting (GEAR)](https://ea.gsa.gov/#!/itstandards) to check if software is approved for use at GSA. You can also
 search for similar software already approved in GEAR if it meets most of your
 needs.
 
