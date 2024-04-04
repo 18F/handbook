@@ -42,7 +42,7 @@ below.
      for a link to the Gratuitous Services Agreement
 1. _Optional:_ If you plan to record or take photographs of the speaker, have
    them fill out the
-   [GSA Model Release Form](https://insite.gsa.gov/portal/getMediaData?mediaId=702794).
+   [GSA Model Release Form](https://docs.google.com/document/d/1_f7JsBYIVKV5aSrv96sW_SWJroECpvjiz6JmkJVbrFE/edit).
 1. Put the signed Gratuitous Services Agreement and GSA Model Release Form (if
    applicable) in
    [the Gratuitous Services Agreement folder](https://drive.google.com/drive/folders/1UOKVVZGdI7IlAxrqcq48-HQQr8f5U6N7).
