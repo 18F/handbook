@@ -139,7 +139,7 @@ WorkLife4You programs can be accessed via the EAP phone line: 1-800-222-0364 or
 888-262-7848 (TTY). You can also register via the
 [WorkLife4You website](https://www.worklife4you.com/index.html). More
 information - including the registration code - is available on the
-[WorkLife4You Fact Sheet](https://drive.google.com/file/d/10LRzsiG705VDKVtdlJhp0Bo1uoz6NRay/view).
+[WorkLife4You Fact Sheet](https://drive.google.com/file/d/11TThQi2jk5Xs6d-PQsniQ8583Kj_jfnQ/view).
 
 ### EAP supervisor resources
 
