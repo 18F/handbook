@@ -13,7 +13,7 @@ GSA-issued equipment._
 ## GSA tools
 
 Most of GSA's internal tools are accessible via our Agency's intranet
-[Insite](https://insite.gsa.gov). You must be on the VPN to connect if you work
+[Insite](https://insite.gsa.gov). You must be on the GSA network to connect if you work
 remotely. [Instructions for logging in are here]({% page "/how-to-log-in/" %}).
 Here's an overview of what you can access (you can click the names in this table
 to scroll down the page):
@@ -23,7 +23,7 @@ to scroll down the page):
 | [BookIT!](#bookit)                            | To reserve a desk or meeting room in GSA buildings                                                                                                         | ENT username and password              |
 | [Concur](https://travel.gsa.gov)              | To book travel. Learn more in [Travel 101]({% page "/travel-101/" %}).                                                                                     | ENT username and password              |
 | [Employee Express](#employee-express)         | To view your paystub, change your direct deposit, update your tax withholdings, or change your address                                                     | Employee Express username and password |
-| [HR Links](#hr-links)                         | To request/document leave and access your personnel file online                                                                                            | ENT on GSA Wireless or VPN             |
+| [HR Links](#hr-links)                         | To request/document leave and access your personnel file online                                                                                            | ENT on GSA Wireless              |
 | [IT Service Desk](#it-service-desk)           | General IT questions about Employee Express and other passwords (Note: They may not support requests for Macs, but will support requests for GSA websites) | ENT username and password              |
 | [Self Service](#self-service)                 | Used to install desktop software on Macs                                                                                                                   | ENT username and password              |
 | [Online University (OLU)]({% page "/olu/" %}) | To take mandatory trainings for federal employees                                                                                                          | ENT username and password              |
@@ -91,10 +91,6 @@ use to [request and document leave]({% page "/leave/" %}) (sick, annual,
 bereavement, and more) as well as access your personnel file (your salary, your
 GS level, your supervisor, your past performance rating(s), and information
 about health insurance plan).
-
-You must
-[be on the VPN](https://docs.google.com/document/d/1nBNXt6Ov4KWmpz6y9rgKw93mxZucVsoYC4PFABTeIA4/edit#heading=h.bbs2uvvcjvcg)
-to connect to HR Links, if you're working remotely.
 
 ## IT Service Desk
 

@@ -494,10 +494,7 @@ least 12 weeks after your final day on PPL.
 
 #### Combining paid parental leave, annual leave, and sick leave
 
-You can use annual and sick leave for parental leave reasons. This would be
-_regular_ annual leave and _regular_ sick leave. Please note, though, that if
-these _regular_ leave options are used without completing the PPL paperwork, the
-PPL cannot be retroactively applied.
+You can use annual and sick leave for parental leave reasons. 
 
 We **highly recommend** you talk with our
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
