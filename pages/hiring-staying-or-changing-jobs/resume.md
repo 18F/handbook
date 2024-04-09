@@ -296,12 +296,14 @@ DUTIES AND RESPONSIBILITIES
       I do a lot of presentations and workshops; they’re a big part of who I am and how I share my work with the community. This is a shortened list to show you what examples look like, including upcoming talks. Like volunteer work, this does not count towards experience scoring, and is optional.
       
       My resume listed about 15 sessions that I thought were relevant to this job. I also had sections on selected publications and selected podcast guest appearances, because those are cool too! The format I use is:
+
+      "Title of the Presentation," what kind of session - MM/YYYY  
+      Conference Name - City, State, Country
     </div>
   </div>
 </div>
 
-`"Title of the Presentation," what kind of session - MM/YYYY  
-Conference Name - City, State, Country`
+
 
 - “How Silos Learn: Working in the Idea Factory,” closing keynote address -
   08/2018 (scheduled)  
