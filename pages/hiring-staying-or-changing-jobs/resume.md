@@ -91,7 +91,9 @@ Your job title - MM/YYYY to MM/YYYY - Hours per week: xx
 _Mission statement(s) of the workplace, or summary of the company’s work on a
 larger scale._
 
-DUTIES AND RESPONSIBILITIES A paragraph-long description of what the work was
+DUTIES AND RESPONSIBILITIES:
+
+A paragraph-long description of what the work was
 overall. Describe your work using a wide scope, leaving the specific details for
 later.
 
@@ -134,7 +136,9 @@ land-grant high-level research institution, dedicated to generating and
 preserving knowledge through research, sharing that knowledge through teaching
 and learning, and apply that knowledge through outreach and public service._
 
-DUTIES AND RESPONSIBILITIES Developed and led college-wide content strategy
+DUTIES AND RESPONSIBILITIES:
+
+Developed and led college-wide content strategy
 combining current and prospective student needs with college goals for
 recruitment and retention. Worked as a member of a cross-functional team
 including designers, developers, business analysts, marketers, and well as
@@ -271,7 +275,7 @@ inclusive grassroots knowledge-sharing. In addition to keynote speakers,
 breakout sessions, and half-day workshops, our annual conference is a space for
 speakers and attendees to collaborate, talk, learn, ask, test, and grow._
 
-DUTIES AND RESPONSIBILITIES
+DUTIES AND RESPONSIBILITIES:
 
 - Directed volunteer-run tech conference for 200+ annual attendees, bringing
   local and national speakers to the Twin Cities web community.
@@ -302,8 +306,6 @@ DUTIES AND RESPONSIBILITIES
     </div>
   </div>
 </div>
-
-
 
 - “How Silos Learn: Working in the Idea Factory,” closing keynote address -
   08/2018 (scheduled)  
