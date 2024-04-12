@@ -37,12 +37,6 @@ closeout and new fiscal year performance plan establishment process.
 
 - [End-of-year performance close-out overview](https://docs.google.com/presentation/d/1WiIEmdwkkQl5Kpn05vLHL5JRvVUudU60KrWXFw9_P5w/edit?usp=sharing)
   - Presentation and On-demand Videos
-- [Career progression
-  framework]({% page "/career-progression-framework/overview/" %})
-  - [CPF Overview Video](https://drive.google.com/file/d/1octLMWua6MVO4aJKdyvKVEo4uHayhHOe/view?usp=sharing)
-- Performance plan framework
-  - [Presentation and On-demand Videos](https://docs.google.com/presentation/d/1N-Fn9MgQs-eI9D8m_VuBQONWy00OWTU8KOLBK_ivX4c/edit?usp=sharing)
-  - [Diagram of the Framework](https://docs.google.com/presentation/d/1N1zegrsmeul9IIwXW2V6eE1RRU20aCOKpcT9Z1XFy-M/edit?usp=sharing)
 - [Performance rating level definitions & examples](https://docs.google.com/document/d/1a5fEmORdBkA6MBVeB7BzvXCHRXg1XLfDr4kngwczFAg/edit?usp=sharing)
 - Equitable Performance Reviews presentation
   - [On-demand Video](https://drive.google.com/file/d/1SX7Nkd3ZYvcYOdnydH8E50JJb-V1DclL/view?usp=sharing)
@@ -67,9 +61,8 @@ contract:
    employee at the time of the discussion; the supervisor will notify the
    employee that he/she will be provided copies upon request.
 
-Please reach out to our
-[Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
-via email or Slack if you have additional questions or concerns.
+Please reach out to your
+[Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) if you have additional questions or concerns.
 
 ## GSA Performance Management Resources
 
@@ -136,9 +129,8 @@ At any point during the year, if an employee's performance in one or more
 critical element(s) or sub-element(s) is considered less than Level 3, Fully
 Successful, the employee should be notified right away.
 
-Reach out to our
-[Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
-via email or Slack for guidance.
+Reach out to your
+[Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) for guidance.
 
 Please also reference the
 [Supervisor Checklist for Addressing Poor Performance](https://insite.gsa.gov/cdnstatic/insite/SupervisorChecklistforAddressingPoorPerformance.docx)
@@ -231,9 +223,8 @@ the instructions below:
 
 The only time a supervisor may want to cancel an evaluation is when an employee
 separates and evaluation cannot be completed or it’s not necessary. Only and HR
-Admin can cancel “submitted” evaluations. Please email our
-[Employee Relations contact](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
-in the Office of Human Resources Management to initiate this process.
+Admin can cancel “submitted” evaluations. Please contact your
+[Workforce Relations partner](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to initiate this process.
 
 ### Overriding an HR Links employee acknowledgement
 
@@ -255,14 +246,6 @@ All CORs on active delegation must have the new Acquisition Critical Element on
 their Performance Plan. [Guidance on adding this critical element to performance plans](https://drive.google.com/file/d/1hOu4GtwpjCAUXenXNE7Vit3O3ldDYSRb/view).
 
 ## Additional training
-
-### Supervisors’ Lounge Question and Answer Sessions
-
-| Date             | Time            | Session                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ---------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| October 12, 2023 | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://gsa.csod.com/samldefault.aspx?ouid=1&returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253dacc0573f-99c1-492e-a2f9-af50cbe16417) |
-| October 17, 2023 | 1-2:00 p.m. EST | [Employee Self Assessments](https://gsa.csod.com/samldefault.aspx?ouid=1&returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d8277f135-25b8-4d8a-9c51-9d4258a6f509)                                                                                                        |
-| October 26, 2023 | 1-2:30 p.m. EST | [Performance Management Training for Supervisors/Managers](https://gsa.csod.com/samldefault.aspx?ouid=1&returnurl=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d6fbd643e-b017-4eba-947d-9adff52876ac) |
 
 ### [HR Links Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems)
 
