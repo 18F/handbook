@@ -12,6 +12,12 @@ redirect_from:
 
 "GSA Pages" is a **GSA only Authority to Operate (ATO)** of [cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the source code and contents for the website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a web presence for your projects/programs.
 
+## Launching a Website at GSA
+- Confirm your website is listed on [https://touchpoints.digital.gov](https://touchpoints.digital.gov)
+  - if not listed, [complete a new website request](https://touchpoints.app.cloud.gov/admin/websites/new)
+
+Prior to standing up a site with GSA Pages, you will need a domain or subdomain. To obtain a new domain or subdomain with GSA, approval is needed by GSA Leadership and Office of Customer Experience in Touchpoints. 
+
 ## Launching a cloud.gov Pages Website
 
 - Identify a Federal GSA Employee as the **GSA Website Manager**
@@ -27,15 +33,18 @@ redirect_from:
 - Submit a pull request to add your repository to our Github configuration scanner to [GSA](https://github.com/GSA/.allstar/blob/main/allstar.yaml) or [GSA-TTS](https://github.com/GSA-TTS/.allstar/blob/main/allstar.yaml)
 - Create a [`SECURITY.md` file](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository) - [Example](https://github.com/GSA-TTS/.allstar/blob/main/SECURITY.md)
 - Follow GSA's [Digital Lifecycle Program](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program?term=DLP) for the Website
-- Confirm your website is listed on [https://touchpoints.digital.gov](https://touchpoints.digital.gov)
-  - if not submit a [new website request](https://touchpoints.app.cloud.gov/admin/websites/new)
 
 ## Authority to Use (ATU) Review
-Submit an [Authority to Use (ATU) Request](https://github.com/GSA-TTS/gsa-pages/issues/new/choose)
+1. Review [GSA Pages Security Review and Approval Process](https://insite.gsa.gov/system/files/GSA-Pages-Security-Review-and-Approval-Process-%5BCIO-IT-Security-20-106-Revision-2%5D-03-08-2024_0.pdf)
+1. Submit an **Authority to Use (ATU) Request** [in Github](https://github.com/GSA-TTS/gsa-pages/issues/new/choose) or [in Google Form]()
 
 - Resolve any Critical or High security findings from security scanners
+- `tts-tech-oprations@gsa.gov' will:
+  - Create a Google Group for your website
+  - Conduct a review of the repository using [GSA Pages Security Review](https://insite.gsa.gov/system/files/GSA-Pages-Site-Review-and-Approval-Template-03-08-2024.docx)
+  - Notify the Website Manager of any missing information or security findings
 
-Once the ATU review is completed the **GSA Website Manager** will be sent an ATU Approval package for signature. The **GSA Website Manager** will be responsible for managing Security Findings over the lifecycle of the Website.
+Once the ATU review is completed the **GSA Website Manager** will be sent an ATU Approval package for signature in Docusign. The **GSA Website Manager** will be responsible for managing Security Findings over the lifecycle of the Website using the Google Group created to manage communications.
 
 ## Maintaining Approved Sites
 Sites hosted on GSA Pages are required to have their URLs scanned in accordance with CIO-IT Security-06-30: Managing Enterprise Cybersecurity Risk and GSA’s parameter for National Institute of Standards and Technology (NIST) Special Publication (SP) 800-53, control RA-5, Vulnerability Scanning.
