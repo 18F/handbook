@@ -36,12 +36,12 @@ Prior to standing up a site with GSA Pages, you will need a domain or subdomain.
 
 ## Authority to Use (ATU) Review
 1. Review [GSA Pages Security Review and Approval Process](https://insite.gsa.gov/system/files/GSA-Pages-Security-Review-and-Approval-Process-%5BCIO-IT-Security-20-106-Revision-2%5D-03-08-2024_0.pdf)
-1. Submit an **Authority to Use (ATU) Request** [in Github](https://github.com/GSA-TTS/gsa-pages/issues/new/choose) or [in Google Form]()
+1. Complete [GSA Pages Security Review](https://insite.gsa.gov/system/files/GSA-Pages-Site-Review-and-Approval-Template-03-08-2024.docx)
+1. Email the completed document <a href="mailto:tts-tech-oprations@gsa.gov?subject=GSA Pages Authority to Use Request:">TTS Tech Operations</a>.
 
 - Resolve any Critical or High security findings from security scanners
 - `tts-tech-oprations@gsa.gov' will:
   - Create a Google Group for your website
-  - Conduct a review of the repository using [GSA Pages Security Review](https://insite.gsa.gov/system/files/GSA-Pages-Site-Review-and-Approval-Template-03-08-2024.docx)
   - Notify the Website Manager of any missing information or security findings
 
 Once the ATU review is completed the **GSA Website Manager** will be sent an ATU Approval package for signature in Docusign. The **GSA Website Manager** will be responsible for managing Security Findings over the lifecycle of the Website using the Google Group created to manage communications.
