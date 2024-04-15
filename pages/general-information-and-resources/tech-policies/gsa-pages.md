@@ -37,8 +37,8 @@ Prior to standing up a site with GSA Pages, you will need a domain or subdomain.
 
 ## Authority to Use (ATU) Review
 1. Review [GSA Pages Security Review and Approval Process](https://insite.gsa.gov/system/files/GSA-Pages-Security-Review-and-Approval-Process-%5BCIO-IT-Security-20-106-Revision-2%5D-03-08-2024_0.pdf)
-1. Complete [GSA Pages Security Review](https://insite.gsa.gov/system/files/GSA-Pages-Site-Review-and-Approval-Template-03-08-2024.docx)
-1. Email the completed document to <a href="mailto:tts-tech-oprations@gsa.gov?subject=GSA Pages Authority to Use Request:">TTS Tech Operations</a>.
+1. Complete [GSA Pages Security Review and Approval Form](https://docs.google.com/forms/d/e/1FAIpQLSeDNRkNOol6pNvWdTBXA_lVMyGr4v0o5wo2ElZAMMX2kPMjzg/viewform) your information will be used to complete [GSA Pages Security Review Document](https://insite.gsa.gov/system/files/GSA-Pages-Site-Review-and-Approval-Template-03-08-2024.docx)
+1. Email <a href="mailto:tts-tech-oprations@gsa.gov?subject=GSA Pages Authority to Use Request:">TTS Tech Operations</a> to confirm receipt or request review status.
 
 - Resolve any Critical or High security findings from security scanners
 - <a href="mailto:tts-tech-oprations@gsa.gov?subject=GSA Pages Authority to Use Request:">TTS Tech Operations</a>will:
