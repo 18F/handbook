@@ -42,7 +42,17 @@ My comments below will all be in text boxes
 
 ### Resume formatting
 
-`Everything about this top material is standardized formatting. Go ahead and put your own info in just like this.`
+<div
+  class="usa-summary-box"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
+      Everything about this top material is standardized formatting. Go ahead and put your own info in just like this
+    </div>
+  </div>
+</div>
 
 AMANDA COSTELLO  
 123 Lutefisk Street  
@@ -62,7 +72,17 @@ Remote
   
 #### WORK EXPERIENCE
 
-`Below is a formatting outline of a work experience entry, and then an example of one of my past jobs. I recommend listing as complete of a job history as you can for at least the last 7 years, more ideally the last 10 years.`
+<div
+  class="usa-summary-box"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
+      Below is a formatting outline of a work experience entry, and then an example of one of my past jobs. I recommend listing as complete of a job history as you can for at least the last 7 years, more ideally the last 10 years.
+    </div>
+  </div>
+</div>
 
 Workplace name, Unit name if relevant - City, State, Country  
   
@@ -71,7 +91,9 @@ Your job title - MM/YYYY to MM/YYYY - Hours per week: xx
 _Mission statement(s) of the workplace, or summary of the company’s work on a
 larger scale._
 
-DUTIES AND RESPONSIBILITIES A paragraph-long description of what the work was
+DUTIES AND RESPONSIBILITIES:
+
+A paragraph-long description of what the work was
 overall. Describe your work using a wide scope, leaving the specific details for
 later.
 
@@ -114,7 +136,9 @@ land-grant high-level research institution, dedicated to generating and
 preserving knowledge through research, sharing that knowledge through teaching
 and learning, and apply that knowledge through outreach and public service._
 
-DUTIES AND RESPONSIBILITIES Developed and led college-wide content strategy
+DUTIES AND RESPONSIBILITIES:
+
+Developed and led college-wide content strategy
 combining current and prospective student needs with college goals for
 recruitment and retention. Worked as a member of a cross-functional team
 including designers, developers, business analysts, marketers, and well as
@@ -230,7 +254,17 @@ SELECTED WORK:
 
 #### VOLUNTEER WORK
 
-`Your volunteer work doesn’t count as experience for scoring, but is still good to include. I used a format similar to the work experience job entry above, though used the bulleted list format for duties and responsibilities, and shortened everything up.`
+<div
+  class="usa-summary-box"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
+      Your volunteer work doesn’t count as experience for scoring, but is still good to include. I used a format similar to the work experience job entry above, though used the bulleted list format for duties and responsibilities, and shortened everything up.
+    </div>
+  </div>
+</div>
 
 MinneWebCon Annual Conference - Minneapolis, MN - www.minnewebcon.org  
 
@@ -241,7 +275,7 @@ inclusive grassroots knowledge-sharing. In addition to keynote speakers,
 breakout sessions, and half-day workshops, our annual conference is a space for
 speakers and attendees to collaborate, talk, learn, ask, test, and grow._
 
-DUTIES AND RESPONSIBILITIES
+DUTIES AND RESPONSIBILITIES:
 
 - Directed volunteer-run tech conference for 200+ annual attendees, bringing
   local and national speakers to the Twin Cities web community.
@@ -256,12 +290,22 @@ DUTIES AND RESPONSIBILITIES
 
 #### SELECTED SPEAKING AND PRESENTATIONS
 
-`I do a lot of presentations and workshops; they’re a big part of who I am and how I share my work with the community. This is a shortened list to show you what examples look like, including upcoming talks. Like volunteer work, this does not count towards experience scoring, and is optional.`
+<div
+  class="usa-summary-box"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
+      I do a lot of presentations and workshops; they’re a big part of who I am and how I share my work with the community. This is a shortened list to show you what examples look like, including upcoming talks. Like volunteer work, this does not count towards experience scoring, and is optional.
+      
+      My resume listed about 15 sessions that I thought were relevant to this job. I also had sections on selected publications and selected podcast guest appearances, because those are cool too! The format I use is:
 
-`My resume listed about 15 sessions that I thought were relevant to this job. I also had sections on selected publications and selected podcast guest appearances, because those are cool too! The format I use is:`
-
-`"Title of the Presentation," what kind of session - MM/YYYY  
-Conference Name - City, State, Country`
+      "Title of the Presentation," what kind of session - MM/YYYY  
+      Conference Name - City, State, Country
+    </div>
+  </div>
+</div>
 
 - “How Silos Learn: Working in the Idea Factory,” closing keynote address -
   08/2018 (scheduled)  
@@ -278,7 +322,17 @@ Conference Name - City, State, Country`
 
 #### EDUCATION
 
-`You can add in particular awards or distinctions here too. I was not a particularly distinguished student. :) `
+<div
+  class="usa-summary-box"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
+      You can add in particular awards or distinctions here too. I was not a particularly distinguished student. :) 
+    </div>
+  </div>
+</div>
 
 University of Minnesota - Twin Cities Minneapolis, MN United States  
 Bachelor's Degree MM/YYYY  
@@ -287,7 +341,17 @@ Minor: Japanese
 
 #### LANGUAGE SKILLS
 
-`This is totally optional. For each language you speak in addition to English, list the levels at which you speak, write, and read. More details: https://www.usajobs.gov/Help/how-to/account/profile/languages/ `
+<div
+  class="usa-summary-box"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
+      This is totally optional. For each language you speak in addition to English, list the levels at which you speak, write, and read. More details: https://www.usajobs.gov/Help/how-to/account/profile/languages/ 
+    </div>
+  </div>
+</div>
 
 Language: Japanese  
 Spoken Level: Novice  
@@ -296,7 +360,17 @@ Reading Level: Novice
 
 #### REFERENCES
 
-`While I listed references on my resume, it’s not required. The hiring and talent folks won’t cold call your references, they’ll ask you for permission later on in the process.`
+<div
+  class="usa-summary-box"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <div class="usa-summary-box__text">
+      While I listed references on my resume, it’s not required. The hiring and talent folks won’t cold call your references, they’ll ask you for permission later on in the process.
+    </div>
+  </div>
+</div>
 
 Name: Jeff Awesomeboss  
 Employer: University of Minnesota  
