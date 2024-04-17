@@ -107,7 +107,7 @@ that needs to match the machines of developers on the team.
    party.
 
 If GSA IT doesn't have any available inventory to issue a loaner, please [contact
-the Tech Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %})
+the Tech Portfolio]({% page "/office-of-solutions/tech-operations/#questions" %})
 and they will work with you to determine a suitable alternative.
 
 ### Admin rights

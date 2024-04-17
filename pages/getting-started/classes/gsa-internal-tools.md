@@ -107,7 +107,7 @@ contact the IT service desk through:
 They are available 6am-9pm ET. If your ticket gets stuck, you can ask them to
 escalate it (just say "can you escalate this for me, please"). If that doesn't
 work, [reach out to the Tech
-Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %}).
+Portfolio]({% page "/office-of-solutions/tech-operations/#questions" %}).
 
 If you need to reset your ENT password, follow [these
 instructions]({% page "/getting-started/how-to-log-in/#changing-your-ent-password" %}).

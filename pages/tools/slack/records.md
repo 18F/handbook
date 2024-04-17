@@ -42,7 +42,7 @@ private groups, even direct messages. **Nothing is private.** GSA IT uses an
 to pull and filter data. There is no regular monitoring of these messages, but
 they have been reviewed in the past. Various legal actions (for example, a
 Freedom of Information Act (FOIA) request) or security operations approved by
-the TTS Tech Portfolio Director have required others to view the exports.
+the TTS Tech Operations Director have required others to view the exports.
 
 When Slack or other records are released under FOIA, GSA will disclose employee
 names unless disclosure would clearly violate the employee’s personal privacy. 

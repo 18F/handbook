@@ -18,7 +18,7 @@ cSpell: ignore Heppner,Buren,chitown
       <tr>
         <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
-        <a href="jckfieldoffice@gsa.gov">Dave Lamb</a>
+        <a href="mailto:jckfieldoffice@gsa.gov">Dave Lamb</a>
         </td>
       </tr>
       <tr>
@@ -135,7 +135,7 @@ See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
 
 ### Who else from TTS usually works out of the Chicago office?
 
-Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Portfolio) working from the Hub on the 35th floor Wednesdays. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
+Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Operations) working from the Hub on the 35th floor Wednesdays. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
 
 ## Where are the...?
 
@@ -191,4 +191,4 @@ business casual.
 
 ## Who can I contact if I have questions about the office space?
 
-TTS no longer has formal operations support for the Chicago office. However, [jckfieldoffice@gsa.gov]([jckfieldoffice@gsa.gov]) should be able to answer most of your building-related questions. [Janie Burmeister](janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.
+TTS no longer has formal operations support for the Chicago office. However, [jckfieldoffice@gsa.gov](mailto:jckfieldoffice@gsa.gov) should be able to answer most of your building-related questions. [Janie Burmeister](mailto:janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.

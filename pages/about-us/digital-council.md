@@ -99,7 +99,7 @@ Benefits to our customers and stakeholders:
 
 - Respect the role and authority of colleagues. For example, we:
   - Coordinate with the [TTS Technology
-    Portfolio]({% page "/tech-portfolio/" %}) and the [TTS
+    Portfolio]({% page "/tech-operations/" %}) and the [TTS
     Outreach]({% page "/outreach/" %}) teams when updating domains or creating
     digital products.
   - Coordinate with the TTS Outreach team for message alignment and approval.
