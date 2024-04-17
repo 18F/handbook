@@ -16,6 +16,7 @@ redirect_from:
 ## Launching a Website at GSA
 - Confirm your website is listed on [https://touchpoints.digital.gov](https://touchpoints.digital.gov)
   - if not listed, [complete a new website request](https://touchpoints.app.cloud.gov/admin/websites/new)
+- Follow [GSA's Digital Lifecycle Program Guide](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program)
 
 Prior to standing up a site with GSA Pages, you will need a domain or subdomain. To obtain a new domain or subdomain with GSA, approval is needed by GSA Leadership and Office of Customer Experience in Touchpoints. 
 
