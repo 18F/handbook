@@ -18,7 +18,7 @@ cSpell: ignore Heppner,Buren,chitown
       <tr>
         <td class="col-key"><strong>Point of contact</strong></td>
         <td class="col-value">
-        <a href="jckfieldoffice@gsa.gov">Dave Lamb</a>
+        <a href="mailto:jckfieldoffice@gsa.gov">Dave Lamb</a>
         </td>
       </tr>
       <tr>
@@ -191,4 +191,4 @@ business casual.
 
 ## Who can I contact if I have questions about the office space?
 
-TTS no longer has formal operations support for the Chicago office. However, [jckfieldoffice@gsa.gov]([jckfieldoffice@gsa.gov]) should be able to answer most of your building-related questions. [Janie Burmeister](janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.
+TTS no longer has formal operations support for the Chicago office. However, [jckfieldoffice@gsa.gov](mailto:jckfieldoffice@gsa.gov) should be able to answer most of your building-related questions. [Janie Burmeister](mailto:janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.
