@@ -40,7 +40,7 @@ information.
 
 TTS collaborators within GSA may be added as full Slack members. Examples might
 include the Chief Information Officer or FAS Commissioner. If you'd like to add
-someone to this category ask the TTS @tech-portfolio before making this request
+someone to this category ask the TTS @tech-operations before making this request
 in {% slack_channel "admins-slack" %}.
 
 ### Dedicated channels
