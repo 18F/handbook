@@ -99,8 +99,7 @@ document.
 
 - Download copies of your paystubs from
   [Employee Express](https://www.employeeexpress.gov/).
-- Download copies of your SF-50s from [eOPF](https://eopf.opm.gov/gsa/)(requires
-  VPN if not on GSA network).
+- Download copies of your SF-50s from [eOPF](https://eopf.opm.gov/gsa/).
   - An SF-50 is a notification of a Personnel Action; it contains your series,
     grade, and other information useful to you or required if applying for
     reinstatement.
