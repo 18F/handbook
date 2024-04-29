@@ -38,8 +38,7 @@ active.
 To access [Concur](https://travel.gsa.gov/), you will need a **“travel vendor
 ID”**. Use the
 [Vendor Request Management site](https://finance.ocfo.gsa.gov/VendorRequest/co/Stepd.aspx)
-to request a new vendor ID. Please note that you'll need to be on the VPN to
-access this site. (Note: The "travel vendor ID" will show up as "Employee ID" in
+to request a new vendor ID. (Note: The "travel vendor ID" will show up as "Employee ID" in
 your Concur profile once it's been issued.)
 
 **Vendor Request Instructions**
