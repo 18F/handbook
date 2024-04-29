@@ -36,13 +36,6 @@ It will make booking hotels in Concur easier, and allow you to personally redeem
 miles and/or points earned while on government travel.
 
 1. Log into Concur [travel.gsa.gov](https://travel.gsa.gov/).
-
-   - If you have trouble logging into Concur, try connecting to the
-     [GSA VPN]({{site.base_url}}/tools/anyconnect/) or
-     [virtual desktop]({{site.base_url}}/getting-started/how-to-log-in/#citrix-virtual-desktop-client-login)
-     first. Concur does work off VPN, but some users have had to go through the
-     password reset process for access.
-
 2. In the _I want to..._ menu select **Edit my profile**
 3. Update your **Your Information > Personal Information**
 4. If you have already received your card in the mail, add your GSA Credit card
