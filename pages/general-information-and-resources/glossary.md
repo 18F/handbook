@@ -430,12 +430,6 @@ cSpell: ignore Technica
   _design_, which focuses on building things with a focus on who the user is and
   what they want to do, rather than just what it should look like.
 
-- **VPN** - Virtual Private Network is a way to pretend that you're on the GSA
-  network when you're not in a GSA building, which also makes your Internet
-  connection more secure. It's required for access to some GSA sites. See
-  [Citrix]({% page "/virtual-desktop/" %}) or
-  [AnyConnect]({% page "/anyconnect/" %}).
-
 - **Waterfall development** - An approach to software development projects based
   on upfront planning and linear, sequential execution.
 
