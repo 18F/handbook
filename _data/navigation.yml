@@ -588,11 +588,8 @@ primary:
           - text: Zoom (video conferencing)
             url: zoom/
             Internal: true
-      - text: Network & VPN tools
+      - text: Network
         children:
-          - text: AnyConnect (VPN client)
-            url: anyconnect/
-            internal: true
           - text: VirtualBox (hypervisor)
             url: https://engineering.18f.gov/browser-testing/#windows
             internal: false
