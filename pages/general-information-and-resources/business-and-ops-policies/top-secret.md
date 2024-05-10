@@ -45,7 +45,7 @@ Find out your clearance status in
    security investigation(s) and the status of the associated clearance(s).
 
 View
-[Locating Your Information in HR Links and Other HR Systems](https://corporateapps.gsa.gov/files/HR-LinksGuide_-LocatingYourInformationinHRLinksandOtherHRSystems.pdf)
+[Locating Your Information in HR Links and Other HR Systems](https://drive.google.com/file/d/166ZWVjGtelkYdM5zq4NXp341n7akPu8Z/view?usp=sharing)
 for a visual step-by-step guide.
 
 ## Clearance upgrade requests
