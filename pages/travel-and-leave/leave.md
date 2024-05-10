@@ -76,7 +76,7 @@ that would affect time and leave records.
 
 If someone is unexpectedly OOO and cannot request leave in HR Links, supervisors
 can
-[enter a leave request on their behalf](https://corporateapps.gsa.gov/files/Create-an-Absence-Request-Supervisor.pdf).
+[enter a leave request on their behalf](https://drive.google.com/file/d/1Gfk6DHNcIbzYb-uLdLGqa7z3Cn69tpb-/view?usp=sharing).
 
 If a supervisor is going out of office, their supervisor will typically handle
 HR Links tasks while they are gone: approving timesheets & leave requests, etc.
@@ -86,14 +86,14 @@ vacant). Here are three step-by-step guides for a supervisor to delegate
 approval responsibilities:
 
 1. [Fact Sheet: Should I do a delegation? What can I delegate?](https://docs.google.com/document/d/1Nxsl0pAg9sman4ntrQlBNPqcvFGaXrSJagV7HG-f27c/edit)
-1. [How do I create a delegation?](https://corporateapps.gsa.gov/files/Set-a-Delegation-Supervisor.pdf)
-1. [How does the other person ("the proxy") accept a delegation?](https://corporateapps.gsa.gov/files/Accept-a-Delegation-Proxy.pdf)
+1. [How do I create a delegation?](https://drive.google.com/file/d/1BhwLULTsVYgp7in25YEmhq6LzxBgpYPo/view?usp=sharing)
+1. [How does the other person ("the proxy") accept a delegation?](https://drive.google.com/file/d/1C2N_J9a-wbUni6Hx3-YDjQxGjSi5vS00/view?usp=sharing)
 
 ## Submitting timesheets and leave in HR Links
 
 ### Logging into HR Links
 
-You'll need to log in to [HR Links](https://corporateapps.gsa.gov/hr-links/) in
+You'll need to log in to [HR Links](https://hrlinks.gsa.gov/) in
 order to submit your timesheets and leave requests.
 
 ### Submitting your timesheet
