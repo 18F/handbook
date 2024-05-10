@@ -116,7 +116,7 @@ You will need to make manual adjustments to the timesheet and resubmit it.
 For example: 
 - You submit your timesheet on Thursday afternoon and it says that you worked all day on Friday. 
 - On Friday morning, you become sick and submit a Sick Leave request for 6 hours out of your 8 hour workday. 
-- You will need to go back to the timesheet and manually change your Regular Time from 8 hours to 2 hours. The [Create a Timesheet Job Aid](https://corporateapps.gsa.gov/files/Create-a-Timesheet-Employees.pdf) has information on how to manually adjust a timesheet on Page 15 (Step 20).
+- You will need to go back to the timesheet and manually change your Regular Time from 8 hours to 2 hours. The [Create a Timesheet Job Aid](https://drive.google.com/file/d/1FxTkXanRrwoi2r0iPVek87BRCSW9pmgs/view?usp=sharing) has information on how to manually adjust a timesheet on Page 14 (Step 20).
 - You’ll then hit **Submit** to re-submit the timesheet.
 
 #### What happens if I am on leave at the end of a pay period?
@@ -274,7 +274,7 @@ Awards.
 - If you are eligible for an [End of Year Performance
   Award]({% page "/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus" %}),
   you can
-  [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference.pdf)
+  [opt-in via HRLinks](https://drive.google.com/file/d/13H21w1_D5V4wrOMzvLhQ4f2dqYxuJltO/view?usp=sharing)
   to receive Award Leave in lieu of a monetary award.
 - If you are receiving a TTS Special Act Award, you will be notified and asked
   for your preference of award leave or a monetary award.
@@ -556,7 +556,7 @@ Once you are approved for PPL, you will see a new leave option in HR Links
 called `Paid Parental Lv Birth Balance`. You will submit a leave request, using
 the same general steps that you use for annual and sick leave. This HR Links
 guide has visual instructions on
-[how to enter paid parental leave requests](https://corporateapps.gsa.gov/files/Paid-Parental-Leave-Employee-Job-Aid.pdf).
+[how to enter paid parental leave requests](https://drive.google.com/file/d/1ERWXQoikCKKx0o1IvhJSan5ZzXAZyxrq/view?usp=sharing).
 
 ### Family and Medical Leave Act
 
