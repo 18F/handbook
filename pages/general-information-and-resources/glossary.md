@@ -222,7 +222,7 @@ cSpell: ignore Technica
   [Particular parts of the government](https://www.performance.gov/cx/#hisps)
   that make a big impact on the public because of their importance and scale.
 
-- **HR Links** - [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's
+- **HR Links** - [HR Links](https://hrlinks.gsa.gov/) is GSA's
   system for HR actions, including requesting leave and managing performance
   review documents.
 
