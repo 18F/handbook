@@ -104,12 +104,12 @@ You need to enter your overtime, comp time, or credit hours into HRLinks. To det
 - Enter **Comments**
 - Click **Submit**
 
-You’ll receive emails after submitting the request, and after it is approved. There is a [step-by-step guide to submitting time requests](https://corporateapps.gsa.gov/files/Request-Overtime_Comp-Time_Credit-Hours.pdf).
+You’ll receive emails after submitting the request, and after it is approved. There is a [step-by-step guide to submitting time requests](https://drive.google.com/file/d/1G5KM6WvrhICpTskjqXRvpqZPM0UyocPl/view?usp=sharing).
 
 ### Step 2 - Update your timesheet
 Currently, HR Links is not connecting Comp/Credit/Overtime hours to your timesheet. This means you will need to manually add the hours you earned to your timesheet on the day(s) when you earned them. You’ll do this after your supervisor has approved the hours in step 1. 
 
-There is a [step-by-step guide on adding the hours to your timesheet](https://corporateapps.gsa.gov/files/Add-Overtime_Comp-Time_Credit-Hours-to-Timesheet.pdf). Reach out to {% slack_channel "people-ops" %} if you need assistance.
+There is a [step-by-step guide on adding the hours to your timesheet](https://drive.google.com/file/d/1EZZkAnPCjqxxEqHXwaH7hSbO9gzM_zJM/view?usp=sharing). Reach out to {% slack_channel "people-ops" %} if you need assistance.
 
 ## Using the comp time and/or credit hours you’ve earned
 
