@@ -18,14 +18,14 @@ ID card):
 
 1. Log in to [HR Links](https://hrlinks.gsa.gov/)
 1. Follow
-   [these steps](https://corporateapps.gsa.gov/files/HR-Links-Guide_-Changing-Your-Name_Final-Oct-2020docx.pdf).
+   [these steps](https://drive.google.com/file/d/1pTLw2EaeGmlFsOnDWPKW12f72M6Qdpl5/view?usp=sharing).
 1. Wait up to 5 business days for the changes to take effect. You will receive
    an automated email from HR links stating that it has been submitted.
 1. Once your name has been updated in GCIMS via HRLinks, you can submit a GSA IT
    Help Desk to update your google account.
 
 If you have trouble with this process,
-[contact HRLinks support](https://corporateapps.gsa.gov/hr-links/hr-links-support/).
+[contact HRLinks support](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/tools-and-systems/hr-links-user-guides/get-support).
 
 ## Adding a preferred name
 
