@@ -86,7 +86,7 @@ Please reach out to your
 
 ### [HR Links](https://hrlinks.gsa.gov/)
 
-- [Technical HR Links assistance](https://corporateapps.gsa.gov/hr-links/support/)
+- [Technical HR Links assistance](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/tools-and-systems/hr-links-user-guides/get-support)
   - Instructions if you receive the error message "The document could not be
     created as the employee is not hired yet. Please contact your system
     administrator to check the Job record to make sure employee is hired before

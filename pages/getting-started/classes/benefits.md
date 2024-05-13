@@ -320,7 +320,7 @@ your insurer, follow these steps:
 
 ## Leave
 
-Please use [HR Links](https://corporateapps.gsa.gov/hr-links/) to request sick
+Please use [HR Links](https://hrlinks.gsa.gov/) to request sick
 leave and annual leave. For any leave-related questions, please contact
 [cpc.benefits-retirement@gsa.gov](mailto:cpc.benefits-retirement@gsa.gov).
 
@@ -522,7 +522,7 @@ information on TSP, please refer to the
 You will update TSP directly in [HR
 Links]({% page "/travel-and-leave/leave/#logging-into-hr-links" %}) by following
 this
-[visual guide](https://corporateapps.gsa.gov/corporateapps/files/Updating-TSP-Traditional-or-Roth.pdf)
+[visual guide](https://drive.google.com/file/d/1BOSDKYnCFWKRiVfyaGs6W-JDLuxlZ7iL/view?usp=sharing)
 or these steps:
 
 1. After you sign into HR Links, click "Benefits Summary"
