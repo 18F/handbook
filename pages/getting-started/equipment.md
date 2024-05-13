@@ -107,7 +107,7 @@ that needs to match the machines of developers on the team.
    party.
 
 If GSA IT doesn't have any available inventory to issue a loaner, please [contact
-the Tech Portfolio]({% page "/office-of-solutions/tech-portfolio/#questions" %})
+the Tech Portfolio]({% page "/office-of-solutions/tech-operations/#questions" %})
 and they will work with you to determine a suitable alternative.
 
 ### Admin rights
@@ -242,7 +242,7 @@ For non-standard IT equipment, requestors must complete and submit an
 for review and approval.
 
 ### Printers
-
+#### Your own printer
 A separate justification process is required for printer requests. If you
 believe you have a business justification for a home printer, please discuss
 with your supervisor. This request will require approval from your supervisor
@@ -251,7 +251,8 @@ a
 [Non-Standard Equipment Request](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=ed419ee8dbd2e7000dc9ff621f9619c6)
 via the GSA IT Service Desk.
 
-If you need to setup a printer while in the office, follow [the instructions](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/telework-technology?term=printer%20driver#Print).
+#### Office printer
+If you need to setup a printer while in the office, follow [the instructions](https://gsa.servicenowservices.com/kb_view.do?sysparm_article=KB0024286).
 
 ## Equipment to accommodate disability
 

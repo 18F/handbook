@@ -222,7 +222,7 @@ cSpell: ignore Technica
   [Particular parts of the government](https://www.performance.gov/cx/#hisps)
   that make a big impact on the public because of their importance and scale.
 
-- **HR Links** - [HR Links](https://corporateapps.gsa.gov/hr-links/) is GSA's
+- **HR Links** - [HR Links](https://hrlinks.gsa.gov/) is GSA's
   system for HR actions, including requesting leave and managing performance
   review documents.
 
@@ -397,7 +397,7 @@ cSpell: ignore Technica
   part of Solutions: 10x, Artificial Intelligence Portfolio, Cloud.gov, Data &
   Analytics Portfolio, Federalist, Identity Program Management Office,
   Innovation Portfolio, Login.gov, Public Experience Portfolio (USAGov), Secure
-  Cloud Portfolio, Smarter IT Portfolio, and TTS Tech Portfolio.
+  Cloud Portfolio, Smarter IT Portfolio, and TTS Tech Operations.
 
 - **SOP** - Standard Operating Procedure. Step-by-step instructions to help
   employees carry out routine operations efficiently and uniformly while
@@ -429,12 +429,6 @@ cSpell: ignore Technica
   use a product or service. UX also refers to the field of user experience
   _design_, which focuses on building things with a focus on who the user is and
   what they want to do, rather than just what it should look like.
-
-- **VPN** - Virtual Private Network is a way to pretend that you're on the GSA
-  network when you're not in a GSA building, which also makes your Internet
-  connection more secure. It's required for access to some GSA sites. See
-  [Citrix]({% page "/virtual-desktop/" %}) or
-  [AnyConnect]({% page "/anyconnect/" %}).
 
 - **Waterfall development** - An approach to software development projects based
   on upfront planning and linear, sequential execution.

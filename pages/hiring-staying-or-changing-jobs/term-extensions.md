@@ -11,7 +11,7 @@ years. However, term appointments need to be renewed every two years or 3 years
 depending on the appointment.
 
 If you don’t know when your term ends, you can find your Not To Exceed (NTE)
-date by looking in [HR Links](https://corporateapps.gsa.gov/hr-links/). Click on
+date by looking in [HR Links](https://hrlinks.gsa.gov/). Click on
 the navigator icon, choose `Navigator`, then `Workforce Administration`, then
 `Job Information`, then `Employee Request USF`.
 

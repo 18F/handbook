@@ -87,7 +87,7 @@ Supervisors can request that their direct reports submit one.
 
 - HR Links in-depth guide (with screenshots):
 
-  - [Create a Mid Year Self-Assessment](https://corporateapps.gsa.gov/files/Mid-Year-Self-Assessment-Employee.pdf)
+  - [Create a Mid Year Self-Assessment](https://drive.google.com/file/d/1_6aFTd5NkNA4FpW47QInizDzaiF3bbqV/view?usp=sharing)
   - [Employee (Section 3, Topic 3.3)](https://drive.google.com/file/d/1NhoDr9MlNTP9VEgBx72H-KoPjNeivOwv/view)
 
 - Additional resource guide:
@@ -137,7 +137,7 @@ by employees before June 1.
   - [Employee](https://docs.google.com/document/d/1VxwbatliieP78-qN_VmdHxt1ROvSro4yKe9-OkjQd58/edit#heading=h.6ykmn1ge2hlk)
   - No action required by supervisor
 
-## Overriding an employee acknowledgment
+## Overriding an employee evaluation acknowledgment
 
 A supervisor can acknowledge an employee evaluation if the employee is unable to
 (i.e. on vacation) or refuses to do so (i.e. does not agree with the

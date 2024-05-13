@@ -99,7 +99,7 @@ If you do want to use AWS directly, see the [AWS](#amazon-web-services) page.
 
 ##### Microsoft Azure and Google Cloud Platform (GCP)
 
-See [outstanding issue](https://github.com/18F/tts-tech-portfolio/issues/162).
+See [outstanding issue](https://github.com/18F/tts-tech-operations/issues/162).
 
 #### FISMA High systems
 
@@ -155,7 +155,7 @@ non-production use. Things to bear in mind about sandbox accounts:
 - No [sensitive information]({% page "/sensitive-information/" %}) can be stored
   in the sandbox accounts.
 - Creating resources that will cost more than $500 per month requires prior
-  agreement from the Tech Portfolio team.
+  agreement from the Tech Operations team.
 - All resources must be tagged with a `Project`. Resources without this tag can
   be deleted at any time.
 - Any website that is publicly routable for more than one day must have a
@@ -183,7 +183,7 @@ requests will be issued `administrator` access.
 
 Once you complete the form above, you will be contacted by a member of the TTS
 Tech Portfolio for the exchange of credentials. You can reach out to them direct
-by email `tts-tech-portfolio@gsa.gov` or in slack `#tts-tech-portfolio`
+by email `tts-tech-operations@gsa.gov` or in slack `#tts-tech-operations`
 [**once you've completed the form**](https://docs.google.com/forms/d/e/1FAIpQLSfK3jioq5BuZALB9dbWHDHaiwLteK1Aua3TspfWPjlMTBYVJg/viewform)
 to ask any questions or inquiry about the status of a request.
 
@@ -270,7 +270,7 @@ These are just the concepts necessary for initial on-boarding. AWS has an
 
 ### Common controls
 
-The [Tech Portfolio]({% page "/office-of-solutions/tech-portfolio/" %}) manages
+The [Tech Portfolio]({% page "/office-of-solutions/tech-operations/" %}) manages
 TTS AWS accounts in order to implement a baseline of security compliance
 controls for you so that there are fewer controls for you to implement.
 
@@ -979,8 +979,8 @@ trees. Is the site required by law/policy?
 - [No](https://docs.google.com/drawings/d/1Bi2LTO6ANzcoTd_16tFZq8rL6A3SSXSLS2zgtielGK4/edit?usp=sharing)
 
 When taking down a production system,
-[create an issue](https://github.com/18F/tts-tech-portfolio/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D)
-([preview](https://github.com/18F/tts-tech-portfolio/blob/main/.github/ISSUE_TEMPLATE/decommission.md)).
+[create an issue](https://github.com/18F/tts-tech-operations/issues/new?template=decommission.md&title=decommission+%5Bsystem%5D)
+([preview](https://github.com/18F/tts-tech-operations/blob/main/.github/ISSUE_TEMPLATE/decommission.md)).
 Feel free to add/remove tasks as appropriate, add a username after each task to
 assign it, and/or make corresponding items in your issue tracker.
 
