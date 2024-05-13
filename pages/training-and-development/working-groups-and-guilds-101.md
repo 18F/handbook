@@ -198,8 +198,9 @@ Guild meeting times can also be found on the
           {% slack_channel "g-research" %}
         </td>
         <td>
-          Michelle Polyak - USDC <br />
-          Amanda Kennedy - 18F
+          Amanda Kennedy - 18F  <br />
+	  Sarah Moss-Horwitz - 18F <br />
+	  Espy Thomson - USDC
         </td>
       </tr>
       <tr>
