@@ -142,7 +142,7 @@ InSite page.
 
 In preparation for an upcoming Employee Performance Review cycle, please conduct
 an audit of your Direct Reports in HR Links by following the instructions in the
-[Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
+[Direct Report Audit Survey](https://docs.google.com/forms/d/e/1FAIpQLScbIekKmm_iPQHvlw-3nhmz3bTbWBWOF76E5VhctxFLNhH_vg/viewform).
 
 ### 1 on 1 performance conversation
 
