@@ -76,7 +76,7 @@ that would affect time and leave records.
 
 If someone is unexpectedly OOO and cannot request leave in HR Links, supervisors
 can
-[enter a leave request on their behalf](https://corporateapps.gsa.gov/files/Create-an-Absence-Request-Supervisor.pdf).
+[enter a leave request on their behalf](https://drive.google.com/file/d/1Gfk6DHNcIbzYb-uLdLGqa7z3Cn69tpb-/view?usp=sharing).
 
 If a supervisor is going out of office, their supervisor will typically handle
 HR Links tasks while they are gone: approving timesheets & leave requests, etc.
@@ -86,14 +86,14 @@ vacant). Here are three step-by-step guides for a supervisor to delegate
 approval responsibilities:
 
 1. [Fact Sheet: Should I do a delegation? What can I delegate?](https://docs.google.com/document/d/1Nxsl0pAg9sman4ntrQlBNPqcvFGaXrSJagV7HG-f27c/edit)
-1. [How do I create a delegation?](https://corporateapps.gsa.gov/files/Set-a-Delegation-Supervisor.pdf)
-1. [How does the other person ("the proxy") accept a delegation?](https://corporateapps.gsa.gov/files/Accept-a-Delegation-Proxy.pdf)
+1. [How do I create a delegation?](https://drive.google.com/file/d/1BhwLULTsVYgp7in25YEmhq6LzxBgpYPo/view?usp=sharing)
+1. [How does the other person ("the proxy") accept a delegation?](https://drive.google.com/file/d/1C2N_J9a-wbUni6Hx3-YDjQxGjSi5vS00/view?usp=sharing)
 
 ## Submitting timesheets and leave in HR Links
 
 ### Logging into HR Links
 
-You'll need to log in to [HR Links](https://corporateapps.gsa.gov/hr-links/) in
+You'll need to log in to [HR Links](https://hrlinks.gsa.gov/) in
 order to submit your timesheets and leave requests.
 
 ### Submitting your timesheet
@@ -116,7 +116,7 @@ You will need to make manual adjustments to the timesheet and resubmit it.
 For example: 
 - You submit your timesheet on Thursday afternoon and it says that you worked all day on Friday. 
 - On Friday morning, you become sick and submit a Sick Leave request for 6 hours out of your 8 hour workday. 
-- You will need to go back to the timesheet and manually change your Regular Time from 8 hours to 2 hours. The [Create a Timesheet Job Aid](https://corporateapps.gsa.gov/files/Create-a-Timesheet-Employees.pdf) has information on how to manually adjust a timesheet on Page 15 (Step 20).
+- You will need to go back to the timesheet and manually change your Regular Time from 8 hours to 2 hours. The [Create a Timesheet Job Aid](https://drive.google.com/file/d/1FxTkXanRrwoi2r0iPVek87BRCSW9pmgs/view?usp=sharing) has information on how to manually adjust a timesheet on Page 14 (Step 20).
 - You’ll then hit **Submit** to re-submit the timesheet.
 
 #### What happens if I am on leave at the end of a pay period?
@@ -274,7 +274,7 @@ Awards.
 - If you are eligible for an [End of Year Performance
   Award]({% page "/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus" %}),
   you can
-  [opt-in via HRLinks](https://corporateapps.gsa.gov/files/TimeOffAwardPreference.pdf)
+  [opt-in via HRLinks](https://drive.google.com/file/d/13H21w1_D5V4wrOMzvLhQ4f2dqYxuJltO/view?usp=sharing)
   to receive Award Leave in lieu of a monetary award.
 - If you are receiving a TTS Special Act Award, you will be notified and asked
   for your preference of award leave or a monetary award.
@@ -556,7 +556,7 @@ Once you are approved for PPL, you will see a new leave option in HR Links
 called `Paid Parental Lv Birth Balance`. You will submit a leave request, using
 the same general steps that you use for annual and sick leave. This HR Links
 guide has visual instructions on
-[how to enter paid parental leave requests](https://corporateapps.gsa.gov/files/Paid-Parental-Leave-Employee-Job-Aid.pdf).
+[how to enter paid parental leave requests](https://drive.google.com/file/d/1ERWXQoikCKKx0o1IvhJSan5ZzXAZyxrq/view?usp=sharing).
 
 ### Family and Medical Leave Act
 

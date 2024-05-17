@@ -71,7 +71,7 @@ of engineers. Duties include hiring, on-boarding, project staffing, mentoring,
 training, supervision, and off-boarding of those engineers. Supervisors conduct
 the mid-year and end of year performance evaluations for the engineers reporting
 to them. Supervisors do other HR functions such as approving SF-182s, telework
-agreements, [HR Links](https://corporateapps.gsa.gov/hr-links/) requests, and
+agreements, [HR Links](https://hrlinks.gsa.gov/) requests, and
 the like.
 
 Supervisors are the member of the engineering leadership team that individual

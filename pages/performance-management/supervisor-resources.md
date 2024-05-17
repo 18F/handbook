@@ -86,7 +86,7 @@ Please reach out to your
 
 ### [HR Links](https://hrlinks.gsa.gov/)
 
-- [Technical HR Links assistance](https://corporateapps.gsa.gov/hr-links/support/)
+- [Technical HR Links assistance](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/tools-and-systems/hr-links-user-guides/get-support)
   - Instructions if you receive the error message "The document could not be
     created as the employee is not hired yet. Please contact your system
     administrator to check the Job record to make sure employee is hired before
@@ -142,7 +142,7 @@ InSite page.
 
 In preparation for an upcoming Employee Performance Review cycle, please conduct
 an audit of your Direct Reports in HR Links by following the instructions in the
-[Direct Report Audit Survey](https://forms.gle/oLtit3o2MLsSUonx5).
+[Direct Report Audit Survey](https://docs.google.com/forms/d/e/1FAIpQLScbIekKmm_iPQHvlw-3nhmz3bTbWBWOF76E5VhctxFLNhH_vg/viewform).
 
 ### 1 on 1 performance conversation
 

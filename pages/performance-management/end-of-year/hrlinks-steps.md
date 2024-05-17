@@ -168,7 +168,7 @@ submittal process.
   - [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.f8d49rcsfbmz)
 
 - HR Links in-depth guide (with screenshots):
-  - [Reopen a Self-Assessment (Supervisor)](https://corporateapps.gsa.gov/files/Reopen-a-Self-Assessment-Supervisor-2023c.pdf)  
+  - [Reopen a Self-Assessment (Supervisor)](https://drive.google.com/file/d/1_FX5J7djpNL1TCI3BOBROqpNiIdPYZD5/view?usp=sharing)  
   - [Supervisor (Section 3, Topic 3.3)](https://drive.google.com/open?id=15Xm9NF_KfcWN-ZxPomooowEAq51073Xi)
 
 ## Reviewing evaluations from participant reviewer(s)
@@ -191,7 +191,7 @@ submittal process.
   - [Supervisor](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.v9t4o16taxy8)
 
 - HR Links in-depth guide (with screenshots):
-  - [Submit an Evaluation (Supervisor)](https://corporateapps.gsa.gov/files/Submit-an-Evaluation-Approval-Supervisor-2023.pdf)
+  - [Submit an Evaluation (Supervisor)](https://drive.google.com/file/d/10cfPzNaM8sAZoVnnWRwqQ8uv6cE2aazz/view?usp=sharing)
 
 ## Acknowledging an evaluation
 

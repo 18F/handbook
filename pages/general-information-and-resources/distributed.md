@@ -45,7 +45,7 @@ _Before you do anything, read our
 
 ### Set up my computer?
 
-TTS employees receive a MacBook and an iPhone from GSA, though you may not
+TTS employees receive either a MacBook or PC and either an iPhone or Android from GSA, though you may not
 receive your work phone on your first day.
 
 On your first day at work you should configure things so that your two-factor
@@ -79,12 +79,6 @@ visit the security office in that new building to activate your card.
 
 See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
 
-### Get my laptop repaired?
-
-First, go to {% slack_channel "teamops" "Team Ops" %} for advice. They will
-likely either ask you to take it to an Apple Store (TTS will pay for the
-repairs), or ship it back to TTS (we'll ship you a new laptop).
-
 ### Tether to my GSA phone?
 
 Apple's instructions [are here](https://support.apple.com/en-us/HT204023).
@@ -92,7 +86,7 @@ Apple's instructions [are here](https://support.apple.com/en-us/HT204023).
 ### What supplies do distributed employees receive?
 
 GSA provides remote workers with a laptop and phone but does not provide
-monitors, desk chairs, or office products.
+desk chairs or office products.  GSA IT can provide you with a remote kit, including a monitor, keyboard, mouse, headset and hub to provide additional connectivity.   You are able to choose which items best fit your needs.  Printers are available as well but require additional justification 
 
 ### What advice do your distributed colleagues have?
 

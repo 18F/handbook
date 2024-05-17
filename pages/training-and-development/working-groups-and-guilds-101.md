@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Magdaline,Matis,Nakai,Ojiaku,Polyak,Rago
+cSpell: ignore Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Horwitz,Magdaline,Matis,Nakai,Ojiaku,Polyak,Rago
 ---
 
 <style type="text/css">
@@ -198,8 +198,9 @@ Guild meeting times can also be found on the
           {% slack_channel "g-research" %}
         </td>
         <td>
-          Michelle Polyak - USDC <br />
-          Amanda Kennedy - 18F
+          Amanda Kennedy - 18F  <br />
+	  Sarah Moss-Horwitz - 18F <br />
+	  Espy Thomson - USDC
         </td>
       </tr>
       <tr>

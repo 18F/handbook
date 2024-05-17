@@ -25,10 +25,9 @@ of their job.
 | Site                                                                                                                                                      | Description                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Online University (OLU)](https://gsaolu.gsa.gov/)                                                                                                        | Site where IDPs are created                                       |
-| [IDP OLU Guide](https://corporateapps.gsa.gov/files/IDP-Job-Aid-for-Employees.pdf)                                                                        | Step-by-step guide for creating and accessing IDPs in Salesforce  |
 | [IDP Overview](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan)                                    | Provides info on common goals for IDPs and why they are important |
-| [IDP Employee Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-employee-tool-kit)     | Provides video guides for entering IDPs                           |
-| [IDP Supervisor Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-supervisor-tool-kit) | Provides video guides for approving IDPs                          |
+| [IDP Employee Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-employee-tool-kit)     | Provides guides for entering IDPs                                 |
+| [IDP Supervisor Tool Kit](https://insite.gsa.gov/topics/training-and-development/continuous-learning/individual-development-plan/idp-supervisor-tool-kit) | Provides guides for approving IDPs                                |
 | [IDP OLU Training](https://gsa-hcm03.ns2cloud.com/learning/user/catalogsearch/catalogSearchDispatchAction.do?searchType=filteredSearch&keywords=idp#)     | OLU course on how to develop and manage an IDP                    |
 
 ## Common goals of an IDP
