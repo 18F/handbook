@@ -41,8 +41,8 @@ If you are interested in contributing to this repository, you can read more at
 To add additional images:
 
 1. Add an image to the `_img/travel` directory.
-2. Link the image on the travel page, with folding HTML:
-   `<img src="{% image "_img/travel/filename.png %}" class="travel-guide-hide">`.
+2. Link the image on the travel page, with folding code:
+   `{% image_with_class "_img/travel/filename.png" "travel-guide-hide" "description of the image" %}`
 3. A show/hide link will automatically be created.
 
 To create a new page:
