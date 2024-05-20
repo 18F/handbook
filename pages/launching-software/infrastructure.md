@@ -10,7 +10,7 @@ cSpell: ignore pipenv,virtualenv
 At some point, you're going to want to deploy your system. You have a good idea
 of the final destination of your system early on in the project. **If you're
 building [a site that has no server-side code](#static-sites), aim to use
-[Federalist](#federalist). If you're going to host server-side code, aim to
+[Cloud.gov Pages](#static-sites). If you're going to host server-side code, aim to
 deploy to [cloud.gov](#cloud-gov).** You can also deploy to
 [TTS-managed infrastructure as a service (IaaS)](#infrastructure-as-a-service-iaas)
 directly, but your life will be harder. For GSA systems, see
@@ -117,18 +117,7 @@ AWS as options before probing that point carefully!
 
 ### Static sites
 
-#### Federalist (preferred)
-
-[More information.](#federalist)
-
-#### cloud.gov
-
-See cloud.gov page on
-[deploying static sites](https://docs.cloud.gov/apps/static/).
-
-- **Internal:** Likely free, but start by checking with ##cloud-gov-business
-  with your use case.
-- **External:** see the [pricing page](https://cloud.gov/pricing/)
+See [GSA Pages]({% page "/gsa-pages/" %})
 
 ## Sandbox Accounts
 
@@ -417,10 +406,10 @@ with.
      this is the case.
 1. [Create an issue](https://github.com/18F/aws-admin/issues/new?template=new_account.md)
 
-## Federalist
+## GSA Pages
 
-Use Federalist for publishing static sites. See
-[the Federalist homepage](https://federalist.18f.gov) for more information.
+Use [GSA Pages]({% page "/gsa-pages/" %}) for publishing static sites at GSA. See
+[Cloud.gov Pages](https://pages.cloud.gov) for more information.
 
 ### Cost
 
@@ -466,7 +455,7 @@ _something.gov_
 
 TTS owns
 [a number of second-level domains](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit##gid=824448842).
-[Information from DotGov on getting a new one.](https://home.dotgov.gov/registration/)
+[Information from DotGov on getting a new one.](https://get.gov/registration/)
 Purchases/renewals are done through [micropurchase
 requests]({% page "/purchase-requests/" %}).
 
