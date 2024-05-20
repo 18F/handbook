@@ -58,8 +58,7 @@ an issue with your internet._
   confirmation message.
 
 If the travel finance team is unable to locate your payroll banking information,
-they may request that you complete [the EFT
-form]({% download "downloads/EFT_Enrollment_Form.pdf" %}) and will provide
+they may request that you complete [the EFT form]({% download "downloads/EFT_Enrollment_Form.pdf" %}) and will provide
 instructions on how you can send this information to them securely.
 
 While you wait for the ID number to be generated and sent to you via email
@@ -69,8 +68,7 @@ GSA travel card]({% page "/first-time-travel-travel-card" %}).
 ### 2. Check that you have completed required training
 
 Ensure you have completed the mandatory security and privacy training required
-of all GSA staff, assigned to you in [OLU](https://gsaolu.gsa.gov). [Follow the
-[instructions]({% page "/training-and-development/olu/#help-with-olu" %})
+of all GSA staff, assigned to you in [OLU](https://gsaolu.gsa.gov). [Follow the instructions]({% page "/training-and-development/olu/#help-with-olu" %})
 if you need help.
 
 ### 3. Complete the CGE Access Request Form
