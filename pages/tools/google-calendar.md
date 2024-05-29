@@ -50,8 +50,7 @@ right of the screen.
 - You can
   [view availability](https://support.google.com/calendar/answer/6294878) of
   other people at GSA for scheduling meetings.
-- You can't share calendars with anyone outside GSA. You can share individual
-  invites, but not whole calendars.
+- You can share specific event invites with external parties, but [can't share unrestricted access to your entire calendar outside of the GSA](#share-your-calendar-outside-of-gsa)
 - [View multiple time zones at once.](https://support.google.com/calendar/answer/37064)
 
 ### Change default event durations
@@ -79,3 +78,17 @@ invitations.
 
 You can sync your schedule to an iOS device with Google Calendar. Use your Gmail
 account to sign in.
+
+### Share your calendar outside of GSA
+
+Although you can't share access to all of your calendar events with people outside of GSA, you can share your free / busy times. You may find it useful to share this view with partners or with your personal accounts.
+
+Start by clicking the three dots next to the calendar you would like to share, then click "settings and sharing."
+
+{% image_with_class "_img/tools/calendar-1.png" "border-05" "popup that displays when three dots are clicked next to a specific calendar. Options are display this only, settings and sharings, and available colors" %}
+
+Find "access permissions for events." If you would like to share a calendar link with partners, you will need to check "make available to public" with the "see only free/busy (hide details)" option selected, then copy the shareable link. Open it in a private browser tab or while logged out to view what it looks like for people outside the GSA.
+
+If you would like to add your work calendar to your personal calendar, scroll down to "Share with specific people or groups." Enter your email account and "see only free/busy (hide details)".
+
+{% image_with_class "_img/tools/calendar-2.png" "border-05" "screenshot of calendar settings sections for access permissions for events and share with specific people or groups" %}
