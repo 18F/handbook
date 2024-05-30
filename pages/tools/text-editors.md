@@ -17,7 +17,7 @@ to develop code.
   default. Also available on OS X via [Homebrew](https://brew.sh/).
 - [Emacs](https://www.gnu.org/software/emacs/): Installed on OS X and Linux by
   default. Also available on OS X via [Homebrew](https://brew.sh/)
-- [Visual Studio Code](https://code.visualstudio.com/): VS Code is very
+- [Visual Studio Code](https://code.visualstudio.com/): Free and open source. VS Code is very
   extensible with lots plugins. One great plugin for pairing is
   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare),
   which supports live editing of the same file, sharing a terminal session, port
