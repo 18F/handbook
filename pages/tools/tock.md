@@ -44,23 +44,9 @@ redirect_from:
   including staffing the project, providing feedback to their staff regarding
   their project, conducting postmortems, meeting to share information and
   lessons learned from other projects, etc.
-- **18F Administrative & Supervisory - #1814:** This tracks the work supervisors
-  do supporting their direct reports AND time individuals spend on mandated
-  administrative tasks.
-  - Performance management/performance reviews, including:
-    - Writing self-evaluations,
-    - Collecting peer feedback,
-    - Delivering feedback,
-    - Drafting performance plans,
-    - Entering performance reviews into HRLinks,
-    - 1:1s discussing career development or feedback, etc.
-  - Organizational meetings, including:
-    - Cohort or chapter huddles,
-    - 18F Team Coffee,
-    - TTS Supervisor meetings,
-    - TTS All Hands,
-    - FAS Town Halls,
-    - GSA Town Halls, etc.
+- **18F Administrative & Supervisory - #1814:** Time spent on required administrative tasks,
+  organizational meetings, training, and supervisory tasks for people with direct reports:
+
   - Administrative tasks, including:
     - Submitting and approving timecards and leave approvals,
     - OLU refresh courses,
@@ -68,7 +54,22 @@ redirect_from:
     - Concur travel documentation,
     - Filing and resolving GSA IT service tickets,
     - Requesting leave in HR Links,
-    - Any time you cannot work because of GSA IT forced reboots or updates, etc.
+    - Any time you cannot work because of GSA IT forced reboots or updates, etc.  
+  - Organizational meetings, including:
+    - Cohort or chapter huddles,
+    - 18F Team Coffee,
+    - TTS Supervisor meetings,
+    - TTS All Hands,
+    - FAS Town Halls,
+    - GSA Town Halls, etc.  
+  - Performance management/performance reviews, including:
+    - Writing self-evaluations,
+    - Collecting peer feedback,
+    - Delivering feedback,
+    - Drafting performance plans,
+    - Entering performance reviews into HRLinks,
+    - 1:1s discussing career development or feedback, etc.
+   
 - **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F
   hiring and onboarding. Hiring activity includes:
 
