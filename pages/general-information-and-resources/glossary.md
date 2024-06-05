@@ -439,7 +439,7 @@ cSpell: ignore Technica
 - **WiP** - Work in Progress.
 
 ## More
-- [This is 18F's glossary](https://github.com/18F/the-glossary)
+- [This is 18F's glossary](https://github.com/18F/the-glossary/blob/main/glossary.md)
 - [Here's an additional library of government acronyms](https://github.com/unitedstates/acronym).
 - [This is Login.gov's glossary](https://handbook.login.gov/articles/glossary.html)
 - [This is GitHub's glossary](https://help.github.com/articles/github-glossary/)
