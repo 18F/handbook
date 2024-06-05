@@ -439,9 +439,9 @@ cSpell: ignore Technica
 - **WiP** - Work in Progress.
 
 ## More
-
-- [This Ars Technica article](https://arstechnica.com/uncategorized/2012/03/cracking-the-cloud-an-amazon-web-services-primer/)
-  is a good primer on Amazon Web Services jargon.
+- [This is 18F's glossary](https://github.com/18F/the-glossary)
 - [Here's an additional library of government acronyms](https://github.com/unitedstates/acronym).
 - [This is Login.gov's glossary](https://handbook.login.gov/articles/glossary.html)
 - [This is GitHub's glossary](https://help.github.com/articles/github-glossary/)
+- [This Ars Technica article](https://arstechnica.com/uncategorized/2012/03/cracking-the-cloud-an-amazon-web-services-primer/)
+  is a good primer on Amazon Web Services jargon.
