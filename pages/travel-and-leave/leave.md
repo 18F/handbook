@@ -512,7 +512,7 @@ fill them out and save them.
 1. Complete the
    [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view)
 1. [Pull a timesheet
-   report]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}).
+   report]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}) for the last 12 months.
 
 Return the three items above to the
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
