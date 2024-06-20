@@ -13,6 +13,7 @@ redirect_from:
 - **Out of Office - #670:** Any time you are out of office for less than 3
   weeks. Including:
 
+  - Federal holidays,
   - Vacations,
   - Sick leave,
   - Administrative leave,
