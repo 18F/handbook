@@ -170,12 +170,14 @@ the [EAP website](http://www.foh4you.com/) and refer to the
 [EAP Supervisor Guide](https://drive.google.com/file/d/1uYJ3cWUc3HLUUm5f7baFt_uUpz_-CyIG/view)
 for additional support.
 
-### EAP orientation and wellness sessions
+### EAP orientation, wellness sessions, and GSA's point of contact
 
 Throughout the year, you can attend an EAP Orientation as well as free health &
 wellness sessions. Visit the
 [EAP InSite Page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/worklife-programs/employee-assistance-program)
-for current dates, times, and links.
+for current dates, times, and links. 
+
+The InSite page also lists GSA's EAP program manager, if you want to provide feedback about your experience with the program. 
 
 ## Flexible spending accounts
 
