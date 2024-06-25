@@ -176,8 +176,7 @@ Before taking leave, be sure to:
 - [Submit a leave request through HR
   Links]({% page "/travel-and-leave/leave/#entering-a-leave-request" %}).
   Discuss the dates with your supervisor, as needed.
-- Mark your out of office time on your calendar and any applicable team or
-  project calendars.
+- Mark your out of office time on your calendar (inviting your supervisor/colleagues as appropriate with the invite set to "free" so it doesn't block other scheduling) and any applicable team or project calendars.
   - [Google Calendar has an OOO setting](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop&oco=0)
     that can auto-reject current and future meetings.
 - Decline, cancel, or reschedule any meetings you’ll miss.
