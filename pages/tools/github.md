@@ -59,7 +59,7 @@ Include the following:
   [GitHub settings](https://github.com/settings/emails), they will both be tied
   to your GitHub account anyway.
 - If you will be using `git ssh`, create a ticket in ServiceNow to be added to the TTS - SSH User Group. Follow these steps:
-  1. Go to [GSA IT Self Service Portal](gsa.servicenowservices.com)
+  1. Go to [GSA IT Self Service Portal](https://gsa.servicenowservices.com)
   2. Click on Service Catalog
   3. Search for "generic"
   4. Select "GSA Generic Request"
