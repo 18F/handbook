@@ -13,6 +13,7 @@ redirect_from:
 - **Out of Office - #670:** Any time you are out of office for less than 3
   weeks. Including:
 
+  - Federal holidays,
   - Vacations,
   - Sick leave,
   - Administrative leave,
@@ -393,6 +394,5 @@ Tock likely doesn't have your start date listed correctly. To fix this:
 
 ### How do I change a reporting period I already filled out?
 
-Submit a Tock change request using
-[this form](https://docs.google.com/forms/d/1EpVTxXgRNgYfoSA2J8Oi-csjhFKqFm5DT542vIlahpU/viewform?edit_requested=true).
+Submit a Tock change request using [this form](https://docs.google.com/forms/d/e/1FAIpQLSe5RDFOlyWm0IXv7_eXjZ3CEjaGj2CmM-_TNgqwMjdspfQz7Q/viewform).
 You can also ping us in {% slack_channel "tock" %} and we'll help you out.

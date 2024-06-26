@@ -22,7 +22,7 @@ redirect_from:
 
 TTS encourages all staff to attend conferences, speak at events, and focus on
 professional development and training opportunities. Check out the
-[TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=1891423646)
+[TTS Training Database](https://docs.google.com/spreadsheets/d/1vB1xbe02jCpKYn6BGSyCH2FziIRNkXXi29yAFT5N9Dg/edit#gid=2127569068)
 to see what conferences and trainings your colleagues have attended. If you're
 looking for guidelines around speaking at events (in either a personal or
 professional capacity), see
