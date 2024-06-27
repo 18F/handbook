@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Magdaline,Matis,Nakai,Ojiaku,Polyak,Rago
+cSpell: ignore Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Horwitz,Magdaline,Matis,Nakai,Ojiaku,Polyak,Rago
 ---
 
 <style type="text/css">

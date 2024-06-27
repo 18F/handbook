@@ -176,8 +176,7 @@ Before taking leave, be sure to:
 - [Submit a leave request through HR
   Links]({% page "/travel-and-leave/leave/#entering-a-leave-request" %}).
   Discuss the dates with your supervisor, as needed.
-- Mark your out of office time on your calendar and any applicable team or
-  project calendars.
+- Mark your out of office time on your calendar (inviting your supervisor/colleagues as appropriate with the invite set to "free" so it doesn't block other scheduling) and any applicable team or project calendars.
   - [Google Calendar has an OOO setting](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop&oco=0)
     that can auto-reject current and future meetings.
 - Decline, cancel, or reschedule any meetings you’ll miss.
@@ -512,7 +511,7 @@ fill them out and save them.
 1. Complete the
    [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view)
 1. [Pull a timesheet
-   report]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}).
+   report]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}) for the last 12 months.
 
 Return the three items above to the
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)

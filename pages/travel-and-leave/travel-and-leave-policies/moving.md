@@ -31,10 +31,9 @@ or update GSA systems.
 ## Moving
 
 If you plan to permanently move or relocate for longer than 120 days, email
-[TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) as soon as you know your future address, and
-copy your supervisor on the email. Please provide the following information:
+[TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and copy your supervisor as soon as you are thinking about moving. There may be implications to your move you might not be aware of or would like to confirm - such as a change in pay. Please provide the following information:
 
-- The city, county, state, ZIP code that you are moving to.
+- The city, county, state, ZIP code that you are moving to (if you know it).
   - If you are staying in the same city, county, state, or ZIP code, make a note
     of that.
 - The effective date for your move. The effective date needs to be the start of
@@ -44,14 +43,9 @@ copy your supervisor on the email. Please provide the following information:
   Teleworker (onsite flexible: you go into an office two times or more per pay
   period). If you don’t know your status, tell us that.
 
-After receiving your information, PeopleOps will provide step-by-step guidance
-on how to proceed.
-
-They may need to process a Personnel Action Request (PAR) for you, depending on
-your unique situation, which can take a few weeks. If your pay is changing as a
-result of your move, you will need to complete a new
-[Remote Work Analysis Tool](https://drive.google.com/file/d/1iTpdAzn5Jqi4DDk6o-C-hki7Fp-daK3R/view).
-PeopleOps will provide instructions.
+After receiving your information, PeopleOps will provide step-by-step guidance on how to proceed. They may need to process a Personnel Action Request (PAR) for you, depending on your unique situation. If your pay is changing as a
+result of your move, you will need to complete a new [Remote Work Analysis Tool](https://drive.google.com/file/d/1iTpdAzn5Jqi4DDk6o-C-hki7Fp-daK3R/view).
+PeopleOps will provide instructions. Your new pay rate will not be effective until your new Remote Work Analysis Tool is approved and the PAR is processed; this can take a few weeks.
 
 Below are a few key things to know.
 

@@ -557,7 +557,7 @@ making approval in these circumstances extremely unlikely.
 
 All official international travel taken by GSA employees, regardless of funding
 source, requires Salesforce event approval. Please reach out to
-michael.proul@gsa.gov at least 7 weeks in advance in order to coordinate this.
+the Travel and Events team at least 7 weeks in advance in order to coordinate this.
 
 Teleworking from locations outside the U.S. while on personal travel is not
 allowed.
