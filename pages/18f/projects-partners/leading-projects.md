@@ -200,8 +200,8 @@ most common types of 18F project endings are some combination of the following:
     participate.
   - Post the reflection summary to {% slack_channel "project-reflections" %}
   - Link the completed project reflection to the project record in the 18F dashboard using [this form](https://airtable.com/shrDVLEqUpLYGnvKS).
-  - Upload re-usable or example tools, presentations, docs, and other resources to the [Project Resource Library](https://airtable.com/appkBrEBVTMd9M5VC?) through the
-    [submission form](https://airtable.com/shrg8FScJQSJlXwtv).
+  - Share re-usable or example tools, presentations, docs, and other resources by [submitting them to the Project Resource Library](https://airtable.com/appkBrEBVTMd9M5VC/paggmwfuX2sEXbiW8)
+    
   - As an optional step, use the
     [project reflection for performance evals template](https://docs.google.com/document/d/1ko28PDLcEa_VB3ulMKbEjLzi88u8K8WJqXsBryrBV-U/edit?usp=sharing)
     to collaborate on drafting individual performance language. In some cases, an
