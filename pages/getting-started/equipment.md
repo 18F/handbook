@@ -252,7 +252,7 @@ a
 via the GSA IT Service Desk.
 
 #### Office printer
-If you need to setup a printer while in the office, follow [the instructions](https://gsa.servicenowservices.com/kb_view.do?sysparm_article=KB0024286).
+If you need to setup a printer while in the office, follow [the instructions](https://gsa.servicenowservices.com/sp?id=kb_article&sys_id=a0a4fcb91b7755903a6da8efe54bcb5c&table=kb_knowledge).
 
 ## Equipment to accommodate disability
 
