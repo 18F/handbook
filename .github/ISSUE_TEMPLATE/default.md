@@ -1,6 +1,6 @@
 ---
 name: Default
-about: Use this template for reporting bugs or feature work for the TTS Handbook only.
+about: For reporting bugs or feature work for the TTS Handbook only. Not for requesting Login.gov or other service support.
 title: "[DATE]: [FEATURE NAME]"
 ---
 
