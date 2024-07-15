@@ -19,18 +19,15 @@ term ends.  These steps also apply to employees who will remain in federal gover
 Begin this process at least two weeks before your last day of work.
 Your last day at TTS cannot be a federal holiday.
 
-### 1. Email your resignation letter
+### 1. Email PeopleOps and your supervisor
 
-Send an official email to your supervisor and
-[leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov).
+Send an email to your supervisor and the [PeopleOps offboarding inbox](mailto:leavingTTS@gsa.gov).
 
 Please include the following information:
 
-- your **termination date** (the last day of your term or the last official day
-  that you've selected), which should be at least two weeks out. (You can find
-  the last day of your term in [eOPF](https://eopf.opm.gov/gsa/) by finding the
-  most recent SF-50 with type `EXC APPT NTE` or `EXT OF APPT NTE` and looking at
-  box 5-B.)
+- your **leaving date** (the last day of your term or the last official day
+  that you've selected), which should be at least two weeks out. If you are transferring to another federal agency, please make a note of that.
+  - You can find the last day of your term in [eOPF](https://eopf.opm.gov/gsa/) by finding the most recent SF-50 with type `EXC APPT NTE` or `EXT OF APPT NTE` and looking at box 5-B. 
 - your **security clearance level** if it is above Public Trust (i.e. Secret or
   TS/SCI) so that a debriefing meeting can be scheduled, if necessary, with
   Security.
@@ -44,8 +41,8 @@ Please include the following information:
   those dates so that offboarding meetings can be scheduled accordingly. Please
   see the next section for more information.
 
-Once you’ve sent your official letter of notice we will assume your departure is
-public knowledge, so if you would like to tell folks yourself, please handle
+Once you’ve sent this email of notice, we will assume your departure is
+public knowledge. If you would like to tell folks yourself, please handle
 those notifications ahead of time.
 
 #### Taking time off prior to your last day at TTS
