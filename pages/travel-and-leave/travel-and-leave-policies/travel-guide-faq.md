@@ -798,7 +798,7 @@ travel via Concur or AdTrav.
 Supervisors may be reimbursed for up to half the cost of professional liability
 insurance, up to $150. In order to claim reimbursement, get an email from your
 supervisor approving the amount of the reimbursement you intend to claim and
-send it to tts-travelauths@gsa.gov. Then, create a
+send it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). Then, create a
 [miscellaneous voucher](#how-do-i-create-a-local-or-miscellaneous-voucher) in
 [Concur](https://travel.gsa.gov) and [attach the receipt](#attaching-receipts)
 you received after purchasing the insurance.
