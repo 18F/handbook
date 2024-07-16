@@ -85,7 +85,7 @@ If any part of the fare that you chose is nonrefundable, or exceeds the
 additional email approving the risk of nonrefundable airfare and/or additional
 costs from
 [your authorizing official](#who-is-my-authorizing-official-and-what-is-my-budget)
-sent to tts-travelauths@gsa.gov.
+sent to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 
 [What justifies using a non-contract fare?](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=107365#i1204997)
 
@@ -196,7 +196,7 @@ following (from the Federal Travel Regulation):
 If you need to book a hotel outside of Concur, check if booking comes with any
 nonrefundable fees. If it does, make sure that you get your authorizing official
 to approve the approximate amount of what is nonrefundable and send the email to
-tts-travelauths@gsa.gov. **Nonrefundable hotel fees that are not pre-approved
+[tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). **Nonrefundable hotel fees that are not pre-approved
 are the traveler’s liability.** Should booking a hotel in Concur or via AdTrav
 not be possible, [Fedrooms](https://fedrooms.com) offers hotels within
 government maximum rates that have flexible cancellation policies.
@@ -406,7 +406,7 @@ traveling]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-2-b
 ### How to secure authorizing official approval
 
 You must formally request your authorizing official's approval\* via email and
-forward it to tts-travelauths@gsa.gov, unless you are traveling to a training,
+forward it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov), unless you are traveling to a training,
 conference, speaking event, or other "IRL" or large team gathering, in which
 case you must follow
 [the event request process instead](#how-can-i-get-my-travel-approved-to-attend-a-training-conference-speaking-event-or-other-irl-or-large-team-gathering).
@@ -469,7 +469,7 @@ ensure that either the Trip Name or Document Detail mentions that the travel
 will be split between multiple projects. If more than one authorizing official
 has approved expenses for a particular day or leg of the itinerary, clarify
 which project will be paying for each part of the trip, either via email to
-tts-travelauths@gsa.gov or comment in the Trip Name or Document Detail sections
+[tts-travel@gsa.gov](mailto:tts-travel@gsa.gov) or comment in the Trip Name or Document Detail sections
 of Concur. Splitting overall trip costs by a percentage is acceptable as well,
 as long as the split is agreed upon by all parties.
 
@@ -622,7 +622,7 @@ Upon selecting the **Local voucher** option, you will be taken to a blank
   Ensure you have
   [an email from your authorizing official](#how-to-secure-authorizing-official-approval)
   approving all of the expenses you'd like to claim sent to
-  tts-travelauths@gsa.gov.
+  [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 - **Type code** and **Trip purpose** If the voucher is for local travel (taxis,
   mileage, etc.), choose **Local travel**. For any other sort of reimbursement,
   choose **Misc voucher**.
@@ -798,7 +798,7 @@ travel via Concur or AdTrav.
 Supervisors may be reimbursed for up to half the cost of professional liability
 insurance, up to $150. In order to claim reimbursement, get an email from your
 supervisor approving the amount of the reimbursement you intend to claim and
-send it to tts-travelauths@gsa.gov. Then, create a
+send it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). Then, create a
 [miscellaneous voucher](#how-do-i-create-a-local-or-miscellaneous-voucher) in
 [Concur](https://travel.gsa.gov) and [attach the receipt](#attaching-receipts)
 you received after purchasing the insurance.
