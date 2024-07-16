@@ -34,9 +34,7 @@ Please include the following information:
 - your **home address**. This will ensure that GSA HR enters the correct
   information on your final SF-50 so that you can receive all of your documents
   on time and to the correct address.
-- your **personal email** so that if, or when, you wish to request your FERS
-  refund contributions HR can correspond with you after your departure with
-  status/updates on this request.
+- your **personal email**.
 - If you plan on taking time off during your last weeks, please also include
   those dates so that offboarding meetings can be scheduled accordingly. Please
   see the next section for more information.
