@@ -31,7 +31,7 @@ TTS.
 ### Use your travel card when possible
 
 Use of the GSA travel card is mandatory for all expenses as per the
-[Federal Travel Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation-ftr?asset=101276#wp1091086),
+[Federal Travel Regulation](https://www.ecfr.gov/current/title-41/subtitle-F/chapter-301),
 except expenses for which it "is impractical (e.g., vendor does not accept
 credit cards) or imposes unreasonable burdens or costs (e.g., fees are charged
 for using the card)."
