@@ -42,7 +42,7 @@ for using the card)."
 
 Many jurisdictions exempt federal travelers from paying lodging tax. More
 information on each state's policy can be found
-[here](https://www.gsa.gov/travel/plan-book/state-tax-exemption-information-for-government-charge-cards).
+[here](https://smartpay.gsa.gov/smarttax/tax-information-by-state/).
 Note that the GSA travel card is considered an "IBA".
 
 ### Which receipts must I keep?
