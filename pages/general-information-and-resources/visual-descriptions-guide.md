@@ -3,7 +3,7 @@ title: Visual Descriptions Guide
 questions:
   - g-diversity
   - g-accessibility
-cSpell: ignore Rottenberg
+cSpell: ignore inclusivity, LGBTQIA, Justen, Lulo
 ---
 ## About
 ### What are visual descriptions 
@@ -16,7 +16,7 @@ One colleague shared his experience hearing another colleague's visual descripti
 ## Examples
 In a meeting where multiple people will provide visual descriptions only one person needs to mention the purpose. All speakers following should go straight into sharing their visual descriptions. 
 
-**Example 1.** Hi! My name is Faith. Before I begin — to increase accessibility and inclusivity in our conversation today — I’m sharing a little bit about myself. I’m a brown skinned black woman with medium length kinky hair sitting in a fuschia office chair. I’m wearing a green shirt and a beige skirt, with gold hoop earrings. My glasses have blue frames with rectangular lenses.
+**Example 1.** Hi! My name is Faith. Before I begin — to increase accessibility and inclusivity in our conversation today — I’m sharing a little bit about myself. I’m a brown skinned black woman with medium length kinky hair sitting in a fuchsia office chair. I’m wearing a green shirt and a beige skirt, with gold hoop earrings. My glasses have blue frames with rectangular lenses.
 
 **Example 2.** Greetings. I’m Madison, my pronouns are she/they and I’m a middle aged white woman with an androgynous appearance. I have short brown hair, I’m wearing a gray t-shirt and my black cocker spaniel Lulo is sleeping on the couch next to me.  
 
