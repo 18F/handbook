@@ -19,6 +19,8 @@ tags:
   - parent
   - parental leave
   - timesheets
+  - maternity
+  - paternity
 redirect_from:
   - /leave/
 ---
