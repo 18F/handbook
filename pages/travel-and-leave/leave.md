@@ -501,8 +501,10 @@ about recommended ways to combine leave types.
 
 #### Forms and steps for requesting paid parental leave
 
-Reminder: PDF forms should be downloaded and opened in Adobe Acrobat before you
-fill them out and save them.
+Note: The first two forms listed below are PDF files. To complete them:
+- Download and open in Adobe Acrobat
+- Fill out all fields (except signature)
+- Upload to [DocuSign]({% page "/tools/digital-signatures/" %}) and route the form to yourself, in order to provide an official signature
 
 ##### Prior to birth/placement:
 
