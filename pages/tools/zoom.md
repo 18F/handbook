@@ -63,3 +63,6 @@ Per the `User Action Required for Zoom Usage` email on 4/13/20:
 > - Do not share links to Zoom meetings or classrooms via publicly available
 >   social media outlets. Provide the links directly to specific invitees.
 > - For public meetings hosted by GSA, limit screen sharing to "Host Only".
+
+## Tips
+For accessibility, we encourage using [visual descriptions]({% page "/general-information-and-resources/visual-descriptions-guide/" %}) when you introduce yourself in a Zoom meeting.
