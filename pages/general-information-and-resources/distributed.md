@@ -32,7 +32,7 @@ cSpell: ignore Elman,Sennheiser,Karman,Sweger
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value"><a href="https://www.gsa.gov/portal/category/22227">Find your GSA region</a>.</td>
+        <td class="col-value"><a href="https://www.gsa.gov/about-us/gsa-regions">Find your GSA region</a>.</td>
       </tr>
     </tbody>
   </table>
