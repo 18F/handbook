@@ -121,7 +121,7 @@ document.
 
 Annabel Lombard from ({% slack_channel "people-ops" "the PeopleOps team" %}) will
 set time with you to complete the
-[GSA Pre-exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist), which links to an optional [GSA Exit Survey](https://forms.gle/uhQdPiriwD7pLiQBA).
+[GSA Pre-Exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist), which links to an optional [GSA Exit Survey](https://forms.gle/uhQdPiriwD7pLiQBA).
 
 ### 7. Return your equipment
 
@@ -154,7 +154,7 @@ hours of the person ending their work at GSA.
   - For offboarding interns, use
     [this survey](https://goo.gl/forms/XOy7QO4zcnz6LyLh1).
 - Complete the
-  [clearance checklist](https://drive.google.com/a/gsa.gov/file/d/0B2b-_CCBBYvRNGNVWTRjUnpmTVNtUUR6clVJdUt2MFVTNm5j/view?usp=sharing)
+  [Pre-Exit Clearance Checklist](https://www.gsa.gov/reference/forms/preexit-clearance-checklist)
   with the employee.
 
 ## Saying goodbye
