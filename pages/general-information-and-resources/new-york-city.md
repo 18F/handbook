@@ -34,7 +34,7 @@ cSpell: ignore Brookfield
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">Northeast and Caribbean (<a href="https://www.gsa.gov/portal/category/22227">region 2</a>)</td>
+        <td class="col-value">Northeast and Caribbean (<a href="https://www.gsa.gov/about-us/gsa-regions">region 2</a>)</td>
       </tr>
       <tr>
         <td class="col-key">
