@@ -40,7 +40,7 @@ cSpell: ignore Heppner,Buren,chitown
       </tr>
       <tr>
         <td class="col-key"><strong>Region</strong></td>
-        <td class="col-value">Great Lakes Region (<a href="https://www.gsa.gov/portal/category/22227">Region 5</a>)</td>
+        <td class="col-value">Great Lakes Region (<a href="https://www.gsa.gov/about-us/gsa-regions">Region 5</a>)</td>
       </tr>
     </tbody>
   </table>
