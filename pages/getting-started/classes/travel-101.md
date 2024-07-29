@@ -21,7 +21,7 @@ Concur]({% page "/first-time-travel-get-in-concur/" %})\*, GSA's travel system.
 Flights or Amtrak booked in Concur are paid for directly by GSA-- no travel card
 required.
 
-You'll also want to [apply for a GSA travel
+You'll also need to [apply for a GSA travel
 card]({% page "/first-time-travel-travel-card/" %}), and once you receive it,
 [update your Concur
 profile]({% page "/first-time-travel-complete-concur-profile" %}). This process
@@ -101,12 +101,11 @@ in Concur.
 
 **The TTS Travel Team** is responsible for approving properly submitted travel
 in Concur, and answering most\* of the questions you might have along the way.
-You can reach them either via email at tts-travel@gsa.gov, in Slack in the
-#travel channel, or by booking
-[travel/purchase office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg).
+You can reach them either via email at tts-travel@gsa.gov or in Slack in the
+#travel channel
+
 Note that the travel team won't be available to immediately assist with your
-inquiry, though the team endeavors to answer all questions that come through by
-their next office hours which are twice daily. Properly submitted authorizations
+inquiry. Properly submitted authorizations
 for upcoming travel are reviewed by the team daily, and vouchers are reviewed
 within 5 business days. Close of business for the travel team is at **4:30 PM
 ET**. Should you need support after-hours, read the guide
@@ -118,7 +117,7 @@ individual emails or Slack DMs.
 
 - Djemila McCray (primary, People Operations)
 - Lathann Newland (primary, People Operations)
-- Steven Williams (backup, People Operations)
+
 
 \*_Please direct technical questions about Concur to the Business Applications
 Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions
