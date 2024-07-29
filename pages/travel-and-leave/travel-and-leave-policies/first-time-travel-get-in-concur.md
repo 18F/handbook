@@ -65,11 +65,11 @@ While you wait for the ID number to be generated and sent to you via email
 (which can take up to 1 business day), you can get started on [applying for the
 GSA travel card]({% page "/first-time-travel-travel-card" %}).
 
-### 2. Check that you have completed required training
+### 2. Completed Required Training in Online University (OLU)
 
 Ensure you have completed the mandatory security and privacy training required
-of all GSA staff, assigned to you in [OLU](https://gsaolu.gsa.gov). [Follow the instructions]({% page "/training-and-development/olu/#help-with-olu" %})
-if you need help.
+of all GSA staff, assigned to you in [OLU](https://insite.gsa.gov/#:~:text=IT%20Support%20Request-,Online%20University,-Pegasys). [Follow the instructions]({% page "/training-and-development/olu/#help-with-olu" %})
+if you need help. Please ensure you have completed this year's Travel Card Training course in OLU. After completion, save a pdf copy of your certificate. Designated Travel Reviewers and Approvers must also complete the Temporary Duty Travel (TDY) Training course in OLU. Both training must be retaken every year.
 
 ### 3. Complete the CGE Access Request Form
 
@@ -78,13 +78,15 @@ Either an electronic or ink signature is fine. Don't forget to get your
 supervisor's signature as well! \*_Not sure about a particular field? Get help
 by reading the_ _[FAQ below](#frequently-asked-questions)_
 
-### 4. Email the form to TTS Travel
+### 4. Email Completed Form(s) and Certificates(s) to TTS Travel (OLU)
 
-Email completed CGE form to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). _Do
-not email it to cge-access-requests@gsa.gov,_ as the form specifies. Only email
-it to tts-travel@gsa.gov. Your account will be set up before
-[the next travel office hours](https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg),
-which you can also book any time if you have questions.
+Standard Travelers: Please email the completed CGE Form and Travel Card Training Certificate to tts-travel@gsa.gov. 
+
+Travel Reviewers and Approvers: Please email the completed CGE Form, Travel Card Training Certificate and TDY Training Certificate to tts-travel@gsa.gov.
+
+Do not email your request to cge-access-requests@gsa.gov, as the form specifies. Only email request to tts-travel@gsa.gov.
+
+Please allow 10 business days for your account setup. You will receive a welcome email when your account is active. 
 
 [Next Step: First-Time Travel - Get a Travel
 Card]({% page "/first-time-travel-travel-card" %})
