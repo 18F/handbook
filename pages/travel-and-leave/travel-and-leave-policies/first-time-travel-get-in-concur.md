@@ -4,8 +4,7 @@ subtitle: "First-time travel guide: Step 1a"
 questions:
   - travel
   - tts-travel@gsa.gov
-  - text: Book office hours
-    url: https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg
+
 redirect_from:
   - /first-time-travel-get-in-concur/
 step_indicator:
@@ -95,12 +94,50 @@ Card]({% page "/first-time-travel-travel-card" %})
 
 #### What is my Correspondence/Office symbol?
 
-For the purposes of Concur, use "TTS".
+Q2:	Director and Staff
+
+Q2A0A:	Technology Operations Division
+
+Q2AAA:	cloud.gov
+
+Q2AAB:	Login.gov
+
+Q2AAC:	Platforms and Services Division
+
+Q2AAD:	Public Experience
+
+Q2AAE:	FedRAMP
+
+Q2AAF:	Accelerators/10x
+
+Q2AB:	OROS
+
+Q2AC:	IAE
+
+Q2ADA:	18F
+
+Q2ADB:	CoE
+
+Q2BA:	Acquisitions
+
+Q2BB:	Business Operations
+
+Q2BC:	MD&P
+
+Q2BD:	Outreach
+
+Q2BEB:	Talent
+
+Q2BEC:	People Operations
+
+Q2CA:	PIF
+
+Q2CB:	USDC
 
 #### What are my user roles?
 
 Only traveler, unless you have already been instructed otherwise by the travel
-team.
+team. Reviewers and Supervisors will also add the "Travel Approver" Role
 
 #### What is my user type?
 
@@ -117,7 +154,7 @@ That of your functional supervisor.
 
 Your Travel Vendor ID is a number in the format "E000XXXXX" that is called
 "Employee ID" in your Concur profile. It is also called "Traveler ID" on Concur
-authorizations.
+authorizations. This number will not be the as the ID listed in HrLinks
 
 #### How can I get Travel Approver access?
 
