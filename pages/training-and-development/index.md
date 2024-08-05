@@ -104,7 +104,7 @@ GSA’s [Virtual Leadership Development Program](https://insite.gsa.gov/employee
 
 ### Competitive Development Program (CDP)
 
-The [Competitive Development Program](https://insite.gsa.gov/topics/training-and-development/leadership-resources/competitive-development-program-cdp) provides leadership development opportunities via select external training programs. The CDP is a competitive process that requires supervisor approval. Please note: the CDP is only open to full-time, permanent employees with at least 1 year of GSA service (by the application deadline).
+The [Competitive Development Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/competitive-development-program-cdp) provides leadership development opportunities via select external training programs. The CDP is a competitive process that requires supervisor approval. Please note: the CDP is only open to full-time, permanent employees with at least 1 year of GSA service (by the application deadline).
 
 ## Other growth opportunities
 
