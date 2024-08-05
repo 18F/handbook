@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Login.gov Issues
+  - name: Login.gov issues
     url: https://www.login.gov/contact/
-    about: For help with Login.gov
-  - name: Report a vulnerability
-    url: https://github.com/18F/handbook/security/advisories/new
-    about:  Privately report a security vulnerability.
+    about: For help with Login.gov, use their dedicated Help Center.
