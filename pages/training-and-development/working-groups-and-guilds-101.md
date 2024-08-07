@@ -187,8 +187,8 @@ Guild meeting times can also be found on the
           <a href="https://github.com/18F/development-guide">Eng Guide repo</a> &bull; {% slack_channel "dev" %}
         </td>
         <td>
-          Samira Sadat - USDC, Vote.gov<br />
-          Caley Woods - 18F
+          Caley Woods - 18F<br />
+          Neil Martinsen-Burrell - 18F
         </td>
       </tr>
       <tr>
