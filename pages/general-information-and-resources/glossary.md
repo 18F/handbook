@@ -31,13 +31,13 @@ cSpell: ignore Technica
 - **A-11** - A type of document published by the OMB that tells federal agencies
   how to make budget requests.
 
-- **AcqDiv** - The TTS Acquisition Division
-
 - **a11y** - A [numeronym](https://en.wikipedia.org/wiki/Numeronym) that stands
   for "accessibility."
 
 - **ACQ** - Acquisitions. A discipline across the federal government responsible
   for purchases, and a chapter within 18f
+
+- **AcqDiv** - The TTS Acquisition Division.
 
 - **ADR** - Architecture Decision Record. A written record of choices made by
   people involved in the creation of software. There is
