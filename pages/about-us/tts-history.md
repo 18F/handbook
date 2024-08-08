@@ -60,7 +60,7 @@ offices:
   yearlong entrepreneurs in residence. Together with agency leaders, PIFs
   improve the way our government designs, develops, and delivers services for
   the public.
-- **Office of Acquisition** drives smarter technology procurement through
+- **The TTS Acquisition Division** drives smarter technology procurement through
   technical procurement consultations, new procurement vehicle creation, and the
   development of experimental procurement platforms and methodologies.
 

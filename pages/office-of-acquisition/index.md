@@ -1,14 +1,14 @@
 ---
-title: Office of Acquisition
+title: TTS Acquisition Division
 permalink: /office-of-acquisition/
 questions:
-  - tts-oa
+  - tts-acqdiv
 redirect_from:
   - /oa/
 cSpell: ignore michellepet
 ---
 
-Welcome to TTS Office of Acquisition (OA) team page!
+Welcome to TTS Acquisition Division (AcqDiv) team page!
 
 ## Our mission
 
@@ -25,14 +25,14 @@ to learn more about us.
 
 ## What we offer
 
-TTS Office of Acquisition (OA) is uniquely focused on helping government buy
+The TTS Acquisition Division (AcqDiv) is uniquely focused on helping government buy
 modern digital technologies for internal and external clients. We specialize in
 procuring Software as a Service (SaaS), Infrastructure as a Service (IaaS),
 Platform as a Service (PaaS), and IT professional services.
 
 If you are interested in learning more about which existing TTS vehicles you can
 use, please see the
-[OA TTS Wide Contract Vehicles](https://docs.google.com/spreadsheets/d/1SfgL5tOh0ez-dT4VTSO7e3q-x8oAgWcYXnbqOA9M7zQ/edit#gid=0).
+[AcqDiv TTS Wide Contract Vehicles](https://docs.google.com/spreadsheets/d/1SfgL5tOh0ez-dT4VTSO7e3q-x8oAgWcYXnbqOA9M7zQ/edit#gid=0).
 
 ## Clients
 
@@ -55,7 +55,7 @@ partially or fully support your partner(s) outside of TTS (including other GSA
 offices and partner agencies), paid partially or fully by your partner(s), will
 be considered an assisted acquisition.
 
-However, OA is currently set up as a shared service, so please keep in mind that
+However, AcqDiv is currently set up as a shared service, so please keep in mind that
 we cannot work directly with outside partners. In order for us to do an assisted
 acquisition, the request must come through one of the following TTS Business
 Units (BU). Also note that each BU has its own assisted acquisition process as
@@ -64,7 +64,7 @@ and/or to get started:
 
 - [18F](https://docs.google.com/presentation/d/1RIxGEtQ4vMEfcdx8JYXQ_U5-uTMTu1Ffi-UNur1XKHQ/edit#slide=id.p) -
   Inquiries18F@gsa.gov
-- OPP - Slack {% slack_channel "solutions" %}
+- Solutions - Slack {% slack_channel "solutions" %}
 - [CoE](https://coe.gsa.gov/) - ConnectCoE@gsa.gov
 
 ## How we work
@@ -81,7 +81,7 @@ and/or to get started:
 
 ## Communication
 
-Find us on Slack: {% slack_channel "tts-oa" %}
+Find us on Slack: {% slack_channel "tts-acqdiv" %}
 
 ## FAQs
 
@@ -116,7 +116,7 @@ for more information about being a COR.
 
 ### How do I complete a micropurchase?
 
-In addition to buys over $10,000, OA buys services for TTS under $10,000 per
+In addition to buys over $10,000, AcqDiv buys services for TTS under $10,000 per
 year. The TTS Technology Portfolio is in charge of procuring software under
 $10,000 and the Operations team is responsible for procuring [everything else
 under $10,000]. You can visit the [Purchase requests handbook
@@ -126,7 +126,7 @@ page]({% page "/software/" %})for software purchases.
 
 ### How do I get started with a buy over $10,000 per year?
 
-If you or your team are looking to do a buy over $10,000 per year with OA, visit
+If you or your team are looking to do a buy over $10,000 per year with AcqDiv, visit
 the [Procurements over $10,000 handbook
 page]({% page "/procurements-over-10000/" %}) to learn how to get started.
 

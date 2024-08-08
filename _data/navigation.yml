@@ -387,9 +387,9 @@ primary:
               - text: Blogging
                 url: office-of-operations/blogging/
                 internal: true
-      - text: TTS Office of Acquisition
+      - text: The TTS Acquisition Division
         children:
-          - text: Overview of OA
+          - text: Overview of AcqDiv
             url: office-of-acquisition/
             internal: true
           - text: Roles and responsibilities

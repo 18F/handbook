@@ -105,10 +105,10 @@ Please follow the recommended steps below when ordering services under $10,000:
    [Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d),
    fill it out, and attach the link to the micropurchase request form. You will
    also need to have a vendor quote for the services you are requesting.
-3. After you submit the form, the Office of Acquisition will review your
+3. After you submit the form, the TTS Acquisition Division (AcqDiv) will review your
    request. Please be ready to address any questions, comments, or feedback at
    your earliest convenience.
-4. Once OA has reviewed your request, they will send it through the approval
+4. Once AcqDiv has reviewed your request, they will send it through the approval
    process in the micropurchase request sheet. Your supervisor will approve via
    a link in their email.
 5. Once the purchase is approved, the purchase card holder will reach out to you
