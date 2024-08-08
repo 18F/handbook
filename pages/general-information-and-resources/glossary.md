@@ -31,6 +31,8 @@ cSpell: ignore Technica
 - **A-11** - A type of document published by the OMB that tells federal agencies
   how to make budget requests.
 
+- **AcqDiv** - The TTS Acquisition Division
+
 - **a11y** - A [numeronym](https://en.wikipedia.org/wiki/Numeronym) that stands
   for "accessibility."
 
@@ -264,7 +266,7 @@ cSpell: ignore Technica
 
 - **NEO** - New Employee Orientation.
 
-- **OA** - Office of Acquisition.
+- **OA** - The TTS Acquisition Division was previously called the Office of Acquisition (OA).
 
 - **OAuth** - Open Authorization. An open standard for authentication and
   authorization, which allows a user's account information to be used by
