@@ -73,7 +73,7 @@ These are the groups we interact with heavily:
     sites, including interactions with the
     [Office of Strategic Communication (OSC)](https://www.gsa.gov/about-us/organization/office-of-strategic-communication)
     around GSA-wide digital goals/initiatives
-  - [**Office of Acquisitions (OA):**]({% page "/oa/" %}) Coordinate on budgets
+  - [**TTS Acquisition Division (AcqDiv):**]({% page "/oa/" %}) Coordinate on budgets
     and software purchases
   - [**Outreach:**]({% page "/outreach/" %}) TTS-wide communications
   - [**Security and Compliance Guild**](https://github.com/18F/Security-Compliance)
