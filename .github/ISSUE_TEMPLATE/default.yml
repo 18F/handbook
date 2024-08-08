@@ -1,0 +1,61 @@
+name: Default
+description: For reporting bugs or feature work for the TTS Handbook only. Not for requesting Login.gov or other service support.
+title: "[DATE]: [FEATURE NAME]"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Your issue may already be reported!
+
+        Please search on the [issue tracker](../) before creating one.
+        
+        > [!WARNING]
+        > This repo is not monitored for support for Login.gov or any other service. Please open a support ticket in the corresponding help desk.
+        
+        > [!CAUTION]
+        > Please do not post any [Personal Identifiable Information (PII)](https://csrc.nist.gov/glossary/term/PII) in this repo.
+
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: |
+        If you're describing a bug, tell us what should happen.
+        If you're suggesting a change or improvement, tell us how it should work.
+
+  - type: textarea
+    attributes:
+      label: Current behavior
+      description: |
+        If you're describing a bug, tell us what happens instead of the expected behavior.
+        If you're suggesting a change or improvement, explain the difference from current behavior.
+
+  - type: textarea
+    attributes:
+      label: Possible solutions
+      description: |
+        Optionally suggest a fix or reason for the bug, or ideas how to implement
+        the addition or change.
+
+  - type: textarea
+    attributes:
+      label: Steps to reproduce (for bugs)
+      description: |
+        If possible, provide a link to a live example, or an unambiguous set of
+        steps to reproduce this bug. Include code to reproduce, if relevant.
+
+  - type: textarea
+    attributes:
+      label: Context
+      description: |
+        How has this issue affected you? What are you trying to accomplish?
+        Providing context helps us come up with a solution that is most useful.
+
+  - type: textarea
+    attributes:
+      label: Your environment
+      description: |
+        Include as many relevant details as you can about your environment. For
+        example, if you found a bug, what web browser were you using? Are you
+        using Windows, Mac, or Linux? These questions help us reproduce the bug
+        so we can come up with a solution.
