@@ -77,7 +77,7 @@ Refer to the [Compensation for Government Travel slidedeck](https://drive.google
 
 Note: travel comp time does not follow the salary cap rules that are outlined in the beginning of this document. Anyone can request travel comp time, regardless of their salary and what type of work schedule they are on.
 
-If you leave GSA, any unused travel comp time will be forfeited. 
+Travel comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date, you will forfeit the leave.  If you leave GSA, any unused travel comp time will be forfeited. 
 
 ## Entering the overtime, comp time, and/or credit hours you will be working into HRLinks
 

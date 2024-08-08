@@ -691,9 +691,9 @@ OPM and GSA Fact Sheets:
 ## Court leave (jury duty)
 
 When you are called to jury duty, your absence is marked as Court Leave and does
-not count against any of your other leave balances.
+not count against any of your other leave balances. You can receive Court Leave for however long you serve on a jury.
 
-You would also request court leave if you are asked to serve as a witness in a
+You would also request Court Leave if you are asked to serve as a witness in a
 judicial proceeding to which the Federal government, a state government, or a
 local government is a party.
 
