@@ -372,7 +372,7 @@ different business units:
 - [Outreach](https://github.com/orgs/18F/teams/outreach/members)
 - [PIF](https://github.com/orgs/18F/teams/pif/members) (Presidential Innovation
   Fellows)
-- [OA](https://github.com/orgs/18F/teams/oa/members) (Office of Acquisition)
+- [AcqDiv](https://github.com/orgs/18F/teams/oa/members) (TTS Acquisition Division)
 - [solutions](https://github.com/orgs/18F/teams/solutions/members) - portfolios
   will handle adding them to the appropriate team(s) within there
 - [strategic-partnerships](https://github.com/orgs/18F/teams/strategic-partnerships/members)

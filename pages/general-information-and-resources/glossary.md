@@ -37,6 +37,8 @@ cSpell: ignore Technica
 - **ACQ** - Acquisitions. A discipline across the federal government responsible
   for purchases, and a chapter within 18f
 
+- **AcqDiv** - The TTS Acquisition Division.
+
 - **ADR** - Architecture Decision Record. A written record of choices made by
   people involved in the creation of software. There is
   [an article about ADRs](https://18f.gsa.gov/2021/07/06/architecture_decision_records_helpful_now_invaluable_later/)
@@ -264,7 +266,7 @@ cSpell: ignore Technica
 
 - **NEO** - New Employee Orientation.
 
-- **OA** - Office of Acquisition.
+- **OA** - The TTS Acquisition Division was previously called the Office of Acquisition (OA).
 
 - **OAuth** - Open Authorization. An open standard for authentication and
   authorization, which allows a user's account information to be used by

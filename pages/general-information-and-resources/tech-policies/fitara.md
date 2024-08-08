@@ -47,7 +47,7 @@ single IT purchase/investment you make.
 
 For all TTS acquisitions, it is critical to obtain FITARA approval prior to
 releasing the solicitation and when exercising option years on existing
-contracts. Note: For Non-[OA (Office of Acquisitions)]({% page "/oa/" %})
+contracts. Note: For Non-[AcqDiv (TTS Acquisition Division)]({% page "/oa/" %})
 acquisitions, when the acquisition plan and Statement of Work (SOW) have been
 finalized, please send an email to devops@gsa.gov. [The TTS Tech
 Portfolio]({% page "/tech-operations/" %}) will conduct their initial review of
