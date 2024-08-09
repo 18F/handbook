@@ -20,7 +20,7 @@ and efficient way.
 We are a group of 1102 Contracting Officers, Procurement Analysts and
 acquisition support professionals that procure IT products and services for your
 teams. Here is a link to our
-[org chart](https://docs.google.com/presentation/d/1YQr18Najc9_IKlJnrhA-3pEIrkMinri0nivvatMRbmk/edit#slide=id.g5d7a537eb8_0_0)
+[org chart](https://docs.google.com/presentation/d/1EzlrkH1bnMxSonDthiGxOblxRWSKtJK9US0WnHPD89k/edit#slide=id.g2c62a5d4d41_0_525)
 to learn more about us.
 
 ## What we offer
