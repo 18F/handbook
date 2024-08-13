@@ -106,7 +106,7 @@ primary:
         url: travel-and-leave/leave/
         internal: true
       - text: Out of office expectations
-        url: travel-and-leave/leave/#leave-checklist
+        url: travel-and-leave/going-out-of-office/
         internal: true
       - text: Overtime, comp time, and credit hours
         url: travel-and-leave/overtime/
