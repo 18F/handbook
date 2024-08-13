@@ -47,7 +47,7 @@ Before taking leave, be sure to:
 6. Update your Slack status to indicate that you are OOO.
    1. You can also [set up a Slackbot reminder](https://slack.com/help/articles/208423427-Set-a-reminder) to prompt you to turn off OOO statuses when you return: /remind me to “Update my OOO reminder” on \[date you return\]
 7. 18F team members should also:
-   1. Submit [correct Tock entries]({% page "/tools/tock/#tocking-for-out-of-office-time %})
+   1. Submit [correct Tock entries]({% page "/tools/tock/#tocking-for-out-of-office-time" %})
    2. Update your Slack username and profile (ex: @username | OOO until 7/12 | she)
    3. Product chapter members: add an event to the [All Things Product](https://calendar.google.com/calendar/embed?src=gsa.gov\_dkgkep8b6fj5ge1s2m0cn4srog%40group.calendar.google.com) calendar.
 
