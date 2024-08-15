@@ -174,23 +174,18 @@ activating your iPhone.
     these applications, you can use SMS, or
     [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en).
 
-- **Only use Apple's default Mail app to access your GSA email.** You must
+- **You can set up email using the Gmail app or Apple's default Mail app**
+  - For the Gmail app: follow the directions in section 7 of the [Self Help Guide for iPhone Setup](https://docs.google.com/document/d/1ZnnwxMFoxA_giiwuGk-3HyMat5PMfWjxLLBT4nw2U14/edit)
+  - For Apple's default Mail app: you will need to
   [generate an App Password](https://support.google.com/accounts/answer/185833?hl=en)
   in your Google account to use with your Mail app, instead of your normal email
   password.
-
-{% include "alert.html"
-   content: "The Gmail app for iPhone/iOS is not permitted due
-             to lack of MDM management support. See
-             [GSA Mobile App ban list](https://sites.google.com/a/gsa.gov/mobileinfo/banned-mobile-apps)"
-%}
 
 ### Tips
 
 - **[You should tether to your laptop to the iPhone](https://support.apple.com/en-us/HT204023)**
   for internet access when you're on the go.
-
-* If you can't send email with your new work iPhone, create a new email and
+* If you are using Apple's Mail app and can't send email with your new work iPhone, create a new email and
   check the From field. If it's a jumble of letters and numbers
   `@secure.mass360.com`, tap on it to change it to your `@gsa.gov` email
   address. Then go **Settings > Mail > Default Account > GSA Account** to switch
