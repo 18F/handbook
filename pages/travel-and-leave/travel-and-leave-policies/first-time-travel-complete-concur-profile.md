@@ -36,15 +36,17 @@ It will make booking hotels in Concur easier, and allow you to personally redeem
 miles and/or points earned while on government travel.
 
 1. Log into Concur [travel.gsa.gov](https://travel.gsa.gov/).
-2. In the _I want to..._ menu select **Edit my profile**
-3. Update your **Your Information > Personal Information**
+2. Open the profile menu by clicking on the dropdown menu in the top right corner and select **Profile Settings**
+3. On the **Profile Options** page, select **Personal Information** to update if needed.
 4. If you have already received your card in the mail, add your GSA Credit card
-   to **Your Information > Credit Cards**. **If you skipped this step because
+   to **Your Information > Credit Cards** from the sidebar or **Profile Options** page. **If you skipped this step because
    you had to travel before getting a Travel Card, return to it when your card
    arrives.** You’ll be glad you did.
 5. _Optional_ Update your **Travel Settings > Travel Preferences** Do you prefer
    window seats? Have a frequent flyer or hotel points account? You get to keep
    those, yay!
+
+Note: each time you save you'll get thrown back to the **Profile Options** page and will receive an email that your profile has been updated. You can avoid this by editing each section as needed and clicking save once. Every individual section has a save button so feel free to click any of them (they all appear to work).
 
 [_Having Trouble_](#having-trouble)
 
