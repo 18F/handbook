@@ -662,14 +662,16 @@ request up to 104 advanced sick leave hours.
 #### Advanced sick leave approval
 
 To get approval for advanced sick leave, you will need to submit the following
-paperwork to your supervisors and your [OHRM Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl). Your supervisors should keep signed copies for their records:
+paperwork to your supervisors and your [OHRM Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl). Note: we suggest preparing all 4 pieces of paperwork and sending them to your HR Specialist for review _before_ routing for official signatures in DocuSign. 
 
-1. [Advanced Sick Leave Request form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#) with signatures 
-2. An original medical certification signed by the physician or practitioner
+Your supervisors should keep signed copies for their records: 
+
+1. [Advanced Sick Leave Request form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#) with DocuSign signatures. Your supervisor can complete and route this form for you, if needed.
+2. An original medical certification signed by your physician or practitioner
 3. A copy of your [timesheet report for the current and previous
-   year]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %})
+   year]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}). Your supervisor can [pull a timesheet report](https://drive.google.com/file/d/1HIJQKVhzCtrW5Pc0rzynwdSj0ltmyR1p/view) for you, if needed.
 4. A written explanation of the circumstances which have caused your sick leave
-   to be exhausted
+   to be exhausted. Your supervisor can write this explanation for you, if needed.
 
 #### Entering advanced sick leave in HR Links
 
