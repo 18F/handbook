@@ -35,7 +35,7 @@ paystub in [Employee
 Express]({% page "/getting-started/classes/gsa-internal-tools/#employee-express" %}).
 
 GSA’s
-[Time and Leave Administration policy](https://www.gsa.gov/directives/files?file=2023-06%2FCC046666_final_directive_HRM_60101B%2C_Time_and_Leave_Administration_Policy.pdf)
+[Time and Leave Administration policy](https://www.gsa.gov/directives/files?file=2024-04%2FCC048790%20HRM%206010.1C%20Time%20and%20Leave%20Administration%20Policy%20Spring%202024.pdf)
 establishes agency-wide policy, procedures, and requirements for all employees.
 Additional fact sheet links are provided throughout this page, with the
 corresponding type of leave.
@@ -69,7 +69,7 @@ approving/denying leave requests on a regular and timely basis. They also need
 to review and approve timesheets every two weeks, as the pay period closes.
 
 In TTS, supervisors receive support from PeopleOps, who serve as the
-organization’s timekeepers, and our
+organization’s timekeepers, and your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit),
 who answers policy questions and will help process certain types of leave
 requests. However, supervisors are expected to be knowledgeable about time and
@@ -324,7 +324,7 @@ is also used for Paid Parental Leave (PPL). Any amount of FMLA taken is
 subtracted from the total available to you for the next 12 months. You need to
 be a federal employee for at least 12 months in order to be entitled to FMLA (note: most veterans are immediately eligible for FMLA). We
 **highly recommend** you discuss FMLA, your unique leave needs, and potential
-leave options with our
+leave options with your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 OPM Fact Sheets:
@@ -349,7 +349,7 @@ OPM Fact Sheets:
 ### Parental bereavement leave
 
 You can receive two weeks (80 hours) of parental bereavement leave for the
-passing of your child. Contact our
+passing of your child. Contact your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
 for assistance.
 
@@ -392,7 +392,7 @@ beginning on the first day of your federal employment, in which to use the
 leave. After that period, it is forfeited with no opportunity to carry over
 hours.
 
-DVL will not automatically appear in HR Links: reach out to your [Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to get started. 
+DVL will not automatically appear in HR Links: reach out to your [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to get started. 
 
 OPM Fact Sheet:
 
@@ -412,12 +412,12 @@ safely working because of an unexpected event such as:
 Your safety is paramount. It is expected that when possible, you’ll communicate
 with your supervisor if you’re unexpectedly unable to work. Your supervisor is
 responsible for approving/denying your Weather and Safety Leave request; they
-can work with our
+can work with your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
 if they have questions on whether it is appropriate to approve the request.
 
 If a supervisor doesn’t hear from you, and suspects you are facing a
-weather/safety issue, they should try contacting you as well as notifying our
+weather/safety issue, they should try contacting you as well as notifying your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
 so there’s a record that you may be affected by a weather event.
 
@@ -497,7 +497,7 @@ least 12 weeks after your final day on PPL.
 
 You can use annual and sick leave for parental leave reasons. 
 
-We **highly recommend** you talk with our
+We **highly recommend** you talk with your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
 about recommended ways to combine leave types.
 
@@ -517,21 +517,20 @@ Note: The first two forms listed below are PDF files. To complete them:
 1. [Pull a timesheet
    report]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}) for the last 12 months.
 
-Return the three items above to the
-[Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
-who supports TTS.
+Return the three items above to your
+[Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
-Our Workforce Relations HR Specialist reviews and can provide provisional
+Your Workforce Relations HR Specialist reviews and can provide provisional
 approval for PPL. Final approval is granted once birth/placement occurs, and you
 have the supporting documentation (see below).
 
 ##### After birth/placement:
 
-1. Send a message (email, text, call, or Slack) to our
+1. Send a message (email, text, call, or Slack) to your
    [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit),
    letting them know the date of birth/placement.
 2. Send supporting documentation to show childbirth, adoption, or foster
-   placement to our
+   placement to your
    [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 - For births: get a medical note from a doctor with:
@@ -548,7 +547,7 @@ have the supporting documentation (see below).
     [Types of Supporting Documentation for the Use of Paid Parental Leave](https://drive.google.com/file/d/1bVEm_VjfW6w0jZZZxnhysOemURVv43Bd/view)
     for examples.
 
-Our
+Your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
 can give final PPL approval once all required paperwork is received and will
 ensure the correct PPL dates are entered into HR Links.
@@ -593,7 +592,7 @@ the 12 month period is rolling (i.e. it is not based on a calendar year; it is
   until March 2023.
 
 We **highly recommend** you discuss your unique leave needs and potential
-options with our
+options with your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 You can take FMLA if you have been an employee of the federal government for at
@@ -662,14 +661,16 @@ request up to 104 advanced sick leave hours.
 #### Advanced sick leave approval
 
 To get approval for advanced sick leave, you will need to submit the following
-paperwork to your supervisors and your [OHRM Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl). Your supervisors should keep signed copies for their records:
+paperwork to your supervisors and your [OHRM Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl). Note: we suggest preparing all 4 pieces of paperwork and sending them to your HR Specialist for review _before_ routing for official signatures in DocuSign. 
 
-1. [Advanced Sick Leave Request form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#) with signatures 
-2. An original medical certification signed by the physician or practitioner
+Your supervisors should keep signed copies for their records: 
+
+1. [Advanced Sick Leave Request form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#) with DocuSign signatures. Your supervisor can complete and route this form for you, if needed.
+2. An original medical certification signed by your physician or practitioner
 3. A copy of your [timesheet report for the current and previous
-   year]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %})
+   year]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}). Your supervisor can [pull a timesheet report](https://drive.google.com/file/d/1HIJQKVhzCtrW5Pc0rzynwdSj0ltmyR1p/view) for you, if needed.
 4. A written explanation of the circumstances which have caused your sick leave
-   to be exhausted
+   to be exhausted. Your supervisor can write this explanation for you, if needed.
 
 #### Entering advanced sick leave in HR Links
 
