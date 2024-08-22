@@ -43,7 +43,7 @@ your Concur profile once it's been issued.)
 **Vendor Request Instructions**
 
 _You may experience slow page loads of about 30–60 seconds. This is not likely
-an issue with your internet._
+an issue with your internet. You must use your GSA computer to access this site._
 
 - To get started, in the radio buttons under "Service Office", select
   "Traveler". Then, under "ADD VENDOR/ADDR CODE", click the "CLICK HERE" button.
