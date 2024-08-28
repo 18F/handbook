@@ -60,7 +60,7 @@ If you receive a suspicious email, follow these steps:
    [Phishing Emails and Scams InSite page](https://insite.gsa.gov/employee-resources/information-technology/it-security-and-privacy/it-security/report-it-security-incidents-suspicious-activity/phishing-emails-scams?term=cofense).
 1. This should instruct you in how to use the Cofense tool (the little fish icon
    that should be on the right) to report the phish.
-1. You may mark it as spam/phishing _after_ reporting it to Cofense. Cofense doesn't let you report the email if it is already in your spam folder, so be sure to do this       step after. You can do this by clicking the 3 vertical dots to the top right of the email.
+1. You may mark it as spam/phishing _after_ reporting it to Cofense. Cofense doesn't let you report the email if it is already in your spam folder, so be sure to do this step after. You can do this by clicking the 3 vertical dots to the top right of the email.
 1. GSA IT will triage and let you know what they need you to do, if anything.
 
 If you also clicked on a link in a phishing email, follow these steps to report
