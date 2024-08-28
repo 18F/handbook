@@ -3,7 +3,7 @@ title: Affinity groups, working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/
-cSpell: ignore Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Horwitz,Magdaline,Matis,Nakai,Ojiaku,Polyak,Rago
+cSpell: ignore Ahearn,Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Horwitz,Magdaline,Matis,Nakai,Ojiaku,Polyak,Rago,Rollyson
 ---
 
 <style type="text/css">
@@ -209,8 +209,8 @@ Guild meeting times can also be found on the
           {% slack_channel "g-security-compliance" %}
         </td>
         <td>
-          John Jediny - TTS - Technical Operations <br />
-          Paul Hirsch - TTS - DevTools
+	  Ryan Ahearn - TTS - DevTools <br />
+	  Zach Rollyson - TTS - DevTools
         </td>
       </tr>
     </tbody>
