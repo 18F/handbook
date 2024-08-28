@@ -153,7 +153,7 @@ Guild meeting times can also be found on the
         </td>
         <td>
     Janel Yamashiro - 18F<br />
-	  Jessica Dussault - 18F<br />
+	  Ethan Marcotte - 18F<br />
     <em>Seeking a co-lead! <a href="https://gsa-tts.slack.com/archives/D02SFCEPEPP">DM Janel if interested!</a></em>
         </td>
       </tr>
@@ -198,7 +198,6 @@ Guild meeting times can also be found on the
           {% slack_channel "g-research" %}
         </td>
         <td>
-          Amanda Kennedy - 18F  <br />
 	  Sarah Moss-Horwitz - 18F <br />
 	  Espy Thomson - USDC
         </td>
