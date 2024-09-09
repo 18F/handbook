@@ -19,9 +19,9 @@ term ends.  These steps also apply to employees who will remain in federal gover
 **Begin this process at least two weeks before your last day of work.**
 Your last day at TTS cannot be a federal holiday.
 
-### 1. Fill out the [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSfviwI1hePL1oaw7A5hePEfHIgQJQwuheXaoUNVTky0SSx5zw/viewform)
+### 1. Fill out the [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSe9_0XNaLaZlhjXm1tRrsAeejAUWFpDW78tHb5xbSxAxVFs0A/viewform)
 
-The [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSfviwI1hePL1oaw7A5hePEfHIgQJQwuheXaoUNVTky0SSx5zw/viewform) provides PeopleOps essential information. Once you've submitted the form, you will receive an Offboarding Checklist email from PeopleOps. Your supervisor will be copied on the email.  
+The [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSe9_0XNaLaZlhjXm1tRrsAeejAUWFpDW78tHb5xbSxAxVFs0A/viewform) provides PeopleOps essential information. Once you've submitted the form, you will receive an Offboarding Checklist email from PeopleOps. Your supervisor will be copied on the email.  
 
 Note: once we receive your form, we will assume your departure is
 public knowledge. If you would like to tell folks yourself, please handle
