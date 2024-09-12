@@ -23,11 +23,6 @@ passcode, and maybe a few others (such as your iCloud password if that's [your
 recovery method for forgetting your laptop
 password]({% page "/getting-started/equipment/#laptop" %})).
 
-Password managers approved for work at GSA:
-
-- KeePassXC
-- Google Sheets
-
 We recommend using [KeePassXC](https://keepassxc.org/) which is open source and
 runs on Windows, MacOS and Linux. You can install KeePassXC from the GSA
 Self-Service app.
