@@ -511,13 +511,11 @@ Note: The first two forms listed below are PDF files. To complete them:
 ##### Prior to birth/placement:
 
 1. Complete the
-   [Paid Parental Leave Request form](https://drive.google.com/file/d/1tcdKHQ-m9-B5IltlMP7SP83FdFtvHZCB/view?usp=sharing)
-1. Complete the
-   [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view)
+   [Paid Parental Leave Request form and 12 Week Work Obligation (Service Agreement) form](https://drive.google.com/file/d/1PRdoXhC594Y0OqmDQS7MSMoA7aIDCv-S/view?usp=sharing). These forms are combined into one PDF.
 1. [Pull a timesheet
    report]({% page "/travel-and-leave/leave/#pulling-a-time-sheet-report" %}) for the last 12 months.
 
-Return the three items above to your
+Send the items above to your
 [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 Your Workforce Relations HR Specialist reviews and can provide provisional
