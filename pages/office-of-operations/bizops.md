@@ -94,6 +94,6 @@ Our Market Development and Partnerships Division supports TTS’ strategic direc
   - Customer satisfaction
   - External engagement
 
-Contact us: TTS MD&P: tts-mdp@gsa.gov
+Contact us: TTS MD&P: [tts-mdp@gsa.gov](mailto:tts-mdp@gsa.gov)
 
 
