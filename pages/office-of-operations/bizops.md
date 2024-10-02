@@ -10,7 +10,7 @@ organization and delivers on the TTS strategy and operational plans.
 This division is made up of four teams and responsible for the following
 functions:
 
-# Agreements
+## Agreements
 
 The TTS Agreements Team works with business units to ensure Interagency
 Agreements (IAAs), Memoranda of Understanding (MOUs), and Intergovernmental
@@ -25,7 +25,7 @@ business volume and develop business development strategies.
 
 - Contact: tts.agreements@gsa.gov; {% slack_channel "iaa" %}
 
-# Finance
+## Finance
 
 The TTS finance team conducts budget and revenue planning and budget execution
 for each business unit. We conduct budget and revenue planning and execution for
@@ -34,7 +34,7 @@ data-driven decision making.
 
 - Contact: {% slack_channel "finance" %}
 
-# People Ops
+## People Ops
 
 The People Operations team owns the relationship and experience with staff and
 supervisors for all things employee related starting when an employee comes
@@ -61,7 +61,7 @@ policy, regulations and bureaucratic requirements.
 - [Benefits help]({% page "/benefits/" %})
   - Contact: TTS-PeopleOps@gsa.gov; {% slack_channel "people-ops" %}
 
-# Talent
+## Talent
 
 The Talent team is dedicated to finding the best and the brightest. We partner
 closely with our leaders and managers, helping them to make better decisions and
@@ -79,3 +79,21 @@ posting through their days onboarding at TTS.
 - [Promotions]({% page "/promotions/" %})
 - [Internal Competitions]({% page "/ttsjobs/" %})
 - [Onboarding]({% page "/tts-classes/" %})
+
+## Market Development and Partnerships Division
+Our Market Development and Partnerships Division supports TTS’ strategic direction by providing guidance and leadership for TTS business development and partnerships staff. The MD&P team is made up of two teams:
+- **Market Development Team** helps TTS teams who need more leads in the pipeline or closed agreements with:
+  - Sales discovery
+  - Lead generation
+  - Decision-making frameworks for developing new offerings
+  - Developing and executing marketing plans
+  - Business opportunity capture in TTS’s enterprise CRM, the Salesforce-based OTCRM
+- **Partnerships Team** provides functional leadership and resources to enable teams across TTS in four areas:
+  - Account management and customer success
+  - Stakeholder governance and engagement
+  - Customer satisfaction
+  - External engagement
+
+Contact us: TTS MD&P: tts-mdp@gsa.gov
+
+
