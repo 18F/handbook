@@ -33,6 +33,8 @@ Use [posts](https://slack.com/help/articles/203950418-Use-posts-in-Slack) to sha
 ### @here and @channel notifications
 There are 2 methods for sending an alert notification to all of the people in a Slack channel: @channel and @here. You can [read more about these 2 types of notifications](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace). We recommend using these alerts **very** sparingly, and consider only using them in Slack channels for your specific team/projects (and set team guidelines on when to use).
 
+If you need to notify channel members "asynchronously" (not in real time), you can [_email_ channel members](https://slack.com/help/articles/4409607962387-Copy-member-names-and-email-addresses-from-a-conversation), or "pin" a post for later reference.
+
 ## Do you have any tips on how not to get overwhelmed by Slack?
 
 Slack can be overwhelming for both new and existing employees! 
