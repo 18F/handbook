@@ -366,6 +366,9 @@ primary:
               - text: Agreements
                 url: agreements/
                 internal: true
+              - text: Market Development and Partnerships
+                url: office-of-operations/bizops/#market-development-and-partnerships-division-2
+                internal: true
           - text: Talent team
             children:
               - text: Talent
