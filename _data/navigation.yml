@@ -369,7 +369,7 @@ primary:
           - text: Market Development and Partnerships
             children:
               - text: Overview of Market Development and Partnerships  
-                url: office-of-operations/bizops/#market-development-and-partnerships-division-2
+                url: office-of-operations/market-dev-and-partnerships/
                 internal: true
           - text: Talent team
             children:
