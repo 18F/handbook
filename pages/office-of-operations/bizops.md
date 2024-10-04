@@ -2,7 +2,7 @@
 title: Business Operations Division
 redirect_from:
   - /bizops/
-cSpell: igore OTCRM, MD&P
+cSpell: ignore OTCRM, MD&P
 ---
 
 The Business Operations Division leads the day to day operations of the
