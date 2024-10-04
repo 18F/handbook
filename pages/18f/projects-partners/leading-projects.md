@@ -288,54 +288,7 @@ supervisors, and project team members collaboratively consider the following:
 
 ## How do project leads and team members get support?
 
-Fear not! We don’t expect you to do this alone. We have a lot of documentation
-and structures set up to provide patterns, templates, and support. In fact, we
-don’t want you to do it alone; communicating and collaborating about what you’re
-doing will make your work better and help the rest of 18F learn from it.
-
-Your first lines of support are the folks you have 1:1s with weekly: the
-project’s account manager and your lead or supervisor. They can help you
-navigate resources (including guides, guilds, Slack channels, and miscellaneous
-people who might be able to help), as well as coaching you on hard
-conversations, client management skills, and strategic direction.
-
-### Some resources:
-
-- If you need documentation, look to this handbook and our
-  [guides](https://18f.gsa.gov/guides/).
-- If you need support in a specific skill set, help with deliverables, or would
-  like to have someone facilitate a session, get help by using
-  {% slack_channel "18f-help-wanted" %}.
-- If your project is part of a portfolio, the portfolio director and your
-  colleagues in the portfolio can be a great resource.
-- If you need advice or coaching, try
-  - The {% slack_channel "18f-project-leads-only" %} channel!
-  - Or these chapters, each with a channel you can jump into any time:
-    - {% slack_channel "product" %}
-    - {% slack_channel "design" %}
-    - {% slack_channel "acquisition" %}
-    - {% slack_channel "dev" %}
-  - Finally, check the
-  [guilds and working groups]({% page "/working-groups-and-guilds-101/" %}).
-- The {% slack_channel "g-consulting" "Consulting Guild (#g-consulting)" %} may
-  be able to pair you with another TTS consultant to provide support, including
-  but not limited to observing meetings with the partner and providing feedback
-  and advice. Request help in the {% slack_channel "g-consulting" %} channel.
-- There's also:
-  - {% slack_channel "workshop-facilitation" %}
-  - {% slack_channel "c-project-resources" %}
-  - {% slack_channel "c-18f-project-leadership" %}
-
-### Escalation paths for issues that may arise
-
-| Issue type:                                                                                                         | First point of contact:                                                                          | You may also want to inform:                                | Next step if needed:                                                                |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **Pre-flight issues, agreements, timelines, scope**                                                                 | AM (working with agreements team)                                                                | Director of Account Management                              | Chief of Delivery                                                                   |
-| **Team dynamics/team performance**                                                                                  | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Supervisor                                                  | Chapter Director, Director of Account Management, Chief of Delivery                 |
-| **Changes to project timeline (including stopping the project early)**                                              | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Director of Account Management & Staffing Leads             | Supervisor, Chapter Director, Chief of Delivery                                     |
-| **Partner dissatisfaction**                                                                                         | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Supervisor, Director of Account Management                  | Chapter Director, Chief of Delivery, 18F Director if needed, TTS Director if needed |
-| **Staffing misalignment**                                                                                           | Account Manager, Project Lead (working with the team to solve internally as an ideal first step) | Chapter Director, Supervisor, Staffing Leads                | Chief of Delivery                                                                   |
-| **Team is being mistreated (disrespected, or any other inappropriate behaviors or attitudes) by partner or vendor** | Team can try to resolve themselves, but can escalate immediately if they’d like                  | Project Lead, Account Manager, Chapter Director, Supervisor | Chief of Delivery, 18F Director if needed                                           |
+See [Support for Project and Team Leads (and how to escalate issues)](https://docs.google.com/document/d/1RZ4x_Z-MhhOEgTTLvmfgcAXLypb2Wewqn9cbhlaBuBc) for details on how to request support in various scenarios and what sort of responses or next steps to expect.
 
 ### What if a project lead is struggling to fulfill the role?
 
