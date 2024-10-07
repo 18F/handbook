@@ -2,6 +2,7 @@
 title: Business Operations Division
 redirect_from:
   - /bizops/
+cSpell: ignore OTCRM, MD&P
 ---
 
 The Business Operations Division leads the day to day operations of the
@@ -10,7 +11,7 @@ organization and delivers on the TTS strategy and operational plans.
 This division is made up of four teams and responsible for the following
 functions:
 
-# Agreements
+## Agreements
 
 The TTS Agreements Team works with business units to ensure Interagency
 Agreements (IAAs), Memoranda of Understanding (MOUs), and Intergovernmental
@@ -25,7 +26,7 @@ business volume and develop business development strategies.
 
 - Contact: tts.agreements@gsa.gov; {% slack_channel "iaa" %}
 
-# Finance
+## Finance
 
 The TTS finance team conducts budget and revenue planning and budget execution
 for each business unit. We conduct budget and revenue planning and execution for
@@ -34,7 +35,7 @@ data-driven decision making.
 
 - Contact: {% slack_channel "finance" %}
 
-# People Ops
+## People Ops
 
 The People Operations team owns the relationship and experience with staff and
 supervisors for all things employee related starting when an employee comes
@@ -61,7 +62,7 @@ policy, regulations and bureaucratic requirements.
 - [Benefits help]({% page "/benefits/" %})
   - Contact: TTS-PeopleOps@gsa.gov; {% slack_channel "people-ops" %}
 
-# Talent
+## Talent
 
 The Talent team is dedicated to finding the best and the brightest. We partner
 closely with our leaders and managers, helping them to make better decisions and
