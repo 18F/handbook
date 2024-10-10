@@ -58,21 +58,24 @@ Include the following:
   [karn](https://github.com/prydonius/karn). If you have both emails in your
   [GitHub settings](https://github.com/settings/emails), they will both be tied
   to your GitHub account anyway.
-- If you will be using `git ssh`, create a ticket in ServiceNow to be added to the TTS - SSH User Group. Follow these steps:
+- If you will be using `git ssh`, create a ticket in ServiceNow to be added to
+  the TTS - SSH User Group. Follow these steps:
   1. Go to [GSA IT Self Service Portal](https://gsa.servicenowservices.com)
   2. Click on Service Catalog
   3. Search for "generic"
   4. Select "GSA Generic Request"
   5. Fill in the information requested:
-      - Short Description: _Zscaler SSH Access >> Route to CISO.Firewall/Zscaler_
-      - Justification for request: _I need to interact with [Github/Gitlab/other] repositories using SSH as part of my core job responsibilities.
-         Issue: Post Zscaler installation, SSH functionality for remote commands (e.g. clone, fetch, pull) has been disrupted. This hinders my work,
-         and I require a solution or workaround to ensure continuity in my tasks._
-      - Additional comments:
-        ```
-        >>>> FORWARD TO CISO.Firewall <<<<
-        >>>> ATTN: ZSCALER <<<<
-        ```
+     - Short Description: _Zscaler SSH Access >> Route to CISO.Firewall/Zscaler_
+     - Justification for request: _I need to interact with [Github/Gitlab/other]
+       repositories using SSH as part of my core job responsibilities. Issue:
+       Post Zscaler installation, SSH functionality for remote commands (e.g.
+       clone, fetch, pull) has been disrupted. This hinders my work, and I
+       require a solution or workaround to ensure continuity in my tasks._
+     - Additional comments:
+       ```
+       >>>> FORWARD TO CISO.Firewall <<<<
+       >>>> ATTN: ZSCALER <<<<
+       ```
 
 ### 3. Adjust notification settings
 
@@ -85,8 +88,8 @@ You may also want to take a look at
 ### 4. Join a GSA/TTS organization
 
 Have a current team member request an invitation to the
-[GSA or TTS Organization](#organizations) you need in the {% slack_channel "admins-github" %}
-channel.
+[GSA or TTS Organization](#organizations) you need in the
+{% slack_channel "admins-github" %} channel.
 
 An admin will add you, after which you'll need to accept their invitation from
 the email or by going to the
@@ -123,9 +126,9 @@ your open pull request will trigger the release check.
   all organization members refrain from authorizing integrations and request any
   desired integrations through an TTS Tech Operations issue.
 
-- **Ask TTS Tech Operations before creating private repositories.** We pay GitHub
-  for the ability to create private repositories and need to bill clients for
-  repositories created on their behalf. Before you do anything, drop into
+- **Ask TTS Tech Operations before creating private repositories.** We pay
+  GitHub for the ability to create private repositories and need to bill clients
+  for repositories created on their behalf. Before you do anything, drop into
   {% slack_channel "admins-github" %} and explain what you'd like to do and why.
   Be sure to include a link in your repo README to a document that explains why
   it is private. (See the **Exceptions** section of the
@@ -133,17 +136,17 @@ your open pull request will trigger the release check.
 
 - **You do not need approval to create public repositories.**
 
-- **Ask TTS Tech Operations before deleting repositories.** As a government team,
-  we can’t delete repositories without TTS Tech Operations first reviewing them
-  for information that they may need to retain (including issues, pull request
-  comments, commit history, and other information). [Archiving](#archiving) is
-  preferred in most cases. If you want to delete a repository, go to
-  {% slack_channel "admins-github" %} and explain what you'd like to do and why,
-  and wait for approval before deleting it. This approval is generally
-  contingent on no substantive content having been created within the repository
-  (e.g. new issues, commits, substantive comments). In cases where the content
-  of a repository is no different than that of another repository, it may be
-  considered for deletion.
+- **Ask TTS Tech Operations before deleting repositories.** As a government
+  team, we can’t delete repositories without TTS Tech Operations first reviewing
+  them for information that they may need to retain (including issues, pull
+  request comments, commit history, and other information).
+  [Archiving](#archiving) is preferred in most cases. If you want to delete a
+  repository, go to {% slack_channel "admins-github" %} and explain what you'd
+  like to do and why, and wait for approval before deleting it. This approval is
+  generally contingent on no substantive content having been created within the
+  repository (e.g. new issues, commits, substantive comments). In cases where
+  the content of a repository is no different than that of another repository,
+  it may be considered for deletion.
 
 ### Handoff to partner agencies
 
@@ -234,6 +237,15 @@ above).
 Contractors or external government collaborators should only be added to teams
 with permissions to the repositories they're working on. You can create
 `<project>-feds` and `<project>-partners` teams, if necessary.
+
+#### For 18F projects
+
+The 18F engineering supervisors and principal engineers have write access and
+the "manage" role on all 18F repositories. If you need help permissions on a
+repository, such as someone to merge a pull request, please reach out to
+{% slack_channel "18f-eng-leadership" %} on Slack first. If they also don't have
+the necessary access to help you, they will work with you to get it resolved
+with {% slack_channel "admins-github" %}.
 
 ### Archiving
 
@@ -372,7 +384,8 @@ different business units:
 - [Outreach](https://github.com/orgs/18F/teams/outreach/members)
 - [PIF](https://github.com/orgs/18F/teams/pif/members) (Presidential Innovation
   Fellows)
-- [AcqDiv](https://github.com/orgs/18F/teams/oa/members) (TTS Acquisition Division)
+- [AcqDiv](https://github.com/orgs/18F/teams/oa/members) (TTS Acquisition
+  Division)
 - [solutions](https://github.com/orgs/18F/teams/solutions/members) - portfolios
   will handle adding them to the appropriate team(s) within there
 - [strategic-partnerships](https://github.com/orgs/18F/teams/strategic-partnerships/members)
