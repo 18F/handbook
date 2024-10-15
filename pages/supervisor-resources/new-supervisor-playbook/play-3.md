@@ -1,8 +1,6 @@
 ---
 title: Play 3 - Observe and learn before you cause unnecessary churn
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 When you start a new job/role, your first few months are going to be exciting

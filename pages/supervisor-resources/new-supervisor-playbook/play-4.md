@@ -2,9 +2,7 @@
 title:
   Play 4 - Ask questions, then ask more questions; in fact, never stop asking
   questions!
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 In order to support yourself in getting up to speed, understanding your new

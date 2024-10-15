@@ -1,20 +1,6 @@
 ---
 title: Conferences, events, and training
-tags:
-  - attend
-  - Attending
-  - speaking
-  - speaker
-  - event
-  - event
-  - conference
-  - conferences
-  - IDP
-  - Training
-  - sf-182
-  - SF182
-  - books
-  - training materials
+keywords: attend, Attending, speaking, speaker, event, event, conference, conferences, IDP, Training, sf-182, SF182, books, training materials
 redirect_from:
   - /attending-conferences/
   - /conferences-events-training/

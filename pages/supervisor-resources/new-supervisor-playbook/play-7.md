@@ -1,8 +1,6 @@
 ---
 title: Play 7 -  Learn how to delegate effectively
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 As you become more comfortable with your new role, you will find that your

@@ -1,11 +1,6 @@
 ---
 title: Work on an Acquisition Engagement
-tags:
-  - procurement
-  - acquisitions
-  - engagements
-  - consulting
-  - staffing
+keywords: procurement, acquisitions, engagements, consulting, staffing
 questions:
   - acquisition
 redirect_from:

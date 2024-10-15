@@ -1,7 +1,6 @@
 ---
 title: Writing a federal government resume
-tags:
-  - resume
+keywords: resume
 questions:
   - joinTTS@gsa.gov
 redirect_from:

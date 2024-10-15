@@ -1,10 +1,6 @@
 ---
 title: Internal hiring and internal TTS details
-tags:
-  - assignees
-  - detailees
-  - details
-  - assignee
+keywords: assignees, detailees, details, assignee
 questions:
   - people-ops
   - PeopleOperations@gsa.gov

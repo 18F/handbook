@@ -1,9 +1,6 @@
 ---
 title: Online Learning University
-tags:
-  - classes
-  - training
-  - mandatory
+keywords: classes, training, mandatory
 redirect_from:
   - /olu/
 ---

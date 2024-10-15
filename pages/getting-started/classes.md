@@ -1,9 +1,6 @@
 ---
 title: TTS onboarding classes
-tags:
-  - onboarding
-  - getting started
-  - tts classes
+keywords: onboarding, getting started, tts classes
 redirect_from:
   - /onboarding-schedule/
   - /tts-classes/

@@ -1,9 +1,7 @@
 ---
 title:
   Play 11 - Promote a healthy culture of accountability with empathy and respect
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 Performance issues are one of the most difficult challenges to deal with as a

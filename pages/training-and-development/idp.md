@@ -1,13 +1,6 @@
 ---
 title: Individual Development Plan
-tags:
-  - IDP
-  - Individual Development Plan
-  - development
-  - development & training
-  - development and training
-  - training & development
-  - training and development
+keywords: IDP, Individual Development Plan, development, development & training, development and training, training & development, training and development
 questions:
   - people-ops
   - TTS-PeopleOps@gsa.gov

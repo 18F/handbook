@@ -1,21 +1,6 @@
 ---
 title: Moving and changing your address
-tags:
-  - moving
-  - move
-  - relocate
-  - relocating
-  - VWA
-  - virtual
-  - virtual work agreement
-  - full-time
-  - telework
-  - teleworking
-  - arrangement
-  - FTTW
-  - FTTWA
-  - FTWA
-  - FTT
+keywords: moving, move, relocate, relocating, VWA, virtual, virtual work agreement, full-time, telework, teleworking, arrangement, FTTW, FTTWA, FTWA, FTT
 redirect_from:
   - /moving/
 ---

@@ -1,8 +1,6 @@
 ---
 title: Welcome to TTS
-tags:
-  - welcome
-  - letter
+keywords: welcome, letter
 redirect_from:
   - /welcome-letter/
 ---

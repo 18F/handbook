@@ -1,14 +1,7 @@
 ---
 title: Development and training
 permalink: /training-and-development/
-tags:
-  - classes
-  - training
-  - development
-  - development & training
-  - development and training
-  - training & development
-  - training and development
+keywords: classes, training, development, development & training, development and training, training & development, training and development
 redirect_from:
   - /development-and-training/
 ---

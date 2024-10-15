@@ -1,10 +1,6 @@
 ---
 title: Glossary
-tags:
-  - Acronyms
-  - Definitions
-  - Jargon
-  - Words
+keywords: acronyms, definitions, jargon, words
 questions:
   - questions
 redirect_from:

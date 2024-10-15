@@ -2,9 +2,7 @@
 title:
   Play 12 - Lead by example, leverage the power of self-reflection, and be
   accountable
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 As a supervisor, your actions will speak far louder than your words, so you must

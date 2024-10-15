@@ -1,7 +1,6 @@
 ---
 title: Consulting with partners
-tags:
-  - consulting
+keywords: consulting
 redirect_from:
   - /how-we-relate-to-partners/
 ---

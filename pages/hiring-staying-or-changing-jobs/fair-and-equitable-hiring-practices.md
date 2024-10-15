@@ -1,9 +1,6 @@
 ---
 title: Fair and Equitable Hiring Practices
-tags:
-  - Hiring Practices
-  - Fair
-  - Equitable
+keywords: Hiring Practices, Fair, Equitable
 questions:
   - hiring
   - joinTTS@gsa.gov

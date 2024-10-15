@@ -1,11 +1,6 @@
 ---
 title: Performance Management Important Dates
-tags:
-  - Performance
-  - Performance
-  - Performance management
-  - Performance review
-  - review
+keywords: Performance, Performance management, Performance review, review
 redirect_from:
   - /performance-management-dates/
 questions:

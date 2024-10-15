@@ -1,8 +1,6 @@
 ---
 title: Play 9 - Be patient with yourself and allow feelings of discomfort
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 You have just stepped into something entirely new, and whether it’s still within

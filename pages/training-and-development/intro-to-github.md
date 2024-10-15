@@ -1,7 +1,6 @@
 ---
 title: Intro to GitHub
-tags:
-  - github
+keywords: github
 redirect_from:
   - /intro-to-github/
 ---

@@ -1,10 +1,6 @@
 ---
 title: Leaving TTS & Offboarding
-tags:
-  - quit
-  - quitting
-  - resign
-  - terming out
+keywords: quit, quitting, resign, terming out
 redirect_from:
   - /leaving-tts/
 ---

@@ -1,8 +1,6 @@
 ---
 title: Play 5 - Document, document, document
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 To help yourself get situated, **take judicious notes on everything**. Type

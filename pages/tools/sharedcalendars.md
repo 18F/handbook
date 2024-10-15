@@ -1,7 +1,6 @@
 ---
 title: Sharing calendars with partners
-tags:
-  - calendars
+keywords: calendars
 questions:
   - it-issues
 redirect_from:

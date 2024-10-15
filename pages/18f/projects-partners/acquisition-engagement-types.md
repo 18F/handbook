@@ -1,10 +1,6 @@
 ---
 title: Acquisition Engagements Types
-tags:
-  - procurement
-  - acquisitions
-  - engagements
-  - consulting
+keywords: procurement, acquisitions, engagements, consulting
 questions:
   - acquisition
 redirect_from:
