@@ -112,7 +112,7 @@ primary:
         url: travel-and-leave/overtime/
         internal: true
       - text: Paid parental leave
-        url: travel-and-leave/leave/#paid-parental-leave
+        url: travel-and-leave/paid-parental-leave/
         internal: true
       - text: Voluntary Leave Transfer Program (VLTP)
         url: travel-and-leave/voluntary-leave-transfer-program/
