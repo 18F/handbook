@@ -38,7 +38,7 @@ To be eligible for VLTP, you must have all of the following:
 Once VLTP is approved, your supervisor can use the [VLTP email template](https://docs.google.com/document/d/1eKSbEvUUibZ0LDGqwS_3UO9iBMdYc5VfLN8aNttEQVs/edit) to draft an announcement. Your supervisor will work with Outreach to send an email TTS-wide to [tts@gsa.gov](mailto:tts@gsa.gov), CCing your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 ### Using donated hours
-Donated leave won’t necessarily come in all at once. You will receive  donated leave as it’s donated; so, you and your supervisor will want to touch base as it’s coming in.
+Donated leave won’t necessarily come in all at once. You will receive donated leave as it’s donated; so, you and your supervisor will want to touch base as it’s coming in.
 
 * You can check how many donated hours you’ve received in HR Links (same as how you would see annual and sick leave balances). It will also appear on your paystub in Employee Express.  
 * You can make adjustments to leave requests in HR Links once you receive VLTP donations. Donated hours can retroactively be substituted for Leave Without Pay (LWOP), advanced annual leave, and advanced sick leave. Work with your supervisor or PeopleOps to amend past timesheets.  
