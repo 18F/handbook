@@ -1,10 +1,6 @@
 ---
 title: Top Secret / Sensitive Compartmented Information (TS/SCI) Clearance
-tags:
-  - secret
-  - clearance
-  - top
-  - security
+keywords: secret,clearance,top, security
 questions:
   - people-ops
   - TTS-PeopleOps@gsa.gov

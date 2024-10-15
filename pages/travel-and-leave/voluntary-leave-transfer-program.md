@@ -1,10 +1,6 @@
 ---
 title: Voluntary Leave Transfer Program
-tags:
-  - voluntary
-  - donation
-  - transfer
-  - leave
+keywords: voluntary, donation, transfer,leave
 redirect_from:
   - /voluntary-leave-transfer-program/
 ---

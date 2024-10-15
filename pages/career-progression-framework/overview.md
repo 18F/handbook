@@ -1,9 +1,6 @@
 ---
 title: Career Progression Framework
-tags:
-  - professional development
-  - career development
-  - career growth
+keywords: professional development, career development, career growth
 ---
 
 A Career Progression Framework (CPF) defines the job duties and knowledge,

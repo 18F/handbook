@@ -1,10 +1,6 @@
 ---
 title: Daily Check-in
-tags:
-  - daily
-  - check
-  - check-in
-  - checkin
+keywords: daily, check, check-in, checkin
 questions:
   - people-ops
   - TTS-PeopleOps@gsa.gov
