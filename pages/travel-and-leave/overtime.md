@@ -1,6 +1,6 @@
 ---
 title: Overtime, Comp Time, and Credit Hours
-keywords: overtime, comp time,credit hours,compensatory time off
+keywords: overtime, comp time, credit hours, compensatory time off
 ---
 
 This Handbook page provides a brief overview of overtime, comp time, and credit
