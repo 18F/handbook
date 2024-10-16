@@ -1,8 +1,6 @@
 ---
 title: Play 8 -  Be decisive and involve others whenever possible
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 There will be many times where you will have to make a decision without all of

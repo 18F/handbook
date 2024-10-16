@@ -1,8 +1,6 @@
 ---
 title: Product
-tags:
-  - product guide
-  - product manager
+keywords: product guide, product manager
 questions:
   - product
 redirect_from:

@@ -3,10 +3,7 @@ title: "Onboarding overview"
 permalink: /getting-started/
 redirect_from:
   - /slack/rules/
-tags:
-  - welcome
-  - onboarding
-  - getting started
+keywords: welcome, onboarding, getting started
 ---
 There’s a saying that it takes at least three months to understand a new job - so if you are feeling overwhelmed at times, that’s totally normal! This page is meant to give you a broad overview of onboarding at TTS and some key aspects of our TTS culture.
 

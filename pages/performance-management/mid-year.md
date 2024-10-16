@@ -1,11 +1,6 @@
 ---
 title: Performance Management Mid Year Review
-tags:
-  - Performance
-  - Performance management
-  - Performance review
-  - review
-  - mid year
+keywords: Performance, Performance management, Performance review, review, mid year
 redirect_from:
   - /mid-year/
 questions:

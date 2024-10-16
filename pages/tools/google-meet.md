@@ -1,8 +1,6 @@
 ---
 title: Google Meet
-tags:
-  - audio
-  - sound
+keywords: audio, sound
 redirect_from:
   - /google-hangouts/
   - /google-meet/

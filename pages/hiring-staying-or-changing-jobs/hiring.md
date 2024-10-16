@@ -1,8 +1,6 @@
 ---
 title: Hiring
-tags:
-  - Hiring
-  - hiring
+keywords: Hiring, hiring
 questions:
   - hiring
   - joinTTS@gsa.gov

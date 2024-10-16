@@ -1,26 +1,6 @@
 ---
 title: Leave + Timesheets (HR Links)
-tags:
-  - hrlinks
-  - hrlinks
-  - hr links
-  - hr links
-  - vacation
-  - funeral
-  - death
-  - bereavement
-  - jury
-  - duty
-  - court
-  - military
-  - leave
-  - request
-  - parental
-  - parent
-  - parental leave
-  - timesheets
-  - maternity
-  - paternity
+keywords: hrlinks,hrlinks,hr links,hr links,vacation,funeral,death,bereavement,jury,duty,court,military,leave,request,parental,parent,parental leave,timesheets,maternity,paternity
 redirect_from:
   - /leave/
 ---

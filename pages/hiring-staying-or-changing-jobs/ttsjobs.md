@@ -1,22 +1,6 @@
 ---
 title: TTSJobs
-tags:
-  - TTS Jobs
-  - tts jobs
-  - TTSJobs
-  - ttsjobs
-  - details
-  - Details
-  - jobs
-  - Jobs
-  - job
-  - Promotion
-  - Promotions
-  - promotion
-  - promotions
-  - staffing plan
-  - Staffing Plan
-  - staffing plans
+keywords: TTS Jobs, tts jobs, TTSJobs, ttsjobs, details, Details, jobs, Jobs, job, Promotion, Promotions, promotion, promotions, staffing plan, Staffing Plan, staffing plans
 redirect_from:
   - /ttsjobs/
 ---

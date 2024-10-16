@@ -1,10 +1,7 @@
 ---
 title: Working While Traveling
 subtitle: "Travel guide:"
-tags:
-  - travel
-  - away from office
-  - remote work
+keywords: travel, away from office, remote work
 redirect_from:
   - /working-while-traveling/
 sidebar:

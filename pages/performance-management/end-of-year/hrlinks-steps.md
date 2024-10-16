@@ -1,13 +1,6 @@
 ---
 title: End of Year Performance Management HRLinks Steps
-tags:
-  - Performance
-  - Performance
-  - Performance management
-  - Performance review
-  - review
-  - HR links
-  - HRLinks steps
+keywords: Performance, Performance management, Performance review, review, HR links, HRLinks steps
 redirect_from:
   - /performance-management-hrlinks-steps/
 questions:

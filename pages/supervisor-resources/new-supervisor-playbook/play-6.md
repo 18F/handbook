@@ -2,9 +2,7 @@
 title:
   Play 6 - Be human; bring your authentic self to work, and get to know the
   story of others
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 All too often supervisors behave and operate in ways that seem

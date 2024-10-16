@@ -1,10 +1,6 @@
 ---
 title: Hiring Authorities
-tags:
-  - Hiring
-  - hiring
-  - hiring paths
-  - hiring authorities
+keywords: Hiring, hiring, hiring paths, hiring authorities
 questions:
   - hiring
   - joinTTS@gsa.gov

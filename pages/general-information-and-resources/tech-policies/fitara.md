@@ -1,9 +1,6 @@
 ---
 title: Federal Information Technology Acquisition Reform Act (FITARA)
-tags:
-  - fitara
-  - Acquisition
-  - act
+keywords: fitara, Acquisition, act
 redirect_from:
   - /fitara/
 cSpell: ignore Dotgov,Gengo

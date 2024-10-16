@@ -1,13 +1,6 @@
 ---
 title: Mid Year Performance Management HRLinks Steps
-tags:
-  - Performance
-  - Performance
-  - Performance management
-  - Performance review
-  - review
-  - HR links
-  - HRLinks steps
+keywords: Performance, Performance management, Performance review, review, HR links, HRLinks steps
 redirect_from:
   - /mid-year-hrlinks-steps/
 questions:

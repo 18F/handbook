@@ -1,10 +1,6 @@
 ---
 title: Accessing DoD Systems
-tags:
-  - dod
-  - intelligence
-  - security
-  - system-access
+keywords: dod, intelligence, security, system-access
 questions:
   - portfolio-nat-security
 redirect_from:

@@ -1,16 +1,7 @@
 ---
 title: Performance Management Overview
 permalink: /performance-management/
-tags:
-  - Performance
-  - Performance
-  - Performance
-  - Performance
-  - Performance
-  - Performance
-  - Performance management
-  - Performance review
-  - review
+keywords: Performance, Performance management, Performance review, review
 questions:
   - people-ops
 ---

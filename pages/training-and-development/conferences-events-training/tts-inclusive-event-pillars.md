@@ -1,17 +1,6 @@
 ---
 title: TTS Inclusive Event Pillars
-
-tags:
-  - attend
-  - Attending
-  - speaking
-  - speaker
-  - event
-  - event
-  - conference
-  - conferences
-  - diversity
-  - inclusion
+keywords: attend, Attending, speaking, speaker, event, event, conference, conferences, diversity, inclusion
 ---
 
 TTS engages in events to recruit and build awareness about TTS products and

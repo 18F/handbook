@@ -1,8 +1,6 @@
 ---
 title: Play 2 - Build connections and lay the foundation for solid relationships
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 Relationships are the key to making anything happen at work, and effective

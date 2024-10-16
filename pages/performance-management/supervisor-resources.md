@@ -1,12 +1,6 @@
 ---
 title: Performance Management Supervisor Resources
-tags:
-  - Performance
-  - Performance
-  - Performance management
-  - Performance review
-  - review
-  - supervisor resources
+keywords: Performance, Performance management, Performance review, review, supervisor resources
 redirect_from:
   - /performance-management-supervisor-resources/
 questions:

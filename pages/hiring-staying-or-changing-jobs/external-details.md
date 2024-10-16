@@ -1,10 +1,6 @@
 ---
 title: Details with Other Agencies
-tags:
-  - assignees
-  - detailees
-  - details
-  - assignee
+keywords: assignees, detailees, details, assignee
 questions:
   - people-ops
   - PeopleOperations@gsa.gov

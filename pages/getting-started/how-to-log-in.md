@@ -1,12 +1,6 @@
 ---
 title: Logging in &amp; Networks
-tags:
-  - ent
-  - OAuth
-  - Logging
-  - login
-  - access
-  - networks
+keywords: ent, OAuth, Logging, login, access, networks
 redirect_from:
   - /how-to-log-in/
 ---

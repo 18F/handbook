@@ -1,8 +1,6 @@
 ---
 title: Procurements Over $10,000
-tags:
-  - procurements
-  - purchases
+keywords: procurements, purchases
 redirect_from:
   - /procurements-over-10000/
 cSpell: ignore FedBizOpps,ebuy

@@ -1,12 +1,6 @@
 ---
 title: Performance Management Employee Resources
-tags:
-  - Performance
-  - Performance
-  - Performance management
-  - Performance review
-  - review
-  - employee resources
+keywords: Performance, Performance management, Performance review, review, employee resources
 redirect_from:
   - /performance-management-employee-resources/
 questions:

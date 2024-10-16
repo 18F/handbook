@@ -1,11 +1,6 @@
 ---
 title: Transit Benefit
-tags:
-  - transit
-  - benefit
-  - subsidy
-  - transportation
-  - public
+keywords: transit, benefit, subsidy, transportation, public
 questions:
   - co-transit-subsidy@gsa.gov
 redirect_from:

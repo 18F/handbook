@@ -1,9 +1,6 @@
 ---
 title: Work schedules
-tags:
-  - work hours
-  - schedule
-  - AWS
+keywords: work hours, schedule, AWS
 ---
 Each of us has a work schedule: the hours that GSA expects us to be working. This page provides an overview of work schedule terminology and schedule types. The [work schedule overview chart](https://docs.google.com/spreadsheets/d/1isA9L0-ykDIgqCXIRZOdxCL00Jx8jKF4EsFlkMJ_jzY/edit#gid=0) also provides a high level, visual comparison.
 

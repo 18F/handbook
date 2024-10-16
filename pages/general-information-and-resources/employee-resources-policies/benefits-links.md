@@ -1,9 +1,6 @@
 ---
 title: Benefits links and resources
-tags:
-  - vacation
-  - leave
-  - loan
+keywords: vacation,leave,loan
 redirect_from:
   - /benefits-links/
 ---

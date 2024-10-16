@@ -1,17 +1,6 @@
 ---
 title: Employment Verification
-tags:
-  - letter
-  - employment
-  - verification
-  - verify
-  - verifying
-  - home
-  - purchasing
-  - purchase
-  - mortgage
-  - salary
-  - income
+keywords: letter, employment, verification, verify, verifying, home, purchasing, purchase, mortgage, salary, income
 redirect_from:
   - /employment-verification/
 ---

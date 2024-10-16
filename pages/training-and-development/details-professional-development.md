@@ -1,9 +1,6 @@
 ---
 title: Looking at details for professional growth
-tags:
-  - development
-  - training & development
-  - training and development
+keywords: development, training & development, training and development
 redirect_from:
   - /details-professional-development/
 ---

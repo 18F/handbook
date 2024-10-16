@@ -1,18 +1,6 @@
 ---
 title: Promotions
-tags:
-  - Promotions
-  - Promotions
-  - promotion
-  - promotion
-  - raise
-  - increase
-  - Merit Promotion
-  - merit promotion
-  - Merit Promotions
-  - merit promotions
-  - Merit
-  - merit
+keywords: Promotions, Promotions, promotion, promotion, raise, increase, Merit Promotion, merit promotion, Merit Promotions, merit promotions, Merit, merit
 questions:
   - hiring
   - joinTTS@gsa.gov

@@ -1,10 +1,6 @@
 ---
 title: Details within GSA
-tags:
-  - assignees
-  - detailees
-  - details
-  - assignee
+keywords: assignees, detailees, details, assignee
 questions:
   - people-ops
   - PeopleOperations@gsa.gov

@@ -1,7 +1,6 @@
 ---
 title: 18F Design
-tags:
-  - design
+keywords: design
 questions:
   - design
 redirect_from:

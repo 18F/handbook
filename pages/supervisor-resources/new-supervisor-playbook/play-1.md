@@ -1,8 +1,6 @@
 ---
 title: Play 1 - Understand the power differential when becoming a supervisor
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 When you became a supervisor, **you immediately took on a position of greater
