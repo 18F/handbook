@@ -35,6 +35,10 @@ number) prior to your first day.
 See [information about using PIV card readers with GSA-issued
 MacBooks]({% page "/piv/" %}).
 
+If you’re a software engineer who’s been given a PC — especially if you're more
+accustomed to MacOS or Linux — refer to this guide for
+[establishing a development environment on Windows GFE](https://docs.google.com/document/d/1uJFCAl4IF-GR4a2laUEeIOfT8iWA8ALQ4-eR_SZBlwA).
+
 ### MacBook Operating System
 
 Your MacBook will come preloaded with the latest, GSA-approved/supported
