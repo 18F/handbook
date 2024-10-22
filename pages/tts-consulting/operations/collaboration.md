@@ -34,7 +34,7 @@ A couple groups particularly focused on TTSC work and practices are:
 As employees of GSA, FAS, TTS, and TTS Consulting, we must adhere to a few layers of conduct codes:
 - [GSA Information Technology (IT) General Rules of Behavior](https://insite.gsa.gov/directives-library/gsa-information-technology-it-general-rules-of-behavior-4)
 - [TTS Code of Conduct]({% page "/about-us/code-of-conduct/" %})
-- [TTSC Slack Code of Conduct]({% page "#ttsc-slack-code-of-conduct" %})
+- [TTSC Slack Code of Conduct]({% page "/tts-consulting/operations/collaboration/#ttsc-slack-code-of-conduct" %})
 
 ## TTSC Slack Code of Conduct
 
