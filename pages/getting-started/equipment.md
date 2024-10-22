@@ -198,6 +198,7 @@ activating your iPhone.
   The consumed minutes is the metric used to determine activity, so if you only
   use the phone for data, you'll still need to make an occasional call on your
   mobile phone to prevent the account from going inactive.
+* You can only download [mobile apps approved by GSA IT](https://insite.gsa.gov/employee-resources/information-technology/hardware-equipment/mobile-devices/approved-mobile-device-applications).
 * If you need help with your phone, [contact the GSA IT Service
   Desk]({% page "/getting-started/classes/gsa-internal-tools/#it-service-desk" %}).
 * For information on which mobile phones are available on GSA's current
