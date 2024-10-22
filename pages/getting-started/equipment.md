@@ -282,7 +282,7 @@ PIV cards, and alert TTS in {% slack_channel "equipment" %}:
 ### Access card
 
 See
-[InSite page](https://insite.gsa.gov/employee-resources/safety-and-security/background-investigation-access-card-process/gsa-access-card/report-lost-or-stolen-gsa-access-card).
+[InSite page](https://www.gsa.gov/resources/for-federal-employees/process-to-get-a-gsa-access-card#reporting).
 
 ### Other
 
