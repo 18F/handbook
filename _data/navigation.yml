@@ -618,7 +618,7 @@ primary:
           - text: Analytics
             url: analytics/
             internal: true
-          - text: DocuSign (digital signatures; replaced eSign)
+          - text: Docusign (digital signatures)
             url: digital-signatures/
             internal: true
           - text: Eventbrite
