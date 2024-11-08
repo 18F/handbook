@@ -57,7 +57,6 @@ links to the mandatory trainings.
 GSA provides free coaching services to any federal employee. There are three avenues:
 - You can request a GSA coach. Located throughout the agency, GSA coaches hold various roles and offer coaching in addition to their main assignments. 
 - You can get paired with a coach at another agency via the Federal Coaching Network. 
-- Employees who are GS-14 or above can find a coach through the Treasury Executive Institute (TEI).
 
 To learn more about the GSA coaching program offerings and to get connected with a coach, visit the [GSA Coaching Services InSite page](https://insite.gsa.gov/employee-resources/training-and-development/developmental-services/organizational-development/coaching-services).
 
