@@ -165,7 +165,7 @@ described in the policy IT Security Procedural Guide: Managing Enterprise Risk
 CIO-IT Security-06-30 in
 [Insite](https://insite.gsa.gov/cdnstatic/insite/Managing_Enterprise_Risk_%5BCIO_IT_Security_06-30_Rev_16%5D_10-03-2019docx.pdf)
 
-- GSA Standard A&A Process
+- GSA Standard Assessment and Authorization (A&A) Process
 - Lightweight Security Authorization Process
 - GSA Salesforce Platform Process
 - Security Reviews for Low Impact Software as a Service Process
