@@ -15,7 +15,7 @@ paystub in [Employee
 Express]({% page "/getting-started/classes/gsa-internal-tools/#employee-express" %}).
 
 GSA’s
-[Time and Leave Administration policy](https://www.gsa.gov/directives/files?file=2024-04%2FCC048790%20HRM%206010.1C%20Time%20and%20Leave%20Administration%20Policy%20Spring%202024.pdf)
+[Time and Leave Administration policy](https://insite.gsa.gov/system/files/2024-10/HRM%206010.1D%20Time%20and%20Leave%20Administration%20September%202024.pdf) ([source page](https://insite.gsa.gov/directives-library/time-and-leave-administration-policy-2))
 establishes agency-wide policy, procedures, and requirements for all employees.
 Additional fact sheet links are provided throughout this page, with the
 corresponding type of leave.
