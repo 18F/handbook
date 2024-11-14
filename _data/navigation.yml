@@ -102,7 +102,7 @@ primary:
     blurb: |
       Learn about types of leave and how to request it.
     children:
-      - text: Leave (HR Links)
+      - text: Leave types
         url: travel-and-leave/leave/
         internal: true
       - text: Out of office expectations
@@ -117,6 +117,8 @@ primary:
       - text: Voluntary Leave Transfer Program (VLTP)
         url: travel-and-leave/voluntary-leave-transfer-program/
         internal: true
+      - text: HR Links
+        url: tools/hrlinks/
   - text: Supervisor resources
     href: /#supervisor-resources
     main-file-path: /supervisor-resources/
