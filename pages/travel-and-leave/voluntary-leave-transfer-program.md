@@ -17,8 +17,8 @@ To be eligible for VLTP, you must have all of the following:
 ### Enrolling in VLTP to receive donated hours
 
 1. Complete your portion of the VLTP application,
-   [OPM Form 630](https://www.opm.gov/forms/pdf_fill/opm630.pdf). 
-   - You'll need to fill out Sections 1-11, 14, 16a and 16b.   
+   [OPM Form 630](https://www.opm.gov/forms/pdf_fill/opm630.pdf) and send it to your supervisor, then your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) and your Deciding Official (SES-level employee in your supervisory chain).  
+   - You can use [Docusign templates]({% page "/tools/digital-signatures#use-docusign-templates-to-complete-forms" %}) for VLTP to fill out the forms and request the right signatures.
    - On the form, fill out information about the medical condition when the labels mention “medical emergency.”   
    - Your supervisor can help you fill out the form.  
 2. Gather supporting medical documentation. The medical documentation must include the following:
@@ -26,12 +26,8 @@ To be eligible for VLTP, you must have all of the following:
    - Prognosis of the medical condition
    - Duration of the medical condition
    - The medical documentation must be signed by your physician or other practitioner.
-3. Send Form 630 and supporting documentation to your supervisor.
-4. Your supervisor completes their portion of Form 630. 
-   - They need to fill out Sections 12, 13, and 17.
-5. Your supervisor emails Form 630 and the supporting medication documentation to your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
-6. Your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) will review the application, and notify you and your supervisor if your request is approved (within 10 business days). They will provide you with a reason if the request is not approved, and what, if anything, can be done to resubmit.  
-7. Your supervisor sends out an announcement email TTS-wide.
+3. Your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) will review the application, and notify you and your supervisor if your request is approved (within 10 business days). They will provide you with a reason if the request is not approved, and what, if anything, can be done to resubmit.  
+4. Your supervisor sends out an announcement email TTS-wide.
 
 #### VLTP email announcement template
 
@@ -56,7 +52,9 @@ The [VLTP system](https://vltp.gsa.gov/) is in MAX.gov. You will need to registe
 
 Select the **Register Now** button at the top right of the [MAX.gov homepage](http://MAX.gov) and follow the prompts to register your PIV card and enable login. You can also use the email option.
 
-### Donating hours through VLTP
+### Donating hours through VLTP system
+
+You can donate hours to your colleagues through VLTP or the Emergency Leave Transfer Program (ELTP).
 
 1. Go to [vltp.gsa.gov](https://vltp.gsa.gov/) and log in using your PIV card or GSA email with 2-factor authentication.
 2. You will be taken to the GSA Payroll System VLTP page.
