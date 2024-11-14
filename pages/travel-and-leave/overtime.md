@@ -1,120 +1,96 @@
 ---
-title: Overtime, Comp Time, and Credit Hours
-keywords: overtime, comp time, credit hours, compensatory time off
+title: Compensation for working extra hours
+keywords: overtime, comp time, credit hours, compensatory time off, religious comp time, travel comp time
+questions:
+  - people-ops
 ---
+<div class="usa-alert usa-alert--info">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      Existing employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> to see what you can use your hours for.
+    </p>
+  </div>
+</div>
 
-This Handbook page provides a brief overview of overtime, comp time, and credit
-hours.
+You will need supervisor approval before working extra hours. Generally, do not expect to work extra hours unless you’re working on a high-profile project.
 
-There are several factors which affect how you could be compensated for working
-extra hours. One is your salary: if your salary is at - or close to - the
-maximum GS salary ($183,500 in FY23). Another factor is whether you are an
-[exempt or non-exempt employee](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fs17a_overview.pdf).
+You will need to [manually request these hours in HR Links]({% page "/tools/hrlinks/#entering-the-extra-hours-you-will-be-working-2" %}) before [using them]({% page "/tools/hrlinks/#using-the-hours-you-ve-earned-2" %}). 
 
-You should obtain supervisor approval prior to working extra hours. And, your
-supervisor should understand your specific situation prior to approving
-overtime.
+## Overtime and Compensatory (Comp) time
 
-The guidance below is only a high level overview. You and/or your supervisor can
-reach out to PeopleOps anytime with questions about your specific situation.
+Your ability to use these options depends on your [salary level](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) and [work schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/" %}):
 
-## Overtime and Comp Time
+* The amount of overtime or comp time you can receive depends on your salary level. Refer to the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0) to see how much comp time you can earn.  
+* If you make the maximum salary ($191,900 in 2024), you cannot receive overtime or comp time. You can only be compensated with credit hours on a flexible schedule.
 
-Overtime and comp time can be approved by your supervisor no matter what type of
-[work schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules" %})
-you have.
+### Overtime, depending on your salary level
 
-Overtime is when you are paid for extra hours that you work, whereas comp time
-is when you receive hours of leave instead of pay. To determine the maximum number of comp time hours that you can accrue per pay period, please use the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0).
+Overtime is when you are paid for extra hours that you are required to work. The amount of overtime pay you receive depends on your GS- level and [FLSA exemption status]({% page "/tools/hrlinks/#flsa-exemption-status-2" %}).
 
-You should use your accrued comp time before using Annual Leave. However, if the
-end of the leave year is approaching, your supervisor can approve your Annual
-Leave requests first if you are in danger of losing Annual Leave because of
-“[Use or Lose]({% page "/travel-and-leave/leave/#annual-leave" %}).”
+Your total pay (including overtime) cannot exceed the maximum salary at GSA, which is $191,900 as of 2024. This is GS-15, step 10, including any applicable special salary rate or locality rate of pay.
+
+Refer to OPM’s [Overtime Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/overtime-pay-title-5/) for more detail.
+
+### Compensatory (Comp) time, depending on your salary level
+
+Comp time is when you receive hours of leave instead of overtime pay. To determine the maximum number of comp time hours that you can accrue per pay period, please use the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0). If you make the maximum salary ($191,900 in 2024), you cannot receive comp time.
+
+You should use your accrued comp time before using Annual Leave. However, if the end of the leave year is approaching, your supervisor can approve your Annual Leave requests first if you are in danger of losing Annual Leave because of “[Use or Lose](https://handbook.tts.gsa.gov/travel-and-leave/leave/#annual-leave).”
 
 Comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date, you will forfeit the leave. If you leave GSA, your comp time will be paid out.
 
-## Credit Hours
+Refer to OPM’s [Comp Time Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/compensatory-time-off/) for more detail.
 
-Note: Credit hours are only available if you are on a
-[flexible work schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#flexible-schedule" %}).
+## Credit hours, in flexible work schedules
 
-You can be approved for credit hours if you want to voluntarily work additional
-hours to your normal/approved schedule. If you are required to work additional
-hours, you will receive overtime or comp time.
+Only people on [flexible work schedules](https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/work-schedules/#flexible-schedule-2) can earn and use credit hours. There is no salary maximum for earning and using credit hours.
 
-- You can have up to 24 credit hours accrued, at any given time.
-- The hours will rollover from one pay period to the next, and they never
-  expire.
-- Credit hours cannot be converted to cash, unless you leave GSA (then they will
-  be paid out).
+You can be approved for credit hours if you want to voluntarily work additional hours to your normal/approved schedule. If you are required to work additional hours, you will receive overtime or comp time.
+
+* You can have up to 24 credit hours accrued, at any given time.
+
+* The hours will rollover from one pay period to the next, and they never expire.
+
+* Credit hours cannot be converted to cash, unless you leave GSA (then they will be paid out).
+
+Refer to OPM’s [Credit Hours Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/credit-hours-under-a-flexible-work-schedule/) for more detail.
 
 ### Credit hours example
 
-You are on a
-[Gliding schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#gliding" %}),
-and you work 8 hours every day. You are not required to stay late, but if you are
-in a productive headspace and want to work an extra hour to finish work,
-you can ask your supervisor about working 1 more hour, therefore receiving
-1 credit hour. You will need to request the 1 hour in HR Links, and your
-supervisor will need to approve it.
+You are on a [Gliding schedule](https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/work-schedules/#gliding), and you work 8 hours every day. You are not required to stay late, but if you are in a productive headspace and want to work an extra hour to finish work, you can ask your supervisor about working 1 more hour, therefore receiving 1 credit hour. You will need to request the 1 hour in HR Links, and your supervisor will need to approve it.
 
-## Religious comp time
-You can request an adjustment to your work schedule for religious observances, instead of taking leave. Document your request to your supervisor, via email, in advance of the time you’ll need to miss, along with the schedule of the time you will work outside of normal hours to compensate.
+## Religious comp time, for everyone
 
-Note: religious comp time does not follow the salary cap rules that are outlined in the beginning of this document. Anyone can request religious comp time, regardless of their salary and what type of work schedule they are on.
+[Per OPM guidance](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/), you can request an adjustment to your work schedule for religious observances, instead of using annual leave. In HR Links, this is treated as another kind of comp time.
 
-## Travel comp time
-When you travel in connection to TTS, the time you spend traveling may be regular time, overtime, or travel comp time, depending on when the travel occurs. 
+Email your supervisor about the extra hours you plan to work before a religious observance. 
 
-You’ll complete overtime and comp time requests after you travel because you may encounter delays. Keep a copy of your travel itinerary to help you remember your trip.
+## Travel comp time, for everyone
 
-Refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours. _This slidedeck is only open to GSA employees. Please contact your Timekeeper or an HR Specialist at your agency with questions._
+You may request travel comp time when you are approved to travel for work and the travel occurs outside regular working hours. Travel comp time is for “temporary duty” aka “TDY” travel, *not* local travel or commuting. TDY travel is more than 12 hours long and requires a pre-approved authorization in Concur.
 
-Note: travel comp time does not follow the salary cap rules that are outlined in the beginning of this document. Anyone can request travel comp time, regardless of their salary and what type of work schedule they are on.
+There are no limitations for earning travel comp time based on salary level or schedule type.
 
-Travel comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date, you will forfeit the leave.  If you leave GSA, any unused travel comp time will be forfeited. 
+Refer to OPM’s [Travel Comp Time Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/compensatory-time-off-for-travel/) for more detail. Ask general questions in {% slack_channel "travel" %}.
 
-## Entering the overtime, comp time, and/or credit hours you will be working into HRLinks
+### Understanding travel comp time
 
-Entering your hours is a two step process.
+Traveling during your regular work hours is considered regular hours, including traveling to the airport from your home.
 
-### Step 1 - Submit a time request in HRLinks
-You need to enter your overtime, comp time, or credit hours into HRLinks. To determine the maximum number of comp time hours that you can accrue per pay period, please use the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0). Your supervisor will be notified to approve the hours requested.
+Generally, travel comp time is used as a “gap filler” when you are traveling outside of your regular work hours during a regular work day, but not officially “performing work.” 
 
-- Go to the **Employee Time Requests** tile
-- Select **Additional Time Requests**
-- Click time request type: **Request Overtime**, **Request Comp Time**, or **Request Credit Time**.
-  - For **Comp Time**: the default selection is regular Comp Time. To switch to Religious or Travel Comp Time, click on the **Additional Time Type** dropdown menu.
-  - For **Overtime**: you will need to select a reason you worked overtime. 
-- Enter **Start Date** and **End Date**
-- Enter **Requested Hours**
-- Enter **Comments**
-- Click **Submit**
+For further details, refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours. Please contact your Timekeeper or an HR Specialist at your agency if you have questions.
 
-You’ll receive emails after submitting the request, and after it is approved. There is a [step-by-step guide to submitting time requests](https://drive.google.com/file/d/1G5KM6WvrhICpTskjqXRvpqZPM0UyocPl/view?usp=sharing).
+### Calculating travel comp time
 
-### Step 2 - Update your timesheet
-Currently, HR Links is not connecting Comp/Credit/Overtime hours to your timesheet. This means you will need to manually add the hours you earned to your timesheet on the day(s) when you earned them. You’ll do this after your supervisor has approved the hours in step 1. 
+For calculating travel comp time hours, travel ends when you check in at the hotel. Travel comp time hours are based on elapsed time. Use the time zone at departure to calculate elapsed time.
 
-There is a [step-by-step guide on adding the hours to your timesheet](https://drive.google.com/file/d/1EZZkAnPCjqxxEqHXwaH7hSbO9gzM_zJM/view?usp=sharing). Reach out to {% slack_channel "people-ops" %} if you need assistance.
+To accurately report travel time, we recommend keeping a log of:
 
-## Using the comp time and/or credit hours you’ve earned
+* When you departed your home and arrived at the airport  
+* When your flights actually departed and arrived  
+* When you left the destination airport and arrived at your hotel
 
-You will submit a [leave
-request]({% page "/travel-and-leave/leave/#entering-a-leave-request" %}), just
-like you do for other types of leave. When searching in HR Links for the leave
-type to request, the codes and leave names are:
+### Using travel comp time
 
-- `041 - Comp Time Used`
-- `037 - Credit Hours Used`
-- `047 - Religious Comp Time Used`
-- `043 - Travel Comp Time Used`
-
-
-## OPM Resources
-
-- [Adjustment of Work Schedules for Religious Observances](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/)
-- [Overtime Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/overtime-pay-title-5/)
-- [Comp Time Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/compensatory-time-off/)
-- [Credit Hours Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/credit-hours-under-a-flexible-work-schedule/)
+Travel comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date, you will forfeit the leave. If you leave GSA, any unused travel comp time will be forfeited.
