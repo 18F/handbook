@@ -41,11 +41,8 @@ You can request Leave Without Pay (LWOP) of less than four weeks at any time, if
 
 To request PPL, you’ll need to email the following items to your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit): 
 
-1. The [Paid Parental Leave Request form and the](https://drive.google.com/file/d/1tcdKHQ-m9-B5IltlMP7SP83FdFtvHZCB/view?usp=sharing) [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view) PDFs.  
-   1. Download and open each form in Adobe Acrobat.   
-   2. Fill out all fields (except signature).  
-   3. Upload to [DocuSign](https://handbook.tts.gsa.gov/tools/digital-signatures/) and route the form to yourself, in order to provide an official signature.  
-   4. Download your document from DocuSign.  
+1. The [Paid Parental Leave Request form](https://drive.google.com/file/d/1tcdKHQ-m9-B5IltlMP7SP83FdFtvHZCB/view?usp=sharing) and the [Paid Parental Leave Service Agreement form](https://drive.google.com/file/d/1zX9draOiQ456sssQ13qtSWBDwZpElVH5/view) PDFs.  
+   1. You can use [Docusign templates]({% page "/tools/digital-signatures#use-docusign-templates-to-complete-forms" %}) for Paid Parental Leave to fill out the forms and request the right signatures.
 2. A [timesheet report](https://handbook.tts.gsa.gov/travel-and-leave/leave/#pulling-a-time-sheet-report) for the last 12 months.
 
 Your Workforce Relations HR Specialist reviews your forms and may request more information. 
