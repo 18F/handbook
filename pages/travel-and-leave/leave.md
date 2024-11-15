@@ -29,15 +29,15 @@ For **bereavement**, you can use:
 
 For **birth, adoption or placement of a new child**, you can use [paid parental leave]({% page "/travel-and-leave/paid-parental-leave/" %}). You can also use annual and sick leave for parental leave reasons. 
 
-For **religious observances**, you can [request an adjustment to your work schedule](https://handbook.tts.gsa.gov/travel-and-leave/overtime/#religious-comp-time) for religious observances, instead of taking leave.
+For **religious observances**, you can [request an adjustment to your work schedule]({% page "/travel-and-leave/overtime//#religious-comp-time-for-everyone-2" %}) for religious observances, instead of taking leave.
 
 To [**vote**](#voting-and-poll-volunteering), register to vote, participate in early voting, or volunteering as a poll worker, you can use Administrative Leave.
 
-For **jury duty** and other court-related leave, use [Court Leave](#court-leave-\(jury-duty\)).
+For **jury duty** and other court-related leave, use [Court Leave](#court-leave-jury-duty-2).
 
 If you can’t work or stay in your home for [weather or safety reasons](#weather-and-safety), you can use Administrative Leave.
 
-When going on **active duty**, active duty training, and inactive duty training in the National Guard or as a Reservist, you can use [Military Leave](#military-leave).
+When going on **active duty**, active duty training, and inactive duty training in the National Guard or as a Reservist, you can use [Military Leave](#military-leave-2).
 
 ### Sick or medical reasons
 
@@ -48,15 +48,15 @@ You can use [Sick Leave](#sick-leave) for:
 * Recovering from illness, for you or a family member  
 * Any other health need
 
-You can work with your supervisor to use up to 4 hours of work time pursuing options from the [Employee Assistance Program (EAP)](https://handbook.tts.gsa.gov/getting-started/classes/benefits/#employee-assistance-program).
+You can work with your supervisor to use up to 4 hours of work time pursuing options from the [Employee Assistance Program (EAP)]({% page "/getting-started/classes/benefits/#employee-assistance-program" %}).
 
-If you need more sick leave than you have earned, you can request [advanced leave](#heading=h.mrahivqnov1q) or enroll in the [donated leave program](https://handbook.tts.gsa.gov/travel-and-leave/voluntary-leave-transfer-program/). If you need more than 13 sick days at once to care for a loved one, you can apply for [Family Medical Leave Act (FMLA)]({% page "/travel-and-leave/fmla/" %}) status.
+If you need more sick leave than you have earned, you can request [advanced leave](#advanced-sick-leave) or enroll in the [donated leave program]({% page "/travel-and-leave/voluntary-leave-transfer-program/" %}). If you need more than 13 sick days at once to care for a loved one, you can apply for [Family Medical Leave Act (FMLA)]({% page "/travel-and-leave/fmla/" %}) status.
 
 Other medical reasons:
 
-* When getting a COVID vaccine or recovering from vaccine side effects, you can use Administrative Leave  
-* [Blood, bone marrow, organ donation](#blood,-bone-marrow,-and-organ-donation), you can use Administrative Leave  
-* [Disabled veteran leave (DVL)](#disabled-veteran-leave-\(dvl\)) for veterans with a service-related disability
+* When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
+* [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave  
+* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl-2) for veterans with a service-related disability
 
 ## Types of leave
 
@@ -132,7 +132,7 @@ You can receive two weeks (80 hours) of parental bereavement leave for the passi
 OPM Policy:
 * [Parental Bereavement Leave Memorandum](https://chcoc.gov/content/parental-bereavement-leave)
 
-### Extended paid leave options
+### Taking leave in advance
 
 Talk to your supervisor if you need to use advanced leave.
 
@@ -150,29 +150,11 @@ OPM Fact Sheets:
 
 You can request up to 240 hours of advanced sick leave. If you are a term employee, you can request up to the total amount that you’ll earn during the rest of your term.
 
-For example: You have one year left on your term, which equals to 26 pay periods. You earn 4 sick leave hours per pay period. You will earn 104 more sick leave hours (26 pay periods x 4 hours per pay period). Therefore, you can request up to 104 advanced sick leave hours.
+Refer to the [advanced sick leave page]({% page "/travel-and-leave/advanced-sick-leave" %}) for more information, including how to request it.
 
-##### Advanced sick leave approval
+### Using donated leave
 
-To get approval for advanced sick leave, you will need to submit the following paperwork to your supervisors and your [OHRM Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl). Note: we suggest drafting all 4 pieces of paperwork and sending them to your HR Specialist for review *before* routing for official signatures in Docusign.
-
-1. [Advanced Sick Leave Request form](https://docs.google.com/document/d/1zxQN5c4ZRMcxN7u5hcM3LFEURZLuoHLIBwGOKEzldqk/edit#). Your supervisor can complete and route this form for you, if needed.  
-2. An original medical certification signed by your physician or practitioner.  
-3. A copy of your timesheet report for the current and previous year. Your supervisor can [pull a timesheet report](https://drive.google.com/file/d/1HIJQKVhzCtrW5Pc0rzynwdSj0ltmyR1p/view) for you, if needed.  
-4. A written explanation of the circumstances which have caused your sick leave to be exhausted. Include how many hours you are requesting. Your supervisor can write this explanation for you, if needed.
-
-When routing for signatures, you can use the [Docusign template]({% page "/tools/digital-signatures#use-docusign-templates-to-complete-forms" %}) for the Advanced Sick Leave Request to fill out the form and request the right signatures.
-
-Your supervisors should keep signed copies for their records.
-
-OPM and GSA Fact Sheets:
-* [Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)  
-* [GSA InSite: Advanced Leave](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/leave/types-of-paid-leave?term=#Advanced)
-
-
-#### Using donated leave
-
-If you have a personal or family medical emergency and have exhausted your earned leave, you can enroll in the [Voluntary Leave Transfer Program (VLTP)](https://handbook.tts.gsa.gov/travel-and-leave/voluntary-leave-transfer-program/). Your colleagues can donate their annual leave for you. Reach out to your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to start the process.
+If you have a personal or family medical emergency and have exhausted your earned leave, you can enroll in the [Voluntary Leave Transfer Program (VLTP)]({% page "/travel-and-leave/voluntary-leave-transfer-program/" %}). Your colleagues can donate their annual leave for you. Reach out to your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to start the process.
 
 ### Family Medical Leave Act (FMLA)
 
@@ -295,7 +277,7 @@ To take a leave of absence without pay, you’ll need justification and supervis
 
 * To request over 80 hours of LWOP, you must get written approval from your immediate supervisor and Business Unit Director.
 
-Once approvals are received, please submit a copy of the email thread to TTS-peopleops@gsa.gov.
+Once approvals are received, please submit a copy of the email thread to [TTS-peopleops@gsa.gov](mailto:TTS-peopleops@gsa.gov).
 
 OPM Fact Sheet:
 
@@ -303,4 +285,4 @@ OPM Fact Sheet:
 
 ## Transferring leave from another federal agency
 
-Annual leave and sick leave balances can take a *significant* amount of time to transfer to GSA, depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement (pay stub) from your previous agency, you can send a copy to kc-payroll.finance@gsa.gov to expedite the process.
+Annual leave and sick leave balances can take a *significant* amount of time to transfer to GSA, depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement (pay stub) from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.
