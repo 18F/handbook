@@ -155,27 +155,26 @@ If you run into issues, reach out to {% slack_channel "people-ops" %}.
 
 Before taking leave, be sure to:
 
+- Tell your supervisor as well as team members or partners via Slack or email, and make sure your work is
+  covered.
+  - Notify your Engagement Manager, Account Manager, and project lead, if
+    applicable.
+- Decline, cancel, or reschedule any meetings you’ll miss.
 - [Submit a leave request through HR
   Links]({% page "/travel-and-leave/leave/#entering-a-leave-request" %}).
   Discuss the dates with your supervisor, as needed.
 - Mark your out of office time on your calendar (inviting your supervisor/colleagues as appropriate with the invite set to "free" so it doesn't block other scheduling) and any applicable team or project calendars.
   - [Google Calendar has an OOO setting](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop&oco=0)
     that can auto-reject current and future meetings.
-- Decline, cancel, or reschedule any meetings you’ll miss.
-- Tell team members or partners via Slack or email, and make sure your work is
-  covered.
-  - Notify your Engagement Manager, Account Manager, and project lead, if
-    applicable.
-- Set up an email auto-responder as appropriate. This should include both when
-  you’ll be back and a point of contact/team email for while you’re out.
-  - For example:
-    `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email [email address] and your request will be directed to the appropriate party.`
 - Update your Slack status to indicate that you are OOO.
-
   - You can also
     [set up a Slackbot reminder](https://slack.com/help/articles/208423427-Set-a-reminder)
     to prompt you to turn off OOO statuses when you return:
     `/remind me to “Update my OOO reminder” on [date you return]`
+- Set up an email auto-responder as appropriate. This should include both when
+  you’ll be back and a point of contact/team email for while you’re out.
+  - For example:
+    `I am out of the office on Wednesday January 2nd and will respond to your request when I return on Thursday the 3rd. If you need immediate assistance please email [email address] and your request will be directed to the appropriate party.`
 
 - 18F team members should also:
 - Submit [correct Tock
