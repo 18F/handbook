@@ -323,7 +323,7 @@ laptop screen.
 
 ### Transit subsidy
 
-See the [Transit Subsidy Handbook page]({% page "/general-information-and-resources/washington-dc/#transit-subsidy" %}).
+See the [Transit Subsidy Handbook page]({% page "/general-information-and-resources/employee-resources-policies/transit-benefit/" %}).
 
 ### Helpful contacts
 
