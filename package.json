@@ -31,7 +31,7 @@
     "jsdom": "^21.1.2",
     "markdown-it": "^13.0.2",
     "markdown-it-anchor": "^8.6.7",
-    "postcss": "^8.4.47",
+    "postcss": "^8.4.49",
     "markdown-it-attrs": "^4.2.0",
     "postcss-cli": "^10.0.0"
   },
