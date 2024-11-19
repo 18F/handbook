@@ -7,7 +7,7 @@ redirect_from:
 <div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
     <p class="usa-alert__text">
-      Existing employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a>.
+      Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a>.
     </p>
   </div>
 </div>
