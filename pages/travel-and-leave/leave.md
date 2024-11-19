@@ -12,6 +12,8 @@ redirect_from:
   </div>
 </div>
 
+Before you take leave, check [out of office expectations]({% page "travel-and-leave/going-out-of-office/" %}).
+
 ## Reasons someone can take leave
 
 TTS has leave types for the following scenarios. Talk with your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) about ways to combine leave types.
