@@ -23,6 +23,15 @@ For **general uses and vacation**, you can use:
 * [Annual Leave](#annual-leave)  
 * [Award Leave](#award-leave)
 
+For **sick or medical reasons**, you can use:
+- [Sick Leave](#sick-leave)
+
+Other medical reasons:
+
+* When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
+* [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave  
+* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl-2) for veterans with a service-related disability
+
 For **bereavement**, you can use:
 
 * [Sick Leave](#civilian) for funerals  
@@ -41,24 +50,13 @@ If you can’t work or stay in your home for [weather or safety reasons](#weathe
 
 When going on **active duty**, active duty training, and inactive duty training in the National Guard or as a Reservist, you can use [Military Leave](#military-leave-2).
 
-### Sick or medical reasons
-
-You can use [Sick Leave](#sick-leave) for:
-
-* Doctor and medical appointments for you or a family member  
-* Mental health care  
-* Recovering from illness, for you or a family member  
-* Any other health need
-
 You can work with your supervisor to use up to 4 hours of work time pursuing options from the [Employee Assistance Program (EAP)]({% page "/getting-started/classes/benefits/#employee-assistance-program" %}).
 
-If you need more sick leave than you have earned, you can request [advanced leave](#advanced-sick-leave) or enroll in the [donated leave program]({% page "/travel-and-leave/voluntary-leave-transfer-program/" %}). If you need more than 13 sick days at once to care for a loved one, you can apply for [Family Medical Leave Act (FMLA)]({% page "/travel-and-leave/fmla/" %}) status.
+If you are running out of leave hours, you can use:
+- [Advanced Annual Leave](#advanced-annual-leave)
+- [Advanced Sick Leave](#advanced-sick-leave)
+- Donated hours from the [Voluntary Leave Transfer Program]({% page "/travel-and-leave/voluntary-leave-transfer-program/" %})
 
-Other medical reasons:
-
-* When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
-* [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave  
-* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl-2) for veterans with a service-related disability
 
 ## Types of leave
 
