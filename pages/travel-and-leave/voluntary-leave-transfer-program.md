@@ -54,7 +54,7 @@ Select the **Register Now** button at the top right of the [MAX.gov homepage](ht
 
 ### Donating hours through VLTP system
 
-You can donate hours to your colleagues through VLTP or the Emergency Leave Transfer Program (ELTP).
+You can donate hours to your colleagues through VLTP or the [Emergency Leave Transfer Program (ELTP)]({% page "/travel-and-leave/leave/#emergency-leave-transfer-program" %}).
 
 1. Go to [vltp.gsa.gov](https://vltp.gsa.gov/) and log in using your PIV card or GSA email with 2-factor authentication.
 2. You will be taken to the GSA Payroll System VLTP page.
