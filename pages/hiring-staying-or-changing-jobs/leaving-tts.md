@@ -10,7 +10,7 @@ This guide covers the offboarding policy and process.
 ## When it's time to leave TTS
 
 These steps apply to all TTS employees: permanent employees, term employees who
-are at the end of their term, term employees choosing to resign before their
+are at the end of their term, and term employees choosing to resign before their
 term ends.  These steps also apply to employees who will remain in federal government and other GSA offices.
 **Begin this process at least two weeks before your last day of work.**
 Your last day at TTS cannot be a federal holiday.
