@@ -18,7 +18,7 @@ You will need to [manually request these hours in HR Links]({% page "/tools/hrli
 
 ## Overtime and Compensatory (Comp) time
 
-Your ability to use these options depends on your [salary level](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) and [work schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/" %}):
+Your ability to use these options depends on your [salary level](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/):
 
 * The amount of overtime or comp time you can receive depends on your salary level. Refer to the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0) to see how much comp time you can earn.  
 * If you make the maximum salary ($191,900 in 2024), you cannot receive overtime or comp time. You can only be compensated with credit hours on a flexible schedule.
@@ -71,7 +71,7 @@ You may request travel comp time when you are approved to travel for work and th
 
 There are no limitations for earning travel comp time based on salary level or schedule type.
 
-Refer to OPM’s [Travel Comp Time Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/compensatory-time-off-for-travel/) for more detail. Ask general questions in {% slack_channel "travel" %}.
+Refer to OPM’s [Travel Comp Time Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/compensatory-time-off-for-travel/) for more detail.
 
 ### Understanding travel comp time
 
@@ -79,11 +79,11 @@ Traveling during your regular work hours is considered regular hours, including 
 
 Generally, travel comp time is used as a “gap filler” when you are traveling outside of your regular work hours during a regular work day, but not officially “performing work.” 
 
-For further details, refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours. Please contact your Timekeeper or an HR Specialist at your agency if you have questions.
+For further details, current GSA employees can refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours. Please contact your Timekeeper or an HR Specialist at your agency if you have questions.
 
 ### Calculating travel comp time
 
-For calculating travel comp time hours, travel ends when you check in at the hotel. Travel comp time hours are based on elapsed time. Use the time zone at departure to calculate elapsed time.
+For calculating travel comp time hours, travel ends when you check in at the hotel or arrive home. Travel comp time hours are based on elapsed time. Use the time zone at departure to calculate elapsed time.
 
 To accurately report travel time, we recommend keeping a log of:
 
