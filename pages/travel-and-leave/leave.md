@@ -46,13 +46,13 @@ To [**vote**](#voting-and-poll-volunteering), register to vote, participate in e
 
 For **jury duty** and other court-related leave, use [Court Leave](#court-leave-jury-duty-2).
 
-If you can’t work or stay in your home for [weather or safety reasons](#weather-and-safety), you can use Administrative Leave.
+If you can’t work or stay in your home for [weather or safety reasons](#weather-and-safety), you can request Administrative Leave.
 
 When going on **active duty**, active duty training, and inactive duty training in the National Guard or as a Reservist, you can use [Military Leave](#military-leave-2).
 
 You can work with your supervisor to use up to 4 hours of work time pursuing options from the [Employee Assistance Program (EAP)]({% page "/getting-started/classes/benefits/#employee-assistance-program" %}).
 
-If you are running out of leave hours, you can use:
+If you are running out of leave hours, you can request:
 - [Advanced Annual Leave](#advanced-annual-leave)
 - [Advanced Sick Leave](#advanced-sick-leave)
 - Donated hours from the [Voluntary Leave Transfer Program]({% page "/travel-and-leave/voluntary-leave-transfer-program/" %})
@@ -132,7 +132,7 @@ You can receive two weeks (80 hours) of parental bereavement leave for the passi
 OPM Policy:
 * [Parental Bereavement Leave Memorandum](https://chcoc.gov/content/parental-bereavement-leave)
 
-### Taking leave in advance
+### Taking advanced leave
 
 Talk to your supervisor if you need to use advanced leave.
 
@@ -170,7 +170,7 @@ When you are called to jury duty, your absence is marked as Court Leave and does
 
 You would also request court leave if you are asked to serve as a witness in a judicial proceeding to which the Federal government, a state government, or a local government is a party.
 
-You can receive Court Leave for however long you serve on a jury. To report Court Leave, follow the typical steps for Entering a leave request in HR Links.
+You can receive Court Leave for however long you serve on a jury. To report Court Leave, follow the typical steps for [Entering a leave request in HR Links]({% page "/tools/hrlinks/#absence-requests-for-paid-leave-2" %}).
 
 OPM Fact Sheet:
 * [Court Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/court-leave/)
