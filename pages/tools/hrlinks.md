@@ -12,7 +12,7 @@ keywords: timesheet report, timesheet,
 
 [HR Links](https://hrlinks.gsa.gov/) is where you can access:
 
-* [Timesheet submission](#submitting-your-timesheet) (to record if you worked)  
+* [Timesheet submission](#submitting-your-timesheet)  
 * [Leave requests](#using-leave)
 * Base schedule  
 * Qualifying life events  
@@ -64,7 +64,7 @@ You can submit one leave request if you are taking off full days and they are al
 - Your leave days are not back-to-back  
 - You are taking off on back-to-back days, but they are partial days with a different number of leave hours each day.
 
-#### Editing and canceling a leave request*
+#### Editing and canceling a leave request
 
 Edit an absence request when you want to change the number of hours you want to take leave for. Cancel an absence request when you no longer wish to use any leave for any of the days.
 
@@ -74,7 +74,7 @@ Refer to the InSite user guide about [editing](https://drive.google.com/file/d/1
 
 Creating an absence request that overlaps with another request you previously canceled can create an error in HR Links.
 
-If you see an error that says The Start and End Dates of your absence are overlapping with an existing absence. Please modify your Start/or End Date, edit your canceled request on the Absence Requests link.
+If you see an error that says **The Start and End Dates of your absence are overlapping with an existing absence. Please modify your Start/or End Date**, edit your canceled request on the Absence Requests section.
 
 If you run into issues, reach out to {% slack_channel "people-ops" %}.
 
@@ -100,7 +100,7 @@ If you need to change a timesheet from a past pay period, you’ll need to [amen
 
 #### Requesting advanced annual or sick leave in HR Links
 
-You will enter your annual leave requests like normal: there is not a special category. HR Links will display an error message on your timesheet. When your supervisor goes into the system to approve your timesheet, it is their responsibility to make a remark in the comment box noting their approval of advanced leave.
+You will enter your leave requests like normal: there is not a special category. HR Links will display an error message on your timesheet. When your supervisor goes into the system to approve your timesheet, it is their responsibility to make a remark in the comment box noting their approval of advanced leave. Please ensure you have approval for [advanced sick leave]({% page "/travel-and-leave/advanced-sick-leave/" %}) prior to entering the hours in HR Links.
 
 ##### For term employees
 
@@ -160,7 +160,7 @@ If you are in a Bargaining Unit (aka a union), your [Workforce Relations HR Spec
 
 1. Click on the **View My Employment Information** tile.  
 2. Navigate to the **Employment Data 2** tab.  
-3. If it says **Bargaining Unit: 8888 - Ineligible for Inclusion**, you are *not* in a Bargaining Unit.
+3. If it says **Bargaining Unit: 8888 - Ineligible for Inclusion**, or **7777 - Eligible But Not In A Bargaining Unit**, you are *not* in a Bargaining Unit.
 
 ### FLSA exemption status
 
