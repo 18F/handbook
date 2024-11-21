@@ -30,7 +30,7 @@ The blank form will first be sent to you to complete. Once you complete and sign
 
 ## Docusign FAQ
 
-You can find answers to many of your questions in the [DocuSign FAQ document](https://docs.google.com/document/d/1iCusrjgJdhFO539cCer5y45AUTvtrRCWs7U4j_Oomn8/edit#heading=h.9f70doya0ldv). If you don’t find what you’re looking for, please submit a ticket in the Self-Service Portal.
+You can find answers to many of your questions in the [DocuSign FAQ document](https://docs.google.com/document/d/1iCusrjgJdhFO539cCer5y45AUTvtrRCWs7U4j_Oomn8/edit?tab=t.0). If you don’t find what you’re looking for, please submit a ticket in the Self-Service Portal.
 
 ### Submitting a Docusign issue ticket
 
