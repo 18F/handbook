@@ -31,7 +31,7 @@ There is usually a medical documentation requirement.
 
 ## How FMLA works
 
-You can use 12 unpaid weeks of FMLA every year. The 12 weeks are rolling, and are refilled a year to the day you first went on FMLA status.
+You can use 12 unpaid weeks of FMLA every 52 weeks. The 12 weeks are rolling, and are refilled a year to the day you first went on FMLA status.
 
 Each time you use FMLA, it counts toward the 12 week/480 hour allotment. 
 
@@ -39,7 +39,7 @@ Each time you use FMLA, it counts toward the 12 week/480 hour allotment.
 
 ### Use Paid Parental Leave before FMLA
 
-You have to be eligible for FMLA to receive Paid Parental Leave (PPL). PPL is how GSA implements FMLA for parental leave. This means you must have at least one year of federal service to use PPL. If you are a new federal employee, check out the [recommendations for those who have less than 1 year of federal service](https://docs.google.com/document/d/1I82lrWKkJX\_t7DocCYkbZSLFpHLLP\_HlwXWLgzzLFXk/edit\#).
+You have to be eligible for FMLA to receive Paid Parental Leave (PPL). PPL is how the federal government implements FMLA for parental leave. This means you must have at least one year of federal service to use PPL. If you are a new federal employee, check out the [recommendations for those who have less than 1 year of federal service](https://docs.google.com/document/d/1I82lrWKkJX\_t7DocCYkbZSLFpHLLP\_HlwXWLgzzLFXk/edit\#).
 
 You should not use FMLA prior to PPL, because it reduces the number of PPL hours you can receive. If you max out 12 weeks of PPL, that uses up all the FMLA you can use for the year.
 
