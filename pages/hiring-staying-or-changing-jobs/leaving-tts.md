@@ -65,6 +65,11 @@ supervisor that they've worked under for 120 days.
 - You may be entitled to
   [unemployment insurance](https://oui.doleta.gov/unemploy/unemcomp.asp) if you
   lose your job, as long as it's not due to misconduct. The amount is small.
+- If you are retiring, review the following resources:
+  - [Entering Retirement FAQ](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/retirement/entering-retirement/entering-retirement-faqs)
+  - [Retirement Specialists](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/benefits/benefits-and-retirement-specialists)
+  - [Retirement Forms](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/retirement/entering-retirement/retirement-forms?term=retirement)
+
 
 If you have any questions, please email the GSA HR Benefits Contact found in the
 [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
