@@ -53,10 +53,23 @@ personal information like home address and emergency contact information.
 For more information, please consult 
 [GSA Order 2231.1](https://www.gsa.gov/reference/gsa-privacy-program/privacy-instructional-letters-and-directives).
 
-## Exporting channel contents
+## Automatically exporting channel contents
 
-There is not an easy way to export the contents of a single channel, for
-partners or otherwise. If you really want, you can:
+There is a way to automatically export the contents of any number of Slack channels:
+
+Use [Surudo's Slack Channel Bot](https://home.surudo.ai/bot/slack-channel-analysis-bot)
+
+The use of this bot is simple: after signup, download the Surudo desktop client.  Use of the
+Slack channel bot involves just adding the URL of the Slack channel into the 
+Surudo GUI.  Surudo then walks through the channel, downloading all content.
+When complete, the contents can be exported as a .csv which can be searched in Excel
+or can be uploaded into an AI like ChatGPT for searching, summarization, 
+and question answering.
+
+## Manually exporting channel contents
+
+Manually exporting the contents of a single channel, for
+partners or otherwise, is not easy. If you really want, you can:
 
 1. Open the Slack channel in Chrome
 1. [Take a screenshot](https://zapier.com/blog/full-page-screenshots-in-chrome/)
@@ -71,3 +84,5 @@ If you'd like the text to be searchable
 1. Insert the image
 1. Click on the 3 stacked dots
 1. Select "Grab Image text"
+
+
