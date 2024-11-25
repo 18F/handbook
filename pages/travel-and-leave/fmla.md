@@ -27,7 +27,7 @@ You can take up to 26 weeks of unpaid FMLA to care for an ill servicemember or v
 
 To be eligible for FMLA, you must have at least one year of federal service. Note that most veterans are immediately eligible. 
 
-There is usually a medical documentation requirement.
+Medical documentation to support your request is required.
 
 ## How FMLA works
 
