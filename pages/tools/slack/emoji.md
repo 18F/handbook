@@ -32,8 +32,8 @@ To start the process to create a custom emoji:
    as to test other Slack features). Using a link to the image somewhere else on
    the web often makes it difficult, if not impossible, for our Slack admins. Confirm that any gif is under 128KB. 
 2. Open {% slack_channel "emoji-showcase" %} in Slack.
-3. Under the name of the channel at the top, there's a dropdown with a folder icon labeled "Workflows." Click on that tab, and click the play button next to "Request new emoji" (subtitled "Custom Emoji Request") — its hover state says Start workflow.
-4. Fill out the two-item form. First, the name you'd like for the new emoji (in the format :name-here: since spaces aren't allowed and the colons are helpful). Second, paste the direct URL of the image within Slack, and click Submit.
+3. A green button called "Request new emoji" should be at the bottom of the channel contents: click that. Or, under the name of the channel at the top, there's a tab with a lightning bolt icon labeled "Workflows." You can hover over that, and click the play button next to "Request new emoji" (subtitled "Custom Emoji Request"). 
+4. Fill out the two-item form. First, the name you'd like for the new emoji (in the format :name-here: since spaces aren't allowed and the colons are helpful). For the second field, paste the direct URL of the image within Slack, and click Submit.
 
 {% image "_img/request-new-emoji-form.png" "Request new emoji form" %}
 
