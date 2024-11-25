@@ -282,8 +282,8 @@ project you are traveling for:
 - _Billable projects:_ for 18F and CoE, include the exact name and number of the
   project as it appears in [Tock](https://tock.18f.gov/projects). For PIF
   billable travel, simply indicate the project is billable.
-- _All other projects:_ include the name of the team budget that is paying for
-  this travel (a list of options is in cell C5 of the
+- _All other projects:_ the fiscal year, division/organization name, and name of the event
+  must be listed (i.e. FY25 18F KubeCon); (a list of options for the division/organization name is in cell C5 of the
   [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
 
 **\*Note:** If you are traveling for multiple projects (whether billable or
@@ -300,8 +300,13 @@ Examples:
 - `NONBILLABLE: Cloud Adoption CoE`
 
 **Type Code:** "SINGLE TRIP". **Trip Purpose:** “Mission (Operational)” in most
-cases, unless attending a conference or training. **Document detail:** Brief
-summary of the purpose of the trip. **Will this travel be a detail to another
+cases, unless attending a conference or training. 
+
+**Document detail:** Brief summary of the purpose of the trip. You 
+must also include the URL to the Salesforce Event Tracker record for trips
+requested via the events process.
+
+**Will this travel be a detail to another
 location?** No.
 
 2. Proceed by clicking **Next** to finalize the reservation.
