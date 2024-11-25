@@ -37,11 +37,11 @@ Each time you use FMLA, it counts toward the 12 week/480 hour allotment.
 
 * For example: you went on FMLA for 4 weeks in March 2022 to care for a seriously ill family member, and you used your accrued Sick Leave in order to be paid during those 4 weeks. You will only have 8 weeks of FMLA available until March 2023\.
 
-### Use Paid Parental Leave before FMLA
+### Paid Parental Leave and FMLA
 
 You have to be eligible for FMLA to receive Paid Parental Leave (PPL). PPL is how the federal government implements FMLA for parental leave. This means you must have at least one year of federal service to use PPL. If you are a new federal employee, check out the [recommendations for those who have less than 1 year of federal service](https://docs.google.com/document/d/1I82lrWKkJX\_t7DocCYkbZSLFpHLLP\_HlwXWLgzzLFXk/edit\#).
 
-You should not use FMLA prior to PPL, because it reduces the number of PPL hours you can receive. If you max out 12 weeks of PPL, that uses up all the FMLA you can use for the year.
+If you use FMLA prior to PPL, it reduces the number of PPL hours you can receive (and vice versa). If you max out 12 weeks of PPL, that uses up all the FMLA you can use for the next 52 weeks.
 
 ### FMLA for caregiving and health reasons
 
