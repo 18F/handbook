@@ -17,7 +17,7 @@ TTS has paid parental leave (PPL) for the birth or placement (adoption or foster
 * You need to be approved for PPL before being able to use it.
 * You will need to sign an agreement, stating that you will return to work for at least 12 weeks after your final day on PPL. 
   * The 12 week agreement is in place regardless of how many weeks of PPL you take. If you take PPL intermittently, the 12 week period still begins after your *final* day of PPL, even if you have been working in between periods of PPL.
-* GSA implements PPL via Family and Medical Leave Act (FMLA) leave. If you previously used FMLA within the past 12 months of your parental leave period, those hours would be subtracted from the 12 weeks you can take for PPL.
+* GSA implements PPL via [Family and Medical Leave Act (FMLA)]({% page "travel-and-leave/fmla" %}) leave. If you previously used FMLA within the past 12 months of your parental leave period, those hours would be subtracted from the 12 weeks you can take for PPL.
 
 ## Using PPL
 
