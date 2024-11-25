@@ -522,7 +522,7 @@ information on TSP, please refer to the
 [TSP Insite page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/benefits/thrift-savings-plan?term=tsp).
 
 You will update TSP directly in [HR
-Links]({% page "/travel-and-leave/leave/#logging-into-hr-links" %}) by following
+Links]({% page "/tools/hrlinks/" %}) by following
 this
 [visual guide](https://drive.google.com/file/d/1BOSDKYnCFWKRiVfyaGs6W-JDLuxlZ7iL/view?usp=sharing)
 or these steps:
