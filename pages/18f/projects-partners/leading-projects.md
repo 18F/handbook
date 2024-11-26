@@ -98,9 +98,9 @@ happening.
 ### Beginning of Project
 
 - Facilitate creation of a
-  [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing),
+  [team charter](https://docs.google.com/document/d/1ncvqtxU9dPAVa3hWu1SxN2Mvqt5y8FzFFtZJz6_988E),
   including how decisions will be made and how the team will navigate
-  disagreement. (Non-18F folks may be interested in our [charter template](./downloads/TEMPLATE_Team_charter.docx)).
+  disagreement. Non-18F folks may be interested in our [team charter template]({% download "downloads/TEMPLATE_Team_charter.docx" %}).
 - Identify stakeholder accessibility needs for project work (in collaboration
   tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time,
@@ -111,9 +111,9 @@ happening.
 - Facilitate identification of project management tracking tools
 - Facilitate identification of how administrative tasks will be rotated
 - Create and maintain a
-  [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing)
+  [Project Readme](https://docs.google.com/document/d/1kZvT7K6YPAjp6ETR_nlgCycmJyb-5r4-hViRvN6sAbY/)
   in the project’s Drive folder (Account Manager will establish project folder).
-  (Non-18F folks may be interested in our [README template](./downloads/TEMPLATE_Project_README.docx)).
+  Non-18F folks may be interested in our [README template]({% download "downloads/TEMPLATE_Project_README.docx" %}).
 
 ### Ongoing
 
