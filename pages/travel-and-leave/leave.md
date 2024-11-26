@@ -30,7 +30,7 @@ Other medical reasons:
 
 * When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
 * [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave  
-* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl) for veterans with a service-related disability
+* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl-2) for veterans with a service-related disability
 
 For **bereavement**, you can use:
 
