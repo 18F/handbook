@@ -87,7 +87,7 @@ See [Benefits]({% page "/benefits" %}) for more details about Employee Express.
 ## HR Links
 
 <a href="https://hrlinks.gsa.gov/">HR Links</a> is what you'll
-use to [request and document leave]({% page "/leave/" %}) (sick, annual,
+use to [request and document leave]({% page "/tools/hrlinks/" %}) (sick, annual,
 bereavement, and more) as well as access your personnel file (your salary, your
 GS level, your supervisor, your past performance rating(s), and information
 about health insurance plan).

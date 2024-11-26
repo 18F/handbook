@@ -97,10 +97,9 @@ happening.
 
 ### Beginning of Project
 
+- Hold an [internal kickoff](https://docs.google.com/document/d/1xrbD7lBar4fTaU9T33AD1xv8v5Yb-grmLms3CNWTMvs/) ([download]({% download "downloads/TEMPLATE_Internal_kickoff_agenda.docx" %})).
 - Facilitate creation of a
-  [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing),
-  including how decisions will be made and how the team will navigate
-  disagreement. (Non-18F folks may be interested in our [charter template](./downloads/TEMPLATE_Team_charter.docx)).
+  [team charter](https://docs.google.com/document/d/1ncvqtxU9dPAVa3hWu1SxN2Mvqt5y8FzFFtZJz6_988E) ([download]({% download "downloads/TEMPLATE_Team_charter.docx" %})).
 - Identify stakeholder accessibility needs for project work (in collaboration
   tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time,
@@ -111,9 +110,7 @@ happening.
 - Facilitate identification of project management tracking tools
 - Facilitate identification of how administrative tasks will be rotated
 - Create and maintain a
-  [Project Readme](https://docs.google.com/document/d/1_vL462nws0l1WXMTyTdWcmU2GyjHzF88dHvnLIvYeq4/edit?usp=sharing)
-  in the project’s Drive folder (Account Manager will establish project folder).
-  (Non-18F folks may be interested in our [README template](./downloads/TEMPLATE_Project_README.docx)).
+  [Project README](https://docs.google.com/document/d/1kZvT7K6YPAjp6ETR_nlgCycmJyb-5r4-hViRvN6sAbY/) ([download]({% download "downloads/TEMPLATE_Project_README.docx" %})).
 
 ### Ongoing
 
@@ -133,10 +130,11 @@ happening.
 - Ensure that
   [project impact](https://docs.google.com/document/d/1XHYJ8MTauUnwX7pDwcb8Pw0H2CftRDekJFa0CV6kanY/edit?usp=sharing)
   metrics are gathered throughout the project
+- Track and mitigate risks throughout the project, using the [risk tracker template](https://docs.google.com/spreadsheets/d/1KHX8dSPvYQ9w4Dy4Y2K50TkHRDA9H8Z76p001ulJuJY) ([download]({% download "downloads/TEMPLATE_Risk_tracker.xlsx" %})).
 - Weekly:
   - Meet with account manager
   - Monitor project burn doc with account manager
-  - Compile and post a Weekly Ship; send to partner and post in
+  - Compile and post a Weekly Ship. Use the [weekly ship template](https://docs.google.com/document/d/19VyjU7JdIRkmQ_XuEYn7RZr1WVzxVyrWolwx0VtlsWE) ([download]({% download "downloads/TEMPLATE_Weekly_ship_template.docx" %})). Send to partner and post in
     {% slack_channel "the-shipping-news" %}
 - Every two weeks: Conduct an internal team retrospective
 - Ensure midpoint and other higher-profile presentations are rehearsed or
@@ -144,8 +142,7 @@ happening.
 - Work with account manager and staffing team when project team identifies a
   need for a shift in staffing
 - Onboard new team members to the project, as needed, including revisiting
-  [team charter](https://docs.google.com/document/d/1N_EtkfGGdvyIfsxblSjKo5m4UI82mAkPNmyMcoZhS2g/edit?usp=sharing)
-  with full team
+  team charter with full team.
 - Periodically: Check in on equitable distribution of administrative tasks among
   team members: re-balance as necessary
 - Add to and organize the project’s Drive folder

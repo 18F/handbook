@@ -102,21 +102,23 @@ primary:
     blurb: |
       Learn about types of leave and how to request it.
     children:
-      - text: Leave (HR Links)
+      - text: Leave types
         url: travel-and-leave/leave/
         internal: true
       - text: Out of office expectations
-        url: travel-and-leave/leave/#leave-checklist
+        url: travel-and-leave/going-out-of-office/
         internal: true
       - text: Overtime, comp time, and credit hours
         url: travel-and-leave/overtime/
         internal: true
       - text: Paid parental leave
-        url: travel-and-leave/leave/#paid-parental-leave
+        url: travel-and-leave/paid-parental-leave/
         internal: true
       - text: Voluntary Leave Transfer Program (VLTP)
         url: travel-and-leave/voluntary-leave-transfer-program/
         internal: true
+      - text: HR Links
+        url: tools/hrlinks/
   - text: Supervisor resources
     href: /#supervisor-resources
     main-file-path: /supervisor-resources/
@@ -618,7 +620,7 @@ primary:
           - text: Analytics
             url: analytics/
             internal: true
-          - text: DocuSign (digital signatures; replaced eSign)
+          - text: Docusign (digital signatures)
             url: digital-signatures/
             internal: true
           - text: Eventbrite
