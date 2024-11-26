@@ -123,7 +123,7 @@ To include a file for download in your Handbook page, you must use the `download
 
 #### Arguments
 
-- **file path**: The location of your file in the Handbook source code, relative to the source code base directory. For convenience, there is already a`downloads` directory you can use.
+- **file path**: The location of your file in the Handbook source code, relative to the source code base directory. For convenience, there is already a `downloads` directory you can use.
 
 **Returns** the URL to a downloadable file.
 
