@@ -119,21 +119,17 @@ elements or as additional emphasis on the text. {% endcapture %}
 
 ## Downloadable files
 
-If you need to include a file for download in your Handbook page, you can use
-the `download` shortcode.
+To include a file for download in your Handbook page, you must use the `download` shortcode.
 
 #### Arguments
 
-- **file path**: The location of your file in the Handbook source code, relative
-  to the source code base directory. For convenience, there is already a
-  `downloads` directory you can use.
+- **file path**: The location of your file in the Handbook source code, relative to the source code base directory. For convenience, there is already a`downloads` directory you can use.
 
-**Returns** the URL to the downloadable file.
+**Returns** the URL to a downloadable file.
 
 #### Example:
 
-If you put a file called `my-form.pdf` in the `downloads` directory, you can
-make that file available for download and get the URL to it this way:
+If you have a file called `my-form.pdf` in the `downloads` directory, you need to use this shortcode to make the file available for download:
 
 ```
 {% raw %}[download link]
@@ -142,7 +138,7 @@ make that file available for download and get the URL to it this way:
 %}){% endraw %}
 ```
 
-Which would produce a link like this:
+Produces a link like this:
 
 [download link]({% download "downloads/my-form.pdf" %})
 
