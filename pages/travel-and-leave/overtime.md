@@ -14,7 +14,7 @@ questions:
 
 You will need supervisor approval before working extra hours. Generally, do not expect to work extra hours unless you’re working on a high-profile project.
 
-You will need to [manually request these hours in HR Links]({% page "/tools/hrlinks/#entering-the-extra-hours-you-will-be-working-2" %}) before [using them]({% page "/tools/hrlinks/#using-the-hours-you-ve-earned-2" %}). 
+You will need to [manually request these hours in HR Links]({% page "/tools/hrlinks/#entering-the-extra-hours-you-will-be-working" %}) before [using them]({% page "/tools/hrlinks/#using-the-hours-you-ve-earned" %}). 
 
 ## Overtime and Compensatory (Comp) time
 
@@ -25,7 +25,7 @@ Your ability to use these options depends on your [salary level](https://www.opm
 
 ### Overtime, depending on your salary level
 
-Overtime is when you are paid for extra hours that you are required to work. The amount of overtime pay you receive depends on your GS- level and [FLSA exemption status]({% page "/tools/hrlinks/#flsa-exemption-status-2" %}).
+Overtime is when you are paid for extra hours that you are required to work. The amount of overtime pay you receive depends on your GS- level and [FLSA exemption status]({% page "/tools/hrlinks/#flsa-exemption-status" %}).
 
 Your total pay (including overtime) cannot exceed the maximum salary at GSA, which is $191,900 as of 2024. This is GS-15, step 10, including any applicable special salary rate or locality rate of pay.
 

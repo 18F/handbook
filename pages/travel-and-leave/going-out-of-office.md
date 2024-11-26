@@ -5,7 +5,7 @@ tags:
 ---
 ## Your overall responsibilities
 
-You must report to work or have an approved [leave request in HR Links]({% page "/tools/hrlinks/#using-leave" %}), every scheduled work day. You are also responsible for [submitting your timesheet]({% page "/tools/hrlinks/#submitting-your-timesheet-2" %}) at the end of every pay period.
+You must report to work or have an approved [leave request in HR Links]({% page "/tools/hrlinks/#using-leave" %}), every scheduled work day. You are also responsible for [submitting your timesheet]({% page "/tools/hrlinks/#submitting-your-timesheet" %}) at the end of every pay period.
 
 You should submit leave requests at least three business days in advance, and make timely edits if your plans change.
 

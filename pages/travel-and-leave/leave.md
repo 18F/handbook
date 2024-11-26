@@ -30,7 +30,7 @@ Other medical reasons:
 
 * When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
 * [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave  
-* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl-2) for veterans with a service-related disability
+* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl) for veterans with a service-related disability
 
 For **bereavement**, you can use:
 
@@ -40,15 +40,15 @@ For **bereavement**, you can use:
 
 For **birth, adoption or placement of a new child**, you can use [paid parental leave]({% page "/travel-and-leave/paid-parental-leave/" %}). You can also use annual and sick leave for parental leave reasons. 
 
-For **religious observances**, you can [request an adjustment to your work schedule]({% page "/travel-and-leave/overtime//#religious-comp-time-for-everyone-2" %}) for religious observances, instead of taking leave.
+For **religious observances**, you can [request an adjustment to your work schedule]({% page "/travel-and-leave/overtime//#religious-comp-time-for-everyone" %}) for religious observances, instead of taking leave.
 
 To [**vote**](#voting-and-poll-volunteering), register to vote, participate in early voting, or volunteering as a poll worker, you can use Administrative Leave.
 
-For **jury duty** and other court-related leave, use [Court Leave](#court-leave-jury-duty-2).
+For **jury duty** and other court-related leave, use [Court Leave](#court-leave-jury-duty).
 
 If you can’t work or stay in your home for [weather or safety reasons](#weather-and-safety), you can request Administrative Leave.
 
-When going on **active duty**, active duty training, and inactive duty training in the National Guard or as a Reservist, you can use [Military Leave](#military-leave-2).
+When going on **active duty**, active duty training, and inactive duty training in the National Guard or as a Reservist, you can use [Military Leave](#military-leave).
 
 You can work with your supervisor to use up to 4 hours of work time pursuing options from the [Employee Assistance Program (EAP)]({% page "/getting-started/classes/benefits/#employee-assistance-program" %}).
 
@@ -93,7 +93,7 @@ You can receive a maximum of 80 hours of award leave in a single fiscal year. If
 
 Award leave expires one year after it is issued. You must use it by the end of the pay period in which the expiration date falls. Expired award leave cannot be recovered \- please monitor your leave balances and consider using award leave first. If you leave TTS, award leave is not paid out.
 
-You can check the [amount of Award leave you have in HR Links]({% page "/tools/hrlinks/#award-leave-expiration-2" %}). You may receive an automated email reminder from HR Links 3 months before your leave expires, even if you have already used it.
+You can check the [amount of Award leave you have in HR Links]({% page "/tools/hrlinks/#award-leave-expiration" %}). You may receive an automated email reminder from HR Links 3 months before your leave expires, even if you have already used it.
 
 OPM Policy:
 * [Time-Off Awards](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/rewarding/time-off-awards/)
@@ -158,11 +158,11 @@ If you have a personal or family medical emergency and have exhausted your earne
 
 ### Family Medical Leave Act (FMLA)
 
-If you need more than 13 sick days at once to care for a loved one, you can apply for Family Medical Leave Act (FMLA) status. Refer to the [FMLA page]({% page "travel-and-leave/fmla/" %}) for more, including [applying for FMLA]({% page "/travel-and-leave/fmla/#applying-for-fmla-2" %}).
+If you need more than 13 sick days at once to care for a loved one, you can apply for Family Medical Leave Act (FMLA) status. Refer to the [FMLA page]({% page "travel-and-leave/fmla/" %}) for more, including [applying for FMLA]({% page "/travel-and-leave/fmla/#applying-for-fmla" %}).
 
 ### Paid Parental Leave
 
-You are entitled to 12 weeks of paid time off for the birth, adoption or placement of a new child. It can be taken all at once or intermittently. Refer to the [Paid Parental Leave page]({% page "travel-and-leave/paid-parental-leave/" %}) for more information, including [requesting PPL]({% page "travel-and-leave/paid-parental-leave/#requesting-paid-parental-leave-2" %}).
+You are entitled to 12 weeks of paid time off for the birth, adoption or placement of a new child. It can be taken all at once or intermittently. Refer to the [Paid Parental Leave page]({% page "travel-and-leave/paid-parental-leave/" %}) for more information, including [requesting PPL]({% page "travel-and-leave/paid-parental-leave/#requesting-paid-parental-leave" %}).
 
 ### Court leave (jury duty)
 
@@ -170,7 +170,7 @@ When you are called to jury duty, your absence is marked as Court Leave and does
 
 You would also request court leave if you are asked to serve as a witness in a judicial proceeding to which the Federal government, a state government, or a local government is a party.
 
-You can receive Court Leave for however long you serve on a jury. To report Court Leave, follow the typical steps for [Entering a leave request in HR Links]({% page "/tools/hrlinks/#absence-requests-for-paid-leave-2" %}).
+You can receive Court Leave for however long you serve on a jury. To report Court Leave, follow the typical steps for [Entering a leave request in HR Links]({% page "/tools/hrlinks/#absence-requests-for-paid-leave" %}).
 
 OPM Fact Sheet:
 * [Court Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/court-leave/)
