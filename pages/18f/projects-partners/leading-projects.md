@@ -136,7 +136,7 @@ happening.
 - Weekly:
   - Meet with account manager
   - Monitor project burn doc with account manager
-  - Compile and post a Weekly Ship; send to partner and post in
+  - Compile and post a Weekly Ship. Use the [weekly ship template](https://docs.google.com/document/d/19VyjU7JdIRkmQ_XuEYn7RZr1WVzxVyrWolwx0VtlsWE) ([External version]({% download "downloads/TEMPLATE_Weekly_ship_template.docx" %})). Send to partner and post in
     {% slack_channel "the-shipping-news" %}
 - Every two weeks: Conduct an internal team retrospective
 - Ensure midpoint and other higher-profile presentations are rehearsed or
