@@ -97,6 +97,7 @@ happening.
 
 ### Beginning of Project
 
+- Hold an [internal kickoff](https://docs.google.com/document/d/1xrbD7lBar4fTaU9T33AD1xv8v5Yb-grmLms3CNWTMvs/). ([Download template here.]({% download "downloads/TEMPLATE_Internal_kickoff_agenda.docx" %}))
 - Facilitate creation of a
   [team charter](https://docs.google.com/document/d/1ncvqtxU9dPAVa3hWu1SxN2Mvqt5y8FzFFtZJz6_988E),
   including how decisions will be made and how the team will navigate
@@ -133,10 +134,11 @@ happening.
 - Ensure that
   [project impact](https://docs.google.com/document/d/1XHYJ8MTauUnwX7pDwcb8Pw0H2CftRDekJFa0CV6kanY/edit?usp=sharing)
   metrics are gathered throughout the project
+- Track and mitigate risks throughout the project, using the [risk tracker template](https://docs.google.com/spreadsheets/d/1KHX8dSPvYQ9w4Dy4Y2K50TkHRDA9H8Z76p001ulJuJY). ([Download template here.]({% download "downloads/TEMPLATE_Risk_tracker.xlsx" %}))
 - Weekly:
   - Meet with account manager
   - Monitor project burn doc with account manager
-  - Compile and post a Weekly Ship. Use the [weekly ship template](https://docs.google.com/document/d/19VyjU7JdIRkmQ_XuEYn7RZr1WVzxVyrWolwx0VtlsWE). ([Download here.]({% download "downloads/TEMPLATE_Weekly_ship_template.docx" %})) Send to partner and post in
+  - Compile and post a Weekly Ship. Use the [weekly ship template](https://docs.google.com/document/d/19VyjU7JdIRkmQ_XuEYn7RZr1WVzxVyrWolwx0VtlsWE). ([Download template here.]({% download "downloads/TEMPLATE_Weekly_ship_template.docx" %})) Send to partner and post in
     {% slack_channel "the-shipping-news" %}
 - Every two weeks: Conduct an internal team retrospective
 - Ensure midpoint and other higher-profile presentations are rehearsed or
