@@ -13,7 +13,7 @@
     "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation && npm run test:spelling",
     "test:html-validation": "html-validate _site/**/*.html",
     "test:internal-links": "node check-links.js",
-    "test:prefixed-links": "! (grep -Erl \"\\(/|href=['\\\"]/\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
+    "test:prefixed-links": "! (grep -Erl \"\\]\\(/|href=['\\\"]/\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
     "test:spelling": "cspell --config ./cSpell.json \"pages/**/*.md\" --no-progress"
   },
   "author": "",
