@@ -213,9 +213,6 @@ primary:
     children:
       - text: Who we are
         children:
-          - text: Staff directory
-            url: https://docs.google.com/spreadsheets/d/1pt68FCytthwhwBiXzrC78mCl4G_pG8QtyzlyfsyGsP4/edit#gid=655713658
-            internal: false
           - text: General contacts
             url: general-contacts/
             internal: true
