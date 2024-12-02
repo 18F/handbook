@@ -32,43 +32,7 @@ date: git Last Modified
     
     {% include "header.html" %}
 
-      <div class="usa-layout-docs usa-layout-docs__main usa-prose">
-      <div class="usa-section">
-        <div class="grid-container">
-          {% if sidebar %}
-            <div class="grid-row grid-gap">
-            {% include "sidenav.html" %}
-          {% endif %}
-          {% if page.inputPath == './pages/index.html' %} 
-            <div class="grid-row grid-gap flex-align-start">
-          {% else %}
-            <div class="usa-in-page-nav-container {% if sidebar %}tablet:grid-col-9{% endif %}">
-          {% endif %}
-            {{ content }}
-          </div>
-
-          {% if questions %}
-            <h2 id="questions">Questions?</h2>
-            <ul>
-              {% for contact in questions %}
-              <li>
-                {% if contact contains "@" %}
-                  <a href="mailto:{{contact}}">{{contact}}</a>
-                {% elsif contact.text %}
-                  <a href="{{contact.url}}">{{contact.text}}</a>
-                {% else %}
-                  {% slack_channel contact %}
-                {% endif %}
-              </li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </div>
-        {% if sidebar %}
-      </div>
-        {% endif %}
-      </div>
-    </div>
+    {{ content }}
 
     {% include "footer.html" %}
     {% include "usa-identifier.html" %}

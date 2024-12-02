@@ -8,36 +8,75 @@ want other kinds of pages with the same base setup (banner, header, search,
 footer, etc.).
 {% endcomment %}
 
-{% if page.inputPath == './pages/index.html' %} 
-  <main id="main-content" class="usa-prose usa-prose__home">
-{% else %}
-  {% assign words = content | split: " "%}
-  {% if words.size > site.inpagenavwordcount %}
-  <aside
-  class="usa-in-page-nav"
-  data-title-text="On this page"
-  data-title-heading-level="h3"
-  data-scroll-offset="0"
-  data-root-margin="0px 0px 0px 0px"
-  data-threshold="1"
-  ></aside>
-  {% endif %}
-  <main id="main-content" class="usa-prose">
-{% endif %}
 
-  {% if title %}
-    {% if subtitle %}<p class="font-sans-lg">{{ subtitle }}</p>
-    <h1 class="margin-top-1" data-page-title>{{ title }}</h1>
-    {% else %}
-    <h1 data-page-title>{{ title }}</h1>
+<div class="usa-layout-docs usa-layout-docs__main usa-prose">
+  <div class="usa-section">
+    <div class="grid-container">
+      {% if sidebar %}
+        <div class="grid-row grid-gap">
+        {% include "sidenav.html" %}
+      {% endif %}
+      {% if page.inputPath == './pages/index.html' %} 
+        <div class="grid-row grid-gap flex-align-start">
+      {% else %}
+        <div class="usa-in-page-nav-container {% if sidebar %}tablet:grid-col-9{% endif %}">
+      {% endif %}
+      {% if page.inputPath == './pages/index.html' %} 
+        <main id="main-content" class="usa-prose usa-prose__home">
+      {% else %}
+        {% assign words = content | split: " "%}
+        {% if words.size > site.inpagenavwordcount %}
+          <aside
+            class="usa-in-page-nav"
+            data-title-text="On this page"
+            data-title-heading-level="h3"
+            data-scroll-offset="0"
+            data-root-margin="0px 0px 0px 0px"
+            data-threshold="1">
+          </aside>
+        {% endif %}
+        <main id="main-content" class="usa-prose">
+      {% endif %}
+
+      {% if title %}
+        {% if subtitle %}
+          <p class="font-sans-lg">{{ subtitle }}</p>
+          <h1 class="margin-top-1" data-page-title>{{ title }}</h1>
+        {% else %}
+          <h1 data-page-title>{{ title }}</h1>
+        {% endif %}
+      {% endif %}
+
+      {% include "page-outdated.html" %}
+
+      {{ content }}
+
+      {% if words.size > site.inpagenavwordcount %}
+        <a href="#top" class="float-right">Return to the top of the page ^</a>
+      {% endif%}
+      </main>
+
+      </div>
+
+      {% if questions %}
+        <h2 id="questions">Questions?</h2>
+        <ul>
+          {% for contact in questions %}
+          <li>
+            {% if contact contains "@" %}
+              <a href="mailto:{{contact}}">{{contact}}</a>
+            {% elsif contact.text %}
+              <a href="{{contact.url}}">{{contact.text}}</a>
+            {% else %}
+              {% slack_channel contact %}
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    {% if sidebar %}
+  </div>
     {% endif %}
-  {% endif %}
-
-  {% include "page-outdated.html" %}
-
-  {{ content }}
-  {% if words.size > site.inpagenavwordcount %}
-  
-  <a href="#top" class="float-right">Return to the top of the page ^</a>
-  {% endif%}
-</main>
+  </div>
+</div>
