@@ -45,7 +45,5 @@
     "html-validate": "^7.16.0",
     "prettier": "^2.8.8"
   },
-  "prettier": {
-    "proseWrap": "always"
-  }
+  "prettier": {}
 }
