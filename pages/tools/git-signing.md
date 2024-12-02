@@ -31,7 +31,7 @@ commit signing.
 ## Create your keys
 
 Cryptographically signing your commits requires creating a pair of keys. One of
-them is your private key, and you mustkeep it secret. Think of it much like a
+them is your private key, and you must keep it secret. Think of it much like a
 password – only you should ever have access to it. Anyone with this private key
 can sign with your identity, so protect it! The other key is your public key,
 and it may be shared widely. In fact, in order to verify your signed commits,
