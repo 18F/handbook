@@ -23,7 +23,7 @@ We also strongly recommend
 to manage your signing keys. [KeePassXC]({% link "https://keepassxc.org/" %})
 is approved for use at GSA and it fully supports managing keys.
 
-If you only use GitHub from the web interface, you do not need to configuring
+If you only use GitHub from the web interface, you do not need to configure
 signing because the web interface automatically signs your work for you. If you
 do any work with git repos on your local computer, however, you need to setup
 commit signing.
@@ -31,18 +31,29 @@ commit signing.
 ## Create your keys
 
 Cryptographically signing your commits requires creating a pair of keys. One of
-them is your private key, and you are obligated to keep it secret. Think of it
-much like a password – only you should ever have access to it. Anyone with this
-private key can sign with your identity, so protect it! The other key is your
-public key, and it may be shared widely. In fact, in order to verify your signed
-commits, others will need access to your public key.
+them is your private key, and you mustkeep it secret. Think of it much like a
+password – only you should ever have access to it. Anyone with this private key
+can sign with your identity, so protect it! The other key is your public key,
+and it may be shared widely. In fact, in order to verify your signed commits,
+others will need access to your public key.
 
 Open a terminal window and enter the following command, substituting your own
 email address:
 
 ```sh
-ssh-keygen -C "[YOUR EMAIL]@gsa.gov"
+ssh-keygen  -t ed25519 -C "[YOUR EMAIL]@gsa.gov"
 ```
+
+{%
+  include "alert.html"
+    level: "info"
+    heading: "Cyrptographic algorithm"
+    content: "We recommend using the ED25519 algorithm, a particular
+      configuration of the EdDSA algorithm family. This is stronger than the
+      default DSA family. This algorithm may not be appropriate for all cases,
+      however, as it is newer and is not as widely supported yet. git and GitHub
+      both support the ED25519 algorithm."
+%}
 
 You will be asked where to save the key.
 
@@ -63,14 +74,6 @@ Next you will be asked to provide a password for your key file.
   have to confirm the password. This step protects your key in the event that a
   bad actor obtains it – they won't be able to use it without the password.
 
-## Backup your private key in Google Drive
-
-If you are not using a password manager, you can copy the keys to Google Drive
-as a backup. However, you need to also keep the files on your computer. If you
-are using a password manager, be sure to periodically backup your password
-database to [Google Drive]({% page "tools/google-drive/" %}). This will
-automatically include your signing keys.
-
 ## Setup your keys for use
 
 ### Using KeePassXC
@@ -78,7 +81,7 @@ automatically include your signing keys.
 #### Setup KeePassXC to manage your SSH keys
 
 Open KeePassXC and open the settings (`⌘+,` on macOS, or the settings are
-locatedunder Tools -> SSH Agent in Keepass for Windows) and click the button on
+located under Tools -> SSH Agent in Keepass for Windows) and click the button on
 the left sidebar that says "SSH Agent." Ensure the "Enable SSH Agent
 integration" checkbox is checked, then click the OK button at the bottom.
 
@@ -135,9 +138,9 @@ every time you create a new git commit.
 ## Configure git to sign commits
 
 By default, git uses a format called GPG for commit signing. However, GPG keys
-are more cumbersome to create and manage, so we recommend SSH keys, which is
-what you created in the previous steps. We must tell git to use SSH keys instead
-of GPG keys. In a terminal, enter this command:
+are more difficult to create and manage, so we recommend SSH keys, which is what
+you created in the previous steps. We must tell git to use SSH keys instead of
+GPG keys. In a terminal, enter this command:
 
 ```sh
 git config --global gpg.format ssh
