@@ -1,9 +1,6 @@
 ---
 title: Git commit signing
-tag:
-  - git
-  - signing
-  - ssh
+keywords: git, signing, ssh
 questions:
   - admins-github
   - dev
