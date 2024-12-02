@@ -15,12 +15,13 @@ cryptographic signature is a strong indication that that the work was authored
 by the person claiming to have authored it and that it has not been changed
 since they authored it. GitHub repositories throughout TTS are monitored by a
 configuration-management tool called
-[Allstar]({%link "https://github.com/GSA-TTS/.allstar" %}). If your team's
+[Allstar]({%link "https://github.com/18F/.allstar" %}). If your team's
 repository is managed by Allstar, it will _require_ commit signing.
 
-We also strongly recommend using a password manager to manager your signing
-keys. [KeePassXC]({% link "https://keepassxc.org/" %}) is approved for use at
-GSA and it fully supports managing keys.
+We also strongly recommend
+[using a password manager]({% page "general-information-and-resources/tech-policies/password-requirements/#1-use-a-password-manager" %})
+to manage your signing keys. [KeePassXC]({% link "https://keepassxc.org/" %})
+is approved for use at GSA and it fully supports managing keys.
 
 If you only use GitHub from the web interface, you do not need to configuring
 signing because the web interface automatically signs your work for you. If you
@@ -36,10 +37,11 @@ private key can sign with your identity, so protect it! The other key is your
 public key, and it may be shared widely. In fact, in order to verify your signed
 commits, others will need access to your public key.
 
-Open a terminal window and enter the following command:
+Open a terminal window and enter the following command, substituting your own
+email address:
 
 ```sh
-ssh-keygen -C "your-email@gsa.gov"
+ssh-keygen -C "[YOUR EMAIL]@gsa.gov"
 ```
 
 You will be asked where to save the key.
@@ -66,7 +68,8 @@ Next you will be asked to provide a password for your key file.
 If you are not using a password manager, you can copy the keys to Google Drive
 as a backup. However, you need to also keep the files on your computer. If you
 are using a password manager, be sure to periodically backup your password
-database to Google Drive. This will automatically include your signing keys.
+database to [Google Drive]({% page "tools/google-drive/" %}). This will
+automatically include your signing keys.
 
 ## Setup your keys for use
 
@@ -74,7 +77,8 @@ database to Google Drive. This will automatically include your signing keys.
 
 #### Setup KeePassXC to manage your SSH keys
 
-Open KeePassXC and open the settings (`⌘+,` on macOS) and click the button on
+Open KeePassXC and open the settings (`⌘+,` on macOS, or the settings are
+locatedunder Tools -> SSH Agent in Keepass for Windows) and click the button on
 the left sidebar that says "SSH Agent." Ensure the "Enable SSH Agent
 integration" checkbox is checked, then click the OK button at the bottom.
 
@@ -188,18 +192,18 @@ Before git will accept your key to sign a commit, the key must be listed in an
 
 [Copy your public
 key]({% page "tools/git-signing#copy-your-key-from-keepassxc" %}) again, if
-necessary. Then enter this command in your terminal:
+necessary. Then enter this command in your terminal, using your own email address:
 
 ```sh
-echo "your-email@gsa.gov [PASTE]" >> ~/.gitsigners
+echo "[YOUR EMAIL]@gsa.gov [PASTE]" >> ~/.gitsigners
 ```
 
 #### Manually
 
-Enter this command in your terminal:
+Enter this command in your terminal, using your own email address:
 
 ```sh
-echo "your-email@gsa.gov $(cat ~/.ssh/git-signing-key.pub)" >> ~/.gitsigners
+echo "[YOUR EMAIL]@gsa.gov $(cat ~/.ssh/git-signing-key.pub)" >> ~/.gitsigners
 ```
 
 ## Tell GitHub about your key
