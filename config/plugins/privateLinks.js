@@ -22,6 +22,7 @@ const privateUrlSlugs = [
   "github.com/18F/staffing",
   "github.com/18F/team-api.18f.gov",
   "github.com/18F/writing-lab",
+  "github.com/18F/.allstar",
   "gkey.gsa.gov",
   "gsa-tts.slack.com",
   "gsa.my.salesforce.com",
