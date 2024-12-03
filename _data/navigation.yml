@@ -367,7 +367,7 @@ primary:
                 internal: true
           - text: Market Development and Partnerships
             children:
-              - text: Overview of Market Development and Partnerships  
+              - text: Overview of Market Development and Partnerships
                 url: office-of-operations/market-dev-and-partnerships/
                 internal: true
           - text: Talent team
