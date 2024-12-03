@@ -3,8 +3,10 @@ https://designsystem.digital.gov/components/alert/
 level: the severity of the alert (default info)
 heading: heading of the alert
 content: markdown body of the alert
+no_icon: set to true if omitting icon
+slim: set to true if slim style
 {% endcomment %}
-<div class="usa-alert usa-alert--{{ level | default: 'info' }}">
+<div class="usa-alert usa-alert--{{ level | default: 'info' }} {% if no_icon %}usa-alert--no-icon{% endif %} {% if slim %}usa-alert--slim{% endif %}">
   <div class="usa-alert__body">
     {% if heading %}<h3 class="usa-alert__heading">{{ heading | escape }}</h3>{% endif %}
     {% if content %}<div class="usa-alert__text">{{ content | default: '' | render }}</div>{% endif %}
