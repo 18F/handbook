@@ -1,0 +1,137 @@
+---
+layout: layouts/base
+---
+
+{% comment %}
+This is the handbook layout. It can be used for a section of the handbook which stands
+alone as its own handbook.
+{% endcomment %}
+
+<header class="usa-header usa-header--extended usa-section--light">
+  <div class="usa-navbar">
+    <div class="usa-logo">
+      <em class="usa-logo__text">
+        <a href="/{{ handbook_url }}">
+          {{ handbook_title | default: "Set handbook_title variable with section title" }}
+        </a>
+      </em>
+    </div>
+    <button type="button" class="usa-menu-btn">Menu</button>
+  </div>
+
+  <nav aria-label="Section navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button type="button" class="usa-nav__close">
+        {% uswds_icon "close" %}
+      </button>
+
+      <ul class="usa-nav__primary usa-accordion">
+        {% for item in navigation[handbook_nav] %}
+          {% if item.children %}
+            <li class="usa-nav__primary-item">
+              <button
+                type="button"
+                class="usa-accordion__button usa-nav__link {% usa_current item.main-file-path page.inputPath %}"
+                aria-expanded="false"
+                aria-controls="extended-nav-section-{{ item.text | slugify }}"
+              >
+                <span>{{ item.text }}</span>
+              </button>
+              {% assign subitemsSize = item.children.size %}
+              {% if item.sub %}
+                <div id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu usa-megamenu">
+                  <div class="grid-row grid-gap-4">
+                    {% include "usa-nav__usa-col-subnav.html" item:item %}
+
+                    {% for condensedItem in navigation[handbook_nav] %}
+                      {% if condensedItem.topnavcondense == item.text %}
+                        {% include "usa-nav__usa-col-subnav.html" item:condensedItem %}
+                      {% endif %}
+                    {% endfor %}
+                  </div>
+                </div>
+              {% else %}
+                <ul id="extended-nav-section-{{ item.text | slugify }}" class="usa-nav__submenu">
+                {% for index in (1..subitemsSize) %}
+                  {% if item.children[forloop.index0].url %}
+                    <li class="usa-nav__submenu-item">
+                      {% assign suburl = item.children[forloop.index0].url %}
+                      <a href="{% link suburl %}"><span>{{ item.children[forloop.index0].text }}</span></a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% else %}
+            <li class="usa-nav__primary-item">
+              <a href="{% link item.url %}" class="usa-nav-link"><span>{{ item.text }}</span></a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<div class="usa-layout-docs usa-layout-docs__main usa-prose">
+  <div class="usa-section">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        {% if sidenav %}{% include "sidenav.html" %}{% endif %}
+
+        <div class="usa-in-page-nav-container {% if sidenav %}tablet:grid-col-9{% endif %}">
+          {% assign words = content | split: " "%}
+          {% if words.size > site.inpagenavwordcount %}
+            <aside
+              class="usa-in-page-nav"
+              data-title-text="On this page"
+              data-title-heading-level="h3"
+              data-scroll-offset="0"
+              data-root-margin="0px 0px 0px 0px"
+              data-threshold="1">
+            </aside>
+          {% endif %}
+
+          <main id="main-content" class="usa-prose">
+
+            {% if title %}
+              {% if subtitle %}
+                <p class="font-sans-lg">{{ subtitle }}</p>
+                <h1 class="margin-top-1" data-page-title>{{ title }}</h1>
+              {% else %}
+                <h1 data-page-title>{{ title }}</h1>
+              {% endif %}
+              <span class="usa-hint">Page last modified {{ page.date | date: "%B %e, %Y" }}.</span>
+            {% endif %}
+
+            {% include "page-outdated.html" %}
+
+            {{ content }}
+
+            {% if words.size > site.inpagenavwordcount %}
+              <a href="#top" class="float-right">Return to the top of the page ^</a>
+            {% endif%}
+          </main>
+        </div>
+
+        {% if questions %}
+          <h2 id="questions">Questions?</h2>
+          <ul>
+            {% for contact in questions %}
+            <li>
+              {% if contact contains "@" %}
+                <a href="mailto:{{contact}}">{{contact}}</a>
+              {% elsif contact.text %}
+                <a href="{{contact.url}}">{{contact.text}}</a>
+              {% else %}
+                {% slack_channel contact %}
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

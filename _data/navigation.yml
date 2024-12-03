@@ -705,3 +705,13 @@ updating-the-handbook:
     url: updating-the-handbook/shortcodes/
   - text: Components
     url: updating-the-handbook/components/
+
+ttsc-handbook:
+  - text: About TTS Consulting
+    url: about-us/tts-consulting/
+    main-file-path: /about-us/tts-consulting/
+    children:
+    - text: Mission, history, and approach
+      url: about-us/tts-consulting/mission/
+    - text: Strategic goals and success measures
+      url: about-us/tts-consulting/planning/
