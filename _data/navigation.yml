@@ -708,10 +708,29 @@ updating-the-handbook:
 
 ttsc-handbook:
   - text: About TTS Consulting
-    url: about-us/tts-consulting/
-    main-file-path: /about-us/tts-consulting/
+    main-file-path: /about-us/tts-consulting/about/
     children:
-    - text: Mission, history, and approach
-      url: about-us/tts-consulting/mission/
-    - text: Strategic goals and success measures
-      url: about-us/tts-consulting/planning/
+      - text: Mission, history, and approach
+        url: about-us/tts-consulting/about/mission/
+      - text: Strategic goals and success measures
+        url: about-us/tts-consulting/about/planning/
+      - text: Terminology and glossaries
+        url: about-us/tts-consulting/about/glossary/
+      - text: Compliance with laws and regulations
+        url: about-us/tts-consulting/about/regulations/
+      - text: Organization structure and leadership
+        url: about-us/tts-consulting/about/org-chart/
+      - text: Conduct and norms
+        url: about-us/tts-consulting/about/conduct-and-norms/
+  - text: Engagements
+    main-file-path: /about-us/tts-consulting/engagements/
+    children:
+      - text: Roles and responsibilities
+        url: /about-us/tts-consulting/engagements/roles-and-responsibilities/
+  - text: Operations
+    main-file-path: /about-us/tts-consulting/operations/
+    children:
+      - text: Onboarding new staff
+        url: about-us/tts-consulting/operations/onboarding/
+      - text: Tracking your time and Tock
+        url: about-us/tts-consulting/operations/time-tracking/
