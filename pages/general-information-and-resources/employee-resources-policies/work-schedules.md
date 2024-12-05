@@ -101,7 +101,7 @@ For example:
 
 
 ##### Maxiflex
-- Same as Variable Week, but you only work 9 days instead of 10 days per pay period. 
+- Same as Variable Week, but you may work fewer than 10 days per pay period. 
 
 For example:
 |**Day**   |**Hours** | **Day**  |**Hours** | 
