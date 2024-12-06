@@ -138,7 +138,7 @@ Talk to your supervisor if you need to use advanced leave.
 
 #### Advanced annual leave
 
-You can only take advanced annual leave in the amount that you would earn back by the end of the current [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/). TTS has an [Annual Leave Calculator](https://docs.google.com/spreadsheets/d/15iEWRsP2n0Im30bfMVW_L-sHwRgCs6jMdHxgoIQcseg/edit#gid=1453802911) that you can use for this calculation.
+You can only take advanced annual leave in the amount that you would earn back by the end of the current [leave year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/). TTS has a [Leave Calculator](https://docs.google.com/spreadsheets/d/1u36OseyOmmFF7RiXgs15QTrYoyrf4rWziBTxPwOfUcg/edit?gid=2117738946#gid=2117738946) that you can use for this calculation.
 
 For example: It is June 19th, 2022, and the [2022 Leave Year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/) ends on December 31st. You [earn 4 annual leave hours per pay period](#annual-leave) and there are 14 pay periods left until December 31st. You will earn 56 more annual leave hours (14 pay periods x 4 hours per pay period). Therefore, you can request up to 56 advanced annual leave hours.
 
