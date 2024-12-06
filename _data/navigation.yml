@@ -402,104 +402,118 @@ primary:
           - text: Contractors
             url: contractors/
             internal: true
-      - text: 18F
+      - text: TTS Consulting
+        url: about-us/tts-consulting/
+        main-file-path: /about-us/tts-consulting/
+        use_section_menu: true
         children:
-          - text: About 18F
+          - text: About TTS Consulting
+            main-file-path: /about-us/tts-consulting/about/
             children:
-              - text: 18F history and values
-                url: 18f-history-and-values/
-                internal: true
-              - text: 18F org chart
-                url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
-                internal: false
-          - text: How we work
+              - text: Mission, history, and approach
+                url: about-us/tts-consulting/about/mission/
+              - text: Organization structure and leadership
+                url: about-us/tts-consulting/about/org-chart/
+              - text: Strategic goals and success measures
+                url: about-us/tts-consulting/about/planning/
+              - text: Internal communications
+                url: about-us/tts-consulting/about/internal-communications/
+              - text: Conduct and norms
+                url: about-us/tts-consulting/about/conduct-and-norms/
+              - text: Laws and regulations
+                url: about-us/tts-consulting/about/regulations/
+              - text: Performance and supervision
+                url: about-us/tts-consulting/about/supervisor-responsibilities/
+              - text: Engagement roles and responsibilities
+                url: about-us/tts-consulting/about/roles-and-responsibilities/
+              - text: Financial management
+                url: about-us/tts-consulting/about/financial-management/
+          - text: How do I…
+            main-file-path: /about-us/tts-consulting/how-do-i/
             children:
-              - text: Time tracking and billing
-                url: tools/tock/#time-tracking-and-billing
-                internal: true
-              - text: High-level project lifecycle
-                url: 18f-project-lifecycle/
-                internal: true
-              - text: How we staff projects
-                url: staffing-projects/
-                internal: true
-              - text: Account management policy
-                url: client-accounts/
-                internal: true
-              - text: One-on-ones
-                url: one-on-ones/
-                internal: true
-              - text: Performance plan (FY22)
-                url: https://docs.google.com/document/d/1456ZSIOf6Pp6rcNCdKd82dwXOYv1sARxAwbVytxRXls
-                internal: false
-              - text: Open source policy
-                url: https://github.com/18F/open-source-policy/blob/master/policy.md
-                internal: false
-              - text: State and local agreements
-                url: state-local-agreements/
-                internal: true
-          - text: 18F projects
+              - text: Onboarding new staff
+                url: about-us/tts-consulting/how-do-i/onboarding/
+              - text: Tracking your time with Tock
+                url: about-us/tts-consulting/how-do-i/time-tracking/
+              - text: Organizing files and records
+                url: about-us/tts-consulting/how-do-i/records/
+              - text: Training and professional development
+                url: about-us/tts-consulting/how-do-i/training/
+              - text: Getting help with work and maintenance tasks
+                url: about-us/tts-consulting/how-do-i/getting-help/
+          - text: Engagements
+            subnav-alt: Approach
+            main-file-path: /about-us/tts-consulting/engagements/
+            sub:
+              - Engagement activities
+              - Engagement strategy
+              - Engagement operations
             children:
-              - text: 18F business development
-                url: 18f-bd/
-                internal: true
-              - text: Consulting with partners
-                url: how-we-relate-to-partners/
-                internal: true
-              - text: Working with partners
-                url: how-we-collaborate/
-                internal: true
-              - text: Sharing calendars with partners
-                url: sharedcalendars/
-                internal: true
-              - text: Leading projects
-                url: leading-projects/
-                internal: true
-              - text: Successful project teams
-                url: project-teams/
-                internal: true
-              - text: Managing projects in distress
-                url: projects-in-distress/
-                internal: true
-              - text: Working on an acquisition engagement
-                url: working-on-an-acquisition-engagement/
-                internal: true
-                children:
-                  - text: Acquisition engagement types
-                    url: acquisition-engagement-types/
-                    internal: true
-                  - text: Acquisition engagement glossary
-                    url: 18f/projects-partners/working-on-an-acquisition-engagement/#acquisition-glossary
-                    internal: true
-          - text: 18F chapters
+              - text: Engagement overview
+                url: about-us/tts-consulting/engagements/overview/
+              - text: Starting and managing partner relationships
+                url: about-us/tts-consulting/engagements/partner-relationship/
+              - text: Teaching partners
+                url: about-us/tts-consulting/engagements/teaching/
+              - text: Measuring engagement impact
+                url: about-us/tts-consulting/engagements/impact/
+              - text: Sharing our work
+                url: about-us/tts-consulting/engagements/sharing/
+          - text: Engagement activities
+            subnav-alt: Activities
+            topnavcondense: Engagements
             children:
-              - text: Account management
-                url: account-manager/
-                internal: true
-              - text: Acquisition
-                url: acqstack/
-                internal: true
-              - text: Design
-                url: design/
-                internal: true
-              - text: Engineering
-                url: engineering/
-                internal: true
-              - text: Product
-                url: product/
-                internal: true
-          - text: 18F team resources
+              - text: Kickoffs
+                url: about-us/tts-consulting/engagements/kickoffs/
+              - text: Conducting research and synthesizing findings
+                url: about-us/tts-consulting/engagements/research/
+              - text: Writing recommendations
+                url: about-us/tts-consulting/engagements/recommendations/
+              - text: Creating demos, presentations, and reports
+                url: about-us/tts-consulting/engagements/deliverables/
+              - text: Running acquisitions
+                url: about-us/tts-consulting/engagements/acquisitions/
+              - text: Building products and websites
+                url: about-us/tts-consulting/engagements/building-software/
+              - text: Launching products and websites
+                url: about-us/tts-consulting/engagements/launching-software/
+          - text: Engagement strategy
+            subnav-alt: Strategy
+            topnavcondense: Engagements
             children:
-              - text: Leadership selection guide
-                url: leadership-selection/
-              - text: Leadership candidate guide
-                url: leadership-candidate-guide/
-              - text: Doing research at 18F
-                url: research-guidelines/
-                internal: true
-              - text: Accessing DoD systems
-                url: accessing-dod-systems/
-                internal: true
+              - text: Tracking progress and risks
+                url: about-us/tts-consulting/engagements/progress-and-risks/
+              - text: Planning for transition
+                url: about-us/tts-consulting/engagements/transition/
+              - text: Managing blockers, escalations, and adjustments
+                url: about-us/tts-consulting/engagements/escalations/
+          - text: Engagement operations
+            subnav-alt: Operations
+            topnavcondense: Engagements
+            children:
+              - text: Project management overview
+                url: about-us/tts-consulting/engagements/project-management/
+              - text: Partnerships and business development
+                url: about-us/tts-consulting/engagements/business-development/
+              - text: Agreements and SOWs
+                url: about-us/tts-consulting/engagements/agreements/
+              - text: Setting up or closing down an engagement
+                url: about-us/tts-consulting/engagements/setup-teardown/
+              - text: Managing finances
+                url: about-us/tts-consulting/engagements/finances/
+              - text: Assigning federal staff and managing contractors
+                url: about-us/tts-consulting/engagements/staffing-and-contractors/
+              - text: Sharing files and collaborating
+                url: about-us/tts-consulting/engagements/collaboration/
+          - text: Shared resources
+            main-file-path: /about-us/tts-consulting/resources/
+            children:
+              - text: Brand
+                url: about-us/tts-consulting/resources/brand/
+              - text: Terminology and glossaries
+                url: about-us/tts-consulting/resources/glossary/
+              - text: Managing shared resources
+                url: about-us/tts-consulting/resources/management/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions
@@ -536,14 +550,6 @@ primary:
               - text: 10x
                 url: https://10x.gsa.gov
                 internal: false
-      - text: Centers of Excellence (CoE)
-        children:
-          - text: Overview of CoE
-            url: centers-of-excellence/
-            internal: true
-          - text: CoE website
-            url: https://coe.gsa.gov/
-            internal: false
       - text: Presidential Innovation Fellows (PIF)
         children:
           - text: PIF website
@@ -705,32 +711,3 @@ updating-the-handbook:
     url: updating-the-handbook/shortcodes/
   - text: Components
     url: updating-the-handbook/components/
-
-ttsc-handbook:
-  - text: About TTS Consulting
-    main-file-path: /about-us/tts-consulting/about/
-    children:
-      - text: Mission, history, and approach
-        url: about-us/tts-consulting/about/mission/
-      - text: Strategic goals and success measures
-        url: about-us/tts-consulting/about/planning/
-      - text: Terminology and glossaries
-        url: about-us/tts-consulting/about/glossary/
-      - text: Compliance with laws and regulations
-        url: about-us/tts-consulting/about/regulations/
-      - text: Organization structure and leadership
-        url: about-us/tts-consulting/about/org-chart/
-      - text: Conduct and norms
-        url: about-us/tts-consulting/about/conduct-and-norms/
-  - text: Engagements
-    main-file-path: /about-us/tts-consulting/engagements/
-    children:
-      - text: Roles and responsibilities
-        url: /about-us/tts-consulting/engagements/roles-and-responsibilities/
-  - text: Operations
-    main-file-path: /about-us/tts-consulting/operations/
-    children:
-      - text: Onboarding new staff
-        url: about-us/tts-consulting/operations/onboarding/
-      - text: Tracking your time and Tock
-        url: about-us/tts-consulting/operations/time-tracking/
