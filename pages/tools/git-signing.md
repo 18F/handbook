@@ -56,6 +56,9 @@ ssh-keygen  -t ed25519 -C "[YOUR EMAIL]@gsa.gov"
 #### 1. Set up KeePassXC to manage your SSH keys
 1. In KeePassXC, open **Settings** (`⌘+,` on macOS, or the settings are located under Tools -> SSH Agent in KeePassXC for Windows).
 2. Click the button on the left sidebar that says **SSH Agent**. Ensure the **Enable SSH Agent integration** checkbox is checked.
+
+  {% image "_img/tools/git-signing/keepassxc-ssh-01.png" %}
+
 3. Click the **OK** button at the bottom.
 
 #### 2. Add your keys to KeePassXC
@@ -67,6 +70,8 @@ ssh-keygen  -t ed25519 -C "[YOUR EMAIL]@gsa.gov"
 3. Scroll down to the section titled **Attachments**. 
 4. Click the **Add** button on the right side, and use the file browser to find the key you created above. Look for the files called `git-signing-key` and `git-signing-key.pub`, and add them both.
 
+  {% image "_img/tools/git-signing/keepassxc-git-signing-01.png" %}
+
 Once you have added the files to KeePassXC, you can delete them from your desktop. You will only be using them from KeePassXC from here onwards.
 
 #### 3. Tell KeePassXC that these are keys
@@ -75,6 +80,9 @@ Once you have added the files to KeePassXC, you can delete them from your deskto
 3. Look for the section labeled **Private key** that includes a drop-down box labeled **Attachment**. 
 3. Click in the drop-down box and select the private key you added as an attachment. The sections below should then populate with information such as "Fingerprint," "Comment," and "Public key." 
   - **IMPORTANT:** Use the _private_ key, the one that is just `git-signing-key`, not the public key!
+
+  {% image "_img/tools/git-signing/keepassxc-git-signing-02.png" %}
+
 4. Click the **OK** button at the bottom to save your entry.
 5. Finally, right-click on your entry and click the option near the bottom of the pop-up menu that says **Add key to SSH Agent**.
 
@@ -125,6 +133,9 @@ git config --global commit.gpgsign true
 3. Find the large text area labeled **Public key**. 
 4. Click on the **Copy to clipboard** button at the bottom to copy the public key. 
   - You will have 10 seconds to paste the key. KeePassXC clears the clipboard after 10 seconds.
+
+  {% image "_img/tools/git-signing/keepassxc-ssh-02.png" %}
+
 5. Back in your terminal window, enter this command:
 
 ```sh
