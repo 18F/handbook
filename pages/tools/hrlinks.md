@@ -101,7 +101,7 @@ If you need to change a timesheet from a past pay period, you’ll need to [amen
 #### Requesting advanced annual or sick leave in HR Links
 
 You will enter your leave requests like normal: there is not a special category. HR Links will display an error message on your timesheet. When your supervisor goes into the system to approve your timesheet, it is their responsibility to make a remark in the comment box noting their approval of advanced leave. Prior to entering the hours in HR Links, please ensure that you:
-- Know the number of hours you can request. [Advanced annual leave]({% page "/travel-and-leave/leave/advanced-annual-leave" %})  and [advanced sick leave]({% page "/travel-and-leave/advanced-sick-leave/" %}) have different rules.
+- Know the number of hours you can request. [Advanced annual leave]({% page "/travel-and-leave/leave/#advanced-annual-leave" %})  and [advanced sick leave]({% page "/travel-and-leave/advanced-sick-leave/" %}) have different rules.
 - Have completed the approval paperwork for [advanced sick leave]({% page "/travel-and-leave/advanced-sick-leave/" %}). Advanced annual leave does not have this additional paperwork.
 
 ##### For term employees
