@@ -11,7 +11,9 @@ The Handbook can be edited locally in any text editor, though [we do have some
 recommendations]({% page "tools/text-editors" %}) based on compliance
 requirements and approvals.
 
-{% include "alert.html" content:"This guide currently assumes a level of familiarity with git and the command line. It does not explain how to use those things and instead simply tells you to do it. If you are looking for a place to contribute to the Handbook, expanding this page could be a good one!" %}
+{% alert %}
+  This guide currently assumes a level of familiarity with git and the command line. It does not explain how to use those things and instead simply tells you to do it. If you are looking for a place to contribute to the Handbook, expanding this page could be a good one!
+{% endalert %}
 
 After you have cloned the Handbook repo to your local computer, open it in the
 text editor of your choice. From there, you can make changes as described in the

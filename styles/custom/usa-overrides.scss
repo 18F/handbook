@@ -30,3 +30,13 @@ h1.margin-top-1 {
 .usa-prose > ul li, .usa-prose > ol li {
   max-width:80ex;
 }
+
+.usa-alert__text {
+  :first-child {
+    margin-top: 0;
+  }
+
+  :last-child {
+    margin-bottom: 0;
+  }
+}

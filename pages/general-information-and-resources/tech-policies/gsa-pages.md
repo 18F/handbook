@@ -9,7 +9,9 @@ redirect_from:
 ---
 # Authority to Use (ATU) Process
 
-{% include "alert.html" level:"warning" content: "This guide is for **GSA Employees or Contractors** operating a GSA Website" %}
+{% alert "", "warning" %}
+  This guide is for **GSA Employees or Contractors** operating a GSA Website
+{% endalert %}
 
 "GSA Pages" is a **GSA only Authority to Operate (ATO)** of [cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the source code and contents for the website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a web presence for your projects/programs.
 
@@ -18,7 +20,7 @@ redirect_from:
   - if not listed, [complete a new website request](https://touchpoints.app.cloud.gov/admin/websites/new)
 - Follow [GSA's Digital Lifecycle Program Guide](https://insite.gsa.gov/employee-resources/communications/websites/strategy-policy-and-standards/digital-lifecycle-program)
 
-Prior to standing up a site with GSA Pages, you will need a domain or subdomain. To obtain a new domain or subdomain with GSA, approval is needed by GSA Leadership and Office of Customer Experience in Touchpoints. 
+Prior to standing up a site with GSA Pages, you will need a domain or subdomain. To obtain a new domain or subdomain with GSA, approval is needed by GSA Leadership and Office of Customer Experience in Touchpoints.
 
 ## Launching a cloud.gov Pages Website
 

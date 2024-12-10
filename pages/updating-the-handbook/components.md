@@ -20,36 +20,6 @@ certain kinds of information in a consistent way. To use them, you will use the
 `{{ "{%include%}" }}` directive to indicate which component you want and to give
 it the information it needs.
 
-## Alert
-
-The Handbook alert component is a convenience wrapper around the
-[USWDS Alert component](https://designsystem.digital.gov/components/alert/).
-
-- Name: `alert.html`
-- Arguments:
-  - `level` - the alert level. Allowed values are `info`, `warning`, `error`,
-    `success`, or `info`. If not provided, defaults to `info`.
-  - `heading` - the alert heading or title. If omitted, no heading is shown.
-  - `content` - the body of the alert. If omitted, no body is shown.
-
-**Example**:
-
-```
-{% raw %}{% include "alert.html"
-  level:"warning"
-  heading:"Example"
-  content:"Oh no, an example!"
-%}{% endraw %}
-```
-
-{% include "alert.html"
-  level:"warning"
-  heading:"Example"
-  content:"Oh no, an example!"
-%}
-
----
-
 ## FISMA low banner
 
 This component simply lets page visitors know that a system being described is

@@ -4,23 +4,20 @@ keywords: overtime, comp time, credit hours, compensatory time off, religious co
 questions:
   - people-ops
 ---
-<div class="usa-alert usa-alert--info">
-  <div class="usa-alert__body">
-    <p class="usa-alert__text">
-      Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> to see what you can use your hours for.
-    </p>
-  </div>
-</div>
+
+{% alert %}
+  Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> to see what you can use your hours for.
+{% endalert %}
 
 You will need supervisor approval before working extra hours. Generally, do not expect to work extra hours unless you’re working on a high-profile project.
 
-You will need to [manually request these hours in HR Links]({% page "/tools/hrlinks/#entering-the-extra-hours-you-will-be-working" %}) before [using them]({% page "/tools/hrlinks/#using-the-hours-you-ve-earned" %}). 
+You will need to [manually request these hours in HR Links]({% page "/tools/hrlinks/#entering-the-extra-hours-you-will-be-working" %}) before [using them]({% page "/tools/hrlinks/#using-the-hours-you-ve-earned" %}).
 
 ## Overtime and Compensatory (Comp) time
 
 Your ability to use these options depends on your [salary level](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/):
 
-* The amount of overtime or comp time you can receive depends on your salary level. Refer to the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0) to see how much comp time you can earn.  
+* The amount of overtime or comp time you can receive depends on your salary level. Refer to the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0) to see how much comp time you can earn.
 * If you make the maximum salary ($191,900 in 2024), you cannot receive overtime or comp time. You can only be compensated with credit hours on a flexible schedule.
 
 ### Overtime, depending on your salary level
@@ -63,7 +60,7 @@ You are on a [Gliding schedule](https://handbook.tts.gsa.gov/general-information
 
 [Per OPM guidance](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/adjustment-of-work-schedules-for-religious-observances/), you can request an adjustment to your work schedule for religious observances, instead of using annual leave. In HR Links, this is treated as another kind of comp time.
 
-Email your supervisor about the extra hours you plan to work before a religious observance. 
+Email your supervisor about the extra hours you plan to work before a religious observance.
 
 ## Travel comp time, for everyone
 
@@ -77,7 +74,7 @@ Refer to OPM’s [Travel Comp Time Fact Sheet](https://www.opm.gov/policy-data-o
 
 Traveling during your regular work hours is considered regular hours, including traveling to the airport from your home.
 
-Generally, travel comp time is used as a “gap filler” when you are traveling outside of your regular work hours during a regular work day, but not officially “performing work.” 
+Generally, travel comp time is used as a “gap filler” when you are traveling outside of your regular work hours during a regular work day, but not officially “performing work.”
 
 For further details, current GSA employees can refer to the [Compensation for Government Travel slidedeck](https://drive.google.com/file/d/1RFSq_4KdMza_pkcHGp9Hy2RNR2ryLs0b/view?usp=sharing) to determine the breakdown of your hours. Please contact your Timekeeper or an HR Specialist at your agency if you have questions.
 
@@ -87,8 +84,8 @@ For calculating travel comp time hours, travel ends when you check in at the hot
 
 To accurately report travel time, we recommend keeping a log of:
 
-* When you departed your home and arrived at the airport  
-* When your flights actually departed and arrived  
+* When you departed your home and arrived at the airport
+* When your flights actually departed and arrived
 * When you left the destination airport and arrived at your hotel
 
 ### Using travel comp time

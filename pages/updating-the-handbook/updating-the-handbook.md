@@ -13,7 +13,9 @@ broken, you're allowed and encouraged to submit a fix! This guide is meant to he
 get started and provide documentation for the Handbook's various components and
 utilities that make editing easier.
 
-{% include "alert.html" content: "There is no dedicated staff for Handbook maintenance. Maintenance is done by TTS staff who are interested and have time to help." %}
+{% alert %}
+  There is no dedicated staff for Handbook maintenance. Maintenance is done by TTS staff who are interested and have time to help.
+{% endalert %}
 
 ### Disclaimers and cautions
 
@@ -50,8 +52,8 @@ There is also some information that should **not** be included in the Handbook:
       instead of reproducing it.
     - Specific TTS org chart info (such as lists of names of supervisors and
       facilitators). Link to the
-      [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the 
-      [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the 
+      [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the
+      [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the
       [Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/)
       instead.
 
@@ -108,12 +110,9 @@ unfamiliar with Markdown, the
 basics. If you already know Markdown and just want to brush up on the syntax,
 the [CommonMark reference](https://commonmark.org/help/) is a big help.
 
-{% capture markdown_note %}There is no single Markdown standard. It is a general
-set of practices with many different "flavors." Some Markdown behaviors that
-work in GitHub issues, pull requests, or wikis may not work on the Handbook. The
-Handbook uses a "flavor" called [CommonMark](https://spec.commonmark.org/0.30/)
-whereas GitHub uses [GitHub Flavored Markdown](https://github.github.com/gfm/).
-{% endcapture %} {% include "alert.html" content:markdown_note %}
+{% alert %}
+  There is no single Markdown standard. It is a general set of practices with many different "flavors." Some Markdown behaviors that work in GitHub issues, pull requests, or wikis may not work on the Handbook. The Handbook uses a "flavor" called [CommonMark](https://spec.commonmark.org/0.30/) whereas GitHub uses [GitHub Flavored Markdown](https://github.github.com/gfm/).
+{% endalert %}
 
 Find the page you want to update (or create a new one in the `pages` directory)
 and start writing! If you need help, feel free to reach out in
