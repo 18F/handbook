@@ -3,6 +3,7 @@ title: Veteran & service member resources
 questions:
   - people-ops
   - vets
+cSpell: ignore DFAS,DETO
 ---
 Welcome veterans & service members!
 We are glad you decided to continue your service with TTS. 
