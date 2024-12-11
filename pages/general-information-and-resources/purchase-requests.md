@@ -16,11 +16,8 @@ Please click the link below for specific instructions on how to request a
 micropurchase that fits your need:
 
 - [Business cards](#business-cards)
-- [Certificates](#certificates)
-  - SSL, TLS, ECA Certificates
 - [Conferences, events, and
   training]({% page "/conferences-events-training/" %})
-- [Domain renewals](#domain-renewals)
 - [Equipment]({% page "/equipment" %})
 - [Office supplies](#office-supplies)
 - [Services](#services)
@@ -52,32 +49,6 @@ To initiate your request,
 If you want TTS/18F branding, you must purchase your own business cards.
 However, please get a final approval from the TTS Outreach team before placing
 the order.
-
-### Certificates
-
-[General information](https://before-you-ship.18f.gov/infrastructure/certs/)
-
-Purchasing SSL/TLS/ECA certificates fall somewhere between a software request
-and a domain renewal request. There is no ATO required for SSL Certificates,
-however, FITARA approval is still required. To obtain SSL/ECA Certificates, you
-will need to submit the micropurchase request form and follow the instructions.
-You will need to make a copy of this
-[Section 889 Open Market Justification](https://docs.google.com/document/d/1jRMwRi94_O_YJ_0JkvKtRhniitjU2ZMFggXRirL6eOE/edit#heading=h.mw15bdywiu3d),
-fill it out, and attach the link to the
-[micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
-Then, the TTS Tech Operations will review the documentation and work with the
-OCIO to get FITARA approval. Once FITARA approval is obtained, the TTS Tech
-Portfolio will send the micropurchase request through the approval process. Once
-the purchase is approved, the purchase card holder will reach out to you to make
-the purchase.
-
-### Domain renewals
-
-When a dotgov domain is up for renewal, submit a
-[micropurchase request form](https://docs.google.com/forms/d/e/1FAIpQLSd-GoOE9xWWfJvdZNRP3SE7mj5ysI_RfM8brxdG8YpyJV9yKA/viewform).
-After you submit the form, follow the instructions for next steps. If the
-portfolio does not want the domain to be renewed, please reach out to the
-purchase card holder so they can cancel the domain.
 
 ### Office supplies
 
