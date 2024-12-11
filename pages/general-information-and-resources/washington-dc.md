@@ -2,7 +2,7 @@
 title: Washington, D.C.
 redirect_from:
   - /washington-dc/
-cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten
+cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten,Smar,WMATA
 ---
 
 <div class="table-wrapper">
@@ -166,7 +166,7 @@ You will find out the exact location once you arrive at orientation.
 
 The TTS space is in the 6400 wing, sometimes referred to as the infill. 6400
 is the 4th wing on the 6th floor, located between wings 1 and 2. See
-[Once inside GSA](#once-inside-gsa-2) for directions.
+[Once inside GSA](#once-inside-gsa) for directions.
 
 The space is shared with other GSA offices, including PBS and FAS. Most
 workstations are "hot desks" available for use without booking. The space has
