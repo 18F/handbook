@@ -4,10 +4,11 @@ questions:
   - tts-handbook
 ---
 
-{% capture alert_content %} This page is new and currently under development.
-Its content is accurate, but it is lacking important information such as the
-Handbook's governance structure. {% endcapture %}
-{% include "alert.html" heading:"Under development" content:alert_content %}
+{% alert "Under development" %}
+  This page is new and currently under development.
+  Its content is accurate, but it is lacking important information such as the
+  Handbook's governance structure.
+{% endalert %}
 
 In a nutshell, the Handbook is our take on internal government documentation. It
 is an open, crowd-sourced, accessible, and living resource that aims to provide

@@ -1,33 +1,30 @@
 ---
 title: HR Links
-keywords: timesheet report, timesheet, 
+keywords: timesheet report, timesheet,
 ---
-<div class="usa-alert usa-alert--info">
-  <div class="usa-alert__body">
-    <p class="usa-alert__text">
-      Employees can view <a href="https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/tools-and-systems/hr-links-user-guides">HR Links user guides on InSite</a> or the <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> for numerical HR Links codes.
-    </p>
-  </div>
-</div>
+
+{% alert %}
+  Employees can view <a href="https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/tools-and-systems/hr-links-user-guides">HR Links user guides on InSite</a> or the <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> for numerical HR Links codes.
+{% endalert %}
 
 [HR Links](https://hrlinks.gsa.gov/) is where you can access:
 
-* [Timesheet submission](#submitting-your-timesheet)  
+* [Timesheet submission](#submitting-your-timesheet)
 * [Leave requests](#using-leave)
-* Base schedule  
-* Qualifying life events  
-* View benefits  
-* Telework agreements  
-* Performance reviews  
-* Award leave preference  
-* Update your personal information, like address and emergency contacts  
+* Base schedule
+* Qualifying life events
+* View benefits
+* Telework agreements
+* Performance reviews
+* Award leave preference
+* Update your personal information, like address and emergency contacts
 * Change your TSP contributions
 
 Supervisors can also access approvals and employee reports.
 
 ## Submitting your timesheet
 
-You will need to submit a timesheet at the end of each biweekly pay period. Confirm with your supervisor their exact timing expectations, as they also need time to review and approve your timesheet. 
+You will need to submit a timesheet at the end of each biweekly pay period. Confirm with your supervisor their exact timing expectations, as they also need time to review and approve your timesheet.
 
 Submit your timesheet prior to going on leave. If you are out of office for an unplanned emergency, your supervisor is able to submit your timesheet on your behalf.
 
@@ -43,7 +40,7 @@ Notes:
 
 ### Correcting errors
 
-You can make adjustments and resubmit your timesheet. There is no limit on how many times you can resubmit your timesheet. However, you should make all adjustments by the deadline that is set with your supervisor. 
+You can make adjustments and resubmit your timesheet. There is no limit on how many times you can resubmit your timesheet. However, you should make all adjustments by the deadline that is set with your supervisor.
 
 If something needs to be changed after the pay period has closed, discuss it with your supervisor. They will receive HR Links alerts to approve any changes you make to past timesheets/past leave requests.
 
@@ -61,7 +58,7 @@ Refer to the [InSite user guide about creating an absence request](https://drive
 
 You can submit one leave request if you are taking off full days and they are all back-to-back. However, you will need to submit multiple leave requests if:
 
-- Your leave days are not back-to-back  
+- Your leave days are not back-to-back
 - You are taking off on back-to-back days, but they are partial days with a different number of leave hours each day.
 
 #### Editing and canceling a leave request
@@ -137,7 +134,7 @@ There is a [step-by-step guide on adding the hours to your timesheet](https://dr
 
 ### Using the hours you’ve earned
 
-You will submit a [leave request](#absence-requests-for-paid-leave), just like you do for other types of leave. 
+You will submit a [leave request](#absence-requests-for-paid-leave), just like you do for other types of leave.
 
 ## Checking information in HR Links
 
@@ -152,21 +149,21 @@ You will submit a [leave request](#absence-requests-for-paid-leave), just like y
 
 Term employees can use HR Links to find their term end date.
 
-1. Click on the **View My Employment Information** tile.  
-2. Navigate to the **Employment Data 1** tab.  
+1. Click on the **View My Employment Information** tile.
+2. Navigate to the **Employment Data 1** tab.
 3. Refer to **Hire NTE Dt** (Hire not-to-exceed date) for when your term ends.
 
 ### Bargaining status
 
 If you are in a Bargaining Unit (aka a union), your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl) can confirm if non-standard work schedules are available to you, based on your Bargaining Status.
 
-1. Click on the **View My Employment Information** tile.  
-2. Navigate to the **Employment Data 2** tab.  
+1. Click on the **View My Employment Information** tile.
+2. Navigate to the **Employment Data 2** tab.
 3. If it says **Bargaining Unit: 8888 - Ineligible for Inclusion**, or **7777 - Eligible But Not In A Bargaining Unit**, you are *not* in a Bargaining Unit.
 
 ### FLSA exemption status
 
-Your Fair Labor Standards Act (FLSA) exemption status dictates how much overtime pay you can earn, and how you can earn overtime. 
+Your Fair Labor Standards Act (FLSA) exemption status dictates how much overtime pay you can earn, and how you can earn overtime.
 
 To check your status:
 

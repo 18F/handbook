@@ -47,7 +47,9 @@ Will result in this image being displayed:
 
 {% image_with_class "_img/ocelot.png" "usa-input--error" "an ocelot" %}
 
-{% include "alert.html" heading:"Don't forget the alt text!" content:"If your image adds context for sighted users, you should be sure to also include alt text that can be read aloud by screen readers. Alt text is not necessary if your image is purely decorative, such as a logo." level:"warning" %}
+{% alert "Don't forget the alt text!", "warning" %}
+  If your image adds context for sighted users, you should be sure to also include alt text that can be read aloud by screen readers. Alt text is not necessary if your image is purely decorative, such as a logo.
+{% endalert %}
 
 ---
 
@@ -95,6 +97,50 @@ Produces this:
 
 ---
 
+## Alert
+
+The Handbook alert shortcode is a convenience wrapper around the
+[USWDS Alert component](https://designsystem.digital.gov/components/alert/). It takes ordered arguments:
+
+  0. `heading` - The alert heading or title. If omitted, no heading is shown.
+  0. `level` - the alert level. Allowed values are `info`, `warning`, `error`,
+    `success`, or `info`. If not provided, defaults to `info`.
+  0. `content` - the body of the alert. If omitted, no body is shown.
+  0. `slim` - provide if using the slim version of the alert banner.
+  0. `no-icon` - provide if omitting the icon.
+
+**Example**:
+
+```
+{% raw %}{% alert %}
+  A basic alert.
+{% endalert %}
+
+{% alert "Heads up!" %}
+  This is the body of the info alert message, and the heading is above.
+{% endalert %}
+
+{% alert "An error has occurred." "error" "slim" "no-icon" %}
+  This is the body of the error alert message.
+{% endalert %}{% endraw %}
+```
+
+Produces this:
+
+{% alert %}
+  A basic alert.
+{% endalert %}
+
+{% alert "Heads up!" %}
+  This is the body of the info alert message, and the heading is above.
+{% endalert %}
+
+{% alert "An error has occurred." "error" "slim" "no-icon" %}
+  This is the body of the error alert message.
+{% endalert %}
+
+---
+
 ## USWDS Icons
 
 The [US Web Design System](https://designsystem.digital.gov/) includes
@@ -110,10 +156,9 @@ Produces the following icon:
 
 {% uswds_icon "campaign" %}
 
-{% capture alert_content %} Do not use icons in place of textual content. These
-icons do not come with alt text and are not accessible. Use them as decorative
-elements or as additional emphasis on the text. {% endcapture %}
-{% include "alert.html" heading:"Be careful with icons" content:alert_content %}
+{% alert "Be careful with icons" %}
+  Do not use icons in place of textual content. These icons do not come with alt text and are not accessible. Use them as decorative elements or as additional emphasis on the text.
+{% endalert %}
 
 ---
 
