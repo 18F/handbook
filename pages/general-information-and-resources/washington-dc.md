@@ -2,7 +2,7 @@
 title: Washington, D.C.
 redirect_from:
   - /washington-dc/
-cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten
+cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten,Smar,WMATA
 ---
 
 <div class="table-wrapper">
@@ -101,6 +101,11 @@ Line to Farragut West. Exit the Metro on the 18th Street side and walk south on
 18th Street about four blocks to F Street. The main entrance to GSA is located
 at the middle of the building on F Street, between 18th and 19th Street.
 
+If this is your first time visiting D.C., you can create a SmarTrip card ahead of
+time on your phone. See the [WMATA website]
+(https://wmata.com/fares/mobilepay/) for details. Or, get a physical SmarTrip
+card from any Metro station.
+
 ### Parking
 
 There are two parking garages near GSA on 18th Street, one on the right and one
@@ -114,9 +119,9 @@ for the second hour to a full day.
 ### Once inside GSA
 
 TTS is located on the 6th floor, in the 4th wing. When entering from the F
-Street entrance, go straight back once you pass through security. Walk down the 
-hallway towards the back lobby. Right before reaching the end of the hall, take 
-the elevators to your left to the 6th floor. Once exiting the elevator lobby, turn 
+Street entrance, go straight back once you pass through security. Walk down the
+hallway towards the back lobby. Right before reaching the end of the hall, take
+the elevators to your left to the 6th floor. Once exiting the elevator lobby, turn
 right and make your first right towards 6400.
 
 ## How do I...
@@ -157,6 +162,20 @@ building, but the room is just beyond that door.
 The location of onboarding differs based on how many people are coming into GSA.
 You will find out the exact location once you arrive at orientation.
 
+### Work from the office
+
+The TTS space is in the 6400 wing, sometimes referred to as the infill. 6400
+is the 4th wing on the 6th floor, located between wings 1 and 2. See
+[Once inside GSA](#once-inside-gsa) for directions.
+
+The space is shared with other GSA offices, including PBS and FAS. Most
+workstations are "hot desks" available for use without booking. The space has
+monitors compatible with Macs and Windows PCs.
+
+The 6th and 7th floor have a small number of phone booths which may also be
+used without a reservation. The 7400 space also has solo or group working
+areas available without a reservation.
+
 ### Mail something to the office
 
 Send mail to:
@@ -172,22 +191,13 @@ Please note that the building closes at 6 pm, a GSA badge is required for after 
 ### Book rooms for meetings
 
 Use [BookIt](https://bookit.gsa.gov) to reserve rooms. The TTS space is in the
-G100 wing.
-
-- The TTS quiet room is G122B. It is un-reservable and is first-come, first
-  served.
-- The closest reservable team rooms are G123A and G145m.
-
-Avoid booking rooms:
-
-- x3xx rooms---they're really far away from TTS and aren't easily accessible
-- x0xx rooms---they're not as up-to-date as other wings
+6400 wing, so meeting rooms in 6400, 6100, or 6200 are closest.
 
 ### Receive visitors
 
 If you're expecting a small group of US citizens (fewer than 15 or so), no
 advance action is required on your part. Let your guest(s) know to bring ID;
-they'll give your name and the TTS room number (G100) at the security desk.
+they'll give your name and the TTS room number (6400) at the security desk.
 You'll have to escort visitors from security.
 
 If you're expecting a large group, or if the group includes non-US citizens, you
@@ -227,12 +237,20 @@ for other regions for more details.
 
 ### Get on the wireless
 
-The guest wireless network in the building is GSA Guest. The password changes
-monthly. To obtain the current password, type "GSA Wireless" or "guest wifi"
-into any room on Slack and the current password will pop up.
-
 Non-guest wireless access is available using gsa-wireless and authenticating
 using your ENT username (`ENT\username`) and password.
+
+The guest wireless network in the building is GSA Guest. The password changes
+monthly. To obtain the current password, type "GSA Wireless" or "guest wifi"
+into any room on Slack and the current password will pop up. If the password
+is out of date, the current password is available in person from the IT Help
+Desk. See[Get IT help](#get-it-help) for directions.
+
+### Get IT help
+
+The IT Help Desk is located on the first floor in wing 2, near the E St. lobby
+staircase. The IT team may direct you elsewhere in the building for Mac-specific
+questions.
 
 ## Where are the...
 
@@ -240,7 +258,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located around the corner  6140 wing. A
+Gendered bathrooms are located around the corner 6140 wing. A
 single-occupancy, wheelchair-accessible all-gender bathroom is located on the
 third floor in wing three (room 3355).
 
@@ -277,24 +295,17 @@ cluster.
 
 ### Snacks
 
-GSA has a small canteen on the first floor for snacks, yogurts, and coffee.
-Hours are: Monday, 7am-2pm; Tuesday-Thursday, 7am-3pm; Friday, 7am-2pm.
-
-There is a vending machine in the kitchen that is located near 3150.
+Vending machines are located in most kitchenettes. Look for the coffee cup
+symbol on the building maps located in each elevator lobby.
 
 The DC fridge is cleaned out bi-monthly on Fridays (dates are posted on the
 fridge), and all food (including containers) is thrown out.
 
-### Tissues
-
-There is another fund for purchasing boxes of tissues in the winter months. Ask
-in {% slack_channel "dc" %} if you want to contribute.
-
 ### Water
 
-The water cooler is reserved for those who have contributed to the water cooler
-fund. Contact information for joining is on the cooler itself. Please remember
-to bring your own cup. In addition, there are water fountains by the bathrooms.
+Most kitchenettes have filtered water and ice machines available for use.
+Please remember to bring your own cup or water bottle. In addition, there are
+water fountains by the bathrooms.
 
 ## Amenities
 
