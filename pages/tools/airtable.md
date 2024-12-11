@@ -8,6 +8,8 @@ redirect_from:
 
 [Airtable](https://airtable.com/) is a cloud-based tool that allows users to organize their workflow, data, and records in a flexible and visually appealing way without the need for any coding. **Licenses are now available for all TTS employees**. 
 
+{% include "low-system.html" %}
+
 ### How to Request a License 
 
 TTS employees can obtain a free, read-only license by making a request to tts-tech-operations@gsa.gov. Read-only users can view but not edit or comment on anything in the workspace, base, or interface. 
@@ -31,4 +33,3 @@ Tech Operations serves as the enterprise admins and can override all permissions
 
 Airtable has an Authorization to Operate (ATO) at FIPS 199 Low Impact Level; therefore, sensitive data such as personal identifiable information (PII) and controlled unclassified information (CUI) is not allowed. In addition, TTS is only authorized to give view-only access to partner agencies due the uncertainty of their ATO statuses. Other GSA Components are covered under the GSA ATO but should procure their own licenses. More detailed privacy and security guidance can be found [here](https://airtable.com/appQbn3D4GMM8SD0O/pagaDV7VWDAjLdAC0).
 
-{% include "low-system.html" %}

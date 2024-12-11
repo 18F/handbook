@@ -9,6 +9,8 @@ redirect_from:
 critique. Using InVision at GSA comes with one specific rule: we cannot use any
 cloud-syncing features. Please don't use InVision Cloud or InVision Sync.
 
+{% include "low-system.html" %}
+
 If you are a member of the 18F Design team, once you have requested and received
 an InVision license, tell your supervisor that you have an account and are ready
 to be added to the "18F Design Team"
@@ -16,8 +18,6 @@ to be added to the "18F Design Team"
 InVision. This will enable you to see prototypes from all of our projects. When
 making your own prototypes in the future, always add this team as a
 collaborator.
-
-{% include "low-system.html" %}
 
 ## Offboarding
 

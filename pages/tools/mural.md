@@ -10,6 +10,8 @@ questions:
 [Mural](https://mural.co/) is a collaborative whiteboard and sticky note tool.
 Formerly known as Mural.ly.
 
+{% include "low-system.html" %}
+
 ## Setup and Licensing
 
 You can request either a Guest or Member account by posting in
@@ -49,8 +51,6 @@ access if you will be using Mural irregularly.
   They will be called by name in the Mural, whereas anonymous users will be
   shown as an animal, not their name.
 - If you have any questions, please ask in {% slack_channel "admins-mural" %}.
-
-{% include "low-system.html" %}
 
 ## For admins
 

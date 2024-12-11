@@ -15,6 +15,8 @@ redirect_from:
 
 "GSA Pages" is a **GSA only Authority to Operate (ATO)** of [cloud.gov's FEDRAMP Authorization](https://marketplace.fedramp.gov/products/F1607067912) of their [cloud.gov Pages](https://pages.cloud.gov) service. As such, it adds the Security Controls around the source code and contents for the website (e.g. Github). It provides **GSA employees** with a fast and secure approach to getting a web presence for your projects/programs.
 
+{% include "low-system.html" %}
+
 ## Launching a Website at GSA
 - Confirm your website is listed on [https://touchpoints.digital.gov](https://touchpoints.digital.gov)
   - if not listed, [complete a new website request](https://touchpoints.app.cloud.gov/admin/websites/new)
@@ -98,4 +100,3 @@ Follow [TTS Incident Response Plan](https://handbook.tts.gsa.gov/general-informa
 1. Sign up for [cloud.gov Pages Status](https://cloudgov.statuspage.io/) notifications
 1. Follow [cloud.gov Contingency Plan](https://cloud.gov/docs/ops/contingency-plan/)
 
-{% include "low-system.html" %}
