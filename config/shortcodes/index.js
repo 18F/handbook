@@ -1,3 +1,4 @@
+const alertShortcode = require("./alert");
 const downloadShortcode = require("./download");
 const imageShortcode = require("./image");
 const imageWithClassShortcode = require("./imageWithClass");
@@ -8,6 +9,7 @@ const usaCurrentShortcode = require("./usaCurrent");
 const uswdsIconShortcode = require("./uswdsIcon");
 
 const shortcodePlugin = (eleventyConfig) => {
+  eleventyConfig.addPairedShortcode("alert", alertShortcode);
   eleventyConfig.addShortcode("download", downloadShortcode);
   eleventyConfig.addShortcode("image", imageShortcode);
   eleventyConfig.addShortcode("image_with_class", imageWithClassShortcode);

@@ -4,13 +4,10 @@ keywords: hrlinks, hr links, vacation, funeral, death, bereavement, jury duty, c
 redirect_from:
   - /leave/
 ---
-<div class="usa-alert usa-alert--info">
-  <div class="usa-alert__body">
-    <p class="usa-alert__text">
-      Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a>.
-    </p>
-  </div>
-</div>
+
+{% alert %}
+  Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a>.
+{% endalert %}
 
 Before you take leave, check [out of office expectations]({% page "travel-and-leave/going-out-of-office/" %}).
 
@@ -20,7 +17,7 @@ TTS has leave types for the following scenarios. Talk with your [Workforce Relat
 
 For **general uses and vacation**, you can use:
 
-* [Annual Leave](#annual-leave)  
+* [Annual Leave](#annual-leave)
 * [Award Leave](#award-leave)
 
 For **sick or medical reasons**, you can use:
@@ -29,16 +26,16 @@ For **sick or medical reasons**, you can use:
 Other medical reasons:
 
 * When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
-* [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave  
+* [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave
 * [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl) for veterans with a service-related disability
 
 For **bereavement**, you can use:
 
-* [Sick Leave](#civilian) for funerals  
-* [Funeral Leave](#military) for military relatives  
+* [Sick Leave](#civilian) for funerals
+* [Funeral Leave](#military) for military relatives
 * [Parental Bereavement Leave](#parental-bereavement-leave) after losing a child
 
-For **birth, adoption or placement of a new child**, you can use [paid parental leave]({% page "/travel-and-leave/paid-parental-leave/" %}). You can also use annual and sick leave for parental leave reasons. 
+For **birth, adoption or placement of a new child**, you can use [paid parental leave]({% page "/travel-and-leave/paid-parental-leave/" %}). You can also use annual and sick leave for parental leave reasons.
 
 For **religious observances**, you can [request an adjustment to your work schedule]({% page "/travel-and-leave/overtime//#religious-comp-time-for-everyone" %}) for religious observances, instead of taking leave.
 
@@ -101,9 +98,9 @@ OPM Policy:
 ### Sick leave
 
 You can use Sick Leave for:
-* Doctor and medical appointments for you or a family member  
-* Mental health care  
-* Recovering from illness, for you or a family member  
+* Doctor and medical appointments for you or a family member
+* Mental health care
+* Recovering from illness, for you or a family member
 * Any other health need
 
 All federal employees, no matter how long they have worked in government, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if [you've transferred to TTS from another federal agency](#transferring-leave-from-another-federal-agency), your accrued sick leave will transfer with you.
@@ -122,7 +119,7 @@ You can receive 3 days (24 hours) of funeral leave to plan or attend services of
 
 OPM Fact Sheets:
 
-* [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)  
+* [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
 * [Definitions of family member and immediate relative](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
 ### Parental bereavement leave
@@ -143,7 +140,7 @@ You can only take advanced annual leave in the amount that you would earn back b
 For example: It is June 19th, 2022, and the [2022 Leave Year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/) ends on December 31st. You [earn 4 annual leave hours per pay period](#annual-leave) and there are 14 pay periods left until December 31st. You will earn 56 more annual leave hours (14 pay periods x 4 hours per pay period). Therefore, you can request up to 56 advanced annual leave hours.
 
 OPM Fact Sheets:
-* [Leave Year Beginning and Ending Dates](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)  
+* [Leave Year Beginning and Ending Dates](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
 * [Advanced Annual Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-annual-leave/)
 
 #### Advanced sick leave
@@ -242,11 +239,11 @@ You can take up to 4 hours of Administrative Leave to get a COVID vaccine or boo
 
 You can receive ad hoc “Weather and Safety Leave” if you are prevented from safely working because of an unexpected event such as:
 
-* Weather-related damage to your home that makes occupying the home unsafe  
-* Loss of power at home (which makes your home not an approved location under agency telework policies)  
+* Weather-related damage to your home that makes occupying the home unsafe
+* Loss of power at home (which makes your home not an approved location under agency telework policies)
 * Not being prepared for teleworking when the conditions could not be anticipated (tornado or earthquake)
 
-Weather and Safety Leave does not count against any of your other leave balances. 
+Weather and Safety Leave does not count against any of your other leave balances.
 
 Your safety is paramount. It is expected that when possible, you’ll communicate with your supervisor if you’re unexpectedly unable to work. Your supervisor is responsible for approving/denying your Weather and Safety Leave request; they can work with your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) if they have questions on whether it is appropriate to approve the request.
 
@@ -259,17 +256,17 @@ Resources:
 
 ##### Emergency Leave Transfer Program
 
-OPM may establish an emergency leave transfer program for certain disasters. If eligible, you may receive donated leave from your colleagues to take paid leave. You can use this paid leave to help you or a family member recover from the disaster. This includes coordinating with insurance adjusters, carpenters, flood mitigation and restoration companies, and roofing contractors. 
+OPM may establish an emergency leave transfer program for certain disasters. If eligible, you may receive donated leave from your colleagues to take paid leave. You can use this paid leave to help you or a family member recover from the disaster. This includes coordinating with insurance adjusters, carpenters, flood mitigation and restoration companies, and roofing contractors.
 
 Resources:
-- [About ELTP (InSite)](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/telework-pay-and-leave-for-major-weather-events?term=weather+and+safety)  
+- [About ELTP (InSite)](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/telework-pay-and-leave-for-major-weather-events?term=weather+and+safety)
 - [How to apply for ELTP (InSite)](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/leave/emergency-leave-transfer-program)
 
 ### Unpaid leave
 
 If you have exhausted all other paid leave options, you can request  Leave Without Pay (LWOP). It is exactly what it sounds like. You can request unpaid leave of less than four weeks at any time.
 
-The use of LWOP, including FMLA LWOP, can affect insurance premiums, within-grade increases, and other benefits. We **strongly recommend** that you review [OPM’s page on the Effect of Extended Leave Without Pay (LWOP)](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/). If you have questions, reach out to your [Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0). 
+The use of LWOP, including FMLA LWOP, can affect insurance premiums, within-grade increases, and other benefits. We **strongly recommend** that you review [OPM’s page on the Effect of Extended Leave Without Pay (LWOP)](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/). If you have questions, reach out to your [Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0).
 
 To take a leave of absence without pay, you’ll need justification and supervisory oversight. For longer periods, you'll also need 2nd level supervisory approval:
 

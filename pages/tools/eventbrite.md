@@ -9,6 +9,8 @@ redirect_from:
 TTS uses [Eventbrite](https://www.eventbrite.com/) to manage registrations for
 events we host.
 
+{% include "low-system.html" %}
+
 ## Rules
 
 The following are required for accessibility and other compliance reasons:
@@ -46,8 +48,6 @@ The following are required for accessibility and other compliance reasons:
 
   - If attendees need to be federal employees, a question about whether they are
     federal or not
-
-{% include "low-system.html" %}
 
 ## See also
 

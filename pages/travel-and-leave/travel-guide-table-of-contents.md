@@ -11,13 +11,9 @@ sidebar:
   navigation: travel
 ---
 
-<!-- prettier-ignore-start -->
-{% capture travel_content %}
+{% alert "Updated Travel Guidance for GSA Employees (07/13/2021)" %}
   On July 13, 2021, GSA published [updated travel guidance]({% page "/july-13-travel-guidance/" %}) for all employees.
-{% endcapture %}
-
-{% include "alert.html" level:"info" heading:"Updated Travel Guidance for GSA Employees (07/13/2021)" content:travel_content %}
-<!-- prettier-ignore-end -->
+{% endalert %}
 
 - [Travel 101]({% page "/travel-101/" %})
 - 1. First Time Travel Guide
