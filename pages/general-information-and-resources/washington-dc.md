@@ -244,7 +244,7 @@ The guest wireless network in the building is GSA Guest. The password changes
 monthly. To obtain the current password, type "GSA Wireless" or "guest wifi"
 into any room on Slack and the current password will pop up. If the password
 is out of date, the current password is available in person from the IT Help
-Desk. See[Get IT help](#get-it-help) for directions.
+Desk. See [Get IT help](#get-it-help) for directions.
 
 ### Get IT help
 
