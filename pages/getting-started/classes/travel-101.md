@@ -115,9 +115,7 @@ The TTS travel team is comprised of the following individuals. Please send your
 questions to them through the above-mentioned channels and not through
 individual emails or Slack DMs.
 
-- Djemila McCray (primary, People Operations)
-- Lathann Newland (primary, People Operations)
-
+- Djemila McCray (primary, Enterprise Management Program Office)
 
 \*_Please direct technical questions about Concur to the Business Applications
 Service Desk at (866) 450-6588 (press 2) or businessapps@gsa.gov. Questions
