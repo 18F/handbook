@@ -27,7 +27,7 @@ cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten,Smar,WMATA
           <strong>Slack channels</strong>
         </td>
         <td class="col-value">
-          {% slack_channel "dc" %}, {% slack_channel "dc-lunchbell" %}, {% slack_channel "dc-snack-inventory" %}
+          {% slack_channel "dc" %}
         </td>
       </tr>
       <tr>
