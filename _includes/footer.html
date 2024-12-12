@@ -21,6 +21,9 @@
       <div class="usa-footer-contact-links usa-width-one-half align-right">
 
         <small>
+          {% if page.date %}
+            Page last modified {{ page.date | date: "%B %e, %Y" }}.
+          {% endif %}
           <a
             href="https://github.com/18F/handbook/edit/main/{{ page.inputPath | url }}"
             class="usa-sidenav-edit"
