@@ -102,13 +102,7 @@ document.
   - Provide the list of remaining registered software to the Offboarding Lead
     during the scheduled offboarding meeting.
 
-### 6. Complete the clearance checklist
-
-Annabel Lombard from ({% slack_channel "people-ops" "the PeopleOps team" %}) will
-set time with you to complete the
-[GSA Pre-Exit Clearance Checklist](https://www.gsa.gov/forms-library/pre-exit-clearance-checklist), which links to an optional [GSA Exit Survey](https://forms.gle/uhQdPiriwD7pLiQBA).
-
-### 7. Return your equipment
+### 6. Return your equipment
 
 When you leave TTS, you are responsible for returning all TTS-issued equipment.
 Failure to do so may lead to your final paycheck being withheld until the
