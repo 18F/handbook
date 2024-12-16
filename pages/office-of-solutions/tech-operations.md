@@ -35,5 +35,5 @@ Responsible for developing, implementing, and/or enforcing technology-related po
 Plays a key role in evaluating how technology resources are utilized within TTS, seeking opportunities to reduce redundancy, eliminate inefficiencies, and avoid unnecessary duplication of efforts. We look for opportunities to consolidate and centralize services, offering enterprise-wide shared technology solutions where appropriate. 
 
 ### Continuous Improvement
-Actively identify areas for continuous impogy strategies contribute to the ongoing growth and success of the organization. rovement with TTS’ technological environment, from optimizing processes and systems to implement new technologies. 
+Actively identify areas for continuous improvement strategies with TTS’ technological environment, from optimizing processes and systems to implement new technologies. 
 
