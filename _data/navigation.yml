@@ -370,7 +370,7 @@ primary:
                 internal: true
           - text: Market Development and Partnerships
             children:
-              - text: Overview of Market Development and Partnerships  
+              - text: Overview of Market Development and Partnerships
                 url: office-of-operations/market-dev-and-partnerships/
                 internal: true
           - text: Talent team
@@ -405,6 +405,19 @@ primary:
           - text: Contractors
             url: contractors/
             internal: true
+      - text: TTS Consulting
+        main-file-path: /about-us/tts-consulting/
+        use_section_menu: true
+        children:
+          - text: About TTS Consulting
+            main-file-path: /about-us/tts-consulting/about/
+            children:
+              - text: Mission, approach, and history
+                url: about-us/tts-consulting/about/mission/
+              - text: Success measures
+                url: about-us/tts-consulting/about/planning/
+              - text: About the TTS Consulting Handbook
+                url: about-us/tts-consulting/about/handbook/
       - text: 18F
         children:
           - text: About 18F
