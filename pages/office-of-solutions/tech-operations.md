@@ -9,6 +9,8 @@ questions:
 ---
 
 [Tech Operations Requests](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=f283c6001bbcd614a546a6cbe54bcbd8)
+  - Cloud Service Providers: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+  - TTS SaaS Products: Airtable, Docker Desktop, Figma, FigJam, GitHub, Mural, New Relic, and Zendesk. 
 
 ## Background
 
