@@ -1,5 +1,6 @@
 ---
 title: Mission, approach, and history
+cSpell: ignore CTO’s
 ---
 
 **The mission of TTS Consulting is to empower our government partners to create better digital experiences to more effectively serve the American public.**
