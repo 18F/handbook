@@ -2,7 +2,7 @@
 title: Distributed
 redirect_from:
   - /distributed/
-cSpell: ignore Elman,Sennheiser,Karman,Sweger
+cSpell: ignore Solórzano,Sennheiser,Karman,Sweger
 ---
 
 <div class="table-wrapper">
@@ -135,7 +135,7 @@ From Peter Karman and Becky Sweger:
 - **Set boundaries early and often.** Remember that you can set your working
   hours in Google Calendar.
 
-From **Julia Elman**:
+From **Julia Solórzano**:
 
 > **MEET EVERYONE!** The TTS team is filled with amazingly kind and talented
 > people. Don't be shy, and get to know everyone! Learn about what projects are
