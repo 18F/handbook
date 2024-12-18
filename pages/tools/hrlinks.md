@@ -36,7 +36,7 @@ Notes:
 
 * When you have successfully submitted your timesheet, the **Timesheet Status** will say “Needs Approval” from your supervisor.
 
-* If you see **Timesheet Status: No Timesheet**, it means you have not submitted your timesheet for this pay period yet.
+* If you see **Timesheet Status: No Timesheet** or **Timesheet Status: Needs Submission**, it means you have not submitted your timesheet for this pay period yet.
 
 ### Correcting errors
 
