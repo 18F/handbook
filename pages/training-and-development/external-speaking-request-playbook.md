@@ -1,16 +1,6 @@
 ---
 title: External speaking request playbook
-tag:
-  - attend
-  - attending
-  - speaking
-  - speaker
-  - external event
-  - events
-  - event
-  - conference
-  - conferences
-  - guide
+keywords: attend, attending, speaking, speaker, external event, events, event, conference, conferences, guide
 ---
 
 **If this is a press request (newspaper, TV station, radio station, podcast, or

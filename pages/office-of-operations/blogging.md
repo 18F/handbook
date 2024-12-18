@@ -1,8 +1,6 @@
 ---
 title: Blogging Guide
-tag:
-  - blogging
-  - guide
+keywords: blogging, guide
 questions:
   - blog
   - outreach

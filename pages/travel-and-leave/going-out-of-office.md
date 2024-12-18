@@ -1,7 +1,6 @@
 ---
 title: Going out of office
-tags: 
-  - out of office
+keywords: out of office
 ---
 ## Your overall responsibilities
 

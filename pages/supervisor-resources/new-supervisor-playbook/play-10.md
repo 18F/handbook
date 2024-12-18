@@ -2,9 +2,7 @@
 title:
   Play 10 - Promote a healthy culture of improvement through constructive
   feedback
-tags:
-  - supervisor playbook
-  - leadership
+keywords: supervisor playbook, leadership
 ---
 
 Feedback, similar to delegation, is a fundamental tool in a supervisor’s (or
