@@ -43,7 +43,9 @@ accustomed to MacOS or Linux — refer to this guide for
 
 Your MacBook will come preloaded with the latest, GSA-approved/supported
 operating system. Please wait to do any operating system upgrades (including
-patches) until notified by GSA IT.
+patches) until notified by GSA IT. 
+
+If you encounter any issues with your MacBook's local password (required when downloading OS updates), contact GSA IT and they can help you reset your password with a recovery key.
 
 ### Rules
 
