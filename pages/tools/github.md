@@ -1,7 +1,6 @@
 ---
 title: GitHub
-tag:
-  - Git
+keywords: Git
 questions:
   - admins-github
   - dev

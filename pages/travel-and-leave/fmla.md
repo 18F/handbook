@@ -1,13 +1,6 @@
 ---
 title: Family Medical Leave Act (FMLA)
-tags:
-  - leave
-  - request
-  - parental
-  - parent
-  - parental leave
-  - maternity
-  - paternity
+keywords: leave, request, parental, parent, parental leave, maternity, paternity
 ---
 If you have a serious personal or family medical event, the Family and Medical Leave Act (FMLA) can help give you peace of mind. 
 
