@@ -106,6 +106,10 @@ ssh-add ~/.ssh/git-signing-key
 
 You may be required to enter the password associated with your key every time you create a new git commit.
 
+{% alert "Re-adding the keys after a restart", "warning" %}
+  You may need to re-add your SSH keys after restarting your computer. In KeePassXC, right-click on your entry again and click the **Add key to SSH Agent**. You can also [add them manually](#set-up-your-keys-manually).
+{% endalert %}
+
 ## 3. Configure git to sign commits
 
 By default, git uses a format called GPG for commit signing. However, GPG keys are more difficult to create and manage, so we recommend SSH keys, which is what you created in the previous steps.

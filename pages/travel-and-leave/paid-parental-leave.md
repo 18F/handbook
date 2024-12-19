@@ -1,12 +1,6 @@
 ---
 title: Paid parental leave (PPL)
-tags:
-  - parental
-  - parent
-  - parental leave
-  - timesheets
-  - maternity
-  - paternity
+keywords: parental, parent, parental leave, timesheets, maternity, paternity
 ---
 TTS has paid parental leave (PPL) for the birth or placement (adoption or foster care) of a child.
 
