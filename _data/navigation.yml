@@ -418,6 +418,25 @@ primary:
                 url: about-us/tts-consulting/about/planning/
               - text: About the TTS Consulting Handbook
                 url: about-us/tts-consulting/about/handbook/
+          - text: Operations
+            main-file-path: /about-us/tts-consulting/operations/
+            children:
+              - text: "New folks: start here"
+                url: about-us/tts-consulting/operations/welcome/
+              - text: Onboarding new staff
+                url: about-us/tts-consulting/operations/onboarding/
+              - text: Laws and regulations
+                url: about-us/tts-consulting/operations/regulations/
+              - text: Terminology and glossaries
+                url: about-us/tts-consulting/operations/glossary/
+              - text: Conduct and norms
+                url: about-us/tts-consulting/operations/conduct-and-norms/
+              - text: Performance management
+                url: about-us/tts-consulting/operations/performance/
+              - text: Organizational financial management
+                url: about-us/tts-consulting/operations/finance/
+              - text: Brand management
+                url: about-us/tts-consulting/operations/brand/
       - text: 18F
         children:
           - text: About 18F
