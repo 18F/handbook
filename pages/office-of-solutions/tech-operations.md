@@ -8,22 +8,16 @@ questions:
   - tts-tech-operations@gsa.gov
 ---
 
-[Tech Operations Requests](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=f283c6001bbcd614a546a6cbe54bcbd8)
-  - Cloud Service Providers: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
-  - TTS SaaS Products: Airtable, Docker Desktop, Figma, FigJam, GitHub, Mural, New Relic, and Zendesk.
-
-## Background
-
-The Tech Operations was formed in July 2019 as the reincarnation of the 18F/TTS
-Infrastructure team. Our team assists TTS programs with their Infrastructure and Software needs. 
-We are technically under the Acquisition Services Fund (ASF),
-though our funding comes through overhead charged to TTS programs.
-
 **Mission:** Leverage innovative technologies to provide TTS users with seamless support by maximizing productivity, efficiency, and reliable access to data & systems while maintaining a secure, robust technology environment that drives continuous improvement, optimal performance, and user satisfaction across all operational aspects. 
 
 **Vision:**  We strive to be a driving force behind organizational success by creating a future where technology empowers TTS users to work smarter, faster, and more securely. 
 
-**Division Overview:**  Tech Ops provides security, compliance, infrastructure, and policy expertise to help procure, authorize, and manage TTS-wide hardware, software, and services. We work closely with various CIO organizations to confirm technologies used by TTS meet federal and GSA policies and regulations.
+## Division Overview
+Tech Ops provides security, compliance, infrastructure, and policy expertise to help procure, authorize, and manage TTS-wide hardware, software, and services. We work closely with various CIO organizations to confirm technologies used by TTS meet federal and GSA policies and regulations.
+
+[Tech Operations Requests](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=f283c6001bbcd614a546a6cbe54bcbd8)
+  - Cloud Service Providers: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+  - TTS SaaS Products: Airtable, Docker Desktop, Figma, FigJam, GitHub, Mural, New Relic, and Zendesk.
 
 ## Responsibilities
 
