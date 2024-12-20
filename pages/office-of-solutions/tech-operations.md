@@ -15,13 +15,13 @@ questions:
 {% alert %}
 <a href="https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=f283c6001bbcd614a546a6cbe54bcbd8">Tech Operations Requests</a>
   - **Cloud Service Providers:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
-  - **TTS SaaS Products:** Airtable, Docker Desktop, Figma, FigJam, GitHub, Mural, New Relic, and Zendesk.
+  - **TTS SaaS Products:** Airtable, Docker Desktop, Figma, FigJam, GitHub, New Relic, and Zendesk.
 {% endalert %}
 
 ## Division Overview
 The goal of the Technology Operations (Tech Ops) Division is to provide security, compliance, infrastructure, and policy expertise to help procure, authorize, and manage TTS-wide hardware, software, and services. We work closely with various CIO organizations to ensure technologies used by TTS meet federal and GSA regulations.
 
-We are a small team that manages TTS-wide IaaS/PaaS/SaaS contracts (i.e Airtable, Docker Desktop, New Relic, Zendesk, Mural, etc.). We perform the technical controls for FedRAMP Authorizations - like setting up SAML/Google Oauth, and user onboarding/offboarding. For IaaS, we manage all of the AWS/GCP/Azure access and account provisioning to include root account management, account creation, baseline configuration for all accounts (logging, password/MFA policies, Secureauth jump accounts, etc.) and user on/offboarding to our sandbox accounts. 
+We are a small team that manages TTS-wide IaaS/PaaS/SaaS contracts (i.e Airtable, Docker Desktop, New Relic, Zendesk, etc.). We perform the technical controls for FedRAMP Authorizations - like setting up SAML/Google Oauth, and user onboarding/offboarding. For IaaS, we manage all of the AWS/GCP/Azure access and account provisioning to include root account management, account creation, baseline configuration for all accounts (logging, password/MFA policies, Secureauth jump accounts, etc.) and user on/offboarding to our sandbox accounts. 
 
 ## Responsibilities
 
