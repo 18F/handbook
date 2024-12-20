@@ -10,7 +10,9 @@ Below summarizes a few of the regulations most relevant to TTSC’s work.
   This is not a comprehensive list and any legal or ethics question should be directed to TTSC [assigned program counsel](https://docs.google.com/document/d/1WJs1krrQaPfDgoBOhEKBZjAxHpQ6mN5833s1pX7jxvg/edit?tab=t.0) within the GSA Office of General Counsel, Tech Law Division.
 {% endalert %}
 
-## Working with an external partner
+## If you are…
+
+### Working with an external partner
 
 **[Antideficiency Act](https://www.gao.gov/legal/appropriations-law/resources)**
 
@@ -24,13 +26,13 @@ Below summarizes a few of the regulations most relevant to TTSC’s work.
 - The project must be linked to federal funding.
 - A request for TTSC's services must be made by the chief executive of the entity.
 
-## Experimenting with artificial intelligence (AI)
+### Experimenting with artificial intelligence (AI)
 
 **[Directive on use of AI at GSA](https://insite.gsa.gov/directives-library/use-of-artificial-intelligence-at-gsa)**
 
 - Using AI tools requires prior approval from GSA.
 
-## Doing an acquisition
+### Doing an acquisition
 
 **[Federal Acquisition Regulation (FAR)](https://www.acquisition.gov/browse/index/far)**
 
@@ -42,13 +44,13 @@ Below summarizes a few of the regulations most relevant to TTSC’s work.
 
 
 
-## Doing discovery and research
+### Doing discovery and research
 
 **[Paperwork Reduction Act (PRA)](https://pra.digital.gov/)**
 
 - PRA governs how federal agencies collect information from the public. A team conducting user research should consider PRA as they make research decisions.
 
-## Building software or a website
+### Building software or a website
 
 **[Section 508](https://www.section508.gov/develop/software-websites/)**
 
@@ -62,14 +64,14 @@ Below summarizes a few of the regulations most relevant to TTSC’s work.
 
 - Design mobile-first, use consistent visual design and agency branding, and optimize for search.
 
-## Creating web content
+### Creating web content
 
 **[21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience/) and further detailed in [OMB Memo M-23-22](https://digital.gov/resources/delivering-digital-first-public-experience/)**
 
 - All public-facing digital content should be written in plain language appropriate to the target audience.
 - Whenever possible, new content should replace rather than add to old content.
 
-## Creating a PDF
+### Creating a PDF
 
 **[Section 508](https://www.section508.gov/develop/software-websites/)**
 
