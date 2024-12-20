@@ -61,4 +61,5 @@ Are we covering the direct costs of our office?
 
 How we measure financial stability:
 
-- **The organization aims to cover its direct costs,** which include staff labor. The metric we use to gauge progress towards cost recovery is utilization rate. {% comment %} - See: [organizational financial management](#TODO){% endcomment %}
+- **The organization aims to cover its direct costs,** which include staff labor. The metric we use to gauge progress towards cost recovery is utilization rate.
+  - See: [Organizational financial management]({% page "about-us/tts-consulting/operations/finance/" %})
