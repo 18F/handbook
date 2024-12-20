@@ -1,5 +1,7 @@
 ---
 title: TTS Consulting Handbook
+redirect_from:
+  - /about-us/tts-consulting/
 ---
 
 The TTS Office of Consulting (TTSC) Handbook establishes standard operating procedures (SOPs) for 18F and the Centers of Excellence (CoE). It sets expectations for managing our consulting business, and delivering for our partners.
