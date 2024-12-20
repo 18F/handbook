@@ -109,7 +109,7 @@ The outline below suggests topics to cover with new employees in their first two
 
 #### Payroll and tracking time in Tock
 
-- Review Tock guidance, especially what is billable vs non-billable work. {% comment %}TODO link Tock guidance to time tracking page when it exists{% endcomment %}
+- Review [Tock guidance]({% page "about-us/tts-consulting/operations/tock/" %}), especially what is billable vs non-billable work.
 - Offer to demonstrate how to use Tock, what Tock entries can look like with time off or multiple projects, and how to submit a change request.
 - Link them to the [GSA payroll calendars](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars) so they know when they will get their first paycheck.
 
@@ -206,7 +206,7 @@ Onboarding buddies are one of the first points of contact for a new employee at 
 - [TTS Onboarding Buddies Overview](https://docs.google.com/document/d/1rO4TRcqYM-j70cHC1y8Vabfwp9TWwp5WFF7BraSUxLk/edit#heading=h.87p1j88vrkez) explains what the role is and is not and what an onboarding buddy does.
 - [\[MAKE A COPY\] TTS Onboarding Buddy Checklist](https://docs.google.com/spreadsheets/d/1JPcm7QE6eF5Y82DGRl4DUMMlBza26FPxmkq3fybum5U/edit#gid=238273324) outlines all the tasks an onboarding buddy should do before and after the new employee arrives. Make a copy for yourself.
 - [How to be a great CoE onboarding buddy!](https://docs.google.com/document/d/12ykZHVH5O182dN7Hm6-6C9z-H3seKGZzDzaUqqo0OxI/edit?tab=t.0#heading=h.4oq35vyptb97) provides additional suggestions for onboarding buddies. Some portions of this document may be out of date.
-- Refer to the handbook section on time tracking for instructions on how to bill your time as an onboarding buddy.{% comment %}TODO: Link the handbook section on time tracking to the Tock guidance when it exists.{% endcomment %}
+- Refer to the [handbook section on time tracking]({% page "about-us/tts-consulting/operations/tock/" %}) for instructions on how to bill your time as an onboarding buddy.
 - Relevant Slack channels for onboarding buddies include:
   - {% slack_channel "wg-onboarding" %}
   - {% slack_channel "18f-wg-onboarding" %}
