@@ -1,15 +1,6 @@
 ---
 title: Guidelines for speaking at events
-tag:
-  - attend
-  - attending
-  - speaking
-  - speaker
-  - events
-  - event
-  - conference
-  - conferences
-  - guide
+keywords: attend, attending, speaking, speaker, events, event, conference, conferences, guide
 redirect_from:
   - /fas-speaker-guide/
 cSpell: ignore Simms
