@@ -8,94 +8,38 @@ questions:
   - tts-tech-operations@gsa.gov
 ---
 
-**Mission:** We exist to make TTS more productive and secure, empowering our
-staff and programs to better deliver on their missions.
+**Mission:** Leverage innovative technologies to provide TTS users with seamless support by maximizing productivity, efficiency, and reliable access to data & systems while maintaining a secure, robust technology environment that drives continuous improvement, optimal performance, and user satisfaction across all operational aspects. 
 
-**Vision:** We strive to make TTS the model for how to do IT in government:
-human-centered, transparent, and as a force-multiplier for the organization(s)
-we serve.
+**Vision:**  We strive to be a driving force behind organizational success by creating a future where technology empowers TTS users to work smarter, faster, and more securely. 
 
-## Background
+{% alert %}
+<a href="https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=f283c6001bbcd614a546a6cbe54bcbd8">Tech Operations Requests</a>
+  - **Cloud Service Providers:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
+  - **TTS SaaS Products:** Airtable, Docker Desktop, Figma, FigJam, GitHub, Mural, New Relic, and Zendesk.
+{% endalert %}
 
-The Tech Operations was formed in July 2019 as the reincarnation of the 18F/TTS
-Infrastructure team. Our team assists TTS programs with their Infrastructure and Software needs. 
-We are technically under the Acquisition Services Fund (ASF),
-though our funding comes through overhead charged to TTS programs.
+## Division Overview
+The goal of the Technology Operations (Tech Ops) Division is to provide security, compliance, infrastructure, and policy expertise to help procure, authorize, and manage TTS-wide hardware, software, and services. We work closely with various CIO organizations to ensure technologies used by TTS meet federal and GSA regulations.
+
+We are a small team that manages TTS-wide IaaS/PaaS/SaaS contracts (i.e Airtable, Docker Desktop, New Relic, Zendesk, Mural, etc.). We perform the technical controls for FedRAMP Authorizations - like setting up SAML/Google Oauth, and user onboarding/offboarding. For IaaS, we manage all of the AWS/GCP/Azure access and account provisioning to include root account management, account creation, baseline configuration for all accounts (logging, password/MFA policies, Secureauth jump accounts, etc.) and user on/offboarding to our sandbox accounts. 
 
 ## Responsibilities
 
-We coordinate everything technology-related that is shared across multiple TTS programs,
-particularly security, compliance, infrastructure, and policy. We provide all
-the things that allow TTS staff to get their jobs done at the highest quality
-level.
+### Operational Support
+Provides the critical tools, systems, and services that empower the TTS workforce to perform at the highest quality level. Our focus is on delivering seamless technology solutions that enhance productivity, collaboration, and operational efficiency across TTS.
 
-Rather than try to exert control over everything technology at TTS. 
-The Tech Operations’s work applies to much more than technology; 
-it applies to our entire operation, including how TTS
-works inside the law, secures our systems, and spends money. We also:
+### Strategic Planning and Advisory
+Assist in identifying gaps or areas of opportunity within TTS’ technical landscape by recommending the best courses of action that aligns with organizational goals. This includes evaluating technology needs and exploring solutions that provide maximum value to TTS. 
 
-- Find where we may be duplicating effort or have gaps around technology, and if
-  those are opportunities for TTS/GSA/government-wide shared services
-- Serve as the primary liaison between GSA IT and TTS, ensuring high levels of
-  service, finding compromise, and generally keeping a good relationship between
-  the teams
+### Collaboration with GSA IT
+Serves as the primary liaison between TTS and GSA’s Office of the Chief Information Officer (OCIO) to provide high levels of service, collaboration, and open communication. We help foster strong relationships between teams while balancing needs and expectations to find compromises when necessary.
 
-**Take a look at the following for more specifics:**
+### Security and Compliance Oversight
+Responsible for developing, implementing, and/or enforcing technology-related policies that govern the use of systems, data access, and security across TTS. We work to ensure TTS operates efficiently while staying compliant and secure. 
 
-- [Our Kanban board](https://trello.com/b/69OmMRy7/tech-operations-project-management-wip-mvp)
-- [Our roles](https://github.com/gsa-tts/tts-tech-operations/blob/main/how_we_work/roles.md#readme)
+### Cost and Resource Optimization
+Plays a key role in evaluating how technology resources are utilized within TTS, seeking opportunities to reduce redundancy, eliminate inefficiencies, and avoid unnecessary duplication of efforts. We look for opportunities to consolidate and centralize services, offering enterprise-wide shared technology solutions where appropriate. 
 
-### Out of scope
+### Continuous Improvement
+Actively identify areas for continuous improvement strategies with TTS’ technological environment, from optimizing processes and systems to implement new technologies. 
 
-The following are example tasks that TTS Tech Operations isn't responsible for in
-its current state:
-
-- Purchasing office equipment for individuals (rather than the project the
-  individual supports)
-- Picking up software development tasks for TTS programs
-- Being the owners/stewards/pushers of data/metrics for TTS, beyond what applies
-  to responsibilities listed above
-
-## Partners
-
-These are the groups we interact with heavily:
-
-- **Supply Chain Risk Management group**
-- **GSA IT**
-  - [**CTO**](https://tech.gsa.gov/team/)
-  - [**Security (IS)**](https://insite.gsa.gov/services-and-offices/staff-offices/office-of-gsa-it/gsa-it-organizations/chief-information-security-officer-ciso)
-  - [**Office of Digital Infrastructure Technologies (IDT)**](https://insite.gsa.gov/services-and-offices/staff-offices/office-of-gsa-it/gsa-it-organizations/office-of-the-deputy-cio/office-of-digital-infrastructure-technologies-idt)
-  - **Mac Working Group:** Teams across GSA IT that enable Mac use at GSA
-- **TTS**, particularly
-  - [**Business Operations (BizOps):**]({% page "/bizops/" %}) Coordinate on
-    software purchases
-  - [**Digital Council:**]({% page "/digital-council/" %}) Governance of TTS
-    sites, including interactions with the
-    [Office of Strategic Communication (OSC)](https://www.gsa.gov/about-us/organization/office-of-strategic-communication)
-    around GSA-wide digital goals/initiatives
-  - [**TTS Acquisition Division (AcqDiv):**]({% page "/oa/" %}) Coordinate on budgets
-    and software purchases
-  - [**Outreach:**]({% page "/outreach/" %}) TTS-wide communications
-  - [**Security and Compliance Guild**](https://github.com/18F/Security-Compliance)
-  - [**Solutions:**]({% page "/office-of-products-and-programs/" %})
-    Infrastructure and authorizations
-
-## Important links
-
-- [FY21-22 Business Plan](https://docs.google.com/document/d/1D8NjruISqW6A9rXu6EBN28JWyHyjHjGM/edit)
-- [Before You Ship](https://before-you-ship.18f.gov/) - TTS' internal
-  documentation about security, compliance, and infrastructure
-- Maintaining the authoritative source documentation for components used across
-  TTS
-  [Software-as-a-service (SaaS) ](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=0),
-  [Systems](https://docs.google.com/spreadsheets/d/12pfcEIEXaJTjIKex-3wnI89erIvgKf9B_XpGkDl6qsM/edit#gid=1235102795),
-  and
-  [Accounts](https://docs.google.com/spreadsheets/d/1DedSCiU9AsCAAVvAFZT0_Ii7AFIKlI-JNifzlpHNbDg/edit#gid=0)
-- [More internal documentation](https://github.com/18F/tts-tech-operations/wiki/Documents-for-TTS-Tech-Porfolio)
-- [Read more about us](https://github.com/18F/tts-tech-operations/blob/main/README.md#readme)
-
-## Feedback?
-
-We're open and excited to hear
-[(anonymous) feedback](https://docs.google.com/forms/d/e/1FAIpQLSeVEH_l46flYCCQRl351KhID77XPCw5ulsQPh0iFqfRig2hxA/viewform)
-to hear how we're doing!
