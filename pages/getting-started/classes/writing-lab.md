@@ -74,7 +74,7 @@ ask for guidance on getting somebody assigned to your project.
 
 ### How do I ask for help?
 
-You can post your request in {% slack_channel "18f-help-wanted" %}, or
+You can post your request in {% slack_channel "ttsc-help-wanted" %}, or
 {% slack_channel "tts-help-wanted" %} if you are not in 18F.
 
 ### What should I do if my issue isn't picked up?

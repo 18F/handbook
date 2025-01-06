@@ -51,7 +51,7 @@ Find us on Slack:
 - {% slack_channel "product-design" %}
 - {% slack_channel "g-content" %}
 - {% slack_channel "g-research" %}
-- {% slack_channel "18f-help-wanted" %}
+- {% slack_channel "ttsc-help-wanted" %}
 - {% slack_channel "dev-frontend" %}
 - {% slack_channel "18f-methods" %}
 
@@ -181,7 +181,7 @@ Trello]({% page "/trello" %}) page.
 #### Research
 
 - Please read [Doing Research at TTS]({% page "/research-guidelines" %}) for
-  more information on the tools and techniques. 
+  more information on the tools and techniques.
 - The [18F UX Guide](https://ux-guide.18f.gov/) provides additional guidance on how we conduct research.
 - **Analytics:** We recommend leveraging the
   [Digital Analytics Program](https://digital.gov/services/dap/) whenever

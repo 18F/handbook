@@ -43,5 +43,5 @@ Reports, presentations, and other collateral should also follow our delivery sta
 Many of the referenced guides explain how to use them. If you need more help:
 
 - Ask the designers on your team
-- Post a message in {% slack_channel "18f-help-wanted" %}
+- Post a message in {% slack_channel "ttsc-help-wanted" %}
 - Use the [CoE Content Support Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSdFO_8RgAGSoI3nbFNQHQ7johMzK1Z83CHTSzjqtD3IzM-bqg/viewform)
