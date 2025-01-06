@@ -40,5 +40,6 @@ Here's a short guide to faciliating an accessible meeting --
 
 ### During the meeting
 + During the meeting, the facilitator needs to Spotlight each speaker when they begin presenting, and un-Spotlight each speaker after they are done.
+  + Actively facilitating a meeting while managing Spotlight controls as host is tricky -- consider splitting these into two separate roles and delegating. 
 + During the meeting, the facilitator needs to keep their Zoom set to Speaker view.
   + Switching to Gallery view will affect the recording and ASL interpreters will show up as tiny thumbnails, instead of Spotlighted.
