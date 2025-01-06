@@ -63,7 +63,7 @@ Missteps on projects will happen. Teams do not have a crystal ball into partner
 expectations or communication preferences. This is a good time to bring in a
 facilitator from outside the project to help the team reflect on what is and
 isn’t going well, and then help the team come up with alternative methods in the
-future. Try {% slack_channel "18f-help-wanted" %} to ask for a facilitator.
+future. Try {% slack_channel "ttsc-help-wanted" %} to ask for a facilitator.
 
 ### Manage work so it is equitably distributed
 
@@ -104,7 +104,7 @@ happening.
   tools and deliverables)
   - If artifacts (e.g. RFQs, final reports, decks) should be durable over time,
     consider budgeting time to make them accessible (talk to your account
-    manager or use {% slack_channel "18f-help-wanted" %} if the team doesn't
+    manager or use {% slack_channel "ttsc-help-wanted" %} if the team doesn't
     have this ability)
 - Ensure sprint planning, review, and other recurring meetings are scheduled
 - Facilitate identification of project management tracking tools
@@ -191,14 +191,14 @@ most common types of 18F project endings are some combination of the following:
   engagement]({% page "/18f/projects-partners/projects-in-distress/" %})
 - **Document and share learnings**
   - Conduct, document, and post a Project Reflection at the end of the project (or
-    every 3-4 months for longer projects). Reference the [facilitation guide](https://docs.google.com/document/d/1lB8w_U2SR3X4U78KTOWril_JOINaF98NQwQoR7oYVeo/edit), [conversation guide](https://docs.google.com/document/d/1bsaRrm9Mjnk87UOsHDyTsfK2yVbsnLLywvfFuVXL5HE/edit#), and [summary template](https://docs.google.com/document/d/1R10zQ5hpHYtSA3utxydte-Xk4ktdjUWnlMOrZp3pSwA/edit) to get started. 
+    every 3-4 months for longer projects). Reference the [facilitation guide](https://docs.google.com/document/d/1lB8w_U2SR3X4U78KTOWril_JOINaF98NQwQoR7oYVeo/edit), [conversation guide](https://docs.google.com/document/d/1bsaRrm9Mjnk87UOsHDyTsfK2yVbsnLLywvfFuVXL5HE/edit#), and [summary template](https://docs.google.com/document/d/1R10zQ5hpHYtSA3utxydte-Xk4ktdjUWnlMOrZp3pSwA/edit) to get started.
   - Request a facilitator from outside the
-    project in {% slack_channel "18f-help-wanted" %} so everyone on the project team can fully
+    project in {% slack_channel "ttsc-help-wanted" %} so everyone on the project team can fully
     participate.
   - Post the reflection summary to {% slack_channel "project-reflections" %}
   - Link the completed project reflection to the project record in the 18F dashboard using [this form](https://airtable.com/shrDVLEqUpLYGnvKS).
   - Share re-usable or example tools, presentations, docs, and other resources by [submitting them to the Project Resource Library](https://airtable.com/appkBrEBVTMd9M5VC/paggmwfuX2sEXbiW8)
-    
+
   - As an optional step, use the
     [project reflection for performance evals template](https://docs.google.com/document/d/1ko28PDLcEa_VB3ulMKbEjLzi88u8K8WJqXsBryrBV-U/edit?usp=sharing)
     to collaborate on drafting individual performance language. In some cases, an

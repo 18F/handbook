@@ -8,14 +8,14 @@ Here are some of the mechanisms TTSC has to do this kind of work:
 
 | Resource | Helps with |
 |----------|------------|
-| [**\#18f-help-wanted**](##18f-help-wanted-slack-channel)  | **Short, fast, billable or non-billable tasks**  like writing review, graphic design, general volunteers |
+| [**\#ttsc-help-wanted**](##ttsc-help-wanted-slack-channel)  | **Short, fast, billable or non-billable tasks**  like writing review, graphic design, general volunteers |
 | **[Delivery Assurance (aka TLC)](#18f-delivery-assurance-\(aka-tlc-crew\))** | **Two week or less, non-billable tasks** like Facilitating project reflections, making updates or fixing bugs on 18F products,  |
 | [**18F Working Groups**](#18f-working-groups)  | **A few hours a week for a few months** like Internal surveys and analysis, developing smart default templates, revising performance plans |
 | [**TTS Operations support services**](#tts-operations-support-services)  | **Recurring TTS-level ops tasks or improvements**  like processing agreements, outreach approvals, hiring actions |
 
-## \#18f-help-wanted Slack channel {##18f-help-wanted-slack-channel}
+## \#ttsc-help-wanted Slack channel {##ttsc-help-wanted-slack-channel}
 
-TTSC staff may request help from peers for a few hours of billable or non-billable work by posting to the {% slack_channel "18f-help-wanted Slack" %} channel.
+TTSC staff may request help from peers for a few hours of billable or non-billable work by posting to the {% slack_channel "ttsc-help-wanted Slack" %} channel.
 
 If your task is specifically for writing/editing help, use `@writing-editors` to ping the content designer group.
 
