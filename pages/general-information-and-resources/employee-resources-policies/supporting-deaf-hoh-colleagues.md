@@ -24,10 +24,15 @@ When we host a large meeting, we'll often record it so that people can watch aft
 
 We need both the meeting itself and the recording to be fully accessible. That means making sure that ASL interpreters are highlighted in the recording, so that a Deaf or Hard of Hearing person can watch the ASL interpretation along with the recorded meeting.
 
-Here's a guide to faciliating an accessible meeting:
+Here's a short guide to faciliating an accessible meeting -- 
 
-+ Zoom's [Spotlight feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) allows the facilitator to spotlight ASL interpreters.
-+ On the day of the meeting, join the Zoom room 10 to 15 minutes early. Chat with the interpreters, captioners, and speakers/preserter to make sure all have what they need.
-+ Make interpreters co-hosts of the meeting. This allows the interpreters to pin Deaf participants during the meeting. It also allows them to Spotlight themselves. 
+### Before the meeting 
++ Consider using [Zoom](/tools/zoom), since Zoom's [Spotlight feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) allows the facilitator to spotlight ASL interpreters.
+
+### The day of the meeting
++ Join the Zoom room 10 to 15 minutes early. Chat with the interpreters, captioners, and speakers/preserter to make sure all have what they need.
++ Make interpreters co-hosts of the meeting. This allows the interpreters to pin Deaf participants during the meeting. It also allows them to Spotlight themselves.
+
+### During the meeting
 + During the meeting, the facilitator needs to Spotlight each speaker when they begin presenting, and un-Spotlight each speaker after they are done.
 + During the meeting, the facilitator needs to keep their Zoom set to Speaker view. Switching to Gallery view will affect the recording and ASL interpreters will show up as tiny thumbnails, instead of Spotlighted.
