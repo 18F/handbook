@@ -31,12 +31,14 @@ Here's a short guide to faciliating an accessible meeting --
 ### Before the meeting 
 + Request ASL interpreters and CART transcription.
   + Send the interpreters and transcriber the agenda plus any presentation materials ahead of time. 
-+ Consider using [Zoom](/tools/zoom) to host the meeting, since Zoom's [Spotlight feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) allows the facilitator to spotlight ASL interpreters.
++ Consider using [Zoom]({% page "tools/zoom" %})  to host the meeting, since Zoom's [Spotlight feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) allows the facilitator to spotlight ASL interpreters.
 
 ### The day of the meeting
 + Join the Zoom room 10 to 15 minutes early. Chat with the interpreters, captioners, and speakers/preserter to make sure all have what they need.
-+ Make interpreters co-hosts of the meeting. This allows the interpreters to pin Deaf participants during the meeting. It also allows them to Spotlight themselves.
++ Make interpreters co-hosts of the meeting.
+  + This allows the interpreters to pin Deaf participants during the meeting. It also allows them to Spotlight themselves.
 
 ### During the meeting
 + During the meeting, the facilitator needs to Spotlight each speaker when they begin presenting, and un-Spotlight each speaker after they are done.
-+ During the meeting, the facilitator needs to keep their Zoom set to Speaker view. Switching to Gallery view will affect the recording and ASL interpreters will show up as tiny thumbnails, instead of Spotlighted.
++ During the meeting, the facilitator needs to keep their Zoom set to Speaker view.
+  + Switching to Gallery view will affect the recording and ASL interpreters will show up as tiny thumbnails, instead of Spotlighted.
