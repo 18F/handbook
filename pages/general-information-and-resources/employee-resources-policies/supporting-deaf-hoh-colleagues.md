@@ -20,14 +20,18 @@ Tips for working effectively & inclusively with your Deaf and Hard of Hearing co
 
 ## Hosting accessible meetings
 
-When we host a large meeting, we'll often record it so that people can watch after-the-fact if they can't attend live.
+When we host a large meeting, we'll often record it so that people can watch after-the-fact.
 
-We need both the meeting itself and the recording to be fully accessible. That means making sure that ASL interpreters are highlighted in the recording, so that a Deaf or Hard of Hearing person can watch the ASL interpretation along with the recorded meeting.
+We need both the meeting itself and the recording to be fully accessible. 
+
+That means making sure that ASL interpreters are highlighted in the recording, so that a Deaf or Hard of Hearing person can watch the ASL interpretation along with the recorded meeting.
 
 Here's a short guide to faciliating an accessible meeting -- 
 
 ### Before the meeting 
-+ Consider using [Zoom](/tools/zoom), since Zoom's [Spotlight feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) allows the facilitator to spotlight ASL interpreters.
++ Request ASL interpreters and CART transcription.
+  + Send the interpreters and transcriber the agenda plus any presentation materials ahead of time. 
++ Consider using [Zoom](/tools/zoom) to host the meeting, since Zoom's [Spotlight feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066300) allows the facilitator to spotlight ASL interpreters.
 
 ### The day of the meeting
 + Join the Zoom room 10 to 15 minutes early. Chat with the interpreters, captioners, and speakers/preserter to make sure all have what they need.
