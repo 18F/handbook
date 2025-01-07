@@ -22,6 +22,9 @@ GSA offers [Zoom for Government](https://zoomgov.com/).
 
 [General instructions.](https://support.zoom.us/hc/en-us/articles/201362613-How-Do-I-Host-A-Video-Meeting-)
 
+To help ensure people can fully participate, see our Handbook page on
+[hosting accessible meetings]({% page "/general-information-and-resources/employee-resources-policies/supporting-deaf-hoh-colleagues/#hosting-accessible-meetings" %}).
+
 ### For meetings longer than 40 minutes
 
 You can check [your Zoom profile](https://gsa.zoomgov.com/profile) to see your
