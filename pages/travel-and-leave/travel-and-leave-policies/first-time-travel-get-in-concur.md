@@ -67,11 +67,13 @@ While you wait for the ID number to be generated and sent to you via email
 (which can take up to 1 business day), you can get started on [applying for the
 GSA travel card]({% page "/first-time-travel-travel-card" %}).
 
-### 2. Completed Required Training in Online University (OLU)
+### 2. Complete Required Training in Online University (OLU)
 
-Ensure you have completed the mandatory security and privacy training required
+Ensure you have first completed the mandatory security and privacy training required
 of all GSA staff, assigned to you in [OLU](https://insite.gsa.gov/#:~:text=IT%20Support%20Request-,Online%20University,-Pegasys). [Follow the instructions]({% page "/training-and-development/olu/#help-with-olu" %})
-if you need help. Please ensure you have completed this year's Travel Card Training course in OLU. After completion, save a pdf copy of your certificate. Designated Travel Reviewers and Approvers must also complete the Temporary Duty Travel (TDY) Training course in OLU. Both training must be retaken every year.
+if you need help. 
+
+You'll then need to complete this year's Travel Card Training course in OLU; this course will _not_ be assigned to you. You can find it by searching for "Travel Card Training". After completion, save a pdf copy of your certificate. Designated Travel Reviewers and Approvers must also complete the Temporary Duty Travel (TDY) Training course in OLU. Both training must be retaken every year.
 
 ### 3. Complete the CGE Access Request Form
 
