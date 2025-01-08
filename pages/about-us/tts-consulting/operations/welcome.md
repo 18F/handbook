@@ -9,8 +9,10 @@ As you work through the onboarding checklist provided to you by TTS People Ops, 
 - [About this handbook]({% page "about-us/tts-consulting/about/handbook/" %})
 - [About the TTS Office of Consulting]({% page "about-us/tts-consulting/about/mission/" %})
 - [Compliance with laws and regulations]({% page "about-us/tts-consulting/operations/regulations/" %})
-- [Conduct and norms]({% page "about-us/tts-consulting/operations/conduct-and-norms/" %}) {% comment %}- [Internal communications](#TODO) {% endcomment %}
-- [Organizational financial management]({% page "about-us/tts-consulting/operations/finance/" %}) {% comment %}- [Engagement overview](#TODO){% endcomment %}
+- [Conduct and norms]({% page "about-us/tts-consulting/operations/conduct-and-norms/" %})
+- [Internal communications]({% page "about-us/tts-consulting/operations/internal-communications/" %})
+- [Organizational financial management]({% page "about-us/tts-consulting/operations/finance/" %})
+- [Engagement overview]({% page "about-us/tts-consulting/engagements/" %})
 
 Other important things to know as a new employee:
 
