@@ -46,7 +46,7 @@ availability with your partner:
   above.
 - Partners using Microsoft Outlook can use this “Share your calendar with
   everyone” instructions
-  [here](https://www.bettercloud.com/monitor/the-academy/3-ways-to-share-your-outlook-calendar-with-others/).
+  [here](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/share-calendars-with-external-users?view=o365-worldwide).
 
 7. Finally, import the partner calendar link into Google Calendar and see if you
    are able to view calendar events, including updates.
