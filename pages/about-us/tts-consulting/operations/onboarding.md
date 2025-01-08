@@ -95,7 +95,7 @@ The outline below suggests topics to cover with new employees in their first two
 
 - Explain the different layers of the organization: GSA > FAS > TTS > TTSC > 18F or CoE.
   - Suggest correspondence codes as a way to place individuals within the reporting structure.
-- Review the org charts and project roles. Explain: {% comment %}TODO: Link "org charts" and "project roles" to relevant sections in the handbook {% endcomment %}
+- Review the [org charts]({% page "about-us/tts-consulting/operations/org-chart/" %}) and project roles. Explain: {% comment %}TODO: Link "project roles" to relevant sections in the handbook {% endcomment %}
   - What different chapters or centers do
   - What teams can look like at 18F or CoE
   - That we are a matrixed organization (“You’ll report to me, your functional manager. You’ll also have a project or engagement lead who will oversee day to day work.”)
@@ -105,7 +105,7 @@ The outline below suggests topics to cover with new employees in their first two
 #### Schedules and hours
 
 - Emphasize that the new employee should not work more than 40 hours per week.
-- Discuss TTSC norms around scheduling.{% comment %} TODO: Link to internal comms section, Scheduling Meetings header {% endcomment %}
+- Discuss TTSC [norms around scheduling]({% page "about-us/tts-consulting/operations/internal-communications/#scheduling-meetings" %}).
 
 #### Payroll and tracking time in Tock
 
@@ -132,7 +132,7 @@ The outline below suggests topics to cover with new employees in their first two
 
 #### Project expectations
 
-- Review the project delivery section of this handbook. {% comment %}TODO: Link to engagements section when it exists{% endcomment %}
+- Review the [project delivery section]({% page "about-us/tts-consulting/engagements/" %}) of this handbook.
 
 #### Organizational context
 

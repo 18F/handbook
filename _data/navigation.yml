@@ -418,6 +418,11 @@ primary:
                 url: about-us/tts-consulting/about/planning/
               - text: About the TTS Consulting Handbook
                 url: about-us/tts-consulting/about/handbook/
+          - text: Engagements
+            main-file-path: /about-us/tts-consulting/engagements/
+            children:
+              - text: Engagement overview
+                url: about-us/tts-consulting/engagements/
           - text: Operations
             main-file-path: /about-us/tts-consulting/operations/
             children:
@@ -429,12 +434,16 @@ primary:
                 url: about-us/tts-consulting/operations/regulations/
               - text: Terminology and glossaries
                 url: about-us/tts-consulting/operations/glossary/
+              - text: Organization structure and leadership
+                url: about-us/tts-consulting/operations/org-chart/
               - text: Tracking your time and Tock
                 url: about-us/tts-consulting/operations/tock/
               - text: Records management
                 url: about-us/tts-consulting/operations/records/
               - text: Conduct and norms
                 url: about-us/tts-consulting/operations/conduct-and-norms/
+              - text: Internal communications
+                url: about-us/tts-consulting/operations/internal-communications/
               - text: Performance management
                 url: about-us/tts-consulting/operations/performance/
               - text: Organizational financial management
@@ -447,6 +456,10 @@ primary:
                 url: about-us/tts-consulting/operations/delivery-assurance/
               - text: Management oversight of projects
                 url: about-us/tts-consulting/operations/oversight/
+              - text: Supervisor responsibilities
+                url: about-us/tts-consulting/operations/supervisor-responsibilities/
+              - text: Managing public or shared resources
+                url: about-us/tts-consulting/operations/shared-resources/
       - text: 18F
         children:
           - text: About 18F
