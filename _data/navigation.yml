@@ -358,7 +358,7 @@ primary:
     blurb: |
       We’re all one family at TTS, but each office has its own norms and practices.
     children:
-      - text: TTS office of operations
+      - text: TTS Operations
         children:
           - text: Business operations
             children:
@@ -367,6 +367,11 @@ primary:
                 internal: true
               - text: Agreements
                 url: agreements/
+                internal: true
+          - text: Enterprise Management Program Management Office
+            children:
+              - text: Overivew of EMPMO
+                url: office-of-operations/empmo/
                 internal: true
           - text: Market Development and Partnerships
             children:
