@@ -174,9 +174,10 @@ They’ll be happy to help you find a solution:
 Don’t hesitate to call on the Acquisitions, Content and Design Chapters as
 needed, either. They have guilds and labs specifically aimed at helping you.
 
-Also, don’t forget about our portfolio of existing solutions like Cloud.gov,
-Login.gov, and Federalist who may be able to offer useful services to your
-partner. If you think they might be able to help, talk to them.
+Also, don’t forget about our portfolio of existing solutions like cloud.gov
+(including cloud.gov Pages), Login.gov, Search.gov, and api.data.gov who may be
+able to offer useful services to your partner. If you think they might be able
+to help, talk to them.
 
 ## Keeping your skills sharp
 
