@@ -14,7 +14,8 @@
     margin-bottom: units(2);
   }
 
-  h1 {
+  h1,
+  h2.handbook-visual-h1 {
     @include u-font("heading", "xl");
     font-weight: fw("bold");
     padding-top: units(3);
@@ -29,14 +30,16 @@
     margin-top: 0;
   }
 
-  h2 {
+  h2,
+  h3.handbook-visual-h2 {
     @include u-font("heading", "lg");
     font-weight: fw("bold");
     margin-top: units(4);
     color: color("blue-60");
   }
 
-  h3 {
+  h3,
+  h4.handbook-visual-h3 {
     @include typeset("heading", "md", 3);
     font-weight: fw("bold");
     margin: 0 0 units(0.5);
@@ -63,7 +66,7 @@
     }
 
     // third-level nav
-    h2 + ol {
+    h3 + ol {
       @include at-media("tablet") {
         column-count: 2;
 
@@ -75,7 +78,7 @@
     }
 
     // fourth-level nav
-    h3 + ol {
+    h4 + ol {
       margin: units(1) 0 units(3) 0;
 
       // fifth+ level nav

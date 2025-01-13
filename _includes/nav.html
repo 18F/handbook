@@ -2,7 +2,11 @@
   {% for item in nav %}
     <li>
       {% if item.children %}
-        <h{{ level }} id="{{ item.text | slugify }}">
+        {% if viz-promote %}
+          {% assign cssLevel = level | minus: 1 %}
+          {% assign cssClass = "handbook-visual-h" | append: cssLevel %}
+        {% endif %}
+        <h{{ level }} id="{{ item.text | slugify }}" class="{{ cssClass }}">
           {% include "nav-link.html" child:item %}
         </h{{ level }}>
         {% if item.blurb %}
