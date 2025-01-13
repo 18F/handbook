@@ -179,8 +179,7 @@ enter the password for the file and click "decrypt."
     </div>
 
   </form>
-
-  <script type="text/javascript" src="/assets/js/crypto/main.js"></script>
+  <script type="text/javascript" src="{% link "/assets/js/crypto/main.js" %}"></script>
 </div>
 
 ---
