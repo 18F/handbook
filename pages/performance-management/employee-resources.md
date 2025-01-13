@@ -99,28 +99,27 @@ performance plans.
 - HR Links
   [Online Training and Guidance](https://insite.gsa.gov/topics/hr-pay-and-leave/performance-management/performance-management-systems).
   Courses include, but is not limited to the following:
+
   - Create & Submit a Performance plan
   - Acknowledge a Performance plan
   - Mid-Year Self-Assessment
   - Acknowledge a Mid-Year Progress Review
   - Acknowledge an Evaluation
 
-### [OLU Performance Management Program](https://gsa.csod.com/ui/lms-learning-details/app/curriculum/50856f17-4166-4c3c-a9e5-b3ffb444cfbd)
-
-Courses include, but is not limited to the following:
-
-- Performance Management Overview – Refresher and introduction of the
-  performance management program.
-- Performance Planning Cascading Goals – Learn the importance of cascading goals
-  to align with organizational performance to support organizational success.
-- Performance Planning Establishing SMART Performance Plans – Learn the
-  importance of writing measurable plans to support organizational outcomes.
-- Self-Assessments – Learn to write an effective self-assessment to support the
-  promotion of accomplishments.
-- How to Manage Difficult Conversations – “Newly added” Learn to how to prepare
-  and conduct conversations regarding poor performance.
-- Recognizing and Diagnosing a Performance Problem – Learn the importance of
-  recognizing and managing poor performance timely.
-- Planning an Effective Appraisal - “Newly added” Learn to how to prepare and
-  conduct an effective appraisal of performance.
-- Awards – Learn about the available awards within GSA.
+- [OLU Performance Management Program](https://gsa.csod.com/ui/lms-learning-details/app/curriculum/50856f17-4166-4c3c-a9e5-b3ffb444cfbd).
+  Courses include, but is not limited to the following:
+  - Performance Management Overview – Refresher and introduction of the
+    performance management program.
+  - Performance Planning Cascading Goals – Learn the importance of cascading goals
+    to align with organizational performance to support organizational success.
+  - Performance Planning Establishing SMART Performance Plans – Learn the
+    importance of writing measurable plans to support organizational outcomes.
+  - Self-Assessments – Learn to write an effective self-assessment to support the
+    promotion of accomplishments.
+  - How to Manage Difficult Conversations – “Newly added” Learn to how to prepare
+    and conduct conversations regarding poor performance.
+  - Recognizing and Diagnosing a Performance Problem – Learn the importance of
+    recognizing and managing poor performance timely.
+  - Planning an Effective Appraisal - “Newly added” Learn to how to prepare and
+    conduct an effective appraisal of performance.
+  - Awards – Learn about the available awards within GSA.
