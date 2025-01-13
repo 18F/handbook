@@ -27,4 +27,13 @@ module.exports = {
   },
   env: { es6: true, node: true },
   parserOptions: { ecmaVersion: 2021 },
+
+  overrides: [
+    {
+      // Any Javascript files that will be shipped to the browser should be
+      // linted accordingly.
+      files: ["js/**/*.js"],
+      env: { browser: true, node: false },
+    },
+  ],
 };

@@ -1,0 +1,21 @@
+#password-encryption-container {
+  .hidden {
+    display: none;
+  }
+
+  #drop-zone {
+    height: 10em;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 1em;
+  }
+
+  form {
+    margin-top: 1em;
+
+    label {
+      display: block;
+      margin-bottom: 1em;
+    }
+  }
+}

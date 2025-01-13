@@ -5,7 +5,7 @@ const postcss = require("postcss");
 const autoprefixer = require("autoprefixer");
 
 // The files that serves as entrypoints for our asset builds.
-const entryPoints = ["styles/styles.scss", "js/app.js"];
+const entryPoints = ["styles/styles.scss", "js/app.js", "js/crypto/main.js"];
 
 const build = async () =>
   esbuild.build({

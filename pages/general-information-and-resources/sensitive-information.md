@@ -151,13 +151,47 @@ partners to access it. See
 
 ### Password-protected file
 
-Follow the linked instructions to password-protect a:
+Use the following form to create a password-protected file that you can share
+with others. Drop a file into the box below, then enter a password and click
+"encrypt." Be sure to share the password **_separately_** from the encrypted
+file! For example, if you send the file via email, you may send the password as
+a Google Chat. Do not share passwords on Slack.
+
+If you already have an encrypted file, drag and drop it into the box below,
+enter the password for the file and click "decrypt."
+
+<div id="password-encryption-container">
+  <div id="drop-zone">drop files here</div>
+  <form>
+    <label>
+      Password:
+      <input id="password" type="text" />
+    </label>
+    <button class="usa-button" role="button" id="encrypt">Encrypt</button>
+    <button class="usa-button" role="button" id="decrypt">Decrypt</button>
+
+    <div class="usa-alert usa-alert--error hidden">
+      <div class="usa-alert__body">
+        <div class="usa-alert__text">
+          There was an error.
+        </div>
+      </div>
+    </div>
+
+  </form>
+
+  <script type="text/javascript" src="/assets/js/crypto/main.js"></script>
+</div>
+
+---
+
+Alternatively, some file formats have native support for document encryption. If
+you are using a Mac, you can follow the linked instructions to password-protect
+these file types:
 
 - [PDF](https://support.apple.com/guide/preview/password-protect-a-pdf-prvw587dd90f/mac)
 - [ZIP](https://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/) (which can
   be a folder full of files)
-
-  - [Information from GSA IT](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/email-with-gmail/how-to-create-fipscompliant-zip-files)
 
 Send the encrypted file and password to the recipient separately, with the
 latter ideally through something ephemeral like a phone call.
