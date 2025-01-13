@@ -169,6 +169,10 @@ enter the password for the file and click "decrypt."
     </label>
     <button class="usa-button" role="button" id="encrypt">Encrypt</button>
     <button class="usa-button" role="button" id="decrypt">Decrypt</button>
+    <div class="working hidden">
+      {% uswds_icon "autorenew" %}
+      working
+    </div>
 
     <div class="usa-alert usa-alert--error hidden">
       <div class="usa-alert__body">

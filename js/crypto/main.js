@@ -24,6 +24,26 @@ const error = (() => {
   };
 })();
 
+const setNotWorking = () => {
+  const container = document.getElementById("password-encryption-container");
+
+  container.querySelector(".working").classList.add("hidden");
+
+  Array.from(container.getElementsByTagName("button")).forEach((button) => {
+    button.removeAttribute("disabled");
+  });
+};
+
+const setWorking = () => {
+  const container = document.getElementById("password-encryption-container");
+
+  container.querySelector(".working").classList.remove("hidden");
+
+  Array.from(container.getElementsByTagName("button")).forEach((button) => {
+    button.setAttribute("disabled", "true");
+  });
+};
+
 const drop = async (e) => {
   // Browser default behavior is to open the file, but we don't want that. We
   // want to actually get our grubby little mitts on that file. (If your mitts
@@ -46,6 +66,8 @@ const drop = async (e) => {
 const encrypt = async (e) => {
   // Don't submit the form. That'd be silly.
   e.preventDefault();
+
+  setWorking();
 
   // Clear any error messages, just in case.
   error();
@@ -72,11 +94,15 @@ const encrypt = async (e) => {
   } else {
     error("No file selected.");
   }
+
+  setNotWorking();
 };
 
 const decrypt = async (e) => {
   // Don't submit the form. That'd be silly.
   e.preventDefault();
+
+  setWorking();
 
   // Clear any error messages, just in case.
   error();

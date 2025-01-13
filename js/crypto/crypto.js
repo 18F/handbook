@@ -7,7 +7,9 @@ const SALT_LENGTH = 16;
 const PBKDF2_PARAMS = {
   name: "PBKDF2",
   hash: "SHA-512",
-  iterations: 100,
+  // 600,000 iterations is recommended by OWASP as of January 2025:
+  // https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#pbkdf2
+  iterations: 600_000,
 };
 
 const deriveKey = async (password, salt) => {
@@ -88,7 +90,7 @@ export const decryptFile = async (file, password) => {
   const salt = fileBuffer.slice(0, SALT_LENGTH);
 
   // The rest of the file is the encrypted content.
-  const encrypted = fileBuffer.slice(16);
+  const encrypted = fileBuffer.slice(SALT_LENGTH);
 
   // Now we can derive the key and IV.
   const { key, iv } = await deriveKey(password, salt);
