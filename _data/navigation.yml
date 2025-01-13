@@ -370,7 +370,7 @@ primary:
                 internal: true
           - text: Enterprise Management Program Management Office
             children:
-              - text: Overivew of EMPMO
+              - text: Overview of EMPMO
                 url: office-of-operations/empmo/
                 internal: true
           - text: Market Development and Partnerships
