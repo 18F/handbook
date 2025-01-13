@@ -131,6 +131,8 @@ const decrypt = async (e) => {
   } else {
     error("No file selected.");
   }
+
+  setNotWorking();
 };
 
 const main = () => {
