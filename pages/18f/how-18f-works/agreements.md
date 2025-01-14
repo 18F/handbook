@@ -60,8 +60,7 @@ An IAA is made up of:
   use by product leads:
   [18F SOW templates](https://docs.google.com/spreadsheets/d/11yeM0k6bLKVmvkmN2JM-a26a0S-7QwSwImM7saaV1EY/edit#gid=1280120992),
   [cloud.gov SOW templates](https://docs.google.com/document/d/1wP3n0Gxkt9kIwjkE8UQTDXZ8VcKkHR5blp3vM2qEIro/edit),
-  and
-  [cloud.gov Pages SOW template](https://docs.google.com/document/d/1sJmoGRyLHkk6Khr-HuE-X6ttYh7idIoR/edit).
+  [cloud.gov Pages SOW template](https://docs.google.com/document/d/1Y2gHtpCbEUbasj-IRPuEMZL5fNUfwQF5gCK4CobrVhM/edit).
 
 - [FITARA Review](https://drive.google.com/drive/folders/1mkCzj55hm7f3GRSSUsH9hhlSXkf0-1f9):
   TTS complies with FITARA and follows the
