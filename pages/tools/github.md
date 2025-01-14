@@ -353,7 +353,6 @@ TTS is heavily involved in the following GitHub organizations:
 | [@digital-analytics-program](https://github.com/digital-analytics-program)             | Y                            | Y                                                 |
 | [@digitalgov](https://github.com/digitalgov)                                           | Y                            | Y                                                 |
 | [@eregs](https://github.com/eregs)                                                     | Y                            | N                                                 |
-| [@federalist-users](https://github.com/federalist-users)                               | Y                            | Y                                                 |
 | [@fedramp](https://github.com/fedramp)                                                 | Y                            | Y                                                 |
 | [@fellows-in-innovation](https://github.com/fellows-in-innovation)                     | Y                            | Y                                                 |
 | [@GSA](https://github.com/GSA)                                                         | Y                            | [N](https://github.com/GSA/GitHub-Administration) |
