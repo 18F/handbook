@@ -393,7 +393,7 @@ cSpell: ignore Technica
   To achieve this, they create, discover, connect and share practical solutions
   and products that transform government. The following offices and teams are
   part of Solutions: 10x, Artificial Intelligence Portfolio, Cloud.gov, Data &
-  Analytics Portfolio, Federalist, Identity Program Management Office,
+  Analytics Portfolio, Identity Program Management Office,
   Innovation Portfolio, Login.gov, Public Experience Portfolio (USAGov), Secure
   Cloud Portfolio, Smarter IT Portfolio, and TTS Tech Operations.
 
@@ -437,6 +437,7 @@ cSpell: ignore Technica
 - **WiP** - Work in Progress.
 
 ## More
+
 - [This is 18F's glossary](https://github.com/18F/the-glossary/blob/main/glossary.md)
 - [Here's an additional library of government acronyms](https://github.com/unitedstates/acronym).
 - [This is Login.gov's glossary](https://handbook.login.gov/articles/glossary.html)

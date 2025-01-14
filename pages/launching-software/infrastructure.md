@@ -198,9 +198,9 @@ Thus in order to keep our rates low, it's extremely important to bill
 infrastructure costs, including non-production costs, to agency partners
 wherever possible. If the work you are doing is in support of a project which
 has an inter-agency agreement (IAA), you _must_ register your system with
-[#infrastructure][slack-infrastructure], including the Tock project code and the
-infrastructure tag you will be using, and tag any AWS resources accordingly so
-we can bill these costs to our partner agencies.
+{% slack_channel "infrastructure" "slack-infrastructure" %}, including the Tock
+project code and the infrastructure tag you will be using, and tag any AWS
+resources accordingly so we can bill these costs to our partner agencies.
 
 #### Credentials
 
@@ -304,7 +304,7 @@ However only the TTS infrastructure team has login credentials to our production
 TTS account, and they are only used for debugging and incident management
 purposes. All systems are deployed using a continuous delivery service from
 scripts stored in version control, and registered with
-[#infrastructure][slack-infrastructure].
+{% slack_channel "infrastructure" "slack-infrastructure" %}.
 
 This means:
 
@@ -413,26 +413,26 @@ Use [GSA Pages]({% page "/gsa-pages/" %}) for publishing static sites at GSA. Se
 
 ### Cost
 
-- **Within TTS:** Likely free, but check with ##federalist on Slack with your
-  use case.
-- **External to TTS:** Check out the Federalist website for
-  [pricing](https://federalist.18f.gov/pricing/).
+- **Within TTS:** Likely free, but check with {% slack_channel "cg-pages" %} on
+  Slack with your use case.
+- **External to TTS:** Check out the Cloud.gov Pages website for
+  [pricing](https://cloud.gov/pages/pricing/).
 
 ### ATOs
 
-If you are publishing a new site through Federalist and it's not connecting to
-any APIs or third-party services beyond public API calls from the browser (i.e.
-it's a simple static site), the site is considered part of that system, so **it
-does not require its own ATO**
+If you are publishing a new site through Cloud.gov Pages and it's not connecting
+to any APIs or third-party services beyond public API calls from the browser
+(i.e. it's a simple static site), the site is considered part of that system,
+so **it does not require its own ATO**
 ([source](https://github.com/18F/before-you-ship/issues/95##issuecomment-174011747)).
 _Note: Technically, static site builders are just adding a collection of pages
 in an existing system. Therefore, from an ATO perspective, "sites" created
-through Federalist remain within the security boundary, and thus ATO._
+through Cloud.gov Pages remain within the security boundary, and thus ATO._
 
-To make a new Federalist site public (and covered under the ATO), **see
-[the launch checklist](https://federalist.18f.gov/documentation/launch-checklist/)**.
+To make a new Cloud.gov Pages site public (and covered under the ATO), **see
+[the launch checklist](https://cloud.gov/pages/documentation/before-you-launch/#launch-checklist)**.
 
-### How to check if a site is on Federalist
+### How to check if a site is on cloud.gov Pages
 
 1. Open a Terminal
 1. Run
@@ -441,8 +441,8 @@ To make a new Federalist site public (and covered under the ATO), **see
    curl -Is https://<site>.gov | grep -I x-server
    ```
 
-If it outputs `x-server: Federalist`, it's a Federalist site. Otherwise, it's
-not.
+If it outputs `x-server: Cloud.gov Pages`, it's a Cloud.gov Pages site.
+Otherwise, it's not.
 
 ## Domains
 
@@ -469,7 +469,7 @@ For those that are managed within TTS, see
 
 ### DNSSEC
 
-[cloud.gov (and thus Federalist) do not support DNSSEC.](https://cloud.gov/docs/compliance/domain-standards/##dnssec)
+[cloud.gov (and thus Pages) do not support DNSSEC.](https://cloud.gov/docs/compliance/domain-standards/##dnssec)
 
 For domains owned by TTS that speak HTTP, TTS follows the requirements of
 [OMB M-15-13](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-13.pdf),
@@ -559,7 +559,7 @@ See [the page on monitoring](#monitoring).
 - Automated vuln-scanning in production environment that is fed with
   newly-discovered vulns
 - Enable [HTTPS](#https-certificates) for everything
-- Redirect http to https (automatic with cloud.gov and federalist)
+- Redirect http to https (automatic with cloud.gov and cloud.gov Pages)
 
 ### Load-testing
 
@@ -604,7 +604,7 @@ what [infrastructure](#overview) you're using:
 - If using cloud.gov, obtain through the
   [CDN broker](https://cloud.gov/docs/services/cdn-route/).
 - If using
-  [Federalist](https://federalist-docs.18f.gov/pages/how-federalist-works/custom-urls/##technical-steps-to-set-up-a-new-site),
+  [cloud.gov Pages](https://cloud.gov/pages),
   they are set up automatically.
 - If using
   [TTS-managed infrastructure as a service (IaaS)](#infrastructure-as-a-service-iaas),
@@ -744,7 +744,7 @@ https://github.com/cstate/cstate.
 [Deploy it to Cloud.gov](https://gist.github.com/adborden/55bdc968251a3745ff2f7befbcf71148)
 Deploy it with `cf push <app-name>`
 
-[Deploy it to Federalist](https://federalist.18f.gov) or just host it in your
+[Deploy it to Cloud.gov Pages](https://cloud.gov/pages) or just host it in your
 app or in an s3 bucket (or alike).
 
 ##### Open Source alternatives (self-hosted):
