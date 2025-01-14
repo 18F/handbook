@@ -198,9 +198,9 @@ Thus in order to keep our rates low, it's extremely important to bill
 infrastructure costs, including non-production costs, to agency partners
 wherever possible. If the work you are doing is in support of a project which
 has an inter-agency agreement (IAA), you _must_ register your system with
-[#infrastructure][slack-infrastructure], including the Tock project code and the
-infrastructure tag you will be using, and tag any AWS resources accordingly so
-we can bill these costs to our partner agencies.
+{% slack_channel "infrastructure" "slack-infrastructure" %}, including the Tock
+project code and the infrastructure tag you will be using, and tag any AWS
+resources accordingly so we can bill these costs to our partner agencies.
 
 #### Credentials
 
@@ -304,7 +304,7 @@ However only the TTS infrastructure team has login credentials to our production
 TTS account, and they are only used for debugging and incident management
 purposes. All systems are deployed using a continuous delivery service from
 scripts stored in version control, and registered with
-[#infrastructure][slack-infrastructure].
+{% slack_channel "infrastructure" "slack-infrastructure" %}.
 
 This means:
 
