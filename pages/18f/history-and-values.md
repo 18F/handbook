@@ -33,7 +33,7 @@ delivery team.
   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
 - 2015: 18F joins [TTS Solutions]({% page "/office-of-solutions/" %}).
 - 2016: 18F creates [login.gov](https://login.gov) and
-  [cloud.gov Pages](https://federalist.18f.gov/)
+  [cloud.gov Pages](https://cloud.gov/pages/), previously called "Federalist."
 - 2016: 18F gets procurement authority.
 - 2019: 18F gets assisted acquisition authority.
 

@@ -201,7 +201,7 @@ including:
 
 - [Cloud.gov](https://cloud.gov/): a Platform as a Service built specifically
   for government work. Created by 18F in 2015.
-- [Federalist](https://federalist.18f.gov/): a publishing platform for modern
+- [Cloud.gov Pages](https://cloud.gov/pages): a publishing platform for modern
   government websites. Created by 18F in 2015.
 - [Login.gov](https://login.gov/): a shared service that provides secure and
   private online access to participating government programs. Launched by 18F
