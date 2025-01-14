@@ -47,7 +47,7 @@ Find us on Slack:
 - [18F Overview](https://18f.gsa.gov/)
 - [Cloud.gov Overview](https://cloud.gov/)
 - [Login.gov Overview](https://login.gov/)
-- [Federalist](https://federalist.18f.gov/)
+- [cloud.gov Pages](https://cloud.gov/pages/)
 - [AP Relationship Tracker Trello](https://trello.com/b/b1xsDX88/ap-relationship-tracker) -
   private to 18F staff
 - [18F Projects Tracker Trello](https://trello.com/b/kZ7PUggv/18f-projects-tracker) -
