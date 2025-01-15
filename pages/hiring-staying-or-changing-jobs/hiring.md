@@ -12,7 +12,7 @@ This page contains links to all TTS hiring resources.
 
 ## TTS Open Positions
 
-The \[TTSJobs Handbook page]({% page "/ttsjobs" %}) lists all open hiring
+The [TTSJobs Handbook page](https://tts.gsa.gov/join/) lists all open hiring
 actions across TTS.
 
 ## TTS Hiring Managers Guide
