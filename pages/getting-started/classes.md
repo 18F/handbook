@@ -55,8 +55,7 @@ topics.
 - [Our values and principles at
   TTS]({% page "/getting-started/classes/#our-values-and-principles-at-tts" %})
 - [How we work]({% page "/getting-started/classes/#how-we-work" %})
-- [TTS products and service
-  offerings]({% page "/getting-started/classes/#tts-products-and-service-offerings" %})
+- [TTS products]({% page "/getting-started/classes/#tts-products" %})
 - [TTS resources and
   operations]({% page "/getting-started/classes/#tts-resources-and-operations" %})
 - [TTS leadership]({% page "/getting-started/classes/#tts-leadership" %})
