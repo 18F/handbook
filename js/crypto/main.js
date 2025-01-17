@@ -24,24 +24,36 @@ const error = (() => {
   };
 })();
 
+const enableButtons = () => {
+  const container = document.getElementById("password-encryption-container");
+  Array.from(container.querySelectorAll("button.disableable")).forEach(
+    (button) => {
+      button.removeAttribute("disabled");
+    }
+  );
+};
+
+const disableButtons = () => {
+  const container = document.getElementById("password-encryption-container");
+  Array.from(container.querySelectorAll("button.disableable")).forEach(
+    (button) => {
+      button.setAttribute("disabled", true);
+    }
+  );
+};
+
 const setNotWorking = () => {
   const container = document.getElementById("password-encryption-container");
 
   container.querySelector(".working").classList.add("hidden");
-
-  Array.from(container.getElementsByTagName("button")).forEach((button) => {
-    button.removeAttribute("disabled");
-  });
+  enableButtons();
 };
 
 const setWorking = () => {
   const container = document.getElementById("password-encryption-container");
 
   container.querySelector(".working").classList.remove("hidden");
-
-  Array.from(container.getElementsByTagName("button")).forEach((button) => {
-    button.setAttribute("disabled", "true");
-  });
+  disableButtons();
 };
 
 const drop = async (e) => {
@@ -75,7 +87,7 @@ const encrypt = async (e) => {
   const password = document.getElementById("password").value;
 
   // Only proceed if there is a password and a file.
-  if (password.length > 0 && file) {
+  if (password.length > 15 && file) {
     try {
       // Get the encrypted file.
       const cipher = await encryptFile(file, password);
@@ -89,6 +101,8 @@ const encrypt = async (e) => {
     } catch (_) {
       error("There was an error encrypting this file");
     }
+  } else if (password.length < 16) {
+    error("Your password must be at least 16 characters.");
   } else if (password.length === 0) {
     error("You must enter a password to encrypt a file.");
   } else {
@@ -135,10 +149,59 @@ const decrypt = async (e) => {
   setNotWorking();
 };
 
+const toggleShowPassword = (e) => {
+  e.preventDefault();
+
+  const password = document.getElementById("password");
+  const label = document.querySelector("form label button#password-toggle");
+
+  if (password.getAttribute("type") === "password") {
+    password.setAttribute("type", "text");
+    label.innerText = "hide password";
+  } else {
+    password.setAttribute("type", "password");
+    label.innerText = "show password";
+  }
+};
+
+const validatePassword = (e) => {
+  const length = e?.target?.value?.length ?? 0;
+  if (length > 15) {
+    enableButtons();
+  } else {
+    disableButtons();
+  }
+};
+
+const randomPassword = (e) => {
+  e.preventDefault();
+
+  const password = crypto
+    .getRandomValues(new Uint8Array(24))
+    .toBase64()
+    .slice(0, 24);
+
+  document.getElementById("password").value = password;
+  validatePassword({ target: { value: password } });
+};
+
 const main = () => {
   // Make sure we have an encryption container before we do anything else.
   if (document.getElementById("password-encryption-container")) {
     const dropZone = document.getElementById("drop-zone");
+
+    document
+      .getElementById("password")
+      .addEventListener("input", validatePassword);
+
+    // Setup password show/hide behavior.
+    document
+      .querySelector("form label button#password-toggle")
+      .addEventListener("click", toggleShowPassword);
+
+    document
+      .getElementById("random-password")
+      .addEventListener("click", randomPassword);
 
     // Disable the browser's default drag behavior and hook up a "drop" handler
     // for when files are dropped on our box.
@@ -148,6 +211,8 @@ const main = () => {
     // Hook up the encrypt and decrypt buttons.
     document.getElementById("encrypt").addEventListener("click", encrypt);
     document.getElementById("decrypt").addEventListener("click", decrypt);
+
+    disableButtons();
   }
 };
 

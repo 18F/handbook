@@ -165,10 +165,12 @@ enter the password for the file and click "decrypt."
   <form>
     <label>
       Password:
-      <input id="password" type="text" />
+      <input id="password" type="password" />
+      <button class="usa-button" role="button" id="password-toggle">show password</a>
+      <button class="usa-button" role="button" id="random-password">Random password</button>
     </label>
-    <button class="usa-button" role="button" id="encrypt">Encrypt</button>
-    <button class="usa-button" role="button" id="decrypt">Decrypt</button>
+    <button class="usa-button disableable" role="button" id="encrypt">Encrypt</button>
+    <button class="usa-button disableable" role="button" id="decrypt">Decrypt</button>
     <div class="working hidden">
       {% uswds_icon "autorenew" %}
       working
