@@ -18,7 +18,7 @@ behalf of TTS. They achieve this authority by obtaining a warrant, which proves
 they have met certain training, education, experience, and certification
 requirements. As an underlying condition of their warrant, all warranted CO’s
 are required to attain and maintain the appropriate
-[FAC-C certification](https://www.fai.gov/drupal/certification/contracting-fac-c#Cert).
+[FAC-C certification](https://www.fai.gov/certification/fac-c).
 Responsibilities may include but are not limited to:
 
 - Serving as the final decision-maker for all contractual matters.
@@ -71,7 +71,7 @@ Responsibilities may include but are not limited to:
 The COR serves as the contracting officer’s “eyes and ears.” They monitor
 contractor performance to ensure the contract’s articulated outcomes are being
 achieved. A COR is responsible for attaining and maintaining required
-[FAC-COR](https://www.fai.gov/drupal/certification/fac-cor) certifications.
+[FAC-COR](https://www.fai.gov/certification/fac-cor) certifications.
 Resources and guides to help the COR fulfill their duties can be found
 [here](https://drive.google.com/drive/folders/1tSIiw6Jgfpx1OATIBKSXhQf90st1raeQ).
 The employee can serve as either a term appointee or career employee of GSA.
