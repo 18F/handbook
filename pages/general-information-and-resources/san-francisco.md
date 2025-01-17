@@ -43,7 +43,7 @@ cSpell: ignore Lyvette,McAllister
       <tr>
         <td class="col-key"><strong>Region</strong></td>
         <td class="col-value">
-            Pacific Rim Region (<a href="https://www.gsa.gov/about-us/regions/welcome-to-the-pacific-rim-region-9">region 9</a>)
+            Pacific Rim Region (<a href="https://www.gsa.gov/about-us/gsa-regions/region-9-pacific-rim">region 9</a>)
         </td>
       </tr>
       <tr>
@@ -58,7 +58,7 @@ cSpell: ignore Lyvette,McAllister
 
 ## The building
 
-[50 UN Plaza](https://www.gsa.gov/portal/category/107031) is on historic Market
+[50 UN Plaza](https://www.gsa.gov/about-us/gsa-regions/region-9-pacific-rim/buildings-and-facilities/california/50-united-nations-plaza-federal-office-building) is on historic Market
 Street between 6th and 7th streets, in the Civic Center neighborhood. The Bay
 Area Rapid Transit authority (BART) and MUNI both have underground stops at this
 location, and the historic F Market streetcar line has two local stops at 6th
@@ -315,7 +315,7 @@ the dead ones for recharging and re-use by another employee.
 ### Cafeteria and snacks
 
 There's a cafeteria located on the first floor, serving breakfast and lunch.
-[Official hours](https://www.gsa.gov/portal/content/200155) (they say they close
+[Official hours](https://www.gsa.gov/about-us/gsa-regions/region-9-pacific-rim/buildings-and-facilities/california/50-united-nations-plaza-federal-office-building) (they say they close
 at 2 pm, but they usually close down around 1:50 pm). The cafeteria has a good
 salad bar.
 
@@ -411,7 +411,7 @@ If you have any questions about this, contact the
 - [50 UN Plaza Building Directory](https://www.gsa.gov/portal/category/107011),
   including additional helpful phone numbers.
 - [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF.
-- [Public Health Clinic](https://www.sfcdcp.org/aitc.html) - 101 Grove St.
+- [Public Health Clinic](https://www.sf.gov/departments/department-public-health) - 101 Grove St.
 - [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
 - [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
 
