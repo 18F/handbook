@@ -124,7 +124,7 @@ pull request from a
 [branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch)
 and not directly in `master` or `main`.
 
-[Introduction to GitHub for Newcomers](https://www.youtube.com/watch?v=uNa9GOtM6NE)
+[Introduction to GitHub for Newcomers](https://www.youtube.com/watch?v=iv8rSLsi1xo&pp=ygUdaW50cm8gdG8gZ2l0aHViIGZvciBuZXcgdXNlcnM%3D)
 is a longer video that will teach you how to file issues and issue pull
 requests.
 
