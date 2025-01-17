@@ -9,7 +9,7 @@ _Please note that this is not official guidance outside of TTS. The following in
 
 _This information is a product of the Voice of the Public (VoP) program, which supports research operations at TTS. Please contact VoP with any questions or feedback on this information at <tts-research@gsa.gov>._
 
-## Context
+## Introduction
 
 Many teams at TTS must conduct small-scale UX/CX research to better understand their users' needs and determine how to better serve them. Often, teams must navigate the PRA ([Paperwork Reduction Act](https://pra.digital.gov/)) during this process.
 
@@ -17,16 +17,18 @@ Fortunately, there is a Fast Track (A-11 Section 280) PRA clearance process that
 
 The goal of this information is to empower teams at TTS to conduct the research they need to deliver excellent digital government products and services by providing the following information on how to easily and efficiently navigate the Fast Track (A-11 Section 280) process.
 
-## How do I determine whether I need PRA clearance for my UX/CX research?
+## Determining whether you need PRA clearance
 
-### You do not need PRA clearance if:
+### Research activities that DO NOT need PRA clearance
+
+#### You do not need PRA clearance if:
 
 - You are **conducting research with federal employees or contractors acting within the scope of their employment**. ([Citation](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/PRAPrimer_04072010.pdf))
 - You are **conducting research with 9 or fewer participants** over a period of 12 months. ([Citation](https://www.ecfr.gov/current/title-5/chapter-III/subchapter-B/part-1320/section-1320.3))
   - This refers to one "instance" of research. For example, if you are conducting interviews, usability testing and a survey during the course of one larger project, each of these activities would each be considered different "instances" of research.
 - You are **gathering information at a public hearing**, meeting or online equivalent. ([Citation](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/PRAPrimer_04072010.pdf))
 
-### Usability testing _does not_ require PRA clearance.
+#### Usability testing _does not_ require PRA clearance.
 
 - **Usability testing is defined as** "asking users to navigate or perform tasks with a paper or digital form or website while observing them in-person or remotely, and engaging with them by asking semi-structured or open-ended questions." ([Citation](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf))
   - Agency staff or contractors may ask "any number of individuals structured, semi-structured, or open-ended questions in conducting usability testing to improve a paper or digital form, website, or service." ([Citation](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf))
@@ -34,7 +36,7 @@ The goal of this information is to empower teams at TTS to conduct the research 
   - [Supporting Usability Testing Through Paperwork Reduction Act Flexibilities](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf) (OIRA guidance)
   - [18F Methods card](https://guides.18f.gov/methods/validate/usability-testing/)
 
-### Additionally, the following research methods do not require PRA clearance:
+#### Additionally, the following research methods do not require PRA clearance:
 
 - **Interviews (unstructured, open-ended)**
   - A wide-spanning set of conversations with participants that does not ask an identically-worded set of questions to every participant and/or asks participants a set of open-ended questions.
@@ -52,7 +54,9 @@ The goal of this information is to empower teams at TTS to conduct the research 
 
 **For more information, please consult the OMB CX Team's page** "[What type of CX research does not require PRA approval?](https://community-dc.max.gov/x/yAYcmQ)". To view this page, click the link and sign in using your PIV card.
 
-### The following methods _do require_ PRA clearance AND _are eligible_ for the Fast Track (A-11 Section 280) process at GSA:
+### Research activities that DO need PRA clearance
+
+#### The following methods _do require_ PRA clearance AND _are eligible_ for the Fast Track (A-11 Section 280) process at GSA:
 
 - **Screener surveys for recruitment**
   - These are forms used to collect information about potential research participants (such as demographic information).
@@ -64,19 +68,19 @@ The goal of this information is to empower teams at TTS to conduct the research 
   - (Close-ended, qualitative) This could include surveys that ask a set of identically worded questions with close-ended responses to participants.
     - Example: [USWDS top tasks research study](https://www.reginfo.gov/public/do/PRAViewIC?ref_nbr=202203-3090-003&icID=258408)
 
-### If your research does not fall into one of these categories covered by [GSA’s generic clearance](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf) (customer research or feedback), it will _not be eligible_ for the Fast Track (A-11 Section 280) process.
+#### If your research does not fall into one of these categories covered by [GSA’s generic clearance](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf) (customer research or feedback), it will _not be eligible_ for the Fast Track (A-11 Section 280) process.
 
 - **Larger-scale research that implies statistical rigor** or relates to the development of surveys, program effectiveness metrics, or outcome measures and program-level decision-making will not be covered by A-11 Section 280.
   - Example: [GSA equity study on remote identity proofing](https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202401-3090-004)
 - **If you think your research likely requires PRA clearance AND is not eligible for the Fast Track (A-11 Section 280) process**, please contact <GSARegSec@gsa.gov> and consult [pra.digital.gov](http://pra.digital.gov) for more information.
 
-### What if I am still unsure whether I need PRA clearance?
+### Getting help determining whether you need PRA clearance
 
-Please consult the Voice of the Public program by emailing <tts-research@gsa.gov> for assistance in determining whether you may or may not need PRA clearance for UX/CX research activities.
+If you are still unsure whether you need PRA clearance, please consult the Voice of the Public program by emailing <tts-research@gsa.gov> for assistance.
 
 You can also view the [OMB CX Team’s Guide to A-11 Umbrella Clearance Process](https://community-dc.max.gov/x/yAYcmQ) for more information, or contact the [OMB CX Team](https://community-dc.max.gov/x/8oRMmQ) to help make this determination. To view either of these pages, click the link and then sign in using your PIV/CAC card (see screenshot below).
 
-## Once I know that I need Fast Track (A-11 Section 280) PRA clearance, how do I get it?
+## How to get Fast Track (A-11 Section 280) PRA clearance
 
 The Fast Track (A-11 Section 280) clearance is specifically designed for research activities that aim to improve the customer experience ([more information here](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf?dg)). Once you have determined that your recruitment or research activities are eligible for this type of PRA clearance, you can follow the steps outlined below to get clearance.
 
@@ -92,7 +96,7 @@ _Note: Additional **OCE review is not required** when using the Fast Track (A-11
 | OMB CX Team          | [OMB](https://www.whitehouse.gov/omb/)                                                                                                                                       | The primary contact for the A-11 Section 280 process. They are responsible for overseeing all information collection requests under the A-11 Generic Information Collection (A-11 Gen IC) Umbrellas. They also work with the assigned OIRA Desk Officer to approve CX research. | [View contact information for the OMB CX Team here.](https://community-dc.max.gov/x/8oRMmQ) (Login with PIV card required.) |
 | GSA PRA Desk Officer | GSA &#124; [RegSec](https://www.gsa.gov/policy-regulations/policy/acquisition-policy/office-of-acquisition-policy/governmentwide-acq-policy/regulatory-secretariat-division) | **Please note that the role of the PRA Desk Officer may differ from agency to agency and this information is specific to GSA.** They are responsible for entering information about PRA clearances into ROCIS, and can offer additional support throughout the process.         | <GSARegSec@gsa.gov>                                                                                                         |
 
-### Fast Track (A-11 Section 280) clearance process overview
+### Overview of the Fast Track clearance process
 
 _A detailed, step-by-step process follows this table._
 
@@ -104,7 +108,7 @@ _A detailed, step-by-step process follows this table._
 | Review                  | 1-2 business days       | OMB CX Team receives Gen IC package, reviews it, and notifies you of decision.                                                                                                                                                                   |
 | Using the PRA clearance | n/a                     | If approved, you are free to proceed with research. If denied, you must repeat the process.                                                                                                                                                      |
 
-### Step-by-step process
+### Step-by-step instructions
 
 Follow the steps outlined below to request Fast Track (A-11 Section 280) PRA clearance for your research:
 
