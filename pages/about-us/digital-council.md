@@ -85,7 +85,7 @@ Benefits to our customers and stakeholders:
     ([Public Law 115-336](https://www.congress.gov/bill/115th-congress/house-bill/5759/text)),
     including the website standards
   - OMB guidance (for example,
-    [OMB A-11 Guidance](https://www.performance.gov/cx/a11-280.pdf), Section
+    [OMB A-11 Guidance](https://www.performance.gov/cx/assets/files/a11-280.pdf), Section
     280 - Managing Customer Experience and Improving Service Delivery)
 - GSA orders and Office of Strategic Communication guidelines
 - Align with GSA initiatives.
