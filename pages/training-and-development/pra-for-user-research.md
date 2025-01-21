@@ -3,6 +3,7 @@ title: PRA for User Research
 keywords: pra, research
 redirect_from:
   - /pra-for-user-research/
+cSpell: ignore Likert,ROCIS
 ---
 
 _Please note that this is not official guidance outside of TTS. The following information and process have been used at TTS to obtain Fast Track (A-11 Section 280) PRA clearance under [GSA's Generic Clearance for Improving GSA's Customer Experience (OMB Circular A-11, Section 280 Implementation)](https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-3090-003) for UX/CX research activities. **If you are outside of GSA, please confirm your own agency processes**._
