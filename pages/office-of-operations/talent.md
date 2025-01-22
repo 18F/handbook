@@ -18,7 +18,7 @@ management, and learning and development opportunities.
 
 ### Our Mission
 
-To cultivate an organization full of highly talented and diverse staff who are
+To cultivate an organization full of highly talented staff who are
 provided the opportunity to deliver high impact public service.
 
 ### How We Work
@@ -30,7 +30,6 @@ output, it is determined by the whole team delivering on the mission.
 ### Team Values
 
 - Attentiveness
-- Inclusion
 - Empathy
 - User-Centric, Iterative and Agile
 - Measurable & data driven
@@ -38,40 +37,32 @@ output, it is determined by the whole team delivering on the mission.
 - Collaboration
 - Strategic Thinking
 
-### FY2021 Key Objectives
+### Key Objectives
 
-1. Attract and hire well-qualified candidates who reflect the diversity of the
-   general public
+1. Attract and hire well-qualified candidates 
 2. Strategically partner with leadership to understand and advise on the people
    needs of the organization
 3. Use data to make well informed decisions about the recruitment and onboarding
    process
 4. Foster relationships internally and externally
 
-### Our Commitment to DE&I
 
-We acknowledge that we can do better as a team and as an organization when it
-comes to attracting and hiring talent from underrepresented backgrounds. In
-Summer 2020, we launched a
-[MVP for Improving Diversity, Equity and Inclusion](https://docs.google.com/document/d/1E1F84W8werC12RVdLp4-8OLZFgI0d2sVDIo7SYe3Z_I/edit#)
-in our hiring process. We are committed to continuing to iterate and improve on
-our strategy.
 
 ## Referring a person
 
-Many leads for great candidates come through our current employees. Ideally,
-**these referrals should come directly to Talent rather than to the
+Many leads for great candidates come through our current employees. 
+**These referrals should come directly to Talent rather than to the
 team/managers/supervisors**. We work to keep all mentions of who knows who and
 who recommends who away from the team/managers/supervisors who are involved in
-hiring so they can stay impartial. This helps ensure that candidates make it
+hiring so they can stay impartial and ensure we are following the [Merit Systems Principles](https://www.mspb.gov/msp/meritsystemsprinciples.htm). 
+This helps ensure that candidates make it
 through the process on their own merits.
 
 Once you have submitted a referral, a talent team member will reach out and
 invite the person to our monthly general TTS Info Session. We share information
-about TTS and each BU at the Info Session as well as provide guidance on the
-application process. If we have a specialized Info Session scheduled (i.e. for
-Product or Engineering) we will invite your referral to a role specific Info
-Session if it's applicable. Talent doesn't have individual conversations with
+about all of TTS at the Info Session as well as provide guidance on the
+application process. If we have a role specific Info Session scheduled (i.e. for
+Product or Engineering) we will invite your referral if it's applicable. Talent doesn't have individual conversations with
 referrals.
 
 We accept varying levels of leads including:
