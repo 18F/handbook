@@ -43,11 +43,6 @@ pages/centers-of-excellence/*                                            @18F/co
 ###########################################################################
 # Guilds, working groups, and councils
 ###########################################################################
-pages/about-us/diversity.md                                              @18F/guild-deia
-pages/about-us/code-of-conduct.md                                        @18F/guild-deia
-pages/general-information-and-resources/deia-resources.md                @18F/guild-deia
-pages/general-information-and-resources/inclusive-behaviors.md           @18F/guild-deia
-pages/general-information-and-resources/inclusion-bot.md                 @18F/guild-deia
 pages/about-us/digital-council.md                                        @18F/digital-council
 
 ###########################################################################
