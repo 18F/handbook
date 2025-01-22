@@ -3,10 +3,7 @@ title: TTS Inclusive Event Pillars
 keywords: attend, Attending, speaking, speaker, event, event, conference, conferences, diversity, inclusion
 ---
 
-TTS engages in events to recruit and build awareness about TTS products and
-services. At TTS, the work of diversity, equity, inclusion, and accessibility
-(DEIA) is a collective effort: every employee makes a difference. DEIA should be
-a part of everything we do. These inclusive event pillars are designed to help
+TTS engages in events to recruit and build awareness about TTS products. These inclusive event pillars are designed to help
 TTS:
 
 - Create intentionally inclusive events
