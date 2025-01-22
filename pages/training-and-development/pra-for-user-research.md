@@ -93,7 +93,7 @@ Prior to starting the clearance request process, please contact <tts-research@gs
 
 _Note: Additional OCE review is not required when using the Fast Track (A-11 Section 280) process. You do not need to contact OCE._
 
-| Role | Responsibilities | Contactinformation |
+| Role | Responsibilities | Contact information |
 | -- | -- | -- |
 | Researcher | This is you! You are responsible for documenting your research plans and working with PRA Desk Officers to get the appropriate clearance. | n/a |
 | OMB CX Team | The primary contact for the A-11 Section 280 process. They are responsible for overseeing all information collection requests under the A-11 Generic Information Collection (A-11 Gen IC) Umbrellas. They also work with the assigned OIRA Desk Officer to approve CX research. | [View contact information for the OMB CX Team here.](https://community-dc.max.gov/x/8oRMmQ) (Login with PIV card required.) |
