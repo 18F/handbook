@@ -153,7 +153,7 @@ Follow the steps outlined below to request Fast Track (A-11 Section 280) PRA cle
 
 - If approved, you may proceed with research!
 
-#### 6. Making changes after receiving PRA clearance
+## Making changes after receiving PRA clearance
 
 - You do not need to repeat the approval process if you are making de minimus changes.  
 ([More information](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf)).
