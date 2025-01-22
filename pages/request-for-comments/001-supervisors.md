@@ -76,37 +76,13 @@ upon a subsequent vacancy.
 
 2. _Allow each operational unit to decide for itself_. This alternative exposes
    the organization to all of the risks of the status quo (e.g., inadequate
-   performance management, lack of attention to DEIA goals), without any of the
+   performance management, lack of attention to goals), without any of the
    benefits of consistency, stability, or experience.
-
-## Equity and Inclusion
-
-Creating a permanent supervisory cohort presents two unique risks and several
-advantages for diversity, equity, inclusion, and accessibility (DEIA) goals.
-
-First, if we hire permanent supervisors and fail to evaluate their commitment to
-DEIA, it can embed a culture that does not embrace DEIA goals. Second,
-permanence limits the number of opportunities for career growth for _all_
-individuals in the organization, which creates a premium on leadership
-development.
-
-Nevertheless, a permanent supervisory cohort also presents unique opportunities
-for DEIA goals. First, if we are intentional about evaluating and measuring
-supervisors' commitment to DEIA, we are more likely to embed DEIA goals across
-the entire organization. Second, by investing in training for a permanent
-supervisory cohort, we can level up TTS's commitment to currently under-supported
-efforts (e.g., reasonable accommodations or sponsorship). Third, by reducing the
-_churn_ associated with supervisory roles, there is greater opportunity to
-clarify career progression opportunities, which benefits all TTS employees but
-minimizes inequity associated with a lack of transparency or accountability.
-
-Ultimately, a permanent supervisory cohort presents risks and opportunities that
-must be intentionally managed and considered to promote DEIA goals.
 
 ## Premortem / Review
 
 The hypothesis of this RFC is that a permanent supervisory cohort will lead to
-improved employee satisfaction and development, improved DEIA outcomes, and less
+improved employee satisfaction and development, improved outcomes, and less
 uncertainty around career growth opportunities in the organization.
 
 To measure these goals, TTS should examine results from the FEVS (for career
