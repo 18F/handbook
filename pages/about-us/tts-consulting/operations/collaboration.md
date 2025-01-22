@@ -3,7 +3,7 @@ title: How we collaborate
 cspell: ignore facemute
 ---
 
-As a remote organization, TTSC relies on various practices and tools to enable positive and productive collaboration. These help us get to know each other, foster community, and support respectful and inclusive collaboration.
+TTSC relies on various practices and tools to enable positive and productive collaboration. These help us get to know each other, foster community, and support respectful and inclusive collaboration.
 
 ## Virtual coffees
 
@@ -48,7 +48,7 @@ With those things in mind, please:
 
 
 ### Be kind
-- Since we’re remote-first, Slack is a critical part of our culture. It’s one of the primary ways you’ll interact with your coworkers.
+- Slack is a critical part of our culture. It’s one of the primary ways you’ll interact with your coworkers.
   - In TTS, this interaction is often through reaction emoji (“reactji”). Take as much care with these as you would with a written response, and be mindful that in-jokes and past references aren’t universally understood.
 - Slack is not always the right tool for what you need to do. Constructive feedback is best delivered face to face, such as on a video call or in person.
 
