@@ -54,7 +54,7 @@ Many leads for great candidates come through our current employees.
 **These referrals should come directly to Talent rather than to the
 team/managers/supervisors**. We work to keep all mentions of who knows who and
 who recommends who away from the team/managers/supervisors who are involved in
-hiring so they can stay impartial and ensure we are folling the [Merit Systems Principles](https://www.mspb.gov/msp/meritsystemsprinciples.htm). 
+hiring so they can stay impartial and ensure we are following the [Merit Systems Principles](https://www.mspb.gov/msp/meritsystemsprinciples.htm). 
 This helps ensure that candidates make it
 through the process on their own merits.
 
