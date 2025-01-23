@@ -13,8 +13,6 @@ detract from, an inclusive organization.
 
 - The organization’s formal communications (mission statement, strategy, annual
   reports, etc.) reflect a commitment to diversity, equity and inclusion.
-- DEIA are part of the core values of senior leadership, are treated as
-  priorities, and are given enough resources.
 - There are transparent and equitable processes around interviews, hiring,
   promotions, salaries, training approvals, and evaluations. Additionally, there
   are systems in place to regularly re-examine and remove any potential bias in

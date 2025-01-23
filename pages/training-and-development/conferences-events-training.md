@@ -21,18 +21,6 @@ please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov)
 and CC [your team's Outreach
 liaison]({% page "/office-of-operations/outreach/#team" %}).
 
-At TTS, the work of diversity, equity, inclusion, and accessibility (DEIA) is a
-collective effort: every employee makes a difference. DEIA should be a part of
-everything we do. When creating, hosting, or participating in an event, we ask
-that you consider the [TTS Inclusive Event
-Pillars]({% page "/training-and-development/conferences-events-training/tts-inclusive-event-pillars/" %}).
-
-These inclusive event pillars are designed to help TTS:
-
-- Create intentionally inclusive events
-- Share our expectation that TTS employees thoughtfully consider what speaking
-  engagements they accept
-
 For 18F, you can view the
 [18F FY23 Training plan](https://docs.google.com/document/d/1P36Q_RF_78SRLcKcz3O3nuA6Nw-Y6MfRR7NB290M5qI/edit).
 The plan includes strategic development priorities for team-wide trainings and
