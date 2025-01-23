@@ -122,7 +122,7 @@ I propose the following:
       values interview for COE, Login, and 18F, for example. Experienced
       interviewers will conduct these interviews because they have a deep bench
       of experience evaluating candidate responses, specifically around core
-      values and DEIA.
+      values.
 8. Reference checks, to be conducted by the hiring manager, are optional, but
    are _strongly encouraged_.
 9. Selection. If more than one TTS office is interested in hiring the same

@@ -11,9 +11,6 @@ primary:
       - text: Mission, history, and values
         url: about-us/tts-history/
         internal: true
-      - text: Diversity, equity, inclusion, and accessibility
-        url: about-us/deia/
-        internal: true
       - text: Code of conduct
         url: about-us/code-of-conduct/
         internal: true
@@ -224,20 +221,6 @@ primary:
             internal: true
           - text: Records management
             url: records-management/
-            internal: true
-      - text: Diversity, equity, inclusion, and accessibility
-        children:
-          - text: DEIA resources
-            url: general-information-and-resources/deia-resources/
-            internal: true
-          - text: Healthy conflict and constructive feedback
-            url: general-information-and-resources/conflict-feedback-intro/
-            internal: true
-          - text: Inclusive behaviors
-            url: general-information-and-resources/inclusive-behaviors/
-            internal: true
-          - text: Inclusion bot
-            url: general-information-and-resources/inclusion-bot/
             internal: true
       - text: TTS locations
         children:
