@@ -22,8 +22,6 @@ Other important things to know as a new employee:
   - [San Francisco (United Nations Plaza)]({% page "san-francisco/" %})
   - [New York City (One World Trade Center)]({% page "new-york-city/" %})
 
-- **Pronouns:** At TTSC, it’s common for people to include their pronouns when introducing themselves, but it’s not required.
-
 - **Slack:** [Slack]({% page "tools/slack/" %}) is a primary communication space across TTS. 18F uses Slack extensively, whereas CoE has tended to use gChat a bit more. Talk to your team about their preferences. Using Slack at TTS is different from using Slack at other workplaces, so make sure to review the [Slack code of conduct]({% page "about-us/tts-consulting/operations/conduct-and-norms/#interacting-on-slack" %}).
 
 - **Self-care:** The work we do is rewarding, but it’s also challenging and demanding. Setting boundaries around your time and energy will be helpful as you begin to develop your work routine and habits.
