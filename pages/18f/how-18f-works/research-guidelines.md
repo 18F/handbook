@@ -166,7 +166,7 @@ participant, which means that the total cost for a moderated session would be
 about $195 per person.
 
 In 2022, TTS considers $75/hour as a starting point for compensation. Teams
-should consider factors of equity and complexity of the research when
+should consider other factors or complexity of the research when
 determining compensation for participants on their project.
 
 ### How do I actually distribute the compensation to research participants?

@@ -37,7 +37,7 @@ Decide whether the feedback is best delivered asynchronously or face-to-face.
 
 Quick, time-sensitive, or positive feedback can often be delivered well over email and Slack.
 
-However, constructive or complex feedback is typically best done face-to-face. In our remote-first organization, this means over video chat (and sometimes with supporting documentation sent afterward via email). 
+However, constructive or complex feedback is typically best done face-to-face. This might mean over a video call if the person is not in the same office as you (and sometimes with supporting documentation sent afterward via email). 
 
 If you are a supervisor, learn how your direct reports like to receive feedback. Check out the [Getting to Know You 1:1 Questions](https://docs.google.com/document/d/1WVysnJMkLNkmQakjKIxa_v47Ws1RNDh6-iCMG6CsZ4k/edit#heading=h.fjiwnjdg16vj) for inspiration.  
 

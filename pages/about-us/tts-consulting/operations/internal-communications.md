@@ -76,8 +76,6 @@ Slack is a primary communication space across TTS.
 ### Fun stuff
 
 - [Non-project Slack channels list](https://docs.google.com/document/d/1HAcC0qU756AzeZ38iZOlosN98Xeppr2sJ9LXLOx0UbM/edit#heading=h.k48c7a84vrza)
-- [Request a custom emoji]({% page "tools/slack/emoji/#custom-emoji" %})
-
 
 ## Meetings
 

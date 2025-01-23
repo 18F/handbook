@@ -16,7 +16,7 @@ As you work through the onboarding checklist provided to you by TTS People Ops, 
 
 Other important things to know as a new employee:
 
-- **Locations:** TTSC is predominantly remote, with staff spread across many time zones, states, and territories. Sometimes people meet in person at GSA offices in:
+- **Locations:** TTSC has staff spread across many time zones, states, and territories. Sometimes people meet in person at GSA offices in:
   - [Washington, DC (1800 F St NW)]({% page "washington-dc/" %})
   - [Chicago (Kluczynski Federal Building)]({% page "chicago/" %})
   - [San Francisco (United Nations Plaza)]({% page "san-francisco/" %})

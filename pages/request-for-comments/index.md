@@ -19,6 +19,3 @@ approved. They are listed in reverse chronological order.
 
 - [RFC 004 - Cross-TTS Hiring at
   Scale]({% page "/request-for-comments/004-bucket-hiring-approach/" %})
-
-- [RFC 001 - TTS Supervisors should be
-  permanent]({% page "/request-for-comments/001-supervisors/" %})
