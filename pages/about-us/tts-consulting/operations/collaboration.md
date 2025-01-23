@@ -3,7 +3,7 @@ title: How we collaborate
 cspell: ignore facemute
 ---
 
-TTSC relies on various practices and tools to enable positive and productive collaboration. These help us get to know each other, foster community, and support respectful and inclusive collaboration.
+TTSC relies on various practices and tools to enable positive and productive collaboration. These help us get to know each other, foster community, and support respectful collaboration.
 
 ## Virtual coffees
 
@@ -15,14 +15,14 @@ Personal READMEs are a way for folks to better get to know each other before we 
 
 ## Guilds and collectives
 
-[TTS’s affinity groups, working groups, and guilds]({% page "/training-and-development/working-groups-and-guilds-101/" %}) formed in the early days of 18F as a way to share best practices and learn from each other. These groups and guilds have expanded and now welcome people from across TTS.
+[TTS’s working groups, and guilds]({% page "/training-and-development/working-groups-and-guilds-101/" %}) formed in the early days of 18F as a way to share best practices and learn from each other. These groups and guilds have expanded and now welcome people from across TTS.
 
 A couple groups particularly focused on TTSC work and practices are:
 
 - Consulting Guild (Join the Slack channel [#g-consulting](https://gsa-tts.slack.com/channels/g-consulting))
 - Project Leadership Collective (Join the Slack channel [#c-18f-project-leadership](https://gsa-tts.slack.com/channels/c-18f-project-leadership))
 
-## Inclusive practices for remote meetings
+## Practices for remote meetings
 
 - Work from a quiet space without much background noise. If you need to discuss sensitive topics, present to partners or stakeholders, or handle personnel issues, make sure you have privacy.
 - Default to using video so colleagues can see your face and gestures. Nonverbal feedback and cues help keep the conversation moving while building empathy and trust. If you do “facemute” (for instance, because you’re eating), turn the video back on when you can. For more about our video conferencing tool, see [meetings and meeting tools]({% page "/meetings-and-meeting-tools/" %}).
