@@ -3,7 +3,7 @@ title: Conduct and norms
 cspell: ignore backchannel, Gchat, backchanneling
 ---
 
-At TTSC, we follow various policies and practices to foster an open and inclusive community. In everything we do as a distributed team, we strive to create a work environment that encourages collaboration — both with our partners and each other.
+At TTSC, we follow various policies and practices. In everything we do, we strive to create a work environment that encourages collaboration — both with our partners and each other.
 
 In general, err on the side of over-communication, such as by asking clarifying questions and restating information to confirm understanding.
 
