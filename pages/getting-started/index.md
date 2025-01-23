@@ -27,9 +27,6 @@ We recognize that there is a plethora of information provided during onboarding.
 
 As a TTS employee, you’ll spend quite a bit of time with the [TTS Handbook]({% page "/" %}). It’s filled with useful information that we update regularly — and you can help update it, too! You’ll learn more when you attend the [Handbook 101 onboarding class]({% page "/getting-started/classes/" %}), and you can join the {% slack_channel "tts-handbook" "Handbook Slack channel" %}.
 
-## Diversity, Equity, Inclusion, Accessibility, & Belonging at TTS
-TTS strives to thoughtfully and intentionally represent the broad American populace we serve. We believe in inclusive design — creating products and environments that are accessible to all people, regardless of age, disability, or other factors. We also strive to be intentional when interacting with one another and with our partners.
-
 ## How we collaborate
 At TTS, collaboration is a part of our culture. Here are the collaboration tools  we use to share ideas and coordinate efforts.
 
