@@ -282,7 +282,7 @@ help organize on-site resources for their area.
 ### Office of Civil Rights
 
 GSA prohibits discrimination in the workplace and the
-[Office of Civil Rights](https://www.gsa.gov/about-us/organization/office-of-civil-rights-overview)
+[Office of Civil Rights](https://www.gsa.gov/reference/civil-rights-programs)
 upholds the agency’s commitment to becoming a model Equal Employment Opportunity
 (EEO) employer.
 
