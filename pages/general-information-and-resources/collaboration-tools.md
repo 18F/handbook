@@ -164,7 +164,7 @@ to try:
 - **IF** not part of partners' daily workflow/practices, **THEN** discuss task
   progress in sprint ceremonies or via email.
 - **IF** blocked by firewall/security issues, **THEN** build a board using
-  whiteboarding or visualization tools like Mural, Google Slides or Powerpoint.
+  whiteboarding or visualization tools like FigJam, Google Slides or Powerpoint.
 
 ### Viewing/scheduling calendars
 
@@ -218,7 +218,7 @@ project such as design principles, research results, or a project roadmap.
 
 ### Remote Whiteboarding
 
-**[Mural]({% page "/tools/mural/" %})** is an online collaborative whiteboard
+**[FigJam]({% page "/tools/FigJam/" %})** is an online collaborative whiteboard
 tool. It allows teams to collectively generate ideas with sticky notes and
 sorting them around as if they were in the same room. You don't need an account
 to participate and you can access the tool from any browser.
@@ -226,15 +226,15 @@ to participate and you can access the tool from any browser.
 <details markdown="block">
 <summary> Compliance and records considerations</summary>
 
-- Mural is hosted on Azure commercial public cloud. It has a GSA ATO but doesn't
+- FigJam is hosted on Azure commercial public cloud. It has a GSA ATO but doesn't
   have a FedRAMP authorization or anything in process.
-- Mural generally wouldn't be used to store “records” but instead to organize
+- FigJam generally wouldn't be used to store “records” but instead to organize
   information for discussion purposes. GSA Records Officer has determined that
   “this product likely creates a number of record types. However, the specific
   types of records created will depend on the context in which this product is
-  used.” As such, be sure to export and archive information from Mural
+  used.” As such, be sure to export and archive information from FigJam
   periodically.
-- Truly low-impact: Mural shouldn't be used to store anything confidential or
+- Truly low-impact: FigJam shouldn't be used to store anything confidential or
   authoritative. Instead, use it for ephemeral organization of information and
   production visualizations. Non-GSA participants are invited to use the service
   anonymously.
