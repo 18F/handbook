@@ -93,8 +93,7 @@ Director represents the chapter on the Senior Management Team of 18F, is
 responsible for the strategic planning of the chapter including hiring approach,
 capacity planning, and expanding the impact of the chapter and engineers’ work.
 The Director guides the work of the Engineering Practices guild (which
-encompasses backend, frontend, and data) and the diversity, equity, and
-inclusion (DE&I) leads to ensure alignment with strategy and each other. The
+encompasses backend, frontend, and data) leads to ensure alignment with strategy and each other. The
 Director has as direct reports the Engineering Supervisors, and acts as mentor,
 coach, and guide to their work. The Director is ultimately responsible for the
 success of the chapter in the context of the 18F mission and organizational
