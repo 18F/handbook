@@ -129,7 +129,7 @@ TTS is greatly appreciative of the multiple sources that we drew from to build
 this Code of Conduct, including:
 
 - [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
-- [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+- [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/about-us/)
 - [Geek Feminism Code of Conduct](https://geekfeminism.org/about/code-of-conduct/)
 
 Laws and Policies Concerning Workplace Harassment:
