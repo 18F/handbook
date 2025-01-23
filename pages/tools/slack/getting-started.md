@@ -81,7 +81,3 @@ Here are a few suggestions for making sure our Slack community stays an awesome,
 - Flag inappropriate messages. Just like our in-person interactions, there are a variety of ways to address issues: you can have a conversation directly with the person; you can discuss with a supervisor, team lead, or project lead; you can reach out to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl).
 - Ask questions in the relevant [channels]({% page "/tools/slack/guidelines/" %}), and engage when people respond to you. If someone you pinged directly hasn’t responded within a few days, you may want to try contacting them using a  different type of communication (email, Gchat, put time on their calendar).
 - If you are unsure or unclear about any of the recommendations above, please reach out to your supervisor for assistance. 
-
-### Inclusion Bot
-
-Inclusion Bot is integrated into Slack and passively listens for words or phrases that have racist, sexist, ableist, or otherwise exclusionary or discriminatory histories or backgrounds. When it hears those words, it privately lets the writer know and offers some suggested alternatives. You can read the [Inclusion Bot Handbook page]({% page "/general-information-and-resources/inclusion-bot/" %}) for more information.
