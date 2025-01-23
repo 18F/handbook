@@ -72,7 +72,7 @@ utilizing the GSA network. Please note, only approved smartphones and tablets
 can be connected to the GSA network. Personal laptops cannot be connected
 directly to the GSA network at any GSA facility. For more information, please
 reference Section 4.2 of the
-[IT Security Procedural Guide](https://www.gsa.gov/cdnstatic/Securing_Mobile_Devices_and_Applications_%5BCIO_IT_Security_12-67_Rev_4%5D_01-26-2018.pdf#page=11).
+[IT Security Procedural Guide](https://www.gsa.gov/policy-regulations/policy/information-technology-policy/it-security-procedural-guides).
 
 For users who work on a FISMA system that wish to use their personal
 laptop/computer (at a non-GSA facility), the assigned ISSO/ISSM for the
