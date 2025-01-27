@@ -139,5 +139,5 @@ review will also start during the Micropurchase request process.
 - [GitHub integrations]({% page "/tools/github/#rules" %})
 - [Google Cloud / G Suite services, including APIs](https://docs.google.com/spreadsheets/d/1h0338doPlHIfslS7Huypzs7TlJTFVw_-98oPnum0Cvo/edit#gid=467863101)
 - [Slack integrations]({% page "/tools/slack/integrations/" %})
-- [GSA Information Technology (IT) Standards Profile](<https://www.gsa.gov/directive/gsa-information-technology-(it)-standards-profile>)
+- [GSA Information Technology (IT) Standards Profile](https://www.gsa.gov/directives-library/gsa-information-technology-it-standards-profile#:~:text=The%20IT%20Standards%20Profile%20is,at%20ea.gsa.gov.)
 - [GSA IT Security Policies](https://www.gsa.gov/policy-regulations/policy/information-integrity-and-access/gsa-it-security-policies)
