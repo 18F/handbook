@@ -1,8 +1,5 @@
 ---
 title: Inclusive Behaviors
-questions:
-  - g-diversity
-  - g-accessibility
 ---
 
 We believe there are four sources of inclusiveness at every organization, and we
