@@ -472,7 +472,7 @@ For those that are managed within TTS, see
 [cloud.gov (and thus Pages) do not support DNSSEC.](https://cloud.gov/docs/compliance/domain-standards/##dnssec)
 
 For domains owned by TTS that speak HTTP, TTS follows the requirements of
-[OMB M-15-13](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2015/m-15-13.pdf),
+[OMB M-15-13](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2015/m-15-13.pdf),
 including [HTTP Strict Transport Security](https://https.cio.gov/hsts/) and the
 recommended additional step of
 [HSTS preloading](https://https.cio.gov/hsts/##hsts-preloading).

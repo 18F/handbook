@@ -34,7 +34,7 @@ cSpell: ignore Heppner,Buren,chitown
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="https://www.gsa.gov/portal/content/101886">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building.<br /><br />
+           230 S Dearborn, on the corner of Jackson and Dearborn streets, is also known as the <a href="https://www.gsa.gov/about-us/gsa-regions/region-5-great-lakes/buildings-and-facilities/illinois/chicago-kluczynski-fb-loop-uspo">John C. Kluzinscki Federal building</a>, or <em>JCK</em>. It is right between the famous <a href="https://en.wikipedia.org/wiki/Flamingo_(sculpture)">Calder Flamingo sculpture</a> and the historic Monadnock Building.<br /><br />
        TTS uses space on the 35th floor. The keycode is pinned in #chitown.
         </td>
       </tr>

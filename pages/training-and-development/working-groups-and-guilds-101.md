@@ -335,5 +335,5 @@ Don't say:
 
 We also avoid giving an unfair advantage to someone involved in a bid in
 progress with GSA. To avoid any ethical or legal conflict, please check with the
-[Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-general-counsel-overview)
+[Office of General Counsel](https://www.gsa.gov/about-us/organization/office-of-the-general-counsel-overview)
 before booking a speaker.

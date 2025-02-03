@@ -129,15 +129,15 @@ TTS is greatly appreciative of the multiple sources that we drew from to build
 this Code of Conduct, including:
 
 - [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
-- [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
+- [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/about-us/)
 - [Geek Feminism Code of Conduct](https://geekfeminism.org/about/code-of-conduct/)
 
 Laws and Policies Concerning Workplace Harassment:
 
 - [GSA&#39;s Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08/CC047930_%20directive_ADM%202325.8A,%20GSA%20Policy%20Statement%20on%20Harassment.pdf)
-- [Laws enforced by the Equal Employment Opportunity Commission](https://www.eeoc.gov/laws/statutes/index.cfm)
-- [Types of Discrimination prohibited by law](https://www.eeoc.gov/laws/types/)
-- [New and proposed regulations](https://www.eeoc.gov/laws/regulations/index.cfm)
+- [Laws enforced by the Equal Employment Opportunity Commission](https://www.eeoc.gov/eeoc-legal-resources)
+- [Types of Discrimination prohibited by law](https://www.eeoc.gov/prohibited-employment-policiespractices)
+- [New and proposed regulations](https://www.eeoc.gov/regulatory-process-proposed-rules-final-rules-and-regulatory-agenda)
 
 ## Version
 

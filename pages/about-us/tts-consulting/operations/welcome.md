@@ -16,13 +16,11 @@ As you work through the onboarding checklist provided to you by TTS People Ops, 
 
 Other important things to know as a new employee:
 
-- **Locations:** TTSC is predominantly remote, with staff spread across many time zones, states, and territories. Sometimes people meet in person at GSA offices in:
+- **Locations:** TTSC has staff spread across many time zones, states, and territories. Sometimes people meet in person at GSA offices in:
   - [Washington, DC (1800 F St NW)]({% page "washington-dc/" %})
   - [Chicago (Kluczynski Federal Building)]({% page "chicago/" %})
   - [San Francisco (United Nations Plaza)]({% page "san-francisco/" %})
   - [New York City (One World Trade Center)]({% page "new-york-city/" %})
-
-- **Pronouns:** At TTSC, it’s common for people to include their pronouns when introducing themselves, but it’s not required.
 
 - **Slack:** [Slack]({% page "tools/slack/" %}) is a primary communication space across TTS. 18F uses Slack extensively, whereas CoE has tended to use gChat a bit more. Talk to your team about their preferences. Using Slack at TTS is different from using Slack at other workplaces, so make sure to review the [Slack code of conduct]({% page "about-us/tts-consulting/operations/conduct-and-norms/#interacting-on-slack" %}).
 

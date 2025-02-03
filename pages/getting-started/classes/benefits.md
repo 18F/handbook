@@ -346,7 +346,7 @@ We are paid biweekly. You’ll receive your first paycheck about three weeks aft
 your start date. This is because every TTS employee starts work at the beginning
 of a pay period. It takes a week after the end of a pay period for a direct
 deposit to be made. See the
-[GSA Payroll Calendar](https://www.gsa.gov/portal/content/102507) to determine
+[GSA Payroll Calendar](https://www.gsa.gov/buy-through-us/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars) to determine
 future pay cycles.
 
 Please direct questions to the payroll help desk: **1-844-303-6515** or

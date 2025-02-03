@@ -73,6 +73,9 @@ primary:
       - text: GitHub 101
         url: training-and-development/intro-to-github/
         internal: true
+      - text: PRA for User Research
+        url: training-and-development/pra-for-user-research/
+        internal: true
       - text: Individual development plans
         url: training-and-development/idp/
         internal: true
