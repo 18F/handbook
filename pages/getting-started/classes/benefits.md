@@ -115,8 +115,7 @@ referrals for assistance beyond the six sessions, based on your needs, insurance
 coverage, location, and financial resources.
 
 To access the EAP, you can call them 24/7 at ​​1-800-222-0364 or 888-262-7848
-(TTY). You can also find more information at the
-[EAP website](http://www.foh4you.com/) and the
+(TTY). You can also view EAP materials on the [EAP website](http://www.foh4you.com/). You'll need to click "Enter Site" and log in or register if it's your first time (the registration code can be found on the [GSA InSight page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/worklife-programs/employee-assistance-program?term=eap#:~:text=Use%20registration%20code)). You can also find more information in the 
 [EAP Fact Sheet](https://drive.google.com/file/d/1P6KQ63uPROXZzNw76gi9W2VqMQxlbr1w/view).
 
 ### WorkLife4You
@@ -346,7 +345,7 @@ We are paid biweekly. You’ll receive your first paycheck about three weeks aft
 your start date. This is because every TTS employee starts work at the beginning
 of a pay period. It takes a week after the end of a pay period for a direct
 deposit to be made. See the
-[GSA Payroll Calendar](https://www.gsa.gov/portal/content/102507) to determine
+[GSA Payroll Calendar](https://www.gsa.gov/buy-through-us/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars) to determine
 future pay cycles.
 
 Please direct questions to the payroll help desk: **1-844-303-6515** or
