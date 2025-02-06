@@ -1,8 +1,5 @@
 ---
 title: Inclusive Behaviors
-questions:
-  - g-diversity
-  - g-accessibility
 ---
 
 We believe there are four sources of inclusiveness at every organization, and we
@@ -11,8 +8,6 @@ work to align our organization to these principles.
 **1. Organizational level:** Practices and activities that contribute to, or
 detract from, an inclusive organization.
 
-- The organization’s formal communications (mission statement, strategy, annual
-  reports, etc.) reflect a commitment to diversity, equity and inclusion.
 - There are transparent and equitable processes around interviews, hiring,
   promotions, salaries, training approvals, and evaluations. Additionally, there
   are systems in place to regularly re-examine and remove any potential bias in
@@ -39,8 +34,6 @@ program managers, leads, and/or supervisors.
 - Your manager has challenging conversations when needed and approaches them
   with respect and empathy.
 - Your manager is open to feedback.
-- Your manager demonstrates that they care about diversity, equity, inclusion,
-  and accessibility through words and actions.
 
 **3. Work-group level:** Day-to-day interpersonal relationships and the team
 climate.
