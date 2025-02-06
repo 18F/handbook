@@ -2,7 +2,7 @@
 title: Security incidents
 redirect_from:
   - /security-incidents/
-cSpell: ignore Cofense
+cSpell: ignore Cofense, TTS's
 ---
 
 Something went "bump" in the night (or the day)? This document explains what to
@@ -107,7 +107,7 @@ steps.
 ## What is an incident?
 
 First: it's always OK to err on the side of reporting!
-[TTS](https://www.gsa.gov/portal/category/25729)'s and GSA's incident response
+TTS's and GSA's incident response
 teams are good at their job, and they are totally used to false alarms. You'll
 never get in trouble for pinging them about something that turns out not to be
 an issue! Indeed, _you'll never get in trouble for pinging IR at all_. The most
