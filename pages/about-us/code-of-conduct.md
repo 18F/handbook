@@ -8,10 +8,7 @@ cSpell: ignore neuro
 ## Introduction
 
 TTS is committed to building a safe, welcoming, harassment-free culture for
-everyone. We do not merely want a work environment that is free from hostility;
-we want one that is actively welcoming and inclusive. We want our team and our
-workplace culture to reflect and celebrate the diversity of the communities we
-serve.
+everyone.
 
 This Code of Conduct summarizes federal anti-harassment law and General Services
 Administration policy. We intend the plain-language approach to promote a
@@ -141,5 +138,5 @@ Laws and Policies Concerning Workplace Harassment:
 
 ## Version
 
-Approved May 1, 2018  
+Approved May 1, 2018
 Published May 7, 2018
