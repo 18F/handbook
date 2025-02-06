@@ -177,7 +177,7 @@ colors and rock that undercut. You be you.
 - Ask to be added to the
   [TTS NYC Google Group](https://groups.google.com/a/gsa.gov/g/TTS-nyc).
 - If you are an NYC resident, confirm that
-  [local tax](https://www.tax.ny.gov/pit/file/tax_tables.htm) is being withheld
+  [local tax](https://www.tax.ny.gov/pit/file/tax-tables/2024.htm) is being withheld
   from [your
   paycheck]({% page "/getting-started/classes/gsa-internal-tools/#employee-express" %}).
   - If not, contact kc-payroll.finance@gsa.gov

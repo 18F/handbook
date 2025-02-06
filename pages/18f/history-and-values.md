@@ -103,7 +103,7 @@ grew 10x in the following 18 months! :bow: to
 channels for funding our work:
 
 GSA funds 18F through the
-[Acquisition Services Fund](https://www.gsa.gov/portal/content/182815) (ASF),
+[Acquisition Services Fund](https://www.gsa.gov/reference/reports/budget-and-performance/annual-reports/2021-agency-financial-report/managements-discussion-and-analysis/analysis-of-financial-statement-and-stewardship-info/acquisition-services-fund) (ASF),
 which allows for investment in the development and delivery of products and
 tools that will be used by other agencies on a reimbursable basis.
 

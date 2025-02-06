@@ -42,7 +42,6 @@ editing is restricted. Here's how:
 - You can start a Google Hangout from Slack by typing `/hangout`.
 - You can make and receive free domestic phone calls from within Gmail or Google
   Hangouts. Just create a new number with your GSA account at google.com/voice
-- For accessibility, we encourage using [visual descriptions]({% page "/general-information-and-resources/visual-descriptions-guide/" %}) when you introduce yourself in a Google Meet.
 
 ### Fix audio issues
 

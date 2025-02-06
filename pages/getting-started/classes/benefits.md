@@ -277,11 +277,11 @@ To qualify for
 must sign up within 60 days of joining TTS, after a qualifying life event, or
 during Open Season. Some health insurance plans come with dental coverage, so
 you may not need dental insurance. Read your plan booklet to see what's covered.
-You can sign up for dental coverage on [Benefeds](https://www.benefeds.com/).
+You can sign up for dental coverage on [Benefeds](https://www.benefeds.gov/).
 
 > **Note**: To create your account for Benefeds, you may need to contact their
 > customer service via the phone number listed on their
-> [Contact page](https://www.benefeds.com/contact).
+> [Contact page](https://www.benefeds.gov/contact).
 
 ### Vision
 
@@ -290,15 +290,15 @@ To qualify for
 must sign up within 60 days of joining TTS, after a qualifying life event, or
 during Open Season. Some health insurance plans come with vision coverage, so
 you may not need vision insurance. Read your plan booklet to see what's covered.
-You can sign up for vision coverage on [Benefeds](https://www.benefeds.com/).
+You can sign up for vision coverage on [Benefeds](https://www.benefeds.gov/).
 
 If you have an eye appointment but have yet to receive your card(s), you can
 look up your Vision Care subscriber ID online. To do so, log on to
-[Benefeds](https://www.benefeds.com/).
+[Benefeds](https://www.benefeds.gov/).
 
 > **Note**: To create your account for Benefeds, you may need to contact their
 > customer service via the phone number listed on their
-> [Contact page](https://www.benefeds.com/contact).
+> [Contact page](https://www.benefeds.gov/contact).
 
 ### Filing an insurance complaint
 
@@ -346,7 +346,7 @@ We are paid biweekly. You’ll receive your first paycheck about three weeks aft
 your start date. This is because every TTS employee starts work at the beginning
 of a pay period. It takes a week after the end of a pay period for a direct
 deposit to be made. See the
-[GSA Payroll Calendar](https://www.gsa.gov/portal/content/102507) to determine
+[GSA Payroll Calendar](https://www.gsa.gov/buy-through-us/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars) to determine
 future pay cycles.
 
 Please direct questions to the payroll help desk: **1-844-303-6515** or

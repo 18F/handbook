@@ -312,7 +312,7 @@ water fountains by the bathrooms.
 ### Child care
 
 Here are some
-[local child care facilities](https://www.gsa.gov/portal/content/101942#DC).
+[local child care facilities](https://www.gsa.gov/resources/citizens-and-consumers/child-care-services/find-a-child-care-center-near-you).
 
 ### Gym, lockers, locker rooms
 
