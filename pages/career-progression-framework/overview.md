@@ -11,7 +11,6 @@ TTS develops CPFs in order to support:
 
 - **Career development and planning**: As an employee, what do I need to do if I
   want to advance or change roles?
-- **Equity**: Are our expectations consistent?
 - **Onboarding**: What will I do? What do others on my team do? In TTS?
 - **Performance plans**: What will I be measured on?
 - **Reuse**: Where can I find written information about a role, that I can adapt

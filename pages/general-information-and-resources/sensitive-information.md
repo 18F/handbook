@@ -30,7 +30,7 @@ Here are some
 - roles, policies, and group membership
 - Personally Identifiable Information (PII)
   - See `Releasability of GSA Individual Employee Information` in the
-    [GSA Data Release Policy](https://www.gsa.gov/directive/gsa-data-release-policy)
+    [GSA Data Release Policy](https://www.gsa.gov/directives-library/gsa-data-release-policy-2)
     (commonly referred to as "business card PII") for exceptions
 - payment card industry (PCI) information
 - Controlled Unclassified Information (CUI)
