@@ -14,7 +14,7 @@ _This control document outlines how 18F conducts business._
 
 18F provides digital and digital-related services to federal agencies. 18F is
 funded by the
-[Acquisition Services Fund](https://www.gsa.gov/portal/content/150047), which
+[Acquisition Services Fund](https://www.gsa.gov/reference/reports/budget-and-performance/annual-reports/2021-agency-financial-report/managements-discussion-and-analysis/analysis-of-financial-statement-and-stewardship-info/acquisition-services-fund), which
 requires reimbursement in full. We therefore charge our clients — the federal
 agencies who engage us for project work — for our actual time and material
 costs, plus a fixed overhead amount. To do so, we enter into an [interagency

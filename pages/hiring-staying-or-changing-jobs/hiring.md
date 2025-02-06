@@ -18,8 +18,7 @@ actions across TTS.
 ## TTS Hiring Managers Guide
 
 Hiring managers lead the hiring process for a specific role. They are crucial to
-filling workforce needs within TTS and ensuring that diversity, equity, and
-inclusion are top of mind throughout the hiring process.
+filling workforce needs within TTS and ensuring that [Merit Systems Principles] (https://www.mspb.gov/msp/meritsystemsprinciples.htm) are followed throughout the hiring process.
 
 The
 [Hiring Manager Guide](https://docs.google.com/document/d/1HDZYwc8E5_WepNvj55sqa3gc3W1NkHpd_110mSyD6RQ/edit)
@@ -31,7 +30,7 @@ through the Hiring Process laid out below.
 
 Interviewers play a fundamental role in vetting incoming talent, as well as
 creating a positive experience for our candidates. Moreover, they are critical
-in ensuring a fair and equitable hiring experience.
+in ensuring Merit Systems Principles are being followed.
 
 Below are some resources that cover expectations around interviews, best
 practices for remote interviewing and Slack usage, and tips for recognizing and
@@ -39,7 +38,7 @@ correcting for unconscious bias.
 
 - [TTS Interview Prep Session slides](https://docs.google.com/presentation/d/17ZNmfN40kPOUlF5e6Xix7UlUH02gKQAkY23MhQusPxw/edit#slide=id.p1)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
-- [Fair & Equitable Hiring Practices](https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/fair-and-equitable-hiring-practices)
+- [Merit Systems Principles Hiring Practices](https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/fair-and-equitable-hiring-practices)
 
 ## Promotions
 

@@ -639,7 +639,7 @@ Upon selecting the **Local voucher** option, you will be taken to a blank
 
 Proceed on to [entering your expenses](#how-to-add-edit-or-delete-expenses).
 Note that any local transit over $25 requires a receipt, and all expenses
-claimed on a miscellaneous voucher require receipts.
+claimed on a miscellaneous voucher require receipts. The payment method for all local and miscellaneous vouchers is CASH. Do not use your travel card.
 
 #### How to add, edit or delete expenses
 

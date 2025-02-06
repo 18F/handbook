@@ -66,31 +66,23 @@ offices:
 
 ## What Success Looks Like
 
-- **Enjoying Work**  
+- **Enjoying Work**
   We make it possible for the public and public servants to enjoy working with
   government technology and technologists.
 
-- **Looking Ahead**  
+- **Looking Ahead**
   We use technology to help solve the government’s biggest challenges of our
   time, and look ahead to the challenges of tomorrow.
 
-- **Mindfulness**  
-  We design and operate from a foundation of diversity, equity, inclusion,
-  accessibility, justice, and belonging in all things we do.
-
-- **Continuous Improvement**  
+- **Continuous Improvement**
   TTS is a place where people feel psychologically safe, can make a positive
   impact on society, and are better for their time spent here.
 
 ## Our values
 
-- **Inclusion**  
-   We put people first and celebrate what brings us together and makes each of us
-  unique to meet the public’s needs.
-
-- **Integrity**  
+- **Integrity**
    We are present, transparent, and honest to enable accessible and trustworthy innovation.
 
-- **Impact**  
+- **Impact**
    We grow together and create lasting change for the good of the public and public
   servants.

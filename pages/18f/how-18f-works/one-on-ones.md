@@ -229,14 +229,6 @@ discussing:
   helping them learn or work on new skills, your weekly 1:1 is a great time to
   check in on goals, discuss progress, provide pointers on direction, etc.
 
-- **Conversations about Diversity and Inclusion**: TTS highly values diversity
-  and inclusion, but talking about these topics can be difficult -- especially
-  for those to whom these are new topics. For example, some people new to TTS
-  are confused by the “guysbot” in Slack, but may not feel comfortable asking
-  about it publicly. Once you’ve spent some time building the relationship,
-  your 1:1 can become an excellent place to talk with people about diversity and
-  inclusion in a friendly, non-judgemental way.
-
 - **Question of the Week**: some managers like to have prepare a “question of
   the week” that they ask in all their 1:1s. Sometimes this can help with the
   “data collection” part of management, or it can just prompt discussion. There
