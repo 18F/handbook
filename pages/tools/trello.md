@@ -2,6 +2,7 @@
 title: Trello
 questions:
   - tts-trello
+  - admins-trello
 redirect_from:
   - /trello/
 ---
@@ -39,7 +40,7 @@ and Kanban to deliver software.
 
 We are limited in the number of Workspace Members we can add. You will be added
 as a Workspace Guest. Most changes to a board will require an Admin. You can
-make requests in [#admins-trello][slack-trello].
+make requests in {% slack_channel "admins-trello" %}.
 
 To be able to see a board, either the board needs to be
 [public](https://help.trello.com/article/789-changing-the-visibility-of-a-board-to-public-private-or-team)
@@ -99,7 +100,7 @@ Power-Ups that _cannot_ be used:
 - [Google Drive](https://trello.com/power-ups/55a5d916446f517774210006)
 
 If you aren't sure or want others reviewed, ask in
-[#admins-trello][slack-trello].
+{% slack_channel "admins-trello" %}.
 
 ### Cloudlock warning
 
@@ -117,5 +118,3 @@ ignored.
   don't add them as members of the Workspace(s).
 - All Workspaces used for work at TTS should exist under the `GSA IT - IDT`
   Enterprise instance.
-
-[slack-trello]{% slack_channel "admins-trello" %}

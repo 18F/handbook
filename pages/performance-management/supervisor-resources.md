@@ -229,11 +229,6 @@ vacation) or refuses to do so (i.e. does not agree with the evaluation).
 - [Overriding an employee performance plan approval step-by-step instructions](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.hf3nfjxrhb8h)
 - [Overriding an employee evaluation acknowledgment step-by-step instructions](https://docs.google.com/document/d/1TM7PPr1rSRRdot92uguf_bJJ5HWdAAqKyhcI2BqlCBs/edit#heading=h.u17jlta6re6m)
 
-### Leveraging diversity performance measure
-
-All **supervisory performance plans** must include the “Leveraging Diversity”
-measure. [Guidance on adding this to supervisory plans](https://docs.google.com/document/d/1LPe6rKUze_tA3OfHhRLUfLSQtY4m8d4J3k4OZq2oFcY/edit#heading=h.7ki5n23m5zhy).
-
 ### Acquisition Critical Element
 
 All CORs on active delegation must have the new Acquisition Critical Element on

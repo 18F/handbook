@@ -203,7 +203,7 @@ participation in conversations, to our internal 18F project team. For example:
   use) should be shared strictly on a need-to-know basis in accordance with our
   [participant agreements](https://methods.18f.gov/participant-agreement/) and
   our
-  [privacy impact assessment for design research](https://www.gsa.gov/cdnstatic/20181022%20-%20Design%20Research%20PIA_posted%20version.pdf).
+  [privacy impact assessment for design research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-impact-assessments-pia).
   Be especially careful when sharing recordings/notes collected during
   stakeholder interviews.
 - **Working drafts, in some cases.** For example, if the partner is likely to be

@@ -66,7 +66,6 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 - [GSA IT's Slack administration guide](https://docs.google.com/document/d/1ncHqriv2CnsZQ7brrZ3mlLCK_i-XuvW-kRpXb0fP0t4/edit)
 - [GSA IT's Slack ServiceNow tickets](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4)
 - [Delegation of functionality](https://docs.google.com/a/gsa.gov/document/d/1gDuScce7R6q6NqQPPS3cFe3dZFYO_ZEp60dmuzVDYwg/edit?usp=sharing)
-- [Creating a custom emoji Handbook page]({% page "/tools/slack/emoji/" %})
 
 ## Security
 

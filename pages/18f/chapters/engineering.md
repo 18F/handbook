@@ -93,8 +93,7 @@ Director represents the chapter on the Senior Management Team of 18F, is
 responsible for the strategic planning of the chapter including hiring approach,
 capacity planning, and expanding the impact of the chapter and engineers’ work.
 The Director guides the work of the Engineering Practices guild (which
-encompasses backend, frontend, and data) and the diversity, equity, and
-inclusion (DE&I) leads to ensure alignment with strategy and each other. The
+encompasses backend, frontend, and data) leads to ensure alignment with strategy and each other. The
 Director has as direct reports the Engineering Supervisors, and acts as mentor,
 coach, and guide to their work. The Director is ultimately responsible for the
 success of the chapter in the context of the 18F mission and organizational
@@ -103,16 +102,6 @@ priorities.
 The Director is selected through nominations and interviews. While there is no
 additional compensation for being a director, it’s an opportunity to help make
 team members’ time at 18F great.
-
-### DE&I Leads
-
-The DE&I Leads lead efforts to foster a diverse and inclusive environment for
-engineers. Their mission includes building a strong culture and setting an
-inclusive tone even before a new engineer comes on board. Anyone who has issues
-or concerns related to inclusion or equity in the 18F engineering chapter should
-feel empowered to reach out to the DE&I Leads. If you have access to the TTS
-Slack, you can reach us at @amymok and @alexsoble. You can also reach us by
-email at: eng-dei@gsa.gov.
 
 ### Leadership
 

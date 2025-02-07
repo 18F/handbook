@@ -90,7 +90,7 @@ and update the letters after your last name.
 
 ## Policy links
 
-- [GSA Telework and Remote Work Policy](https://www.gsa.gov/directive/gsa-telework-and-remote-work-policy)
+- [GSA Telework and Remote Work Policy](https://www.gsa.gov/directives-library/gsa-telework-and-remote-work-policy)
 
 ## Questions?
 

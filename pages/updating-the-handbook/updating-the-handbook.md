@@ -47,7 +47,7 @@ There is also some information that should **not** be included in the Handbook:
     somewhere else in a useful format. This includes:
 
     - People's email addresses and phone numbers, even if it is public information. We typically link to group/team email addresses or Slack channels. There is also a public-facing
-      [GSA staff directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory) that you can link to.
+      [GSA staff directory](https://www.gsa.gov/staff-directory) that you can link to.
     - Information that is already well-covered on GSA InSite - link there
       instead of reproducing it.
     - Specific TTS org chart info (such as lists of names of supervisors and

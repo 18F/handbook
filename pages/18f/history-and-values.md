@@ -33,7 +33,7 @@ delivery team.
   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
 - 2015: 18F joins [TTS Solutions]({% page "/office-of-solutions/" %}).
 - 2016: 18F creates [login.gov](https://login.gov) and
-  [cloud.gov Pages](https://federalist.18f.gov/)
+  [cloud.gov Pages](https://cloud.gov/pages/), previously called "Federalist."
 - 2016: 18F gets procurement authority.
 - 2019: 18F gets assisted acquisition authority.
 
@@ -103,7 +103,7 @@ grew 10x in the following 18 months! :bow: to
 channels for funding our work:
 
 GSA funds 18F through the
-[Acquisition Services Fund](https://www.gsa.gov/portal/content/182815) (ASF),
+[Acquisition Services Fund](https://www.gsa.gov/reference/reports/budget-and-performance/annual-reports/2021-agency-financial-report/managements-discussion-and-analysis/analysis-of-financial-statement-and-stewardship-info/acquisition-services-fund) (ASF),
 which allows for investment in the development and delivery of products and
 tools that will be used by other agencies on a reimbursable basis.
 

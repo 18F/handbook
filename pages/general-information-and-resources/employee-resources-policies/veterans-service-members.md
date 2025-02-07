@@ -11,7 +11,7 @@ We are glad you decided to continue your service with TTS.
 There are numerous resources across several agencies for veterans, service members, and their families. This page helps you locate key benefits and resources.
 
 ## Veteran and servicemember federal communities
-- TTS has a Veteran [Affinity Group]({% page "/about-us/deia/#affinity-groups" %}) that gathers in the {% slack_channel "vets" "Vets" %} Slack channel.
+- TTS has a Veterans {% slack_channel "vets" "Vets" %} Slack channel.
 - GSA has a [Veterans Employee Resources Association](https://insite.gsa.gov/about-us/agency-initiatives/veterans-employee-resources-association) (VERA).
 - The [Federal Military Family Workforce Network](https://openopps.usajobs.gov/communities/14) connects military and veteran spouses, caregivers, and survivors with resources for sustainable federal careers. It was created by and for federally employed military family members, and is hosted on OPM’s Open Opportunities platform.
 
