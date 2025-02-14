@@ -7,19 +7,17 @@ cSpell: ignore neuro
 
 ## Introduction
 
-TTS is committed to building a safe, welcoming, harassment-free culture for
-everyone.
+TTS is committed to building a safe, harassment-free environment for everyone.
 
 This Code of Conduct summarizes federal anti-harassment law and General Services
-Administration policy. We intend the plain-language approach to promote a
-culture of inclusion and respect.
+Administration policy. We intend the plain-language approach to foster respect.
 
 We expect everyone on the TTS team to exhibit these behaviors and abide by
 applicable federal laws and GSA policies. In addition, we expect everyone within
 TTS spaces to exhibit these behaviors and refrain from behavior prohibited by
 anti-harassment laws and GSA policies on harassment. These spaces include:
 
-- TTS&#39;s physical offices,
+- TTS's physical offices,
 - TTS events and meetings,
 - All of our online forums and virtual collaboration tools, including:
   - Office chat rooms, like Slack
@@ -29,7 +27,7 @@ anti-harassment laws and GSA policies on harassment. These spaces include:
 
 ## What We Strive For
 
-We strive to create a welcoming and inclusive culture that empowers people to
+We strive to create a positive environment that empowers people to
 provide outstanding public service. That kind of atmosphere requires an open
 exchange of ideas balanced by thoughtful guidelines. If we have only openness,
 colleagues who are on the receiving end of thoughtless or intentionally hurtful
@@ -38,24 +36,24 @@ guidelines, people may feel unwelcome.
 
 It would be impossible to list everything staff can do to create a more
 welcoming space, and we know this team will find ways to include their
-colleagues that we haven&#39;t even thought of. But when in doubt, we encourage
+colleagues that we haven't even thought of. But when in doubt, we encourage
 you to look to these principles for guidance:
 
 - Practice empathy and humility.
 - Assume competence in your colleagues, clients and the public.
 - Assume that everyone we work with is doing their best work for the public.
 - Listen carefully and actively.
-- Ask questions, and seek to understand your partners&#39; context.
+- Ask questions, and seek to understand your partners' context.
 - Encourage other people to listen as much as they speak.
-- Treat other people&#39;s identities and cultures with respect. Make an effort
-  to say people&#39;s names correctly and refer to them by their stated
+- Treat other people's identities and cultures with respect. Make an effort
+  to say people's names correctly and refer to them by their stated
   pronouns.
 
 ## Unacceptable Behavior
 
 To help colleagues understand the kinds of behaviors that are illegal or run
-counter to the culture we seek to foster, we&#39;ve listed below actions that
-violate federal law and GSA policy. We&#39;ve also included steps to take if you
+counter to the culture we seek to foster, we've listed below actions that
+violate federal law and GSA policy. We've also included steps to take if you
 encounter behavior that runs contrary to this policy.
 
 ### Sexual and Non-Sexual Harassment
@@ -87,7 +85,7 @@ The [GSA Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.g
 
 Federal employees can be subject to appropriate discipline, up to and including
 removal, for conduct unbecoming a federal employee, which is conduct which is
-unattractive; unsuitable; detracting from one&#39;s character or reputation; or
+unattractive; unsuitable; detracting from one's character or reputation; or
 creates an unfavorable impression. Abusive and demeaning remarks to and about
 others in the workplace, and sexual remarks, which do not rise to the level of
 sexual harassment under the employment discrimination laws, nonetheless can be
@@ -101,7 +99,7 @@ TTS:
 
 - Touching people without their affirmative consent.
 - Sustained disruption of meetings, talks, or discussions, including chat rooms.
-- Mocking someone&#39;s real or perceived accent or first language.
+- Mocking someone's real or perceived accent or first language.
 - Repeatedly interrupting or talking over other people in meetings and
   discussions.
 - Negative or offensive remarks based on gender expression, mental illness,
@@ -114,8 +112,8 @@ TTS:
 GSA's [Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08%2FCC047930_%20directive_ADM%202325.8A%2C%20GSA%20Policy%20Statement%20on%20Harassment.pdf) and GSA's [Anti-Harassment Procedures in the Workplace](https://www.gsa.gov/directives/files?file=2023-12%2FCC044442_Order_HRM%209700.6%20CHGE%202%20Anti-Harassment%20Procedures%20in%20the%20Workplace%20%284%29.pdf) describe processes for reporting violations. Depending on your complaint, you may have a 45-day
 window from the date of the incident to report it to GSA. Please read the documents carefully.
 
-The behaviors listed in this section undermine the culture of inclusion and
-respect that we are trying to build within TTS. We encourage you to report
+The behaviors listed in this section undermine the respectful environment
+that we are trying to build within TTS. We encourage you to report
 violations to your supervisor, any management official, a Human Resources
 official, and/or the Office of Civil Rights, so that TTS can take any necessary
 steps to ensure that we have a safe and welcoming team.
@@ -131,7 +129,7 @@ this Code of Conduct, including:
 
 Laws and Policies Concerning Workplace Harassment:
 
-- [GSA&#39;s Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08/CC047930_%20directive_ADM%202325.8A,%20GSA%20Policy%20Statement%20on%20Harassment.pdf)
+- [GSA's Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08/CC047930_%20directive_ADM%202325.8A,%20GSA%20Policy%20Statement%20on%20Harassment.pdf)
 - [Laws enforced by the Equal Employment Opportunity Commission](https://www.eeoc.gov/eeoc-legal-resources)
 - [Types of Discrimination prohibited by law](https://www.eeoc.gov/prohibited-employment-policiespractices)
 - [New and proposed regulations](https://www.eeoc.gov/regulatory-process-proposed-rules-final-rules-and-regulatory-agenda)
