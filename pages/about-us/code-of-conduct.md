@@ -45,9 +45,7 @@ you to look to these principles for guidance:
 - Listen carefully and actively.
 - Ask questions, and seek to understand your partners' context.
 - Encourage other people to listen as much as they speak.
-- Treat other people's identities and cultures with respect. Make an effort
-  to say people's names correctly and refer to them by their stated
-  pronouns.
+- Treat other people's identities and cultures with respect. 
 
 ## Unacceptable Behavior
 
