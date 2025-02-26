@@ -9,8 +9,8 @@ cSpell: ignore neuro
 
 TTS is committed to building a safe, harassment-free environment for everyone.
 
-This Code of Conduct summarizes federal anti-harassment law and General Services
-Administration policy. We intend the plain-language approach to foster respect.
+This Code of Conduct summarizes federal anti-harassment laws and General Services
+Administration policies. We intend the plain-language approach to foster respect.
 
 We expect everyone on the TTS team to exhibit these behaviors and abide by
 applicable federal laws and GSA policies. In addition, we expect everyone within
@@ -34,8 +34,7 @@ colleagues who are on the receiving end of thoughtless or intentionally hurtful
 comments and behavior may reasonably withdraw. If we have overly intrusive
 guidelines, people may feel unwelcome.
 
-It would be impossible to list everything staff can do to create a more
-welcoming space, and we know this team will find ways to include their
+It would be impossible to list everything that the staff can do to create a positive work environment, and we know this team will find ways to include their
 colleagues that we haven't even thought of. But when in doubt, we encourage
 you to look to these principles for guidance:
 
@@ -45,13 +44,13 @@ you to look to these principles for guidance:
 - Listen carefully and actively.
 - Ask questions, and seek to understand your partners' context.
 - Encourage other people to listen as much as they speak.
-- Treat other people's identities and cultures with respect. 
+- Treat others with respect. 
 
 ## Unacceptable Behavior
 
 To help colleagues understand the kinds of behaviors that are illegal or run
-counter to the culture we seek to foster, we've listed below actions that
-violate federal law and GSA policy. We've also included steps to take if you
+counter to the work-culture we seek to foster, we've listed below actions that
+violate federal law and GSA policies. We've also included steps to take if you
 encounter behavior that runs contrary to this policy.
 
 ### Sexual and Non-Sexual Harassment
@@ -64,15 +63,11 @@ The [GSA Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.g
   - race,
   - religion,
   - color,
-  - sex (with or without sexual conduct and including pregnancy and sexual
-    orientation involving transgender status/gender identity, and
-    sex-stereotyping)
+  - sex,
   - national origin,
   - age,
   - disability,
   - genetic information,
-  - sexual orientation,
-  - gender identity,
   - parental status,
   - marital status,
   - or political affiliation.
@@ -82,7 +77,7 @@ The [GSA Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.g
 ### Conduct Unbecoming a Federal Employee
 
 Federal employees can be subject to appropriate discipline, up to and including
-removal, for conduct unbecoming a federal employee, which is conduct which is
+removal, for conduct unbecoming a federal employee, which is conduct that is
 unattractive; unsuitable; detracting from one's character or reputation; or
 creates an unfavorable impression. Abusive and demeaning remarks to and about
 others in the workplace, and sexual remarks, which do not rise to the level of
@@ -92,7 +87,7 @@ considered conduct unbecoming a federal employee.
 ### Other Unacceptable Behavior
 
 In addition, the following behaviors violate applicable laws and policies, or
-otherwise undermine the culture of respect and inclusion we seek to build within
+otherwise undermine the work-culture of respect we seek to build within
 TTS:
 
 - Touching people without their affirmative consent.
@@ -110,7 +105,7 @@ TTS:
 GSA's [Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08%2FCC047930_%20directive_ADM%202325.8A%2C%20GSA%20Policy%20Statement%20on%20Harassment.pdf) and GSA's [Anti-Harassment Procedures in the Workplace](https://www.gsa.gov/directives/files?file=2023-12%2FCC044442_Order_HRM%209700.6%20CHGE%202%20Anti-Harassment%20Procedures%20in%20the%20Workplace%20%284%29.pdf) describe processes for reporting violations. Depending on your complaint, you may have a 45-day
 window from the date of the incident to report it to GSA. Please read the documents carefully.
 
-The behaviors listed in this section undermine the respectful environment
+The behaviors listed in this section undermine the positive and respectful environment
 that we are trying to build within TTS. We encourage you to report
 violations to your supervisor, any management official, a Human Resources
 official, and/or the Office of Civil Rights, so that TTS can take any necessary
@@ -123,7 +118,6 @@ this Code of Conduct, including:
 
 - [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
 - [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/about-us/)
-- [Geek Feminism Code of Conduct](https://geekfeminism.org/about/code-of-conduct/)
 
 Laws and Policies Concerning Workplace Harassment:
 
@@ -132,7 +126,3 @@ Laws and Policies Concerning Workplace Harassment:
 - [Types of Discrimination prohibited by law](https://www.eeoc.gov/prohibited-employment-policiespractices)
 - [New and proposed regulations](https://www.eeoc.gov/regulatory-process-proposed-rules-final-rules-and-regulatory-agenda)
 
-## Version
-
-Approved May 1, 2018
-Published May 7, 2018
