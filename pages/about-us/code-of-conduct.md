@@ -7,17 +7,17 @@ cSpell: ignore neuro
 
 ## Introduction
 
-TTS is committed to building a safe, harassment-free environment for everyone.
+TTS is committed to building a safe and harassment-free environment for everyone.
 
 This Code of Conduct summarizes federal anti-harassment laws and General Services
 Administration policies. We intend the plain-language approach to foster respect.
 
 We expect everyone on the TTS team to exhibit these behaviors and abide by
 applicable federal laws and GSA policies. In addition, we expect everyone within
-TTS spaces to exhibit these behaviors and refrain from behavior prohibited by
+TTS spaces to refrain from behavior prohibited by
 anti-harassment laws and GSA policies on harassment. These spaces include:
 
-- TTS's physical offices,
+- TTS physical offices,
 - TTS events and meetings,
 - All of our online forums and virtual collaboration tools, including:
   - Office chat rooms, like Slack
@@ -55,8 +55,7 @@ encounter behavior that runs contrary to this policy.
 
 ### Sexual and Non-Sexual Harassment
 
-The [GSA Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08/CC047930_%20directive_ADM%202325.8A,%20GSA%20Policy%20Statement%20on%20Harassment.pdf)
- forbids:
+[GSA Policy](https://www.gsa.gov/reference) forbids:
 
 - Sexual and non-sexual harassment and misconduct
 - Unwelcome verbal or written comment or physical conduct based on:
@@ -102,13 +101,13 @@ TTS:
 
 ## Reporting violations
 
-GSA's [Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08%2FCC047930_%20directive_ADM%202325.8A%2C%20GSA%20Policy%20Statement%20on%20Harassment.pdf) and GSA's [Anti-Harassment Procedures in the Workplace](https://www.gsa.gov/directives/files?file=2023-12%2FCC044442_Order_HRM%209700.6%20CHGE%202%20Anti-Harassment%20Procedures%20in%20the%20Workplace%20%284%29.pdf) describe processes for reporting violations. Depending on your complaint, you may have a 45-day
+GSA's [Policy Statement on Sexual and Non-Sexual Harassment](https://www.usa.gov/job-discrimination-harassment) and GSA's [Anti-Harassment Procedures in the Workplace](https://www.usa.gov/job-discrimination-harassment) describe processes for reporting violations. Depending on your complaint, you may have a 45-day
 window from the date of the incident to report it to GSA. Please read the documents carefully.
 
 The behaviors listed in this section undermine the positive and respectful environment
 that we are trying to build within TTS. We encourage you to report
 violations to your supervisor, any management official, a Human Resources
-official, and/or the Office of Civil Rights, so that TTS can take any necessary
+official, and/or the [Office of Civil Rights](https://www.gsa.gov/reference/civil-rights-programs), so that TTS can take any necessary
 steps to ensure that we have a safe and welcoming team.
 
 ## Credits
@@ -121,7 +120,6 @@ this Code of Conduct, including:
 
 Laws and Policies Concerning Workplace Harassment:
 
-- [GSA's Policy Statement on Sexual and Non-Sexual Harassment](https://www.gsa.gov/directives/files?file=2023-08/CC047930_%20directive_ADM%202325.8A,%20GSA%20Policy%20Statement%20on%20Harassment.pdf)
 - [Laws enforced by the Equal Employment Opportunity Commission](https://www.eeoc.gov/eeoc-legal-resources)
 - [Types of Discrimination prohibited by law](https://www.eeoc.gov/prohibited-employment-policiespractices)
 - [New and proposed regulations](https://www.eeoc.gov/regulatory-process-proposed-rules-final-rules-and-regulatory-agenda)
