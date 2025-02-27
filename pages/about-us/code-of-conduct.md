@@ -55,7 +55,7 @@ encounter behavior that runs contrary to this policy.
 
 ### Sexual and Non-Sexual Harassment
 
-[GSA Policy](https://www.gsa.gov/reference) forbids:
+[GSA Policies](https://www.gsa.gov/reference) forbids:
 
 - Sexual and non-sexual harassment and misconduct
 - Unwelcome verbal or written comment or physical conduct based on:
@@ -111,12 +111,6 @@ official, and/or the [Office of Civil Rights](https://www.gsa.gov/reference/civi
 steps to ensure that we have a safe and welcoming team.
 
 ## Credits
-
-TTS is greatly appreciative of the multiple sources that we drew from to build
-this Code of Conduct, including:
-
-- [Code for America Code of Conduct](https://github.com/codeforamerica/codeofconduct)
-- [Ada Initiative: HOWTO design a code of conduct for your community](https://adainitiative.org/about-us/)
 
 Laws and Policies Concerning Workplace Harassment:
 
